@@ -1,7 +1,7 @@
 # Marathon Training Plan
 ## 2017-05-14
 |Wk#|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:--|:--|:--|:--|:--|:--|:--|:--|
 |1|![03-13](https://img.shields.io/badge/03--13-rest-brightgreen.svg)|![03-14](https://img.shields.io/badge/03--14-5km-brightgreen.svg)|![03-15](https://img.shields.io/badge/03--15-5km-lightgrey.svg)|![03-16](https://img.shields.io/badge/03--16-5km-lightgrey.svg)|![03-17](https://img.shields.io/badge/03--17-rest-lightgrey.svg)|![03-18](https://img.shields.io/badge/03--18-10km-lightgrey.svg)|![03-19](https://img.shields.io/badge/03--19-train-lightgrey.svg)|
 |2|![03-20](https://img.shields.io/badge/03--20-rest-lightgrey.svg)|![03-21](https://img.shields.io/badge/03--21-5km-lightgrey.svg)|![03-22](https://img.shields.io/badge/03--22-6km-lightgrey.svg)|![03-23](https://img.shields.io/badge/03--23-5km-lightgrey.svg)|![03-24](https://img.shields.io/badge/03--24-rest-lightgrey.svg)|![03-25](https://img.shields.io/badge/03--25-8km-lightgrey.svg)|![03-26](https://img.shields.io/badge/03--26-train-lightgrey.svg)|
 |3|![03-27](https://img.shields.io/badge/03--27-rest-lightgrey.svg)|![03-28](https://img.shields.io/badge/03--28-5km-lightgrey.svg)|![03-29](https://img.shields.io/badge/03--29-8km-lightgrey.svg)|![03-30](https://img.shields.io/badge/03--30-5km-lightgrey.svg)|![03-31](https://img.shields.io/badge/03--31-rest-lightgrey.svg)|![04-01](https://img.shields.io/badge/04--01-15km-lightgrey.svg)|![04-02](https://img.shields.io/badge/04--02-train-lightgrey.svg)|
