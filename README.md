@@ -1,5 +1,5 @@
 # Marathon Training Plan
-## 2017-05-14
+## 2017-05-14 Qinhuangdao Marathon
 |Wk#|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |1|![03-13](https://img.shields.io/badge/03--13-rest-brightgreen.svg)|![03-14](https://img.shields.io/badge/03--14-5km-brightgreen.svg)|![03-15](https://img.shields.io/badge/03--15-5km-lightgrey.svg)|![03-16](https://img.shields.io/badge/03--16-5km-lightgrey.svg)|![03-17](https://img.shields.io/badge/03--17-rest-lightgrey.svg)|![03-18](https://img.shields.io/badge/03--18-10km-lightgrey.svg)|![03-19](https://img.shields.io/badge/03--19-train-lightgrey.svg)|
