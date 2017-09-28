@@ -1,5 +1,13 @@
 # Marathon Training Plan
+
+## 2017 Fall Punch Card
+
+|Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+|:-:|:--|:--|:--|:--|:--|:--|:--|
+|#1|![09-25](https://img.shields.io/badge/09--25-N/A-lightgrey.svg)|![09-26](https://img.shields.io/badge/09--26-N/A-lightgrey.svg)|![09-27](https://img.shields.io/badge/09--27-N/A-lightgrey.svg)|![09-28](https://img.shields.io/badge/09--28-5km-brightgreen.svg)|![09-29](https://img.shields.io/badge/09--29-rest-lightgrey.svg)|![09-30](https://img.shields.io/badge/09--30-5km-lightgrey.svg)|![10-01](https://img.shields.io/badge/10--01-rest-lightgrey.svg)|
+
 ## 2017-05-14 Marathon
+
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
 |#1|![03-13](https://img.shields.io/badge/03--13-rest-brightgreen.svg)|![03-14](https://img.shields.io/badge/03--14-5km-brightgreen.svg)|![03-15](https://img.shields.io/badge/03--15-5km-brightgreen.svg)|![03-16](https://img.shields.io/badge/03--16-5km-brightgreen.svg)|![03-17](https://img.shields.io/badge/03--17-rest-brightgreen.svg)|![03-18](https://img.shields.io/badge/03--18-10km-brightgreen.svg)|![03-19](https://img.shields.io/badge/03--19-rest-brightgreen.svg)|
