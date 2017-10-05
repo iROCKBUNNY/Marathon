@@ -4,7 +4,8 @@
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
-|#1|![09-25](https://img.shields.io/badge/09--25-N/A-lightgrey.svg)|![09-26](https://img.shields.io/badge/09--26-N/A-lightgrey.svg)|![09-27](https://img.shields.io/badge/09--27-N/A-lightgrey.svg)|![09-28](https://img.shields.io/badge/09--28-5km-brightgreen.svg)|![09-29](https://img.shields.io/badge/09--29-rest-brightgreen.svg)|![09-30](https://img.shields.io/badge/09--30-5km-lightgrey.svg)|![10-01](https://img.shields.io/badge/10--01-rest-lightgrey.svg)|
+|#1|![09-25](https://img.shields.io/badge/09--25-N/A-lightgrey.svg)|![09-26](https://img.shields.io/badge/09--26-N/A-lightgrey.svg)|![09-27](https://img.shields.io/badge/09--27-N/A-lightgrey.svg)|![09-28](https://img.shields.io/badge/09--28-5km-brightgreen.svg)|![09-29](https://img.shields.io/badge/09--29-rest-brightgreen.svg)|![09-30](https://img.shields.io/badge/09--30-rest-brightgreen.svg)|![10-01](https://img.shields.io/badge/10--01-rest-brightgreen.svg)|
+|#1|![10-02](https://img.shields.io/badge/10--02-rest-brightgreen.svg)|![10-03](https://img.shields.io/badge/10--03-rest-brightgreen.svg)|![10-04](https://img.shields.io/badge/10--04-5km-brightgreen.svg)|![10-05](https://img.shields.io/badge/10--05-rest-brightgreen.svg)|![10-06](https://img.shields.io/badge/10--06-5km-lightgrey.svg)|![10-07](https://img.shields.io/badge/10--07-rest-lightgrey.svg)|![10-08](https://img.shields.io/badge/10--01-rest-lightgrey.svg)|
 
 ## 2017-05-14 Marathon
 
