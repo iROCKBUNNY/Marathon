@@ -42,7 +42,7 @@
 |#7|![04-18](https://img.shields.io/badge/04--18-rest-brightgreen.svg)|![04-19](https://img.shields.io/badge/04--19-8km-brightgreen.svg)|![04-20](https://img.shields.io/badge/04--20-15km-brightgreen.svg)|![04-21](https://img.shields.io/badge/04--21-8km-brightgreen.svg)|![04-22](https://img.shields.io/badge/04--22-rest-brightgreen.svg)|![04-23](https://img.shields.io/badge/04--23-rest-orange.svg)|![04-24](https://img.shields.io/badge/04--24-rest-brightgreen.svg)|
 |#8|![04-25](https://img.shields.io/badge/04--25-rest-brightgreen.svg)|![04-26](https://img.shields.io/badge/04--26-5km-brightgreen.svg)|![04-27](https://img.shields.io/badge/04--27-rest-orange.svg)|![04-28](https://img.shields.io/badge/04--28-3km-brightgreen.svg)|![04-29](https://img.shields.io/badge/04--29-rest-brightgreen.svg)|![04-30](https://img.shields.io/badge/04--30-rest-brightgreen.svg)|![05-01](https://img.shields.io/badge/05--01-42.195km-brightgreen.svg)|
 
-## Timing Results
+# Timing Results
 
 |Segment|2016-05-01|2017-05-14|2018-05-13|
 |:--|:--|:--|:--|
