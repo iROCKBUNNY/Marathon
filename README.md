@@ -41,3 +41,17 @@
 |#6|![04-11](https://img.shields.io/badge/04--11-rest-brightgreen.svg)|![04-12](https://img.shields.io/badge/04--12-6km-brightgreen.svg)|![04-13](https://img.shields.io/badge/04--13-15km-brightgreen.svg)|![04-14](https://img.shields.io/badge/04--14-8km-brightgreen.svg)|![04-15](https://img.shields.io/badge/04--15-rest-brightgreen.svg)|![04-16](https://img.shields.io/badge/04--16-30km-brightgreen.svg)|![04-17](https://img.shields.io/badge/04--17-rest-brightgreen.svg)|
 |#7|![04-18](https://img.shields.io/badge/04--18-rest-brightgreen.svg)|![04-19](https://img.shields.io/badge/04--19-8km-brightgreen.svg)|![04-20](https://img.shields.io/badge/04--20-15km-brightgreen.svg)|![04-21](https://img.shields.io/badge/04--21-8km-brightgreen.svg)|![04-22](https://img.shields.io/badge/04--22-rest-brightgreen.svg)|![04-23](https://img.shields.io/badge/04--23-rest-orange.svg)|![04-24](https://img.shields.io/badge/04--24-rest-brightgreen.svg)|
 |#8|![04-25](https://img.shields.io/badge/04--25-rest-brightgreen.svg)|![04-26](https://img.shields.io/badge/04--26-5km-brightgreen.svg)|![04-27](https://img.shields.io/badge/04--27-rest-orange.svg)|![04-28](https://img.shields.io/badge/04--28-3km-brightgreen.svg)|![04-29](https://img.shields.io/badge/04--29-rest-brightgreen.svg)|![04-30](https://img.shields.io/badge/04--30-rest-brightgreen.svg)|![05-01](https://img.shields.io/badge/05--01-42.195km-brightgreen.svg)|
+
+## Timing Results
+
+|Segment|2016-05-01|2017-05-14|2018-05-13|
+|:--|:--|:--|:--|
+|5km|![Time](https://img.shields.io/badge/0:39:38-39:38-blue.svg)|![Time](https://img.shields.io/badge/0:33:24-33:24-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|10km|![Time](https://img.shields.io/badge/1:18:30-38:52-blue.svg)|![Time](https://img.shields.io/badge/1:08:18-34:54-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|15km|![Time](https://img.shields.io/badge/1:57:21-38:51-blue.svg)|![Time](https://img.shields.io/badge/1:47:58-39:40-red.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|20km|![Time](https://img.shields.io/badge/2:35:10-37:49-blue.svg)|![Time](https://img.shields.io/badge/2:23:23-35:25-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|25km|![Time](https://img.shields.io/badge/3:14:53-39:43-blue.svg)|![Time](https://img.shields.io/badge/3:01:49-38:26-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|30km|![Time](https://img.shields.io/badge/4:00:59-46:06-blue.svg)|![Time](https://img.shields.io/badge/3:47:29-45:40-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|35km|![Time](https://img.shields.io/badge/4:44:28-43:29-blue.svg)|![Time](https://img.shields.io/badge/4:31:11-43:42-red.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|40km|![Time](https://img.shields.io/badge/5:34:40-50:12-blue.svg)|![Time](https://img.shields.io/badge/5:13:43-42:32-brightgreen.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|42.195km|![Time](https://img.shields.io/badge/5:47:45-13:15-blue.svg)|![Time](https://img.shields.io/badge/5:28:54-15:11-red.svg)|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
