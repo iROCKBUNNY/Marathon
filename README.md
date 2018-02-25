@@ -1,6 +1,17 @@
-# Marathon Training Plan
+# Marathon
+My Personal Marathon Training Plans and Timing Results
 
-## 2018-05-13 Marathon
+## Table of Contents
+
+- [Training Plans](#training-plans)
+  - [2018-05-13 Marathon](#2018-05-13-marathon)
+  - [2017-05-14 Marathon](#2017-05-14-marathon)
+  - [2016-05-01 Marathon](#2016-05-01-marathon)
+- [Timing Results](#timing-results)
+
+## Training Plans
+
+### 2018-05-13 Marathon
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
@@ -15,7 +26,7 @@
 |#9|![04-30](https://img.shields.io/badge/04--30-rest-lightgrey.svg)|![05-01](https://img.shields.io/badge/05--01-8km-lightgrey.svg)|![05-02](https://img.shields.io/badge/05--02-15km-lightgrey.svg)|![05-03](https://img.shields.io/badge/05--03-8km-lightgrey.svg)|![05-04](https://img.shields.io/badge/05--04-rest-lightgrey.svg)|![05-05](https://img.shields.io/badge/05--05-15km-lightgrey.svg)|![05-06](https://img.shields.io/badge/05--06-rest-lightgrey.svg)|
 |#10|![05-07](https://img.shields.io/badge/05--07-rest-lightgrey.svg)|![05-08](https://img.shields.io/badge/05--08-5km-lightgrey.svg)|![05-09](https://img.shields.io/badge/05--09-8km-lightgrey.svg)|![05-10](https://img.shields.io/badge/05--10-3km-lightgrey.svg)|![05-11](https://img.shields.io/badge/05--11-rest-lightgrey.svg)|![05-12](https://img.shields.io/badge/05--12-rest-lightgrey.svg)|![05-13](https://img.shields.io/badge/05--13-42.195km-lightgrey.svg)|
 
-## 2017-05-14 Marathon
+### 2017-05-14 Marathon
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
@@ -29,7 +40,7 @@
 |#8|![05-01](https://img.shields.io/badge/05--01-rest-brightgreen.svg)|![05-02](https://img.shields.io/badge/05--02-8km-brightgreen.svg)|![05-03](https://img.shields.io/badge/05--03-5km-orange.svg)|![05-04](https://img.shields.io/badge/05--04-rest-orange.svg)|![05-05](https://img.shields.io/badge/05--05-rest-brightgreen.svg)|![05-06](https://img.shields.io/badge/05--06-15km-brightgreen.svg)|![05-07](https://img.shields.io/badge/05--07-rest-brightgreen.svg)|
 |#9|![05-08](https://img.shields.io/badge/05--08-rest-brightgreen.svg)|![05-09](https://img.shields.io/badge/05--09-5km-brightgreen.svg)|![05-10](https://img.shields.io/badge/05--10-8km-brightgreen.svg)|![05-11](https://img.shields.io/badge/05--11-3km-brightgreen.svg)|![05-12](https://img.shields.io/badge/05--12-rest-brightgreen.svg)|![05-13](https://img.shields.io/badge/05--13-rest-brightgreen.svg)|![05-14](https://img.shields.io/badge/05--14-42.195km-brightgreen.svg)|
 
-## 2016-05-01 Marathon
+### 2016-05-01 Marathon
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
@@ -42,7 +53,7 @@
 |#7|![04-18](https://img.shields.io/badge/04--18-rest-brightgreen.svg)|![04-19](https://img.shields.io/badge/04--19-8km-brightgreen.svg)|![04-20](https://img.shields.io/badge/04--20-15km-brightgreen.svg)|![04-21](https://img.shields.io/badge/04--21-8km-brightgreen.svg)|![04-22](https://img.shields.io/badge/04--22-rest-brightgreen.svg)|![04-23](https://img.shields.io/badge/04--23-rest-orange.svg)|![04-24](https://img.shields.io/badge/04--24-rest-brightgreen.svg)|
 |#8|![04-25](https://img.shields.io/badge/04--25-rest-brightgreen.svg)|![04-26](https://img.shields.io/badge/04--26-5km-brightgreen.svg)|![04-27](https://img.shields.io/badge/04--27-rest-orange.svg)|![04-28](https://img.shields.io/badge/04--28-3km-brightgreen.svg)|![04-29](https://img.shields.io/badge/04--29-rest-brightgreen.svg)|![04-30](https://img.shields.io/badge/04--30-rest-brightgreen.svg)|![05-01](https://img.shields.io/badge/05--01-42.195km-brightgreen.svg)|
 
-# Timing Results
+## Timing Results
 
 |Segment|2016-05-01|2017-05-14|2018-05-13|
 |:--|:--|:--|:--|
