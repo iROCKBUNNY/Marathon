@@ -54,7 +54,7 @@ My Personal Marathon Training Plans and Timing Results
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
-|#1|![09-17](https://img.shields.io/badge/09--17-rest-lightgrey.svg)|![09-18](https://img.shields.io/badge/09--18-rest-lightgrey.svg)|![09-19](https://img.shields.io/badge/09--19-3km-lightgrey.svg)|![09-20](https://img.shields.io/badge/09--20-3km-lightgrey.svg)|![09-21](https://img.shields.io/badge/09--21-rest-lightgrey.svg)|![09-22](https://img.shields.io/badge/09--22-6km-lightgrey.svg)|![09-23](https://img.shields.io/badge/09--23-rest-lightgrey.svg)|
+|#1|![09-17](https://img.shields.io/badge/09--17-rest-brightgreen.svg)|![09-18](https://img.shields.io/badge/09--18-rest-lightgrey.svg)|![09-19](https://img.shields.io/badge/09--19-3km-lightgrey.svg)|![09-20](https://img.shields.io/badge/09--20-3km-lightgrey.svg)|![09-21](https://img.shields.io/badge/09--21-rest-lightgrey.svg)|![09-22](https://img.shields.io/badge/09--22-6km-lightgrey.svg)|![09-23](https://img.shields.io/badge/09--23-rest-lightgrey.svg)|
 |#2|![09-24](https://img.shields.io/badge/09--24-rest-lightgrey.svg)|![09-25](https://img.shields.io/badge/09--25-5km-lightgrey.svg)|![09-26](https://img.shields.io/badge/09--26-5km-lightgrey.svg)|![09-27](https://img.shields.io/badge/09--27-5km-lightgrey.svg)|![09-28](https://img.shields.io/badge/09--28-rest-lightgrey.svg)|![09-29](https://img.shields.io/badge/09--29-10km-lightgrey.svg)|![09-30](https://img.shields.io/badge/09--30-rest-lightgrey.svg)|
 |#3|![10-01](https://img.shields.io/badge/10--01-rest-lightgrey.svg)|![10-02](https://img.shields.io/badge/10--02-5km-lightgrey.svg)|![10-03](https://img.shields.io/badge/10--03-8km-lightgrey.svg)|![10-04](https://img.shields.io/badge/10--04-5km-lightgrey.svg)|![10-05](https://img.shields.io/badge/10--05-rest-lightgrey.svg)|![10-06](https://img.shields.io/badge/10--06-15km-lightgrey.svg)|![10-07](https://img.shields.io/badge/10--07-rest-lightgrey.svg)|
 |#4|![10-08](https://img.shields.io/badge/10--08-rest-lightgrey.svg)|![10-09](https://img.shields.io/badge/10--09-5km-lightgrey.svg)|![10-10](https://img.shields.io/badge/10--10-8km-lightgrey.svg)|![10-11](https://img.shields.io/badge/10--11-3km-lightgrey.svg)|![10-12](https://img.shields.io/badge/10--12-rest-lightgrey.svg)|![10-13](https://img.shields.io/badge/10--13-rest-lightgrey.svg)|![10-14](https://img.shields.io/badge/10--14-42.195km-lightgrey.svg)|
@@ -178,15 +178,15 @@ My Personal Marathon Training Plans and Timing Results
 
 |Segment|2018-09-16|
 |:--|:--|
-|5km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|10km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|15km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|20km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|25km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|30km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|35km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|40km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|42.195km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|5km|![Time](https://img.shields.io/badge/0:30:47-30:47-blue.svg)|
+|10km|![Time](https://img.shields.io/badge/1:03:27-32:40-blue.svg)|
+|15km|![Time](https://img.shields.io/badge/1:35:35-32:08-blue.svg)|
+|20km|![Time](https://img.shields.io/badge/2:09:22-33:47-blue.svg)|
+|25km|![Time](https://img.shields.io/badge/2:44:27-35:05-blue.svg)|
+|30km|![Time](https://img.shields.io/badge/3:21:24-36:57-blue.svg)|
+|35km|![Time](https://img.shields.io/badge/4:01:24-40:00-blue.svg)|
+|40km|![Time](https://img.shields.io/badge/4:40:44-39:20-blue.svg)|
+|42.195km|![Time](https://img.shields.io/badge/4:56:08-15:24-blue.svg)|
 
 ### Qinhuangdao Marathon Timing Results
 
