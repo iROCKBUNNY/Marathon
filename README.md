@@ -16,7 +16,7 @@ My Personal Marathon Training Plans and Timing Results
   - [ ] [2018-12-09 Guangzhou Marathon](#2018-12-09-guangzhou-marathon)
   - [ ] [2018-11-04 Hangzhou Marathon](#2018-11-04-hangzhou-marathon)
   - [ ] [2018-10-14 Zhengzhou Marathon](#2018-10-14-zhengzhou-marathon)
-  - [ ] [2018-09-16 Beijing Marathon](#2018-09-16-beijing-marathon)
+  - [x] [2018-09-16 Beijing Marathon](#2018-09-16-beijing-marathon)
   - [x] [2018-05-13 Qinhuangdao Marathon](#2018-05-13-qinhuangdao-marathon)
   - [x] [2017-05-14 Qinhuangdao Marathon](#2017-05-14-qinhuangdao-marathon)
   - [x] [2016-05-01 Qinhuangdao Marathon](#2016-05-01-qinhuangdao-marathon)
