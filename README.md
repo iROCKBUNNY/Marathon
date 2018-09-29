@@ -23,6 +23,7 @@ My Personal Marathon Training Plans and Timing Results
   - - [x] [2016-05-01 Qinhuangdao Marathon](#2016-05-01-qinhuangdao-marathon)
 - [Timing Results](#timing-results)
   - [Hong Kong Marathon Timing Results](#hong-kong-marathon-timing-results)
+  - [Xiamen Marathon Timing Results](#xiamen-marathon-timing-results)
   - [Guangzhou Marathon Timing Results](#guangzhou-marathon-timing-results)
   - [Hangzhou Marathon Timing Results](#hangzhou-marathon-timing-results)
   - [Zhengzhou Marathon Timing Results](#zhengzhou-marathon-timing-results)
@@ -123,6 +124,20 @@ My Personal Marathon Training Plans and Timing Results
 ### Hong Kong Marathon Timing Results
 
 |Segment|2019-02-17|
+|:--|:--|
+|5km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|10km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|15km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|20km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|25km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|30km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|35km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|40km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|42.195km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+
+### Xiamen Marathon Timing Results
+
+|Segment|2019-01-06|
 |:--|:--|
 |5km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
 |10km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
