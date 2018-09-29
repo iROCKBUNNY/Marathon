@@ -13,6 +13,7 @@ My Personal Marathon Training Plans and Timing Results
 
 - [Training Plans](#training-plans)
   - - [ ] [2019-02-17 Hong Kong Marathon](#2019-02-17-hong-kong-marathon)
+  - - [ ] [2019-01-06 Xiamen Marathon](#2019-01-06-xiamen-marathon)
   - - [ ] [2018-12-09 Guangzhou Marathon](#2018-12-09-guangzhou-marathon)
   - - [ ] [2018-11-04 Hangzhou Marathon](#2018-11-04-hangzhou-marathon)
   - - [ ] [2018-10-14 Zhengzhou Marathon](#2018-10-14-zhengzhou-marathon)
@@ -31,6 +32,8 @@ My Personal Marathon Training Plans and Timing Results
 ## Training Plans
 
 ### 2019-02-17 Hong Kong Marathon
+
+### 2019-01-06 Xiamen Marathon
 
 ### 2018-12-09 Guangzhou Marathon
 
