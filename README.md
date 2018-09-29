@@ -22,13 +22,13 @@ My Personal Marathon Training Plans and Timing Results
   - - [x] [2017-05-14 Qinhuangdao Marathon](#2017-05-14-qinhuangdao-marathon)
   - - [x] [2016-05-01 Qinhuangdao Marathon](#2016-05-01-qinhuangdao-marathon)
 - [Timing Results](#timing-results)
-  - [Hong Kong Marathon Timing Results](#hong-kong-marathon-timing-results)
-  - [Xiamen Marathon Timing Results](#xiamen-marathon-timing-results)
-  - [Guangzhou Marathon Timing Results](#guangzhou-marathon-timing-results)
-  - [Hangzhou Marathon Timing Results](#hangzhou-marathon-timing-results)
-  - [Zhengzhou Marathon Timing Results](#zhengzhou-marathon-timing-results)
-  - [Beijing Marathon Timing Results](#beijing-marathon-timing-results)
-  - [Qinhuangdao Marathon Timing Results](#qinhuangdao-marathon-timing-results)
+  - [Hong Kong Marathon Timing Results](#hong-kong-marathon-timing-results) (0)
+  - [Xiamen Marathon Timing Results](#xiamen-marathon-timing-results) (0)
+  - [Guangzhou Marathon Timing Results](#guangzhou-marathon-timing-results) (0)
+  - [Hangzhou Marathon Timing Results](#hangzhou-marathon-timing-results) (0)
+  - [Zhengzhou Marathon Timing Results](#zhengzhou-marathon-timing-results) (0)
+  - [Beijing Marathon Timing Results](#beijing-marathon-timing-results) (1)
+  - [Qinhuangdao Marathon Timing Results](#qinhuangdao-marathon-timing-results) (3)
 
 ## Training Plans
 
