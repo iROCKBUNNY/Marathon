@@ -36,6 +36,13 @@ My Personal Marathon Training Plans and Timing Results
 
 ### 2019-01-06 Xiamen Marathon
 
+|Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+|:-:|:--|:--|:--|:--|:--|:--|:--|
+|#1|![12-10](https://img.shields.io/badge/12--10-rest-lightgrey.svg)|![12-11](https://img.shields.io/badge/12--11-rest-lightgrey.svg)|![12-12](https://img.shields.io/badge/12--12-3km-lightgrey.svg)|![12-13](https://img.shields.io/badge/12--13-3km-lightgrey.svg)|![12-14](https://img.shields.io/badge/12--14-rest-lightgrey.svg)|![12-15](https://img.shields.io/badge/12--15-5km-lightgrey.svg)|![12-16](https://img.shields.io/badge/12--16-rest-lightgrey.svg)|
+|#2|![12-17](https://img.shields.io/badge/12--17-rest-lightgrey.svg)|![12-18](https://img.shields.io/badge/12--18-5km-lightgrey.svg)|![12-19](https://img.shields.io/badge/12--19-5km-lightgrey.svg)|![12-20](https://img.shields.io/badge/12--20-5km-lightgrey.svg)|![12-21](https://img.shields.io/badge/12--21-rest-lightgrey.svg)|![12-22](https://img.shields.io/badge/12--22-10km-lightgrey.svg)|![12-23](https://img.shields.io/badge/12--23-rest-lightgrey.svg)|
+|#3|![12-24](https://img.shields.io/badge/12--24-rest-lightgrey.svg)|![12-25](https://img.shields.io/badge/12--25-5km-lightgrey.svg)|![12-26](https://img.shields.io/badge/12--26-8km-lightgrey.svg)|![12-27](https://img.shields.io/badge/12--27-5km-lightgrey.svg)|![12-28](https://img.shields.io/badge/12--28-rest-lightgrey.svg)|![12-29](https://img.shields.io/badge/12--29-15km-lightgrey.svg)|![12-30](https://img.shields.io/badge/12--30-rest-lightgrey.svg)|
+|#4|![12-31](https://img.shields.io/badge/12--31-rest-lightgrey.svg)|![12-01](https://img.shields.io/badge/12--01-5km-lightgrey.svg)|![12-02](https://img.shields.io/badge/12--02-8km-lightgrey.svg)|![12-03](https://img.shields.io/badge/12--03-3km-lightgrey.svg)|![12-04](https://img.shields.io/badge/12--04-rest-lightgrey.svg)|![12-05](https://img.shields.io/badge/12--05-rest-lightgrey.svg)|![12-06](https://img.shields.io/badge/12--06-42.195km-lightgrey.svg)|
+
 ### 2018-12-09 Guangzhou Marathon
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
