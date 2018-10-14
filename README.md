@@ -16,7 +16,7 @@ My Personal Marathon Training Plans and Timing Results
   - - [ ] [2019-01-06 Xiamen Marathon](#2019-01-06-xiamen-marathon)
   - - [ ] [2018-12-09 Guangzhou Marathon](#2018-12-09-guangzhou-marathon)
   - - [ ] [2018-11-04 Hangzhou Marathon](#2018-11-04-hangzhou-marathon)
-  - - [ ] [2018-10-14 Zhengzhou Marathon](#2018-10-14-zhengzhou-marathon)
+  - - [x] [2018-10-14 Zhengzhou Marathon](#2018-10-14-zhengzhou-marathon)
   - - [x] [2018-09-16 Beijing Marathon](#2018-09-16-beijing-marathon)
   - - [x] [2018-05-13 Qinhuangdao Marathon](#2018-05-13-qinhuangdao-marathon)
   - - [x] [2017-05-14 Qinhuangdao Marathon](#2017-05-14-qinhuangdao-marathon)
@@ -26,7 +26,7 @@ My Personal Marathon Training Plans and Timing Results
   - [Xiamen Marathon Timing Results](#xiamen-marathon-timing-results) `0`
   - [Guangzhou Marathon Timing Results](#guangzhou-marathon-timing-results) `0`
   - [Hangzhou Marathon Timing Results](#hangzhou-marathon-timing-results) `0`
-  - [Zhengzhou Marathon Timing Results](#zhengzhou-marathon-timing-results) `0`
+  - [Zhengzhou Marathon Timing Results](#zhengzhou-marathon-timing-results) `1`
   - [Beijing Marathon Timing Results](#beijing-marathon-timing-results) `1`
   - [Qinhuangdao Marathon Timing Results](#qinhuangdao-marathon-timing-results) `3`
 
@@ -68,7 +68,7 @@ My Personal Marathon Training Plans and Timing Results
 |#1|![09-17](https://img.shields.io/badge/09--17-rest-brightgreen.svg)|![09-18](https://img.shields.io/badge/09--18-rest-brightgreen.svg)|![09-19](https://img.shields.io/badge/09--19-3km-brightgreen.svg)|![09-20](https://img.shields.io/badge/09--20-rest-brightgreen.svg)|![09-21](https://img.shields.io/badge/09--21-rest-brightgreen.svg)|![09-22](https://img.shields.io/badge/09--22-5km-brightgreen.svg)|![09-23](https://img.shields.io/badge/09--23-rest-brightgreen.svg)|
 |#2|![09-24](https://img.shields.io/badge/09--24-3km-orange.svg)|![09-25](https://img.shields.io/badge/09--25-5km-brightgreen.svg)|![09-26](https://img.shields.io/badge/09--26-5km-brightgreen.svg)|![09-27](https://img.shields.io/badge/09--27-rest-orange.svg)|![09-28](https://img.shields.io/badge/09--28-5km-orange.svg)|![09-29](https://img.shields.io/badge/09--29-10km-brightgreen.svg)|![09-30](https://img.shields.io/badge/09--30-rest-brightgreen.svg)|
 |#3|![10-01](https://img.shields.io/badge/10--01-rest-brightgreen.svg)|![10-02](https://img.shields.io/badge/10--02-5km-brightgreen.svg)|![10-03](https://img.shields.io/badge/10--03-8km-brightgreen.svg)|![10-04](https://img.shields.io/badge/10--04-5km-brightgreen.svg)|![10-05](https://img.shields.io/badge/10--05-rest-brightgreen.svg)|![10-06](https://img.shields.io/badge/10--06-15km-brightgreen.svg)|![10-07](https://img.shields.io/badge/10--07-rest-brightgreen.svg)|
-|#4|![10-08](https://img.shields.io/badge/10--08-rest-brightgreen.svg)|![10-09](https://img.shields.io/badge/10--09-5km-brightgreen.svg)|![10-10](https://img.shields.io/badge/10--10-8km-brightgreen.svg)|![10-11](https://img.shields.io/badge/10--11-3km-brightgreen.svg)|![10-12](https://img.shields.io/badge/10--12-rest-brightgreen.svg)|![10-13](https://img.shields.io/badge/10--13-rest-lightgrey.svg)|![10-14](https://img.shields.io/badge/10--14-42.195km-lightgrey.svg)|
+|#4|![10-08](https://img.shields.io/badge/10--08-rest-brightgreen.svg)|![10-09](https://img.shields.io/badge/10--09-5km-brightgreen.svg)|![10-10](https://img.shields.io/badge/10--10-8km-brightgreen.svg)|![10-11](https://img.shields.io/badge/10--11-3km-brightgreen.svg)|![10-12](https://img.shields.io/badge/10--12-rest-brightgreen.svg)|![10-13](https://img.shields.io/badge/10--13-rest-brightgreen.svg)|![10-14](https://img.shields.io/badge/10--14-42.195km-brightgreen.svg)|
 
 ### 2018-09-16 Beijing Marathon
 
@@ -189,15 +189,15 @@ My Personal Marathon Training Plans and Timing Results
 
 |Segment|2018-10-14|
 |:--|:--|
-|5km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|10km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|15km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|20km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|25km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|30km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|35km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|40km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
-|42.195km|![Time](https://img.shields.io/badge/0:00:00-00:00-lightgrey.svg)|
+|5km|![Time](https://img.shields.io/badge/0:33:36-33:36-blue.svg)|
+|10km|![Time](https://img.shields.io/badge/1:07:58-34:22-blue.svg)|
+|15km|![Time](https://img.shields.io/badge/1:43:54-35:56-blue.svg)|
+|20km|![Time](https://img.shields.io/badge/2:21:34-37:40-blue.svg)|
+|25km|![Time](https://img.shields.io/badge/2:55:51-34:17-blue.svg)|
+|30km|![Time](https://img.shields.io/badge/3:31:57-36:06-blue.svg)|
+|35km|![Time](https://img.shields.io/badge/4:07:20-35:23-blue.svg)|
+|40km|![Time](https://img.shields.io/badge/4:48:19-40:59-blue.svg)|
+|42.195km|![Time](https://img.shields.io/badge/5:04:58-16:38-blue.svg)|
 
 ### Beijing Marathon Timing Results
 
