@@ -34,6 +34,15 @@ My Personal Marathon Training Plans and Timing Results
 
 ### 2019-02-17 Hong Kong Marathon
 
+|Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+|:-:|:--|:--|:--|:--|:--|:--|:--|
+|#1|![01-07](https://img.shields.io/badge/01--07-rest-lightgrey.svg)|![01-08](https://img.shields.io/badge/01--08-rest-lightgrey.svg)|![01-09](https://img.shields.io/badge/01--09-3km-lightgrey.svg)|![01-10](https://img.shields.io/badge/01--10-3km-lightgrey.svg)|![01-11](https://img.shields.io/badge/01--11-rest-lightgrey.svg)|![01-12](https://img.shields.io/badge/01--12-5km-lightgrey.svg)|![01-13](https://img.shields.io/badge/01--13-rest-lightgrey.svg)|
+|#2|![01-14](https://img.shields.io/badge/01--14-rest-lightgrey.svg)|![01-15](https://img.shields.io/badge/01--15-5km-lightgrey.svg)|![01-16](https://img.shields.io/badge/01--16-5km-lightgrey.svg)|![01-17](https://img.shields.io/badge/01--17-5km-lightgrey.svg)|![01-18](https://img.shields.io/badge/01--18-rest-lightgrey.svg)|![01-19](https://img.shields.io/badge/01--19-10km-lightgrey.svg)|![01-20](https://img.shields.io/badge/01--20-rest-lightgrey.svg)|
+|#3|![01-21](https://img.shields.io/badge/01--21-rest-lightgrey.svg)|![01-22](https://img.shields.io/badge/01--22-5km-lightgrey.svg)|![01-23](https://img.shields.io/badge/01--23-8km-lightgrey.svg)|![01-24](https://img.shields.io/badge/01--24-5km-lightgrey.svg)|![01-25](https://img.shields.io/badge/01--25-rest-lightgrey.svg)|![01-26](https://img.shields.io/badge/01--26-15km-lightgrey.svg)|![01-27](https://img.shields.io/badge/01--27-rest-lightgrey.svg)|
+|#4|![01-28](https://img.shields.io/badge/01--28-rest-lightgrey.svg)|![01-29](https://img.shields.io/badge/01--29-5km-lightgrey.svg)|![01-30](https://img.shields.io/badge/01--30-10km-lightgrey.svg)|![01-31](https://img.shields.io/badge/01--31-5km-lightgrey.svg)|![02-01](https://img.shields.io/badge/02--01-rest-lightgrey.svg)|![02-02](https://img.shields.io/badge/02--02-21km-lightgrey.svg)|![02-03](https://img.shields.io/badge/02--03-rest-lightgrey.svg)|
+|#5|![02-04](https://img.shields.io/badge/02--04-rest-lightgrey.svg)|![02-05](https://img.shields.io/badge/02--05-8km-lightgrey.svg)|![02-06](https://img.shields.io/badge/02--06-15km-lightgrey.svg)|![02-07](https://img.shields.io/badge/02--07-8km-lightgrey.svg)|![02-08](https://img.shields.io/badge/02--08-rest-lightgrey.svg)|![02-09](https://img.shields.io/badge/02--09-15km-lightgrey.svg)|![02-10](https://img.shields.io/badge/02--10-rest-lightgrey.svg)|
+|#6|![02-11](https://img.shields.io/badge/02--11-rest-lightgrey.svg)|![02-12](https://img.shields.io/badge/02--12-5km-lightgrey.svg)|![02-13](https://img.shields.io/badge/02--13-8km-lightgrey.svg)|![02-14](https://img.shields.io/badge/02--14-3km-lightgrey.svg)|![02-15](https://img.shields.io/badge/02--15-rest-lightgrey.svg)|![02-16](https://img.shields.io/badge/02--16-rest-lightgrey.svg)|![02-17](https://img.shields.io/badge/02--17-42.195km-lightgrey.svg)|
+
 ### 2019-01-06 Xiamen Marathon
 
 |Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
