@@ -1124,10 +1124,10 @@
       content: rest
       state: green
     - date: 05-13
-      content: 42.195km
+      content: rest
       state: green
     - date: 05-14
-      content: rest
+      content: 42.195km
       state: green
 
 - race: 2016-05-01 Qinhuangdao Marathon
