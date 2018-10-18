@@ -1,0 +1,38 @@
+google_analytics_id: UA-33449675-10
+
+repository: https://github.com/iROCKBUNNY/Marathon
+
+timezone: Asia/Shanghai
+
+title: Marathon
+description: My Personal Marathon Training Plans and Timing Results
+keywords: Marathon, Training Plans, Timing Results, iROCKBUNNY
+url: https://cookbook.irockbunny.com
+
+author: iROCKBUNNY
+author_url: https://irockbunny.com
+organization: TEELAB
+organization_url: https://teelab.net
+
+contact: contact[at]irockbunny[dot]com
+github: https://github.com/iROCKBUNNY
+
+image: /images/logo.png
+logo: /images/logo.png
+icon: running
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- archive
+- Gemfile
+- Gemfile.lock
+- script
+- vendor

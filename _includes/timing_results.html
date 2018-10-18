@@ -1,0 +1,32 @@
+<div class="ui vertical segment">
+    <div class="ui container">
+        <h2 id="timing-results" class="ui header"><i class="stopwatch icon"></i>Timing Results</h2>
+        {%- for item in site.data.timing_results -%}
+            <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }} Timing Results</h3>
+            <table class="ui unstackable selectable celled definition table">
+                <thead>
+                    <tr>
+                        <th>Race Day</th>
+                        <th class="right aligned">5km</th>
+                        <th class="right aligned">10km</th>
+                        <th class="right aligned">15km</th>
+                        <th class="right aligned">20km</th>
+                        <th class="right aligned">25km</th>
+                        <th class="right aligned">30km</th>
+                        <th class="right aligned">35km</th>
+                        <th class="right aligned">40km</th>
+                        <th class="right aligned">42.195km</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {%- for result in item.results -%}
+                        <tr>
+                            <td class="single line">{{ result.date }}</td>
+                            {%- for point in result.points -%}<td class="right aligned{% if point.state %} {{ point.state }}{% endif %}"><code>{{ point.net }}</code><br><code>{{ point.segment }}</code></td>{%- endfor -%}
+                        </tr>
+                    {%- endfor -%}
+                </tbody>
+            </table>
+        {%- endfor -%}
+    </div>
+</div>

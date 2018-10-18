@@ -1,0 +1,30 @@
+<div class="ui vertical segment">
+    <div class="ui container">
+        <h2 id="training-plans" class="ui header"><i class="calendar alternate icon"></i>Training Plans</h2>
+        {%- for item in site.data.training_plans -%}
+            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}</h3>
+            <table class="ui unstackable selectable celled definition table">
+                <thead>
+                    <tr>
+                        <th>Week</th>
+                        <th>Monday</th>
+                        <th>Tuesday</th>
+                        <th>Wednesday</th>
+                        <th>Thursday</th>
+                        <th>Friday</th>
+                        <th>Saturday</th>
+                        <th>Sunday</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {%- for week in item.weeks -%}
+                        <tr>
+                            <td>#{{ forloop.index }}</td>
+                            {%- for day in week.days -%}<td><div class="ui {{ day.state }} horizontal label">{{ day.date }}<div class="detail">{{ day.content }}</div></div></td>{%- endfor -%}
+                        </tr>
+                    {%- endfor -%}
+                </tbody>
+            </table>
+        {%- endfor -%}
+    </div>
+</div>

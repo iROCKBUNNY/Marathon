@@ -1,0 +1,23 @@
+/* common.css */
+
+.ui.segment {
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+.ui.masthead.segment {
+    padding-top: 6em;
+    padding-bottom: 4em;
+}
+.ui.footer.segment {
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+
+@media only screen and (max-width: 767px) {
+    .ui.segment,
+    .ui.masthead.segment,
+    .ui.footer.segment {
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+}
