@@ -5,7 +5,7 @@
             <div class="item">
                 <a href="#training-plans">Training Plans</a>
                 <div class="list">
-                    {%- for item in site.data.training_plans -%}<div class="item"><a href="#{{ item.race | slugify }}"><i class="{% if item.finished %}green check{% else %}yellow{% endif %} circle outline icon"></i>{{ item.race }}</a></div>{%- endfor -%}
+                    {%- for item in site.data.training_plans -%}<div class="item"><a href="#{{ item.race | slugify }}"><i class="{{ item.progress }} circle outline icon"></i>{{ item.race }}</a></div>{%- endfor -%}
                 </div>
             </div>
             <div class="item">
