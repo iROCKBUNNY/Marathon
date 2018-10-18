@@ -43,11 +43,11 @@
 - name: 秦皇岛马拉松
   url: http://www.qhdmarathon.com/
 
-- name: 炎黄马拉松
-  url: http://zzmarathon.com/
-
 - name: 郑开马拉松
   url: http://www.zkmarathon.com/
+
+- name: 郑州炎黄马拉松
+  url: http://zzmarathon.com/
 
 - name: 西安马拉松
   url: http://www.xian42195.com/
