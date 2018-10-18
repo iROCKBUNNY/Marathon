@@ -1,6 +1,6 @@
 <div class="ui vertical segment">
     <div class="ui container">
-        <h2 id="training-plans" class="ui header"><i class="calendar alternate icon"></i>Training Plans</h2>
+        <h2 id="training-plans" class="ui header"><i class="calendar alternate outline icon"></i>Training Plans</h2>
         {%- for item in site.data.training_plans -%}
             <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}</h3>
             <table class="ui unstackable selectable celled definition table">

@@ -1,62 +1,62 @@
-- name: 中国马拉松
+- name: China Marathon
   url: http://www.runchina.org.cn/
 
-- name: 中国马拉松大满贯
+- name: China Marathon Majors
   url: https://www.chinamarathonmajors.com.cn/
 
-- name: 北京马拉松
+- name: Beijing Marathon
   url: http://www.beijing-marathon.com/
 
-- name: 广州马拉松
+- name: Guangzhou Marathon
   url: http://www.guangzhou-marathon.com/
 
-- name: 重庆马拉松
+- name: Chongqing Marathon
   url: http://www.cqmarathon.com/
 
-- name: 武汉马拉松
+- name: Wuhan Marathon
   url: http://www.wuhanmarathon.org/
 
-- name: 上海马拉松
+- name: Shanghai Marathon
   url: http://www.shmarathon.com/
 
-- name: 厦门马拉松
+- name: Xiamen Marathon
   url: http://www.xmim.org/
 
-- name: 兰州马拉松
+- name: Lanzhou Marathon
   url: http://www.lzmarathon.com/
 
-- name: 黄河口马拉松
+- name: Huanghekou Marathon
   url: http://www.hhkgjmls.net/
 
-- name: 扬州半程马拉松
+- name: Yangzhou Half-Marathon
   url: http://www.yzmls.com/
 
-- name: 杭州马拉松
+- name: Hangzhou Marathon
   url: http://www.hzim.org/
 
-- name: 太原马拉松
+- name: Taiyuan Marathon
   url: http://www.tymarathon.org/
 
-- name: 长沙马拉松
+- name: Changsha Marathon
   url: http://www.changsha-marathon.com/
 
-- name: 秦皇岛马拉松
+- name: Qinhuangdao Marathon
   url: http://www.qhdmarathon.com/
 
-- name: 郑开马拉松
+- name: Zhengkai Marathon
   url: http://www.zkmarathon.com/
 
-- name: 郑州炎黄马拉松
+- name: Zhengzhou Yanhuang Marathon
   url: http://zzmarathon.com/
 
-- name: 西安马拉松
+- name: Xian Marathon
   url: http://www.xian42195.com/
 
-- name: 成都马拉松
+- name: Chengdu Marathon
   url: http://www.chengdu-marathon.org/
 
-- name: 大连马拉松
+- name: Dalian Marathon
   url: http://www.dlmls.org/
 
-- name: 香港马拉松
+- name: Hong Kong Marathon
   url: https://www.hkmarathon.com/
