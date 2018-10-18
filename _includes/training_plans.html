@@ -20,7 +20,7 @@
                     {%- for week in item.weeks -%}
                         <tr>
                             <td>#{{ forloop.index }}</td>
-                            {%- for day in week.days -%}<td><div class="ui {{ day.state }} horizontal label">{{ day.date }}<div class="detail">{{ day.content }}</div></div></td>{%- endfor -%}
+                            {%- for day in week.days -%}<td class="single line"><div class="ui {{ day.state }} horizontal label">{{ day.date }}<div class="detail">{{ day.content }}</div></div></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
                 </tbody>
