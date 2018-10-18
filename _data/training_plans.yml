@@ -355,7 +355,7 @@
       state: green
     - date: 10-18
       content: 3km
-      state: disabled
+      state: green
     - date: 10-19
       content: rest
       state: disabled
