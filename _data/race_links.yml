@@ -1,0 +1,62 @@
+- name: 中国马拉松
+  url: http://www.runchina.org.cn/
+
+- name: 中国马拉松大满贯
+  url: https://www.chinamarathonmajors.com.cn/
+
+- name: 北京马拉松
+  url: http://www.beijing-marathon.com/
+
+- name: 广州马拉松
+  url: http://www.guangzhou-marathon.com/
+
+- name: 重庆马拉松
+  url: http://www.cqmarathon.com/
+
+- name: 武汉马拉松
+  url: http://www.wuhanmarathon.org/
+
+- name: 上海马拉松
+  url: http://www.shmarathon.com/
+
+- name: 厦门马拉松
+  url: http://www.xmim.org/
+
+- name: 兰州马拉松
+  url: http://www.lzmarathon.com/
+
+- name: 黄河口马拉松
+  url: http://www.hhkgjmls.net/
+
+- name: 扬州半程马拉松
+  url: http://www.yzmls.com/
+
+- name: 杭州马拉松
+  url: http://www.hzim.org/
+
+- name: 太原马拉松
+  url: http://www.tymarathon.org/
+
+- name: 长沙马拉松
+  url: http://www.changsha-marathon.com/
+
+- name: 秦皇岛马拉松
+  url: http://www.qhdmarathon.com/
+
+- name: 炎黄马拉松
+  url: http://zzmarathon.com/
+
+- name: 郑开马拉松
+  url: http://www.zkmarathon.com/
+
+- name: 西安马拉松
+  url: http://www.xian42195.com/
+
+- name: 成都马拉松
+  url: http://www.chengdu-marathon.org/
+
+- name: 大连马拉松
+  url: http://www.dlmls.org/
+
+- name: 香港马拉松
+  url: https://www.hkmarathon.com/
