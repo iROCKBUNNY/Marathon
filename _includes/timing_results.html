@@ -21,7 +21,7 @@
                 <tbody>
                     {%- for result in item.results -%}
                         <tr>
-                            <td class="single line">{{ result.date }}</td>
+                            <td class="single line">{{ result.date }}{% if result.personal_best %}<br><div class="ui yellow horizontal label"><i class="medal icon"></i>PB</div>{% endif %}</td>
                             {%- for point in result.points -%}<td class="right aligned{% if point.state %} {{ point.state }}{% endif %}"><code>{{ point.net }}</code><br><code>{{ point.segment }}</code></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
