@@ -1,0 +1,8 @@
+<div class="ui vertical segment">
+    <div class="ui container">
+        <h2 id="website-links" class="ui header"><i class="linkify icon"></i>Website Links</h2>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.website_links -%}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{%- endfor -%}
+        </div>
+    </div>
+</div>
