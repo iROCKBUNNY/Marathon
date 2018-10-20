@@ -1,9 +1,9 @@
 <div class="ui vertical segment">
     <div class="ui container">
-        <h2 class="ui header"><i class="bars icon"></i>Table of Contents</h2>
+        <h2 id="toc" class="ui header"><i class="list alternate icon"></i>Table of Contents</h2>
         <h3 class="ui header">Training Plans<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#training-plans"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui bulleted selection link list">
-            {%- for item in site.data.training_plans -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}"><i class="{{ item.progress }} circle outline icon"></i>{{ item.race }}</a>{%- endfor -%}
+            {%- for item in site.data.training_plans -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}"><i class="{{ item.progress }} icon"></i>{{ item.race }}</a>{%- endfor -%}
         </div>
         <h3 class="ui header">Timing Results<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#timing-results"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui bulleted selection link list">
