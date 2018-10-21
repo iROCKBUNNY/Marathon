@@ -364,7 +364,7 @@
       state: green
     - date: 10-21
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 10-22
       content: rest
