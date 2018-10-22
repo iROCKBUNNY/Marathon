@@ -368,7 +368,7 @@
   - days:
     - date: 10-22
       content: rest
-      state: green
+      state: disabled
     - date: 10-23
       content: 5km
       state: disabled
