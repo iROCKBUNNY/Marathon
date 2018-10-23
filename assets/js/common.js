@@ -3,7 +3,8 @@
 // updated at
 dayjs.extend(dayjs_plugin_relativeTime);
 function updateVersion(timestamp) {
-    $('#updated-at img').attr('src', 'https://img.shields.io/badge/Updated-' + encodeURIComponent(dayjs(timestamp).fromNow()) + '-brightgreen.svg');
+    $('#updated-at').removeClass('orange').addClass('green');
+    $('#updated-at .detail').text(dayjs(timestamp).fromNow());
 };
 var updateAt = $('meta[name=updated_at]').attr('content');
 updateVersion(updateAt);
