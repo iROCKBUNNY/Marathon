@@ -380,7 +380,7 @@
       state: green
     - date: 10-26
       content: rest
-      state: disabled
+      state: green
     - date: 10-27
       content: 10km
       state: disabled
