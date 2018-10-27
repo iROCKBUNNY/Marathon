@@ -383,7 +383,7 @@
       state: green
     - date: 10-27
       content: 10km
-      state: disabled
+      state: green
     - date: 10-28
       content: rest
       state: disabled
