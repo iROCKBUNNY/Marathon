@@ -393,7 +393,7 @@
       state: green
     - date: 10-30
       content: 5km
-      state: disabled
+      state: green
     - date: 10-31
       content: 8km
       state: disabled
