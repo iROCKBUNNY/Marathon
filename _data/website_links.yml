@@ -161,3 +161,7 @@
   - name: Daegu International Marathon
     url: http://marathon.daegusports.or.kr/
     flag: kr
+
+  - name: Mangyongdae Prize Marathon
+    url: http://pyongyangmarathon.com/
+    flag: kp
