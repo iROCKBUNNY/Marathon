@@ -1,8 +1,11 @@
 <div class="ui vertical segment">
     <div class="ui container">
         <h2 id="website-links" class="ui header"><i class="linkify icon"></i>Website Links</h2>
-        <div class="ui bulleted selection link list">
-            {%- for item in site.data.website_links -%}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{%- endfor -%}
-        </div>
+        {%- for section in site.data.website_links -%}
+            <h3 id="{{ section.name | slugify }}" class="ui header">{{ section.name }}</h3>
+            <div class="ui bulleted selection link list">
+                {%- for website in section.websites -%}<a class="item" href="{{ website.url }}" target="_blank">{% if website.flag %}<i class="{{ website.flag }} flag"></i>{% endif %}{{ website.name }}</a>{%- endfor -%}
+            </div>
+        {%- endfor -%}
     </div>
 </div>

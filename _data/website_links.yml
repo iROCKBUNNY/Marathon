@@ -1,62 +1,163 @@
-- name: China Marathon
-  url: http://www.runchina.org.cn/
+- name: Organization Websites
+  websites:
+  - name: China Marathon
+    url: http://www.runchina.org.cn/
+    flag: cn
 
-- name: China Marathon Majors
-  url: https://www.chinamarathonmajors.com.cn/
+  - name: China Marathon Majors
+    url: https://www.chinamarathonmajors.com.cn/
+    flag: cn
 
-- name: Beijing Marathon
-  url: http://www.beijing-marathon.com/
+  - name: IAAF Label Road Races
+    url: https://www.iaaf.org/competitions/iaaf-label-road-races
+    flag: mc
 
-- name: Guangzhou Marathon
-  url: http://www.guangzhou-marathon.com/
+  - name: AIMS Calendar
+    url: http://aims-worldrunning.org/calendar.html
+    flag: gr
 
-- name: Chongqing Marathon
-  url: http://www.cqmarathon.com/
+- name: Race Websites
+  websites:
+  - name: CFLD Beijing Marathon
+    url: http://www.beijing-marathon.com/
+    flag: cn
 
-- name: Wuhan Marathon
-  url: http://www.wuhanmarathon.org/
+  - name: Guangzhou Marathon
+    url: http://www.guangzhou-marathon.com/
+    flag: cn
 
-- name: Shanghai Marathon
-  url: http://www.shmarathon.com/
+  - name: Shenzhen Marathon
+    url: http://www.shenzhenmarathon.org/
+    flag: cn
 
-- name: Xiamen Marathon
-  url: http://www.xmim.org/
+  - name: Chongqing International Marathon
+    url: http://www.cqmarathon.com/
+    flag: cn
 
-- name: Lanzhou Marathon
-  url: http://www.lzmarathon.com/
+  - name: Shanghai International Marathon
+    url: http://www.shmarathon.com/
+    flag: cn
 
-- name: Huanghekou Marathon
-  url: http://www.hhkgjmls.net/
+  - name: C&D Xiamen Marathon
+    url: http://www.xmim.org/
+    flag: cn
 
-- name: Yangzhou Half-Marathon
-  url: http://www.yzmls.com/
+  - name: Lanzhou International Marathon
+    url: http://www.lzmarathon.com/
+    flag: cn
 
-- name: Hangzhou Marathon
-  url: http://www.hzim.org/
+  - name: Yellow River Estuary International Marathon
+    url: http://www.hhkgjmls.net/
+    flag: cn
 
-- name: Taiyuan Marathon
-  url: http://www.tymarathon.org/
+  - name: Yangzhou Jianzhen International Half Marathon
+    url: http://www.yzmls.com/
+    flag: cn
 
-- name: Changsha Marathon
-  url: http://www.changsha-marathon.com/
+  - name: Hangzhou Marathon
+    url: http://www.hzim.org/
+    flag: cn
 
-- name: Qinhuangdao Marathon
-  url: http://www.qhdmarathon.com/
+  - name: Taiyuan International Marathon
+    url: http://www.tymarathon.org/
+    flag: cn
 
-- name: Zhengkai Marathon
-  url: http://www.zkmarathon.com/
+  - name: Dalian International Marathon
+    url: http://www.dlmls.org/
+    flag: cn
 
-- name: Zhengzhou Yanhuang Marathon
-  url: http://zzmarathon.com/
+  - name: Hefei International Marathon
+    url: http://www.hefeimarathon.com/
+    flag: cn
 
-- name: Xian Marathon
-  url: http://www.xian42195.com/
+  - name: Hengshui Lake Marathon
+    url: http://www.hengshuimalasong.com/
+    flag: cn
 
-- name: Chengdu Marathon
-  url: http://www.chengdu-marathon.org/
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
+    flag: cn
 
-- name: Dalian Marathon
-  url: http://www.dlmls.org/
+  - name: Changsha Marathon
+    url: http://www.changsha-marathon.com/
+    flag: cn
 
-- name: Hong Kong Marathon
-  url: https://www.hkmarathon.com/
+  - name: Qinhuangdao Marathon
+    url: http://www.qhdmarathon.com/
+    flag: cn
+
+  - name: Zhengkai Marathon
+    url: http://www.zkmarathon.com/
+    flag: cn
+
+  - name: Zhengzhou Yanhuang Marathon
+    url: http://zzmarathon.com/
+    flag: cn
+
+  - name: Xian Marathon
+    url: http://www.xian42195.com/
+    flag: cn
+
+  - name: Chengdu Marathon
+    url: http://www.chengdu-marathon.org/
+    flag: cn
+
+  - name: Standard Chartered Hong Kong Marathon
+    url: https://www.hkmarathon.com/
+    flag: hk
+
+  - name: Macao Galaxy Entertainment International Marathon
+    url: http://www.macaomarathon.com/
+    flag: mo
+
+  - name: Taipei Marathon
+    url: http://www.taipeicitymarathon.com/
+    flag: tw
+
+  - name: New Taipei City Wan Jin Shi Marathon
+    url: http://www.wanjinshi-marathon.com.tw/
+    flag: tw
+
+  - name: Standard Chartered Singapore Marathon
+    url: https://singaporemarathon.com/
+    flag: sg
+
+  - name: Tokyo Marathon
+    url: https://www.marathon.tokyo/
+    flag: jp
+
+  - name: Osaka Marathon
+    url: http://www.osaka-marathon.com/
+    flag: jp
+
+  - name: Kyoto Marathon
+    url: https://www.kyoto-marathon.com/
+    flag: jp
+
+  - name: Lake Biwa Mainichi Marathon
+    url: http://www.lakebiwa-marathon.com/
+    flag: jp
+
+  - name: Nagano Marathon
+    url: https://www.naganomarathon.gr.jp/
+    flag: jp
+
+  - name: Kobe Marathon
+    url: http://kobe-marathon.net/
+    flag: jp
+
+  - name: Saitama International Marathon
+    url: https://saitama-international-marathon.jp/
+    flag: jp
+
+  - name: Fukuoka International Open Marathon Championships
+    url: http://www.fukuoka-marathon.com/
+    flag: jp
+
+  - name: Seoul Marathon
+    url: http://www.seoul-marathon.com/
+    flag: kr
+
+  - name: Daegu International Marathon
+    url: http://marathon.daegusports.or.kr/
+    flag: kr
