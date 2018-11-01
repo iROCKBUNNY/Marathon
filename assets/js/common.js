@@ -3,7 +3,7 @@
 // updated at
 dayjs.extend(dayjs_plugin_relativeTime);
 function updateVersion(timestamp) {
-    $('#updated-at').removeClass('orange').addClass('green');
+    $('#updated-at').attr('class', 'ui green label');
     $('#updated-at .detail').text(dayjs(timestamp).fromNow());
 };
 var updateAt = $('meta[name=updated_at]').attr('content');
