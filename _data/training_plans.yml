@@ -398,11 +398,11 @@
       content: 8km
       state: green
     - date: 11-01
-      content: 3km
-      state: disabled
+      content: rest
+      state: orange
     - date: 11-02
       content: rest
-      state: disabled
+      state: green
     - date: 11-03
       content: rest
       state: disabled
