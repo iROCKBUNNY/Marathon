@@ -405,7 +405,7 @@
       state: green
     - date: 11-03
       content: rest
-      state: disabled
+      state: green
     - date: 11-04
       content: 42.195km
       state: disabled
