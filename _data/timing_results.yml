@@ -100,7 +100,7 @@
 - race: Hangzhou Marathon
   results:
   - date: 2018-11-04
-    personal_best: false
+    personal_best: true
     points:
     - net: "0:00:00"
       segment: "00:00"
@@ -126,9 +126,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "4:46:57"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Zhengzhou Yanhuang Marathon
   results:
@@ -166,7 +166,7 @@
 - race: Beijing Marathon
   results:
   - date: 2018-09-16
-    personal_best: true
+    personal_best: false
     points:
     - net: "0:30:47"
       segment: "30:47"
