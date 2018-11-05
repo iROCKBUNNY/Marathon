@@ -22,7 +22,7 @@
                     {%- for result in item.results -%}
                         <tr{% if result.personal_best %} id="personal-best"{% endif %}>
                             <td class="single line">{{ result.date }}{% if result.personal_best %}<br><div class="ui yellow horizontal label"><i class="medal icon"></i>PB</div>{% endif %}</td>
-                            {%- for point in result.points -%}<td class="right aligned{% if point.state %} {{ point.state }}{% endif %}"><code>{{ point.net }}</code><br><code>{{ point.segment }}</code></td>{%- endfor -%}
+                            {%- for check_point in result.check_points -%}<td class="right aligned{% if check_point.state %} {{ check_point.state }}{% endif %}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
                 </tbody>
