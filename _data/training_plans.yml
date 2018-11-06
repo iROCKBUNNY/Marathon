@@ -235,7 +235,7 @@
       state: green
     - date: 11-06
       content: rest
-      state: disabled
+      state: green
     - date: 11-07
       content: 3km
       state: disabled
