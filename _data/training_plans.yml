@@ -238,10 +238,10 @@
       state: green
     - date: 11-07
       content: 3km
-      state: disabled
+      state: green
     - date: 11-08
-      content: 3km
-      state: disabled
+      content: rest
+      state: orange
     - date: 11-09
       content: rest
       state: disabled
