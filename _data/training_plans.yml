@@ -244,7 +244,7 @@
       state: orange
     - date: 11-09
       content: rest
-      state: disabled
+      state: green
     - date: 11-10
       content: 5km
       state: disabled
