@@ -1,3 +1,139 @@
+- race: 2019-03-31 Zhengkai Marathon
+  progress: grey clock outline
+  weeks:
+  - days:
+    - date: 02-18
+      content: rest
+      state: disabled
+    - date: 02-19
+      content: rest
+      state: disabled
+    - date: 02-20
+      content: 3km
+      state: disabled
+    - date: 02-21
+      content: 3km
+      state: disabled
+    - date: 02-22
+      content: rest
+      state: disabled
+    - date: 02-23
+      content: 5km
+      state: disabled
+    - date: 02-24
+      content: rest
+      state: disabled
+  - days:
+    - date: 02-25
+      content: rest
+      state: disabled
+    - date: 02-26
+      content: 5km
+      state: disabled
+    - date: 02-27
+      content: 5km
+      state: disabled
+    - date: 02-28
+      content: 5km
+      state: disabled
+    - date: 03-01
+      content: rest
+      state: disabled
+    - date: 03-02
+      content: 10km
+      state: disabled
+    - date: 03-03
+      content: rest
+      state: disabled
+  - days:
+    - date: 03-04
+      content: rest
+      state: disabled
+    - date: 03-05
+      content: 5km
+      state: disabled
+    - date: 03-06
+      content: 8km
+      state: disabled
+    - date: 03-07
+      content: 5km
+      state: disabled
+    - date: 03-08
+      content: rest
+      state: disabled
+    - date: 03-09
+      content: 15km
+      state: disabled
+    - date: 03-10
+      content: rest
+      state: disabled
+  - days:
+    - date: 03-11
+      content: rest
+      state: disabled
+    - date: 03-12
+      content: 5km
+      state: disabled
+    - date: 03-13
+      content: 10km
+      state: disabled
+    - date: 03-14
+      content: 5km
+      state: disabled
+    - date: 03-15
+      content: rest
+      state: disabled
+    - date: 03-16
+      content: 21km
+      state: disabled
+    - date: 03-17
+      content: rest
+      state: disabled
+  - days:
+    - date: 03-18
+      content: rest
+      state: disabled
+    - date: 03-19
+      content: 8km
+      state: disabled
+    - date: 03-20
+      content: 15km
+      state: disabled
+    - date: 03-21
+      content: 8km
+      state: disabled
+    - date: 03-22
+      content: rest
+      state: disabled
+    - date: 03-23
+      content: 15km
+      state: disabled
+    - date: 03-24
+      content: rest
+      state: disabled
+  - days:
+    - date: 03-25
+      content: rest
+      state: disabled
+    - date: 03-26
+      content: 5km
+      state: disabled
+    - date: 03-27
+      content: 8km
+      state: disabled
+    - date: 03-28
+      content: 3km
+      state: disabled
+    - date: 03-29
+      content: rest
+      state: disabled
+    - date: 03-30
+      content: rest
+      state: disabled
+    - date: 03-31
+      content: 42.195km
+      state: disabled
+
 - race: 2019-02-17 Hong Kong Marathon
   progress: grey clock outline
   weeks:
