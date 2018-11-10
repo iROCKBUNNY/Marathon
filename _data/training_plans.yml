@@ -247,10 +247,10 @@
       state: green
     - date: 11-10
       content: 5km
-      state: disabled
+      state: green
     - date: 11-11
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 11-12
       content: rest
