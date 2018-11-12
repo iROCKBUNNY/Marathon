@@ -390,7 +390,7 @@
   - days:
     - date: 11-12
       content: rest
-      state: disabled
+      state: green
     - date: 11-13
       content: 5km
       state: disabled
