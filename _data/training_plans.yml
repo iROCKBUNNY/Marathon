@@ -396,7 +396,7 @@
       state: green
     - date: 11-14
       content: 5km
-      state: disabled
+      state: green
     - date: 11-15
       content: 5km
       state: disabled
