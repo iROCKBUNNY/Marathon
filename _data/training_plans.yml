@@ -404,11 +404,11 @@
       content: rest
       state: green
     - date: 11-17
-      content: rest
-      state: orange
-    - date: 11-18
       content: 10km
-      state: orange
+      state: disabled
+    - date: 11-18
+      content: rest
+      state: disabled
   - days:
     - date: 11-19
       content: rest
