@@ -405,10 +405,10 @@
       state: green
     - date: 11-17
       content: 10km
-      state: disabled
+      state: green
     - date: 11-18
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 11-19
       content: rest
