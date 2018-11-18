@@ -408,7 +408,7 @@
       state: green
     - date: 11-18
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 11-19
       content: rest
