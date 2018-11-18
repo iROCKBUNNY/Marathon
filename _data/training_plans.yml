@@ -412,7 +412,7 @@
   - days:
     - date: 11-19
       content: rest
-      state: disabled
+      state: green
     - date: 11-20
       content: 5km
       state: disabled
