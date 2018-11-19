@@ -134,6 +134,10 @@
     url: https://www.kyoto-marathon.com/
     flag: jp
 
+  - name: Okinawa Marathon
+    url: http://okinawa-marathon.com/
+    flag: jp
+
   - name: Lake Biwa Mainichi Marathon
     url: http://www.lakebiwa-marathon.com/
     flag: jp
