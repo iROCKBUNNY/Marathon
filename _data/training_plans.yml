@@ -415,7 +415,7 @@
       state: green
     - date: 11-20
       content: 5km
-      state: disabled
+      state: green
     - date: 11-21
       content: 8km
       state: disabled
