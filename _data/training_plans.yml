@@ -424,7 +424,7 @@
       state: green
     - date: 11-23
       content: rest
-      state: disabled
+      state: green
     - date: 11-24
       content: 15km
       state: disabled
