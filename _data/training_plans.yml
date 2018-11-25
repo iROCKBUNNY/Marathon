@@ -430,7 +430,7 @@
       state: orange
     - date: 11-25
       content: 15km
-      state: rest
+      state: orange
   - days:
     - date: 11-26
       content: rest
