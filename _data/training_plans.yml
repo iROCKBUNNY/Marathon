@@ -436,13 +436,13 @@
       content: rest
       state: green
     - date: 11-27
-      content: 8km
-      state: disabled
+      content: 5km
+      state: green
     - date: 11-28
-      content: 15km
+      content: 10km
       state: disabled
     - date: 11-29
-      content: 8km
+      content: 5km
       state: disabled
     - date: 11-30
       content: rest
