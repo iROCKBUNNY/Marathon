@@ -448,11 +448,11 @@
       content: rest
       state: green
     - date: 12-01
-      content: 15km
-      state: disabled
+      content: rest
+      state: orange
     - date: 12-02
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 12-03
       content: rest
