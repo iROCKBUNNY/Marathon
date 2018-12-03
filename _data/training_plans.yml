@@ -451,12 +451,12 @@
       content: rest
       state: orange
     - date: 12-02
-      content: rest
-      state: green
+      content: 10km
+      state: orange
   - days:
     - date: 12-03
       content: rest
-      state: disabled
+      state: green
     - date: 12-04
       content: 5km
       state: disabled
