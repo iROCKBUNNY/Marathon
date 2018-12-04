@@ -459,7 +459,7 @@
       state: green
     - date: 12-04
       content: 5km
-      state: disabled
+      state: green
     - date: 12-05
       content: 8km
       state: disabled
