@@ -464,8 +464,8 @@
       content: 8km
       state: green
     - date: 12-06
-      content: 3km
-      state: disabled
+      content: rest
+      state: orange
     - date: 12-07
       content: rest
       state: disabled
