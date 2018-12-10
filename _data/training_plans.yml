@@ -271,7 +271,7 @@
       state: disabled
 
 - race: 2019-01-06 Xiamen Marathon
-  progress: grey clock outline
+  progress: orange play circle
   weeks:
   - days:
     - date: 12-10
@@ -363,7 +363,7 @@
       state: disabled
 
 - race: 2018-12-09 Guangzhou Marathon
-  progress: orange play circle
+  progress: green check circle
   weeks:
   - days:
     - date: 11-05
