@@ -276,7 +276,7 @@
   - days:
     - date: 12-10
       content: rest
-      state: disabled
+      state: green
     - date: 12-11
       content: rest
       state: disabled
