@@ -279,7 +279,7 @@
       state: green
     - date: 12-11
       content: rest
-      state: disabled
+      state: green
     - date: 12-12
       content: 3km
       state: disabled
