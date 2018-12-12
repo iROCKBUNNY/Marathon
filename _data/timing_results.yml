@@ -102,32 +102,32 @@
   - date: 2018-12-09
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:34:47"
+      segment: "34:47"
+      state: positive
+    - net: "1:14:11"
+      segment: "39:24"
+      state: positive
+    - net: "1:52:08"
+      segment: "37:57"
+      state: positive
+    - net: "2:25:51"
+      segment: "33:43"
+      state: positive
+    - net: "3:02:55"
+      segment: "37:04"
+      state: positive
+    - net: "3:44:23"
+      segment: "41:28"
+      state: positive
+    - net: "4:29:21"
+      segment: "44:58"
+      state: positive
+    - net: "5:12:06"
+      segment: "42:45"
+      state: positive
     - net: "5:35:41"
-      segment: "00:00"
+      segment: "23:35"
       state: positive
 
 - race: Hangzhou Marathon

@@ -281,8 +281,8 @@
       content: rest
       state: green
     - date: 12-12
-      content: 3km
-      state: disabled
+      content: rest
+      state: orange
     - date: 12-13
       content: 3km
       state: disabled
