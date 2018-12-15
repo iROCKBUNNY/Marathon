@@ -291,10 +291,10 @@
       state: green
     - date: 12-15
       content: 5km
-      state: disabled
+      state: green
     - date: 12-16
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 12-17
       content: rest
