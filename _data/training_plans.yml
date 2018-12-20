@@ -307,10 +307,10 @@
       state: green
     - date: 12-20
       content: 5km
-      state: disabled
+      state: green
     - date: 12-21
       content: rest
-      state: disabled
+      state: green
     - date: 12-22
       content: 10km
       state: disabled
