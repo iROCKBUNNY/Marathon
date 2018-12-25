@@ -323,7 +323,7 @@
       state: green
     - date: 12-25
       content: 5km
-      state: disabled
+      state: green
     - date: 12-26
       content: 8km
       state: disabled
