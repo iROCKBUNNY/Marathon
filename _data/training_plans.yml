@@ -325,8 +325,8 @@
       content: 5km
       state: green
     - date: 12-26
-      content: 8km
-      state: disabled
+      content: rest
+      state: orange
     - date: 12-27
       content: 5km
       state: disabled
