@@ -335,10 +335,10 @@
       state: green
     - date: 12-29
       content: 15km
-      state: disabled
+      state: green
     - date: 12-30
       content: rest
-      state: disabled
+      state: green
   - days:
     - date: 12-31
       content: rest
