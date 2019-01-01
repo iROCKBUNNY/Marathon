@@ -345,7 +345,7 @@
       state: green
     - date: 01-01
       content: 5km
-      state: disabled
+      state: green
     - date: 01-02
       content: 8km
       state: disabled
