@@ -1,7 +1,7 @@
 - race: 2019-03-31 Zhengkai Marathon
   progress:
     color: disabled
-    icon: clock
+    icon: lock
   weeks:
   - days:
     - date: 02-18
@@ -139,7 +139,7 @@
 - race: 2019-02-17 Hong Kong Marathon
   progress:
     color: disabled
-    icon: clock
+    icon: lock
   weeks:
   - days:
     - date: 01-07
