@@ -15,7 +15,7 @@
                             {%- assign total_days = total_days | plus: 1 %}
                         {%- endfor -%}
                     {%- endfor -%}
-                    : {{ elapsed_days }}/{{ total_days }}
+                    <div class="detail">{{ elapsed_days }}/{{ total_days }}</div>
                 {%- endif -%}
             </div></a>{%- endfor -%}
         </div>
