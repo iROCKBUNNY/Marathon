@@ -1,7 +1,7 @@
 - race: 2019-03-31 Zhengkai Marathon
   progress:
     color: disabled
-    icon: clock outline
+    icon: clock
   weeks:
   - days:
     - date: 02-18
@@ -139,7 +139,7 @@
 - race: 2019-02-17 Hong Kong Marathon
   progress:
     color: disabled
-    icon: clock outline
+    icon: clock
   weeks:
   - days:
     - date: 01-07
@@ -277,7 +277,7 @@
 - race: 2019-01-06 Xiamen Marathon
   progress:
     color: orange
-    icon: play circle
+    icon: play
   weeks:
   - days:
     - date: 12-10
@@ -371,7 +371,7 @@
 - race: 2018-12-09 Guangzhou Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 11-05
@@ -487,7 +487,7 @@
 - race: 2018-11-04 Hangzhou Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 10-15
@@ -559,7 +559,7 @@
 - race: 2018-10-14 Zhengzhou Yanhuang Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 09-17
@@ -653,7 +653,7 @@
 - race: 2018-09-16 Beijing Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 07-16
@@ -857,7 +857,7 @@
 - race: 2018-05-13 Qinhuangdao Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 03-05
@@ -1083,7 +1083,7 @@
 - race: 2017-05-14 Qinhuangdao Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 03-13
@@ -1287,7 +1287,7 @@
 - race: 2016-05-01 Qinhuangdao Marathon
   progress:
     color: green
-    icon: check circle
+    icon: check
   weeks:
   - days:
     - date: 03-07
