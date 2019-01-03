@@ -21,7 +21,7 @@
                 <tbody>
                     {%- for result in item.results -%}
                         <tr{% if result.personal_best %} id="personal-best"{% endif %}>
-                            <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow {% endif %}horizontal label"><i class="hashtag icon"></i>{{ result.bib_number }}{% if result.personal_best %}<div class="detail">PB</div>{% endif %}</div>{% endif %}</td>
+                            <td class="single line">{{ result.date }}{% if result.bib_number %}<br>{% if result.personal_best %}<div class="ui yellow horizontal label"><i class="medal icon"></i>{{ result.bib_number }}<div class="detail">PB</div></div>{% else %}<div class="ui horizontal label"><i class="hashtag icon"></i>{{ result.bib_number }}</div>{% endif %}{% endif %}</td>
                             {%- for check_point in result.check_points -%}<td class="right aligned{% if check_point.state %} {{ check_point.state }}{% endif %}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
