@@ -1,5 +1,7 @@
 - race: 2019-03-31 Zhengkai Marathon
-  progress: grey clock outline
+  progress:
+    color: grey
+    icon: clock outline
   weeks:
   - days:
     - date: 02-18
@@ -135,7 +137,9 @@
       state: disabled
 
 - race: 2019-02-17 Hong Kong Marathon
-  progress: grey clock outline
+  progress:
+    color: grey
+    icon: clock outline
   weeks:
   - days:
     - date: 01-07
@@ -271,7 +275,9 @@
       state: disabled
 
 - race: 2019-01-06 Xiamen Marathon
-  progress: orange play circle
+  progress:
+    color: orange
+    icon: play circle
   weeks:
   - days:
     - date: 12-10
@@ -363,7 +369,9 @@
       state: disabled
 
 - race: 2018-12-09 Guangzhou Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 11-05
@@ -477,7 +485,9 @@
       state: green
 
 - race: 2018-11-04 Hangzhou Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 10-15
@@ -547,7 +557,9 @@
       state: green
 
 - race: 2018-10-14 Zhengzhou Yanhuang Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 09-17
@@ -639,7 +651,9 @@
       state: green
 
 - race: 2018-09-16 Beijing Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 07-16
@@ -841,7 +855,9 @@
       state: green
 
 - race: 2018-05-13 Qinhuangdao Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 03-05
@@ -1065,7 +1081,9 @@
       state: green
 
 - race: 2017-05-14 Qinhuangdao Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 03-13
@@ -1267,7 +1285,9 @@
       state: green
 
 - race: 2016-05-01 Qinhuangdao Marathon
-  progress: green check circle
+  progress:
+    color: green
+    icon: check circle
   weeks:
   - days:
     - date: 03-07
