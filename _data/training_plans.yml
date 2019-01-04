@@ -360,10 +360,10 @@
       state: green
     - date: 01-04
       content: rest
-      state: disabled
+      state: green
     - date: 01-05
       content: rest
-      state: disabled
+      state: green
     - date: 01-06
       content: 42.195km
       state: disabled
