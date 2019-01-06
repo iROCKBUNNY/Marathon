@@ -72,33 +72,33 @@
     bib_number: H25213
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:27:12"
+      segment: "27:12"
+      state: green
+    - net: "0:56:52"
+      segment: "29:41"
+      state: green
+    - net: "1:27:46"
+      segment: "30:55"
+      state: green
+    - net: "1:58:35"
+      segment: "30:50"
+      state: green
+    - net: "2:32:23"
+      segment: "33:49"
+      state: green
+    - net: "3:17:13"
+      segment: "44:50"
+      state: green
+    - net: "4:01:48"
+      segment: "44:35"
+      state: green
+    - net: "4:39:50"
+      segment: "38:03"
+      state: green
+    - net: "4:54:31"
+      segment: "14:41"
+      state: green
 
 - race: Guangzhou Marathon
   results:
