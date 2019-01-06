@@ -138,13 +138,13 @@
 
 - race: 2019-02-17 Hong Kong Marathon
   progress:
-    color: disabled
-    icon: lock
+    color: orange
+    icon: play
   weeks:
   - days:
     - date: 01-07
       content: rest
-      state: disabled
+      state: green
     - date: 01-08
       content: rest
       state: disabled
@@ -276,8 +276,8 @@
 
 - race: 2019-01-06 Xiamen Marathon
   progress:
-    color: orange
-    icon: play
+    color: green
+    icon: check
   weeks:
   - days:
     - date: 12-10
@@ -366,7 +366,7 @@
       state: green
     - date: 01-06
       content: 42.195km
-      state: disabled
+      state: green
 
 - race: 2018-12-09 Guangzhou Marathon
   progress:
