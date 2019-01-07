@@ -21,7 +21,7 @@
         </div>
         <h3 class="ui header">Timing Results<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#timing-results"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui small secondary fluid vertical menu">
-            {%- for item in site.data.timing_results -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }} Timing Results<div class="ui label"><i class="stopwatch icon"></i>{{ item.results.size }} {% if item.results.size > 1 %}results{% else %}result{% endif %}</div></a>{%- endfor -%}
+            {%- for item in site.data.timing_results -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }}<div class="ui label"><i class="stopwatch icon"></i>{{ item.results.size }} {% if item.results.size > 1 %}results{% else %}result{% endif %}</div></a>{%- endfor -%}
         </div>
         <h3 class="ui header">Website Links<a class="ui basic horizontal label" href="#website-links"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui small secondary fluid vertical menu">
