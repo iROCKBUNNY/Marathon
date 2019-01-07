@@ -2,7 +2,7 @@
     <div class="ui container">
         <h2 id="timing-results" class="ui header"><i class="stopwatch icon"></i>Timing Results</h2>
         {%- for item in site.data.timing_results -%}
-            <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }} Timing Results</h3>
+            <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>
             <table class="ui unstackable selectable celled definition table">
                 <thead>
                     <tr>
@@ -21,7 +21,7 @@
                 <tbody>
                     {%- for result in item.results -%}
                         <tr{% if result.personal_best %} id="personal-best"{% endif %}>
-                            <td class="single line">{{ result.date }}{% if result.bib_number %}<br>{% if result.personal_best %}<div class="ui yellow horizontal label"><i class="medal icon"></i>{{ result.bib_number }}<div class="detail">PB</div></div>{% else %}<div class="ui horizontal label"><i class="hashtag icon"></i>{{ result.bib_number }}</div>{% endif %}{% endif %}</td>
+                            <td class="single line">{{ result.date }}{% if result.bib_number %}<br>{% if result.personal_best %}<div class="ui yellow horizontal label" data-tooltip="PB" data-position="top center" data-inverted=""><i class="medal icon"></i>{{ result.bib_number }}</div>{% else %}<div class="ui horizontal label"><i class="hashtag icon"></i>{{ result.bib_number }}</div>{% endif %}{% endif %}</td>
                             {%- for check_point in result.check_points -%}<td class="right aligned{% if check_point.state %} {{ check_point.state }}{% endif %}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
