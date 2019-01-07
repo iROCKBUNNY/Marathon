@@ -2,7 +2,7 @@
     <div class="ui container">
         <h2 id="toc" class="ui header"><i class="list alternate icon"></i>Table of Contents</h2>
         <h3 class="ui header">Training Plans<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#training-plans"><i class="arrow right icon"></i>View</a></h3>
-        <div class="ui small secondary fluid vertical menu">
+        <div class="ui fluid vertical menu">
             {%- for item in site.data.training_plans -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}">{{ item.race }}<div class="ui {{ item.progress.color }} label"><i class="{{ item.progress.icon }} icon"></i>{{ item.weeks.size }} {% if item.weeks.size > 1 %}weeks{% else %}week{% endif %}
                 {%- if item.progress.icon == 'play' -%}
                     {%- assign elapsed_days = 0 -%}
@@ -20,11 +20,11 @@
             </div></a>{%- endfor -%}
         </div>
         <h3 class="ui header">Timing Results<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#timing-results"><i class="arrow right icon"></i>View</a></h3>
-        <div class="ui small secondary fluid vertical menu">
+        <div class="ui fluid vertical menu">
             {%- for item in site.data.timing_results -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }}<div class="ui label"><i class="stopwatch icon"></i>{{ item.results.size }} {% if item.results.size > 1 %}results{% else %}result{% endif %}</div></a>{%- endfor -%}
         </div>
         <h3 class="ui header">Website Links<a class="ui basic horizontal label" href="#website-links"><i class="arrow right icon"></i>View</a></h3>
-        <div class="ui small secondary fluid vertical menu">
+        <div class="ui fluid vertical menu">
             {%- for item in site.data.website_links -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.name | slugify }}">{{ item.name }}<div class="ui label"><i class="linkify icon"></i>{{ item.websites.size }} {% if item.websites.size > 1 %}links{% else %}link{% endif %}</div></a>{%- endfor -%}
         </div>
     </div>
