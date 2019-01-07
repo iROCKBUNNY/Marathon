@@ -147,7 +147,7 @@
       state: green
     - date: 01-08
       content: rest
-      state: disabled
+      state: green
     - date: 01-09
       content: 3km
       state: disabled
