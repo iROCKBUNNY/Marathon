@@ -25,7 +25,7 @@
         </div>
         <h3 class="ui header">Website Links<a class="ui basic horizontal label" href="#website-links"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui small secondary fluid vertical menu">
-            {%- for item in site.data.website_links -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.name | slugify }}">{{ item.name }}<div class="ui label"><i class="linkify icon"></i>{{ item.websites.size }} {% if item.websites.size > 1 %}websites{% else %}website{% endif %}</div></a>{%- endfor -%}
+            {%- for item in site.data.website_links -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.name | slugify }}">{{ item.name }}<div class="ui label"><i class="linkify icon"></i>{{ item.websites.size }} {% if item.websites.size > 1 %}links{% else %}link{% endif %}</div></a>{%- endfor -%}
         </div>
     </div>
 </div>
