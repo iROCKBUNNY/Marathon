@@ -1,4 +1,4 @@
-- name: Organization Websites
+- name: Organization Website Links
   websites:
   - name: China Marathon
     url: http://www.runchina.org.cn/
@@ -16,7 +16,7 @@
     url: http://aims-worldrunning.org/calendar.html
     flag: gr
 
-- name: Race Websites
+- name: Race Website Links
   websites:
   - name: CFLD Beijing Marathon
     url: http://www.beijing-marathon.com/
