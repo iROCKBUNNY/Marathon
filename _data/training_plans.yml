@@ -14,13 +14,13 @@
       content: 3km
       state: disabled
     - date: 02-21
-      content: 3km
+      content: 5km
       state: disabled
     - date: 02-22
       content: rest
       state: disabled
     - date: 02-23
-      content: 5km
+      content: 10km
       state: disabled
     - date: 02-24
       content: rest
@@ -33,7 +33,7 @@
       content: 5km
       state: disabled
     - date: 02-27
-      content: 5km
+      content: 10km
       state: disabled
     - date: 02-28
       content: 5km
@@ -42,7 +42,7 @@
       content: rest
       state: disabled
     - date: 03-02
-      content: 10km
+      content: 21km
       state: disabled
     - date: 03-03
       content: rest
@@ -52,19 +52,19 @@
       content: rest
       state: disabled
     - date: 03-05
-      content: 5km
+      content: 6km
       state: disabled
     - date: 03-06
-      content: 8km
+      content: 12km
       state: disabled
     - date: 03-07
-      content: 5km
+      content: 6km
       state: disabled
     - date: 03-08
       content: rest
       state: disabled
     - date: 03-09
-      content: 15km
+      content: 25km
       state: disabled
     - date: 03-10
       content: rest
@@ -74,19 +74,19 @@
       content: rest
       state: disabled
     - date: 03-12
-      content: 5km
+      content: 6km
       state: disabled
     - date: 03-13
-      content: 10km
+      content: 15km
       state: disabled
     - date: 03-14
-      content: 5km
+      content: 8km
       state: disabled
     - date: 03-15
       content: rest
       state: disabled
     - date: 03-16
-      content: 21km
+      content: 30km
       state: disabled
     - date: 03-17
       content: rest
