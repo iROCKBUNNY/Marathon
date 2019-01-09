@@ -152,13 +152,13 @@
       content: 3km
       state: green
     - date: 01-10
-      content: 3km
+      content: 5km
       state: disabled
     - date: 01-11
       content: rest
       state: disabled
     - date: 01-12
-      content: 5km
+      content: 10km
       state: disabled
     - date: 01-13
       content: rest
@@ -171,7 +171,7 @@
       content: 5km
       state: disabled
     - date: 01-16
-      content: 5km
+      content: 10km
       state: disabled
     - date: 01-17
       content: 5km
@@ -180,7 +180,7 @@
       content: rest
       state: disabled
     - date: 01-19
-      content: 10km
+      content: 21km
       state: disabled
     - date: 01-20
       content: rest
@@ -190,19 +190,19 @@
       content: rest
       state: disabled
     - date: 01-22
-      content: 5km
+      content: 6km
       state: disabled
     - date: 01-23
-      content: 8km
+      content: 12km
       state: disabled
     - date: 01-24
-      content: 5km
+      content: 6km
       state: disabled
     - date: 01-25
       content: rest
       state: disabled
     - date: 01-26
-      content: 15km
+      content: 25km
       state: disabled
     - date: 01-27
       content: rest
@@ -212,19 +212,19 @@
       content: rest
       state: disabled
     - date: 01-29
-      content: 5km
+      content: 6km
       state: disabled
     - date: 01-30
-      content: 10km
+      content: 15km
       state: disabled
     - date: 01-31
-      content: 5km
+      content: 8km
       state: disabled
     - date: 02-01
       content: rest
       state: disabled
     - date: 02-02
-      content: 21km
+      content: 30km
       state: disabled
     - date: 02-03
       content: rest
