@@ -139,7 +139,7 @@
 - race: 2019-02-17 Hong Kong Marathon
   progress:
     color: orange
-    icon: play
+    icon: running
   weeks:
   - days:
     - date: 01-07
