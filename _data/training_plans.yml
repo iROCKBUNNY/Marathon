@@ -151,7 +151,7 @@
       content: 5km
       state: green
     - date: 01-11
-      content: rest
+      content: green
       state: disabled
     - date: 01-12
       content: 10km
