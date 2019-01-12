@@ -154,8 +154,8 @@
       content: rest
       state: green
     - date: 01-12
-      content: 10km
-      state: disabled
+      content: rest
+      state: orange
     - date: 01-13
       content: rest
       state: disabled
