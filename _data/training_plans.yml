@@ -157,8 +157,8 @@
       content: rest
       state: orange
     - date: 01-13
-      content: rest
-      state: disabled
+      content: 10km
+      state: orange
   - days:
     - date: 01-14
       content: rest
