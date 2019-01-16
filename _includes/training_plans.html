@@ -2,7 +2,17 @@
     <div class="ui container">
         <h2 id="training-plans" class="ui header"><i class="route icon"></i>Training Plans</h2>
         {%- for item in site.data.training_plans -%}
-            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}</h3>
+            {%- assign completed_distance = 0 -%}
+            {%- assign total_distance = 0 -%}
+            {%- for week in item.weeks -%}
+                {%- for day in week.days -%}
+                    {%- unless day.state == 'disabled' -%}
+                        {%- assign completed_distance = completed_distance | plus: day.distance -%}
+                    {%- endunless -%}
+                    {%- assign total_distance = total_distance | plus: day.distance %}
+                {%- endfor -%}
+            {%- endfor -%}
+            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui basic horizontal label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km<div class="detail">{{ completed_distance | divided_by: total_distance | times: 100 | round }}%</div></div></h3>
             <table class="ui unstackable selectable celled definition table">
                 <thead>
                     <tr>
