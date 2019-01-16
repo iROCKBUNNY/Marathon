@@ -3,135 +3,135 @@
   weeks:
   - days:
     - date: 02-18
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-19
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-20
-      content: 3km
+      distance: 3
       state: disabled
     - date: 02-21
-      content: 5km
+      distance: 5
       state: disabled
     - date: 02-22
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-23
-      content: 10km
+      distance: 10
       state: disabled
     - date: 02-24
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 02-25
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-26
-      content: 5km
+      distance: 5
       state: disabled
     - date: 02-27
-      content: 10km
+      distance: 10
       state: disabled
     - date: 02-28
-      content: 5km
+      distance: 5
       state: disabled
     - date: 03-01
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-02
-      content: 21km
+      distance: 21
       state: disabled
     - date: 03-03
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 03-04
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-05
-      content: 6km
+      distance: 6
       state: disabled
     - date: 03-06
-      content: 12km
+      distance: 12
       state: disabled
     - date: 03-07
-      content: 6km
+      distance: 6
       state: disabled
     - date: 03-08
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-09
-      content: 25km
+      distance: 25
       state: disabled
     - date: 03-10
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 03-11
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-12
-      content: 6km
+      distance: 6
       state: disabled
     - date: 03-13
-      content: 15km
+      distance: 15
       state: disabled
     - date: 03-14
-      content: 8km
+      distance: 8
       state: disabled
     - date: 03-15
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-16
-      content: 30km
+      distance: 30
       state: disabled
     - date: 03-17
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 03-18
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-19
-      content: 8km
+      distance: 8
       state: disabled
     - date: 03-20
-      content: 15km
+      distance: 15
       state: disabled
     - date: 03-21
-      content: 8km
+      distance: 8
       state: disabled
     - date: 03-22
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-23
-      content: 15km
+      distance: 15
       state: disabled
     - date: 03-24
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 03-25
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-26
-      content: 5km
+      distance: 5
       state: disabled
     - date: 03-27
-      content: 8km
+      distance: 8
       state: disabled
     - date: 03-28
-      content: 3km
+      distance: 3
       state: disabled
     - date: 03-29
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-30
-      content: rest
+      distance: 0
       state: disabled
     - date: 03-31
-      content: 42.195km
+      distance: 42.195
       state: disabled
 
 - race: 2019-02-17 Hong Kong Marathon
@@ -139,135 +139,135 @@
   weeks:
   - days:
     - date: 01-07
-      content: rest
+      distance: 0
       state: green
     - date: 01-08
-      content: rest
+      distance: 0
       state: green
     - date: 01-09
-      content: 3km
+      distance: 3
       state: green
     - date: 01-10
-      content: 5km
+      distance: 5
       state: green
     - date: 01-11
-      content: rest
+      distance: 0
       state: green
     - date: 01-12
-      content: rest
+      distance: 0
       state: orange
     - date: 01-13
-      content: 10km
+      distance: 10
       state: orange
   - days:
     - date: 01-14
-      content: rest
+      distance: 0
       state: green
     - date: 01-15
-      content: 5km
+      distance: 5
       state: green
     - date: 01-16
-      content: 10km
+      distance: 10
       state: green
     - date: 01-17
-      content: 5km
+      distance: 5
       state: disabled
     - date: 01-18
-      content: rest
+      distance: 0
       state: disabled
     - date: 01-19
-      content: 21km
+      distance: 21
       state: disabled
     - date: 01-20
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 01-21
-      content: rest
+      distance: 0
       state: disabled
     - date: 01-22
-      content: 6km
+      distance: 6
       state: disabled
     - date: 01-23
-      content: 12km
+      distance: 12
       state: disabled
     - date: 01-24
-      content: 6km
+      distance: 6
       state: disabled
     - date: 01-25
-      content: rest
+      distance: 0
       state: disabled
     - date: 01-26
-      content: 25km
+      distance: 25
       state: disabled
     - date: 01-27
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 01-28
-      content: rest
+      distance: 0
       state: disabled
     - date: 01-29
-      content: 6km
+      distance: 6
       state: disabled
     - date: 01-30
-      content: 15km
+      distance: 15
       state: disabled
     - date: 01-31
-      content: 8km
+      distance: 8
       state: disabled
     - date: 02-01
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-02
-      content: 30km
+      distance: 30
       state: disabled
     - date: 02-03
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 02-04
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-05
-      content: 8km
+      distance: 8
       state: disabled
     - date: 02-06
-      content: 15km
+      distance: 15
       state: disabled
     - date: 02-07
-      content: 8km
+      distance: 8
       state: disabled
     - date: 02-08
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-09
-      content: 15km
+      distance: 15
       state: disabled
     - date: 02-10
-      content: rest
+      distance: 0
       state: disabled
   - days:
     - date: 02-11
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-12
-      content: 5km
+      distance: 5
       state: disabled
     - date: 02-13
-      content: 8km
+      distance: 8
       state: disabled
     - date: 02-14
-      content: 3km
+      distance: 3
       state: disabled
     - date: 02-15
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-16
-      content: rest
+      distance: 0
       state: disabled
     - date: 02-17
-      content: 42.195km
+      distance: 42.195
       state: disabled
 
 - race: 2019-01-06 Xiamen Marathon
@@ -275,91 +275,91 @@
   weeks:
   - days:
     - date: 12-10
-      content: rest
+      distance: 0
       state: green
     - date: 12-11
-      content: rest
+      distance: 0
       state: green
     - date: 12-12
-      content: rest
+      distance: 0
       state: orange
     - date: 12-13
-      content: 3km
+      distance: 3
       state: green
     - date: 12-14
-      content: rest
+      distance: 0
       state: green
     - date: 12-15
-      content: 5km
+      distance: 5
       state: green
     - date: 12-16
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 12-17
-      content: rest
+      distance: 0
       state: green
     - date: 12-18
-      content: 5km
+      distance: 5
       state: green
     - date: 12-19
-      content: 5km
+      distance: 5
       state: green
     - date: 12-20
-      content: 5km
+      distance: 5
       state: green
     - date: 12-21
-      content: rest
+      distance: 0
       state: green
     - date: 12-22
-      content: 10km
+      distance: 10
       state: green
     - date: 12-23
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 12-24
-      content: rest
+      distance: 0
       state: green
     - date: 12-25
-      content: 5km
+      distance: 5
       state: green
     - date: 12-26
-      content: rest
+      distance: 0
       state: orange
     - date: 12-27
-      content: rest
+      distance: 0
       state: orange
     - date: 12-28
-      content: rest
+      distance: 0
       state: green
     - date: 12-29
-      content: 15km
+      distance: 15
       state: green
     - date: 12-30
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 12-31
-      content: rest
+      distance: 0
       state: green
     - date: 01-01
-      content: 5km
+      distance: 5
       state: green
     - date: 01-02
-      content: 8km
+      distance: 8
       state: green
     - date: 01-03
-      content: 3km
+      distance: 3
       state: green
     - date: 01-04
-      content: rest
+      distance: 0
       state: green
     - date: 01-05
-      content: rest
+      distance: 0
       state: green
     - date: 01-06
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2018-12-09 Guangzhou Marathon
@@ -367,113 +367,113 @@
   weeks:
   - days:
     - date: 11-05
-      content: rest
+      distance: 0
       state: green
     - date: 11-06
-      content: rest
+      distance: 0
       state: green
     - date: 11-07
-      content: 3km
+      distance: 3
       state: green
     - date: 11-08
-      content: rest
+      distance: 0
       state: orange
     - date: 11-09
-      content: rest
+      distance: 0
       state: green
     - date: 11-10
-      content: 5km
+      distance: 5
       state: green
     - date: 11-11
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 11-12
-      content: rest
+      distance: 0
       state: green
     - date: 11-13
-      content: 5km
+      distance: 5
       state: green
     - date: 11-14
-      content: 5km
+      distance: 5
       state: green
     - date: 11-15
-      content: 5km
+      distance: 5
       state: green
     - date: 11-16
-      content: rest
+      distance: 0
       state: green
     - date: 11-17
-      content: 10km
+      distance: 10
       state: green
     - date: 11-18
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 11-19
-      content: rest
+      distance: 0
       state: green
     - date: 11-20
-      content: 5km
+      distance: 5
       state: green
     - date: 11-21
-      content: 8km
+      distance: 8
       state: green
     - date: 11-22
-      content: 5km
+      distance: 5
       state: green
     - date: 11-23
-      content: rest
+      distance: 0
       state: green
     - date: 11-24
-      content: rest
+      distance: 0
       state: orange
     - date: 11-25
-      content: 15km
+      distance: 15
       state: orange
   - days:
     - date: 11-26
-      content: rest
+      distance: 0
       state: green
     - date: 11-27
-      content: 5km
+      distance: 5
       state: green
     - date: 11-28
-      content: 10km
+      distance: 10
       state: green
     - date: 11-29
-      content: 5km
+      distance: 5
       state: green
     - date: 11-30
-      content: rest
+      distance: 0
       state: green
     - date: 12-01
-      content: rest
+      distance: 0
       state: orange
     - date: 12-02
-      content: 10km
+      distance: 10
       state: orange
   - days:
     - date: 12-03
-      content: rest
+      distance: 0
       state: green
     - date: 12-04
-      content: 5km
+      distance: 5
       state: green
     - date: 12-05
-      content: 8km
+      distance: 8
       state: green
     - date: 12-06
-      content: rest
+      distance: 0
       state: orange
     - date: 12-07
-      content: rest
+      distance: 0
       state: green
     - date: 12-08
-      content: rest
+      distance: 0
       state: green
     - date: 12-09
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2018-11-04 Hangzhou Marathon
@@ -481,69 +481,69 @@
   weeks:
   - days:
     - date: 10-15
-      content: rest
+      distance: 0
       state: green
     - date: 10-16
-      content: rest
+      distance: 0
       state: green
     - date: 10-17
-      content: 3km
+      distance: 3
       state: green
     - date: 10-18
-      content: 3km
+      distance: 3
       state: green
     - date: 10-19
-      content: rest
+      distance: 0
       state: green
     - date: 10-20
-      content: 5km
+      distance: 5
       state: green
     - date: 10-21
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 10-22
-      content: rest
+      distance: 0
       state: green
     - date: 10-23
-      content: 5km
+      distance: 5
       state: green
     - date: 10-24
-      content: 5km
+      distance: 5
       state: green
     - date: 10-25
-      content: 5km
+      distance: 5
       state: green
     - date: 10-26
-      content: rest
+      distance: 0
       state: green
     - date: 10-27
-      content: 10km
+      distance: 10
       state: green
     - date: 10-28
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 10-29
-      content: rest
+      distance: 0
       state: green
     - date: 10-30
-      content: 5km
+      distance: 5
       state: green
     - date: 10-31
-      content: 8km
+      distance: 8
       state: green
     - date: 11-01
-      content: rest
+      distance: 0
       state: orange
     - date: 11-02
-      content: rest
+      distance: 0
       state: green
     - date: 11-03
-      content: rest
+      distance: 0
       state: green
     - date: 11-04
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2018-10-14 Zhengzhou Yanhuang Marathon
@@ -551,91 +551,91 @@
   weeks:
   - days:
     - date: 09-17
-      content: rest
+      distance: 0
       state: green
     - date: 09-18
-      content: rest
+      distance: 0
       state: green
     - date: 09-19
-      content: 3km
+      distance: 3
       state: green
     - date: 09-20
-      content: rest
+      distance: 0
       state: orange
     - date: 09-21
-      content: rest
+      distance: 0
       state: green
     - date: 09-22
-      content: rest
+      distance: 0
       state: green
     - date: 09-23
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 09-24
-      content: 3km
+      distance: 3
       state: orange
     - date: 09-25
-      content: 5km
+      distance: 5
       state: green
     - date: 09-26
-      content: 5km
+      distance: 5
       state: green
     - date: 09-27
-      content: rest
+      distance: 0
       state: orange
     - date: 09-28
-      content: 5km
+      distance: 5
       state: orange
     - date: 09-29
-      content: 10km
+      distance: 10
       state: green
     - date: 09-30
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 10-01
-      content: rest
+      distance: 0
       state: green
     - date: 10-02
-      content: 5km
+      distance: 5
       state: green
     - date: 10-03
-      content: 8km
+      distance: 8
       state: green
     - date: 10-04
-      content: 5km
+      distance: 5
       state: green
     - date: 10-05
-      content: rest
+      distance: 0
       state: green
     - date: 10-06
-      content: 15km
+      distance: 15
       state: green
     - date: 10-07
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 10-08
-      content: rest
+      distance: 0
       state: green
     - date: 10-09
-      content: 5km
+      distance: 5
       state: green
     - date: 10-10
-      content: 8km
+      distance: 8
       state: green
     - date: 10-11
-      content: 3km
+      distance: 3
       state: green
     - date: 10-12
-      content: rest
+      distance: 0
       state: green
     - date: 10-13
-      content: rest
+      distance: 0
       state: green
     - date: 10-14
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2018-09-16 Beijing Marathon
@@ -643,201 +643,201 @@
   weeks:
   - days:
     - date: 07-16
-      content: rest
+      distance: 0
       state: green
     - date: 07-17
-      content: 3km
+      distance: 3
       state: green
     - date: 07-18
-      content: rest
+      distance: 0
       state: green
     - date: 07-19
-      content: 5km
+      distance: 5
       state: green
     - date: 07-20
-      content: rest
+      distance: 0
       state: green
     - date: 07-21
-      content: 10km
+      distance: 10
       state: green
     - date: 07-22
-      content: 5km
+      distance: 5
       state: orange
   - days:
     - date: 07-23
-      content: rest
+      distance: 0
       state: green
     - date: 07-24
-      content: 5km
+      distance: 5
       state: green
     - date: 07-25
-      content: 5km
+      distance: 5
       state: green
     - date: 07-26
-      content: 5km
+      distance: 5
       state: green
     - date: 07-27
-      content: rest
+      distance: 0
       state: green
     - date: 07-28
-      content: 10km
+      distance: 10
       state: green
     - date: 07-29
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 07-30
-      content: rest
+      distance: 0
       state: green
     - date: 07-31
-      content: 5km
+      distance: 5
       state: green
     - date: 08-01
-      content: 6km
+      distance: 6
       state: green
     - date: 08-02
-      content: 5km
+      distance: 5
       state: green
     - date: 08-03
-      content: rest
+      distance: 0
       state: green
     - date: 08-04
-      content: 8km
+      distance: 8
       state: green
     - date: 08-05
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 08-06
-      content: rest
+      distance: 0
       state: green
     - date: 08-07
-      content: 5km
+      distance: 5
       state: green
     - date: 08-08
-      content: 8km
+      distance: 8
       state: green
     - date: 08-09
-      content: 5km
+      distance: 5
       state: green
     - date: 08-10
-      content: rest
+      distance: 0
       state: green
     - date: 08-11
-      content: 15km
+      distance: 15
       state: green
     - date: 08-12
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 08-13
-      content: rest
+      distance: 0
       state: green
     - date: 08-14
-      content: 5km
+      distance: 5
       state: green
     - date: 08-15
-      content: 10km
+      distance: 10
       state: green
     - date: 08-16
-      content: 5km
+      distance: 5
       state: green
     - date: 08-17
-      content: rest
+      distance: 0
       state: green
     - date: 08-18
-      content: 21km
+      distance: 21
       state: green
     - date: 08-19
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 08-20
-      content: rest
+      distance: 0
       state: green
     - date: 08-21
-      content: 6km
+      distance: 6
       state: green
     - date: 08-22
-      content: 12km
+      distance: 12
       state: green
     - date: 08-23
-      content: 6km
+      distance: 6
       state: green
     - date: 08-24
-      content: rest
+      distance: 0
       state: green
     - date: 08-25
-      content: 25km
+      distance: 25
       state: green
     - date: 08-26
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 08-27
-      content: rest
+      distance: 0
       state: green
     - date: 08-28
-      content: rest
+      distance: 0
       state: orange
     - date: 08-29
-      content: 15km
+      distance: 15
       state: green
     - date: 08-30
-      content: 8km
+      distance: 8
       state: green
     - date: 08-31
-      content: rest
+      distance: 0
       state: green
     - date: 09-01
-      content: 30km
+      distance: 30
       state: green
     - date: 09-02
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 09-03
-      content: rest
+      distance: 0
       state: green
     - date: 09-04
-      content: 8km
+      distance: 8
       state: green
     - date: 09-05
-      content: 15km
+      distance: 15
       state: green
     - date: 09-06
-      content: 8km
+      distance: 8
       state: green
     - date: 09-07
-      content: rest
+      distance: 0
       state: green
     - date: 09-08
-      content: 10km
+      distance: 10
       state: orange
     - date: 09-09
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 09-10
-      content: rest
+      distance: 0
       state: green
     - date: 09-11
-      content: 5km
+      distance: 5
       state: green
     - date: 09-12
-      content: 8km
+      distance: 8
       state: green
     - date: 09-13
-      content: 3km
+      distance: 3
       state: green
     - date: 09-14
-      content: rest
+      distance: 0
       state: green
     - date: 09-15
-      content: rest
+      distance: 0
       state: green
     - date: 09-16
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2018-05-13 Qinhuangdao Marathon
@@ -845,223 +845,223 @@
   weeks:
   - days:
     - date: 03-05
-      content: rest
+      distance: 0
       state: green
     - date: 03-06
-      content: 5km
+      distance: 5
       state: green
     - date: 03-07
-      content: rest
+      distance: 0
       state: green
     - date: 03-08
-      content: 5km
+      distance: 5
       state: green
     - date: 03-09
-      content: rest
+      distance: 0
       state: green
     - date: 03-10
-      content: 5km
+      distance: 5
       state: green
     - date: 03-11
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-12
-      content: rest
+      distance: 0
       state: green
     - date: 03-13
-      content: 5km
+      distance: 5
       state: green
     - date: 03-14
-      content: 5km
+      distance: 5
       state: green
     - date: 03-15
-      content: 5km
+      distance: 5
       state: green
     - date: 03-16
-      content: rest
+      distance: 0
       state: green
     - date: 03-17
-      content: 5km
+      distance: 5
       state: green
     - date: 03-18
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-19
-      content: rest
+      distance: 0
       state: green
     - date: 03-20
-      content: 5km
+      distance: 5
       state: green
     - date: 03-21
-      content: 5km
+      distance: 5
       state: green
     - date: 03-22
-      content: 5km
+      distance: 5
       state: green
     - date: 03-23
-      content: rest
+      distance: 0
       state: green
     - date: 03-24
-      content: 10km
+      distance: 10
       state: green
     - date: 03-25
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-26
-      content: rest
+      distance: 0
       state: green
     - date: 03-27
-      content: 5km
+      distance: 5
       state: green
     - date: 03-28
-      content: 6km
+      distance: 6
       state: green
     - date: 03-29
-      content: 5km
+      distance: 5
       state: green
     - date: 03-30
-      content: rest
+      distance: 0
       state: green
     - date: 03-31
-      content: 8km
+      distance: 8
       state: green
     - date: 04-01
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-02
-      content: rest
+      distance: 0
       state: green
     - date: 04-03
-      content: 5km
+      distance: 5
       state: green
     - date: 04-04
-      content: 8km
+      distance: 8
       state: green
     - date: 04-05
-      content: 5km
+      distance: 5
       state: green
     - date: 04-06
-      content: rest
+      distance: 0
       state: green
     - date: 04-07
-      content: 15km
+      distance: 15
       state: green
     - date: 04-08
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-09
-      content: rest
+      distance: 0
       state: green
     - date: 04-10
-      content: 5km
+      distance: 5
       state: green
     - date: 04-11
-      content: 10km
+      distance: 10
       state: green
     - date: 04-12
-      content: 5km
+      distance: 5
       state: green
     - date: 04-13
-      content: rest
+      distance: 0
       state: green
     - date: 04-14
-      content: 21km
+      distance: 21
       state: green
     - date: 04-15
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-16
-      content: rest
+      distance: 0
       state: green
     - date: 04-17
-      content: 6km
+      distance: 6
       state: green
     - date: 04-18
-      content: 12km
+      distance: 12
       state: green
     - date: 04-19
-      content: 6km
+      distance: 6
       state: green
     - date: 04-20
-      content: rest
+      distance: 0
       state: green
     - date: 04-21
-      content: 25km
+      distance: 25
       state: green
     - date: 04-22
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-23
-      content: rest
+      distance: 0
       state: green
     - date: 04-24
-      content: 6km
+      distance: 6
       state: green
     - date: 04-25
-      content: 15km
+      distance: 15
       state: green
     - date: 04-26
-      content: 8km
+      distance: 8
       state: green
     - date: 04-27
-      content: rest
+      distance: 0
       state: green
     - date: 04-28
-      content: 30km
+      distance: 30
       state: green
     - date: 04-29
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-30
-      content: rest
+      distance: 0
       state: green
     - date: 05-01
-      content: 8km
+      distance: 8
       state: green
     - date: 05-02
-      content: 15km
+      distance: 15
       state: green
     - date: 05-03
-      content: 8km
+      distance: 8
       state: green
     - date: 05-04
-      content: rest
+      distance: 0
       state: green
     - date: 05-05
-      content: 15km
+      distance: 15
       state: green
     - date: 05-06
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 05-07
-      content: rest
+      distance: 0
       state: green
     - date: 05-08
-      content: 5km
+      distance: 5
       state: green
     - date: 05-09
-      content: 8km
+      distance: 8
       state: green
     - date: 05-10
-      content: 3km
+      distance: 3
       state: green
     - date: 05-11
-      content: rest
+      distance: 0
       state: green
     - date: 05-12
-      content: rest
+      distance: 0
       state: green
     - date: 05-13
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2017-05-14 Qinhuangdao Marathon
@@ -1069,201 +1069,201 @@
   weeks:
   - days:
     - date: 03-13
-      content: rest
+      distance: 0
       state: green
     - date: 03-14
-      content: 5km
+      distance: 5
       state: green
     - date: 03-15
-      content: 5km
+      distance: 5
       state: green
     - date: 03-16
-      content: 5km
+      distance: 5
       state: green
     - date: 03-17
-      content: rest
+      distance: 0
       state: green
     - date: 03-18
-      content: 10km
+      distance: 10
       state: green
     - date: 03-19
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-20
-      content: rest
+      distance: 0
       state: green
     - date: 03-21
-      content: rest
+      distance: 0
       state: orange
     - date: 03-22
-      content: rest
+      distance: 0
       state: orange
     - date: 03-23
-      content: rest
+      distance: 0
       state: orange
     - date: 03-24
-      content: rest
+      distance: 0
       state: green
     - date: 03-25
-      content: rest
+      distance: 0
       state: orange
     - date: 03-26
-      content: 5km
+      distance: 5
       state: orange
   - days:
     - date: 03-27
-      content: rest
+      distance: 0
       state: green
     - date: 03-28
-      content: 5km
+      distance: 5
       state: green
     - date: 03-29
-      content: 6km
+      distance: 6
       state: green
     - date: 03-30
-      content: 5km
+      distance: 5
       state: green
     - date: 03-31
-      content: rest
+      distance: 0
       state: green
     - date: 04-01
-      content: 8km
+      distance: 8
       state: green
     - date: 04-02
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-03
-      content: rest
+      distance: 0
       state: green
     - date: 04-04
-      content: 5km
+      distance: 5
       state: green
     - date: 04-05
-      content: 8km
+      distance: 8
       state: green
     - date: 04-06
-      content: 5km
+      distance: 5
       state: green
     - date: 04-07
-      content: rest
+      distance: 0
       state: green
     - date: 04-08
-      content: 15km
+      distance: 15
       state: green
     - date: 04-09
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-10
-      content: rest
+      distance: 0
       state: green
     - date: 04-11
-      content: 5km
+      distance: 5
       state: green
     - date: 04-12
-      content: 10km
+      distance: 10
       state: green
     - date: 04-13
-      content: 5km
+      distance: 5
       state: green
     - date: 04-14
-      content: rest
+      distance: 0
       state: green
     - date: 04-15
-      content: 21km
+      distance: 21
       state: green
     - date: 04-16
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-17
-      content: rest
+      distance: 0
       state: green
     - date: 04-18
-      content: 6km
+      distance: 6
       state: green
     - date: 04-19
-      content: 12km
+      distance: 12
       state: green
     - date: 04-20
-      content: 6km
+      distance: 6
       state: green
     - date: 04-21
-      content: rest
+      distance: 0
       state: green
     - date: 04-22
-      content: 25km
+      distance: 25
       state: green
     - date: 04-23
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-24
-      content: rest
+      distance: 0
       state: green
     - date: 04-25
-      content: 6km
+      distance: 6
       state: green
     - date: 04-26
-      content: 15km
+      distance: 15
       state: green
     - date: 04-27
-      content: 8km
+      distance: 8
       state: green
     - date: 04-28
-      content: rest
+      distance: 0
       state: green
     - date: 04-29
-      content: 30km
+      distance: 30
       state: green
     - date: 04-30
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 05-01
-      content: rest
+      distance: 0
       state: green
     - date: 05-02
-      content: 8km
+      distance: 8
       state: green
     - date: 05-03
-      content: 5km
+      distance: 5
       state: orange
     - date: 05-04
-      content: rest
+      distance: 0
       state: orange
     - date: 05-05
-      content: rest
+      distance: 0
       state: green
     - date: 05-06
-      content: 15km
+      distance: 15
       state: green
     - date: 05-07
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 05-08
-      content: rest
+      distance: 0
       state: green
     - date: 05-09
-      content: 5km
+      distance: 5
       state: green
     - date: 05-10
-      content: 8km
+      distance: 8
       state: green
     - date: 05-11
-      content: 3km
+      distance: 3
       state: green
     - date: 05-12
-      content: rest
+      distance: 0
       state: green
     - date: 05-13
-      content: rest
+      distance: 0
       state: green
     - date: 05-14
-      content: 42.195km
+      distance: 42.195
       state: green
 
 - race: 2016-05-01 Qinhuangdao Marathon
@@ -1271,177 +1271,177 @@
   weeks:
   - days:
     - date: 03-07
-      content: rest
+      distance: 0
       state: green
     - date: 03-08
-      content: 5km
+      distance: 5
       state: green
     - date: 03-09
-      content: 5km
+      distance: 5
       state: green
     - date: 03-10
-      content: 5km
+      distance: 5
       state: green
     - date: 03-11
-      content: rest
+      distance: 0
       state: green
     - date: 03-12
-      content: 10km
+      distance: 10
       state: green
     - date: 03-13
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-14
-      content: rest
+      distance: 0
       state: green
     - date: 03-15
-      content: 5km
+      distance: 5
       state: green
     - date: 03-16
-      content: 6km
+      distance: 6
       state: green
     - date: 03-17
-      content: 5km
+      distance: 5
       state: green
     - date: 03-18
-      content: rest
+      distance: 0
       state: green
     - date: 03-19
-      content: 8km
+      distance: 8
       state: green
     - date: 03-20
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-21
-      content: rest
+      distance: 0
       state: green
     - date: 03-22
-      content: 5km
+      distance: 5
       state: green
     - date: 03-23
-      content: 8km
+      distance: 8
       state: green
     - date: 03-24
-      content: 5km
+      distance: 5
       state: green
     - date: 03-25
-      content: rest
+      distance: 0
       state: green
     - date: 03-26
-      content: 15km
+      distance: 15
       state: green
     - date: 03-27
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 03-28
-      content: rest
+      distance: 0
       state: green
     - date: 03-29
-      content: 5km
+      distance: 5
       state: green
     - date: 03-30
-      content: 10km
+      distance: 10
       state: green
     - date: 03-31
-      content: 5km
+      distance: 5
       state: green
     - date: 04-01
-      content: rest
+      distance: 0
       state: green
     - date: 04-02
-      content: 21km
+      distance: 21
       state: green
     - date: 04-03
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-04
-      content: rest
+      distance: 0
       state: green
     - date: 04-05
-      content: 6km
+      distance: 6
       state: green
     - date: 04-06
-      content: 12km
+      distance: 12
       state: green
     - date: 04-07
-      content: 6km
+      distance: 6
       state: green
     - date: 04-08
-      content: rest
+      distance: 0
       state: green
     - date: 04-09
-      content: 25km
+      distance: 25
       state: green
     - date: 04-10
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-11
-      content: rest
+      distance: 0
       state: green
     - date: 04-12
-      content: 6km
+      distance: 6
       state: green
     - date: 04-13
-      content: 15km
+      distance: 15
       state: green
     - date: 04-14
-      content: 8km
+      distance: 8
       state: green
     - date: 04-15
-      content: rest
+      distance: 0
       state: green
     - date: 04-16
-      content: 30km
+      distance: 30
       state: green
     - date: 04-17
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-18
-      content: rest
+      distance: 0
       state: green
     - date: 04-19
-      content: 8km
+      distance: 8
       state: green
     - date: 04-20
-      content: 15km
+      distance: 15
       state: green
     - date: 04-21
-      content: 8km
+      distance: 8
       state: green
     - date: 04-22
-      content: rest
+      distance: 0
       state: green
     - date: 04-23
-      content: rest
+      distance: 0
       state: orange
     - date: 04-24
-      content: rest
+      distance: 0
       state: green
   - days:
     - date: 04-25
-      content: rest
+      distance: 0
       state: green
     - date: 04-26
-      content: 5km
+      distance: 5
       state: green
     - date: 04-27
-      content: rest
+      distance: 0
       state: orange
     - date: 04-28
-      content: 3km
+      distance: 3
       state: green
     - date: 04-29
-      content: rest
+      distance: 0
       state: green
     - date: 04-30
-      content: rest
+      distance: 0
       state: green
     - date: 05-01
-      content: 42.195km
+      distance: 42.195
       state: green
