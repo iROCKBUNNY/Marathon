@@ -168,7 +168,7 @@
       state: green
     - date: 01-16
       content: 10km
-      state: disabled
+      state: green
     - date: 01-17
       content: 5km
       state: disabled
