@@ -35,7 +35,7 @@
 - race: Hong Kong Marathon
   results:
   - date: 2019-02-17
-    bib_number:
+    bib_number: B7610
     personal_best: false
     check_points:
     - net: "0:00:00"
