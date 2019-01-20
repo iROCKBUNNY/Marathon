@@ -179,8 +179,8 @@
       distance: 0
       state: orange
     - date: 01-20
-      distance: 0
-      state: disabled
+      distance: 21
+      state: orange
   - days:
     - date: 01-21
       distance: 0
