@@ -189,11 +189,11 @@
       distance: 6
       state: green
     - date: 01-23
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-24
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-25
       distance: 0
       state: disabled
