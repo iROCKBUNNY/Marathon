@@ -198,8 +198,8 @@
       distance: 0
       state: green
     - date: 01-26
-      distance: 25
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-27
       distance: 0
       state: disabled
