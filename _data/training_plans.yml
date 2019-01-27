@@ -201,8 +201,8 @@
       distance: 0
       state: orange
     - date: 01-27
-      distance: 0
-      state: disabled
+      distance: 20
+      state: orange
   - days:
     - date: 01-28
       distance: 0
