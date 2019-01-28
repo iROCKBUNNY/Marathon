@@ -206,7 +206,7 @@
   - days:
     - date: 01-28
       distance: 0
-      state: disabled
+      state: green
     - date: 01-29
       distance: 6
       state: disabled
