@@ -209,7 +209,7 @@
       state: green
     - date: 01-29
       distance: 6
-      state: disabled
+      state: green
     - date: 01-30
       distance: 15
       state: disabled
