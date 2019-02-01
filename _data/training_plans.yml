@@ -217,8 +217,8 @@
       distance: 15
       state: orange
     - date: 02-01
-      distance: 0
-      state: disabled
+      distance: 8
+      state: orange
     - date: 02-02
       distance: 30
       state: disabled
