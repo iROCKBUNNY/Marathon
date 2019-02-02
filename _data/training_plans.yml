@@ -220,8 +220,8 @@
       distance: 8
       state: orange
     - date: 02-02
-      distance: 30
-      state: disabled
+      distance: 0
+      state: orange
     - date: 02-03
       distance: 0
       state: disabled
