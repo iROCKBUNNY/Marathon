@@ -223,8 +223,8 @@
       distance: 0
       state: orange
     - date: 02-03
-      distance: 0
-      state: disabled
+      distance: 30
+      state: orange
   - days:
     - date: 02-04
       distance: 0
