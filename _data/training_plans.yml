@@ -259,10 +259,10 @@
       state: green
     - date: 02-14
       distance: 3
-      state: disabled
+      state: green
     - date: 02-15
       distance: 0
-      state: disabled
+      state: green
     - date: 02-16
       distance: 0
       state: disabled
