@@ -268,7 +268,7 @@
       state: green
     - date: 02-17
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2019-01-06 Xiamen Marathon
   icon: medal
