@@ -4,7 +4,7 @@
   - days:
     - date: 02-18
       distance: 0
-      state: disabled
+      state: green
     - date: 02-19
       distance: 0
       state: disabled
