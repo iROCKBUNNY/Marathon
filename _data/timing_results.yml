@@ -38,32 +38,32 @@
     bib_number: B7610
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "-:--:--"
+      segment: "--:--"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "1:18:04"
+      segment: "1:18:04"
+      state: positive
+    - net: "1:52:42"
+      segment: "34:38"
+      state: positive
+    - net: "2:28:25"
+      segment: "35:43"
+      state: positive
+    - net: "3:00:22"
+      segment: "31:57"
+      state: positive
+    - net: "3:38:30"
+      segment: "38:08"
+      state: positive
+    - net: "4:13:09"
+      segment: "34:39"
+      state: positive
+    - net: "4:50:23"
+      segment: "37:14"
+      state: positive
     - net: "5:04:46"
-      segment: "00:00"
+      segment: "14:23"
       state: positive
 
 - race: Xiamen Marathon
