@@ -9,16 +9,16 @@
       distance: 0
       state: green
     - date: 02-20
-      distance: 3
-      state: disabled
-    - date: 02-21
       distance: 5
+      state: green
+    - date: 02-21
+      distance: 8
       state: disabled
     - date: 02-22
       distance: 0
       state: disabled
     - date: 02-23
-      distance: 10
+      distance: 15
       state: disabled
     - date: 02-24
       distance: 0
