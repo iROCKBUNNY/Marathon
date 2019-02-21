@@ -13,10 +13,10 @@
       state: green
     - date: 02-21
       distance: 8
-      state: disabled
+      state: green
     - date: 02-22
       distance: 0
-      state: disabled
+      state: green
     - date: 02-23
       distance: 15
       state: disabled
