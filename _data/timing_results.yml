@@ -1,3 +1,133 @@
+- race: Qinhuangdao Marathon
+  results:
+  - date: 2019-05-12
+    bib_number:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
+  - date: 2018-05-13
+    bib_number: B1059
+    personal_best: false
+    check_points:
+    - net: "0:35:20"
+      segment: "35:20"
+      state: negative
+    - net: "1:12:37"
+      segment: "37:17"
+      state: negative
+    - net: "1:49:31"
+      segment: "36:54"
+      state: positive
+    - net: "2:24:29"
+      segment: "34:58"
+      state: positive
+    - net: "3:02:56"
+      segment: "38:27"
+      state: negative
+    - net: "3:48:19"
+      segment: "45:23"
+      state: positive
+    - net: "4:33:28"
+      segment: "45:09"
+      state: negative
+    - net: "5:15:17"
+      segment: "41:49"
+      state: positive
+    - net: "5:31:23"
+      segment: "16:06"
+      state: negative
+
+  - date: 2017-05-14
+    bib_number: A0820
+    personal_best: false
+    check_points:
+    - net: "0:33:24"
+      segment: "33:24"
+      state: positive
+    - net: "1:08:18"
+      segment: "34:54"
+      state: positive
+    - net: "1:47:58"
+      segment: "39:40"
+      state: negative
+    - net: "2:23:23"
+      segment: "35:25"
+      state: positive
+    - net: "3:01:49"
+      segment: "38:26"
+      state: positive
+    - net: "3:47:29"
+      segment: "45:40"
+      state: positive
+    - net: "4:31:11"
+      segment: "43:42"
+      state: negative
+    - net: "5:13:43"
+      segment: "42:32"
+      state: positive
+    - net: "5:28:54"
+      segment: "15:11"
+      state: negative
+
+  - date: 2016-05-01
+    bib_number: A0308
+    personal_best: false
+    check_points:
+    - net: "0:39:38"
+      segment: "39:38"
+      state: positive
+    - net: "1:18:30"
+      segment: "38:52"
+      state: positive
+    - net: "1:57:21"
+      segment: "38:51"
+      state: positive
+    - net: "2:35:10"
+      segment: "37:49"
+      state: positive
+    - net: "3:14:53"
+      segment: "39:43"
+      state: positive
+    - net: "4:00:59"
+      segment: "46:06"
+      state: positive
+    - net: "4:44:28"
+      segment: "43:29"
+      state: positive
+    - net: "5:34:40"
+      segment: "50:12"
+      state: positive
+    - net: "5:47:45"
+      segment: "13:15"
+      state: positive
+
 - race: Zhengkai Marathon
   results:
   - date: 2019-03-31
@@ -234,102 +364,4 @@
       state: positive
     - net: "4:56:08"
       segment: "15:24"
-      state: positive
-
-- race: Qinhuangdao Marathon
-  results:
-  - date: 2018-05-13
-    bib_number: B1059
-    personal_best: false
-    check_points:
-    - net: "0:35:20"
-      segment: "35:20"
-      state: negative
-    - net: "1:12:37"
-      segment: "37:17"
-      state: negative
-    - net: "1:49:31"
-      segment: "36:54"
-      state: positive
-    - net: "2:24:29"
-      segment: "34:58"
-      state: positive
-    - net: "3:02:56"
-      segment: "38:27"
-      state: negative
-    - net: "3:48:19"
-      segment: "45:23"
-      state: positive
-    - net: "4:33:28"
-      segment: "45:09"
-      state: negative
-    - net: "5:15:17"
-      segment: "41:49"
-      state: positive
-    - net: "5:31:23"
-      segment: "16:06"
-      state: negative
-
-  - date: 2017-05-14
-    bib_number: A0820
-    personal_best: false
-    check_points:
-    - net: "0:33:24"
-      segment: "33:24"
-      state: positive
-    - net: "1:08:18"
-      segment: "34:54"
-      state: positive
-    - net: "1:47:58"
-      segment: "39:40"
-      state: negative
-    - net: "2:23:23"
-      segment: "35:25"
-      state: positive
-    - net: "3:01:49"
-      segment: "38:26"
-      state: positive
-    - net: "3:47:29"
-      segment: "45:40"
-      state: positive
-    - net: "4:31:11"
-      segment: "43:42"
-      state: negative
-    - net: "5:13:43"
-      segment: "42:32"
-      state: positive
-    - net: "5:28:54"
-      segment: "15:11"
-      state: negative
-
-  - date: 2016-05-01
-    bib_number: A0308
-    personal_best: false
-    check_points:
-    - net: "0:39:38"
-      segment: "39:38"
-      state: positive
-    - net: "1:18:30"
-      segment: "38:52"
-      state: positive
-    - net: "1:57:21"
-      segment: "38:51"
-      state: positive
-    - net: "2:35:10"
-      segment: "37:49"
-      state: positive
-    - net: "3:14:53"
-      segment: "39:43"
-      state: positive
-    - net: "4:00:59"
-      segment: "46:06"
-      state: positive
-    - net: "4:44:28"
-      segment: "43:29"
-      state: positive
-    - net: "5:34:40"
-      segment: "50:12"
-      state: positive
-    - net: "5:47:45"
-      segment: "13:15"
       state: positive
