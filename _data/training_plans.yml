@@ -168,7 +168,7 @@
       state: green
     - date: 02-27
       distance: 10
-      state: disabled
+      state: green
     - date: 02-28
       distance: 5
       state: disabled
