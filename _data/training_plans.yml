@@ -174,7 +174,7 @@
       state: green
     - date: 03-01
       distance: 0
-      state: green
+      state: disabled
     - date: 03-02
       distance: 21
       state: disabled
