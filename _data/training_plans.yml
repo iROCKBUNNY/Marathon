@@ -171,10 +171,10 @@
       state: green
     - date: 02-28
       distance: 5
-      state: disabled
+      state: green
     - date: 03-01
       distance: 0
-      state: disabled
+      state: green
     - date: 03-02
       distance: 21
       state: disabled
