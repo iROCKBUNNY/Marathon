@@ -170,7 +170,7 @@
     check_points:
     - net: "*:**:**"
       segment: "**:**"
-      state: disabled
+      state: positive
     - net: "1:18:04"
       segment: "1:18:04"
       state: positive
