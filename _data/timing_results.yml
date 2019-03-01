@@ -172,7 +172,7 @@
       segment: "**:**"
       state: positive
     - net: "1:18:04"
-      segment: "1:18:04"
+      segment: "**:**"
       state: positive
     - net: "1:52:42"
       segment: "34:38"
