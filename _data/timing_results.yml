@@ -168,8 +168,8 @@
     bib_number: B7610
     personal_best: false
     check_points:
-    - net: "-:--:--"
-      segment: "--:--"
+    - net: "*:**:**"
+      segment: "**:**"
       state: disabled
     - net: "1:18:04"
       segment: "1:18:04"
