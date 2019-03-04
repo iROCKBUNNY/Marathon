@@ -184,7 +184,7 @@
   - days:
     - date: 03-04
       distance: 0
-      state: disabled
+      state: green
     - date: 03-05
       distance: 6
       state: disabled
