@@ -4,7 +4,7 @@
         {%- for section in site.data.website_links -%}
             <h3 id="{{ section.name | slugify }}" class="ui header">{{ section.name }}</h3>
             <div class="ui bulleted selection link list">
-                {%- for website in section.websites -%}<a class="item" href="{{ website.url }}" target="_blank">{% if website.flag %}<i class="{{ website.flag }} flag"></i>{% endif %}{{ website.name }}{% if website.participated %} (participated){% endif %}</a>{%- endfor -%}
+                {%- for website in section.websites -%}<a class="item" href="{{ website.url }}" target="_blank">{% if website.flag %}<i class="{{ website.flag }} flag"></i>{% endif %}{{ website.name }}</a>{%- endfor -%}
             </div>
         {%- endfor -%}
     </div>

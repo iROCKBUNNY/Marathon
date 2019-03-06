@@ -21,194 +21,155 @@
   - name: CFLD Beijing Marathon
     url: http://www.beijing-marathon.com/
     flag: cn
-    participated: true
 
   - name: Beijing Half Marathon
     url: http://www.beijing-halfmarathon.com/
     flag: cn
-    participated: false
 
   - name: Guangzhou Marathon
     url: http://www.guangzhou-marathon.com/
     flag: cn
-    participated: true
 
   - name: Shenzhen Marathon
     url: http://www.shenzhenmarathon.org/
     flag: cn
-    participated: false
 
   - name: Chongqing International Marathon
     url: http://www.cqmarathon.com/
     flag: cn
-    participated: false
 
   - name: Shanghai International Marathon
     url: http://www.shmarathon.com/
     flag: cn
-    participated: false
 
   - name: C&D Xiamen Marathon
     url: http://www.xmim.org/
     flag: cn
-    participated: true
 
   - name: Lanzhou International Marathon
     url: http://www.lzmarathon.com/
     flag: cn
-    participated: false
 
   - name: Yellow River Estuary International Marathon
     url: http://www.hhkgjmls.net/
     flag: cn
-    participated: false
 
   - name: Yangzhou Jianzhen International Half Marathon
     url: http://www.yzmls.com/
     flag: cn
-    participated: false
 
   - name: Hangzhou Marathon
     url: http://www.hzim.org/
     flag: cn
-    participated: true
 
   - name: Taiyuan International Marathon
     url: http://www.tymarathon.org/
     flag: cn
-    participated: false
 
   - name: Dalian International Marathon
     url: http://www.dlmls.org/
     flag: cn
-    participated: false
 
   - name: Hefei International Marathon
     url: http://www.hefeimarathon.com/
     flag: cn
-    participated: false
 
   - name: Hengshui Lake Marathon
     url: http://www.hengshuimalasong.com/
     flag: cn
-    participated: false
 
   - name: Wuhan Marathon
     url: http://www.wuhanmarathon.org/
     flag: cn
-    participated: false
 
   - name: Changsha Marathon
     url: http://www.changsha-marathon.com/
     flag: cn
-    participated: false
 
   - name: Qinhuangdao Marathon
     url: http://www.qhdmarathon.com/
     flag: cn
-    participated: true
 
   - name: Zhengkai Marathon
     url: http://www.zkmarathon.com/
     flag: cn
-    participated: true
 
   - name: Zhengzhou Yanhuang Marathon
     url: http://zzmarathon.com/
     flag: cn
-    participated: true
 
   - name: Xian Marathon
     url: http://www.xian42195.com/
     flag: cn
-    participated: false
 
   - name: Chengdu Marathon
     url: http://www.chengdu-marathon.org/
     flag: cn
-    participated: false
 
   - name: Standard Chartered Hong Kong Marathon
     url: https://www.hkmarathon.com/
     flag: hk
-    participated: true
 
   - name: Macao Galaxy Entertainment International Marathon
     url: http://www.macaomarathon.com/
     flag: mo
-    participated: false
 
   - name: Taipei Marathon
     url: http://www.taipeicitymarathon.com/
     flag: tw
-    participated: false
 
   - name: New Taipei City Wan Jin Shi Marathon
     url: http://www.wanjinshi-marathon.com.tw/
     flag: tw
-    participated: false
 
   - name: Standard Chartered Singapore Marathon
     url: https://singaporemarathon.com/
     flag: sg
-    participated: false
 
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
-    participated: false
 
   - name: Osaka Marathon
     url: http://www.osaka-marathon.com/
     flag: jp
-    participated: false
 
   - name: Kyoto Marathon
     url: https://www.kyoto-marathon.com/
     flag: jp
-    participated: false
 
   - name: Okinawa Marathon
     url: http://okinawa-marathon.com/
     flag: jp
-    participated: false
 
   - name: Lake Biwa Mainichi Marathon
     url: http://www.lakebiwa-marathon.com/
     flag: jp
-    participated: false
 
   - name: Nagano Marathon
     url: https://www.naganomarathon.gr.jp/
     flag: jp
-    participated: false
 
   - name: Kobe Marathon
     url: http://kobe-marathon.net/
     flag: jp
-    participated: false
 
   - name: Saitama International Marathon
     url: https://saitama-international-marathon.jp/
     flag: jp
-    participated: false
 
   - name: Fukuoka International Open Marathon Championships
     url: http://www.fukuoka-marathon.com/
     flag: jp
-    participated: false
 
   - name: Seoul Marathon
     url: http://www.seoul-marathon.com/
     flag: kr
-    participated: false
 
   - name: Daegu International Marathon
     url: http://marathon.daegusports.or.kr/
     flag: kr
-    participated: false
 
   - name: Mangyongdae Prize Marathon
     url: http://pyongyangmarathon.com/
     flag: kp
-    participated: false
