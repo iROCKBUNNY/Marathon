@@ -22,6 +22,10 @@
     url: http://www.beijing-marathon.com/
     flag: cn
 
+  - name: Beijing Half Marathon
+    url: http://www.beijing-halfmarathon.com/
+    flag: cn
+
   - name: Guangzhou Marathon
     url: http://www.guangzhou-marathon.com/
     flag: cn
