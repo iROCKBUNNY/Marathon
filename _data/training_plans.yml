@@ -190,7 +190,7 @@
       state: green
     - date: 03-06
       distance: 12
-      state: disabled
+      state: green
     - date: 03-07
       distance: 6
       state: disabled
