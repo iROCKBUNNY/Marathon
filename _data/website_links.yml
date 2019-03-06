@@ -3,22 +3,18 @@
   - name: China Marathon
     url: http://www.runchina.org.cn/
     flag: cn
-    participated: false
 
   - name: China Marathon Majors
     url: https://www.chinamarathonmajors.com.cn/
     flag: cn
-    participated: false
 
   - name: IAAF Label Road Races
     url: https://www.iaaf.org/competitions/iaaf-label-road-races
     flag: mc
-    participated: false
 
   - name: AIMS Calendar
     url: http://aims-worldrunning.org/calendar.html
     flag: gr
-    participated: false
 
 - name: Race Website Links
   websites:
