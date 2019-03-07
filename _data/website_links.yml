@@ -18,7 +18,7 @@
 
 - name: Race Website Links
   websites:
-  - name: CFLD Beijing Marathon
+  - name: Beijing Marathon
     url: http://www.beijing-marathon.com/
     flag: cn
 
@@ -42,7 +42,7 @@
     url: http://www.shmarathon.com/
     flag: cn
 
-  - name: C&D Xiamen Marathon
+  - name: Xiamen Marathon
     url: http://www.xmim.org/
     flag: cn
 
@@ -64,6 +64,10 @@
 
   - name: Taiyuan International Marathon
     url: http://www.tymarathon.org/
+    flag: cn
+
+  - name: Wuxi Marathon
+    url: http://wuximarathon.com/
     flag: cn
 
   - name: Dalian International Marathon
@@ -104,6 +108,10 @@
 
   - name: Chengdu Marathon
     url: http://www.chengdu-marathon.org/
+    flag: cn
+
+  - name: Liupanshui Summer International Marathon
+    url: http://lps.matchton.com/
     flag: cn
 
   - name: Standard Chartered Hong Kong Marathon
