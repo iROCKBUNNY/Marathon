@@ -16,7 +16,7 @@
     url: http://aims-worldrunning.org/calendar.html
     flag: gr
 
-- name: Race Website Links
+- name: Race Website Links (participated)
   websites:
   - name: Beijing Marathon
     url: http://www.beijing-marathon.com/
@@ -30,6 +30,32 @@
     url: http://www.guangzhou-marathon.com/
     flag: cn
 
+  - name: Xiamen Marathon
+    url: http://www.xmim.org/
+    flag: cn
+
+  - name: Hangzhou Marathon
+    url: http://www.hzim.org/
+    flag: cn
+
+  - name: Qinhuangdao Marathon
+    url: http://www.qhdmarathon.com/
+    flag: cn
+
+  - name: Zhengkai Marathon
+    url: http://www.zkmarathon.com/
+    flag: cn
+
+  - name: Zhengzhou Yanhuang Marathon
+    url: http://zzmarathon.com/
+    flag: cn
+
+  - name: Standard Chartered Hong Kong Marathon
+    url: https://www.hkmarathon.com/
+    flag: hk
+
+- name: Race Website Links
+  websites:
   - name: Shenzhen Marathon
     url: http://www.shenzhenmarathon.org/
     flag: cn
@@ -42,10 +68,6 @@
     url: http://www.shmarathon.com/
     flag: cn
 
-  - name: Xiamen Marathon
-    url: http://www.xmim.org/
-    flag: cn
-
   - name: Lanzhou International Marathon
     url: http://www.lzmarathon.com/
     flag: cn
@@ -56,10 +78,6 @@
 
   - name: Yangzhou Jianzhen International Half Marathon
     url: http://www.yzmls.com/
-    flag: cn
-
-  - name: Hangzhou Marathon
-    url: http://www.hzim.org/
     flag: cn
 
   - name: Taiyuan International Marathon
@@ -90,18 +108,6 @@
     url: http://www.changsha-marathon.com/
     flag: cn
 
-  - name: Qinhuangdao Marathon
-    url: http://www.qhdmarathon.com/
-    flag: cn
-
-  - name: Zhengkai Marathon
-    url: http://www.zkmarathon.com/
-    flag: cn
-
-  - name: Zhengzhou Yanhuang Marathon
-    url: http://zzmarathon.com/
-    flag: cn
-
   - name: Xian Marathon
     url: http://www.xian42195.com/
     flag: cn
@@ -113,10 +119,6 @@
   - name: Liupanshui Summer International Marathon
     url: http://lps.matchton.com/
     flag: cn
-
-  - name: Standard Chartered Hong Kong Marathon
-    url: https://www.hkmarathon.com/
-    flag: hk
 
   - name: Macao Galaxy Entertainment International Marathon
     url: http://www.macaomarathon.com/
