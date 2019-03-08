@@ -131,7 +131,7 @@
 - race: Zhengkai Marathon
   results:
   - date: 2019-03-31
-    bib_number:
+    bib_number: C2339
     personal_best: false
     check_points:
     - net: "0:00:00"
