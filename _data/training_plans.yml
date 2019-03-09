@@ -202,7 +202,7 @@
       state: green
     - date: 03-10
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-11
       distance: 0
