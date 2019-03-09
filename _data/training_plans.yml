@@ -199,7 +199,7 @@
       state: green
     - date: 03-09
       distance: 25
-      state: disabled
+      state: green
     - date: 03-10
       distance: 0
       state: disabled
