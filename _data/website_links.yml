@@ -56,31 +56,31 @@
 
 - name: Race Website Links
   websites:
-  - name: Shenzhen Marathon
-    url: http://www.shenzhenmarathon.org/
-    flag: cn
-
-  - name: Chongqing International Marathon
-    url: http://www.cqmarathon.com/
-    flag: cn
-
-  - name: Shanghai International Marathon
+  - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
 
-  - name: Lanzhou International Marathon
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
+    flag: cn
+
+  - name: Chongqing Marathon
+    url: http://www.cqmarathon.com/
+    flag: cn
+
+  - name: Lanzhou Marathon
     url: http://www.lzmarathon.com/
     flag: cn
 
-  - name: Yellow River Estuary International Marathon
+  - name: Yellow River Estuary Marathon
     url: http://www.hhkgjmls.net/
     flag: cn
 
-  - name: Yangzhou Jianzhen International Half Marathon
+  - name: Yangzhou Jianzhen Half Marathon
     url: http://www.yzmls.com/
     flag: cn
 
-  - name: Taiyuan International Marathon
+  - name: Taiyuan Marathon
     url: http://www.tymarathon.org/
     flag: cn
 
@@ -88,20 +88,16 @@
     url: http://wuximarathon.com/
     flag: cn
 
-  - name: Dalian International Marathon
+  - name: Dalian Marathon
     url: http://www.dlmls.org/
     flag: cn
 
-  - name: Hefei International Marathon
+  - name: Hefei Marathon
     url: http://www.hefeimarathon.com/
     flag: cn
 
   - name: Hengshui Lake Marathon
     url: http://www.hengshuimalasong.com/
-    flag: cn
-
-  - name: Wuhan Marathon
-    url: http://www.wuhanmarathon.org/
     flag: cn
 
   - name: Changsha Marathon
@@ -116,7 +112,11 @@
     url: http://www.chengdu-marathon.org/
     flag: cn
 
-  - name: Liupanshui Summer International Marathon
+  - name: Shenzhen Marathon
+    url: http://www.shenzhenmarathon.org/
+    flag: cn
+
+  - name: Liupanshui Summer Marathon
     url: http://lps.matchton.com/
     flag: cn
 
