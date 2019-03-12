@@ -64,6 +64,10 @@
     url: http://www.wuhanmarathon.org/
     flag: cn
 
+  - name: Zhengzhou Marathon
+    url: http://www.zhengzhou42195.com/
+    flag: cn
+
   - name: Chongqing Marathon
     url: http://www.cqmarathon.com/
     flag: cn
