@@ -16,14 +16,10 @@
     url: http://aims-worldrunning.org/calendar.html
     flag: gr
 
-- name: Race Website Links (participated)
+- name: Race Website Links (finished)
   websites:
   - name: Beijing Marathon
     url: http://www.beijing-marathon.com/
-    flag: cn
-
-  - name: Beijing Half Marathon
-    url: http://www.beijing-halfmarathon.com/
     flag: cn
 
   - name: Guangzhou Marathon
@@ -42,10 +38,6 @@
     url: http://www.qhdmarathon.com/
     flag: cn
 
-  - name: Zhengkai Marathon
-    url: http://www.zkmarathon.com/
-    flag: cn
-
   - name: Zhengzhou Yanhuang Marathon
     url: http://zzmarathon.com/
     flag: cn
@@ -54,8 +46,12 @@
     url: https://www.hkmarathon.com/
     flag: hk
 
-- name: Race Website Links
+- name: Race Website Links (pending)
   websites:
+  - name: Beijing Half Marathon
+    url: http://www.beijing-halfmarathon.com/
+    flag: cn
+
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
@@ -64,10 +60,24 @@
     url: http://www.wuhanmarathon.org/
     flag: cn
 
+  - name: Zhengkai Marathon
+    url: http://www.zkmarathon.com/
+    flag: cn
+
   - name: Zhengzhou Marathon
     url: http://www.zhengzhou42195.com/
     flag: cn
 
+  - name: Tokyo Marathon
+    url: https://www.marathon.tokyo/
+    flag: jp
+
+  - name: Seoul Marathon
+    url: http://www.seoul-marathon.com/
+    flag: kr
+
+- name: Race Website Links
+  websites:
   - name: Chongqing Marathon
     url: http://www.cqmarathon.com/
     flag: cn
@@ -140,10 +150,6 @@
     url: https://singaporemarathon.com/
     flag: sg
 
-  - name: Tokyo Marathon
-    url: https://www.marathon.tokyo/
-    flag: jp
-
   - name: Osaka Marathon
     url: http://www.osaka-marathon.com/
     flag: jp
@@ -175,10 +181,6 @@
   - name: Fukuoka International Open Marathon Championships
     url: http://www.fukuoka-marathon.com/
     flag: jp
-
-  - name: Seoul Marathon
-    url: http://www.seoul-marathon.com/
-    flag: kr
 
   - name: Daegu International Marathon
     url: http://marathon.daegusports.or.kr/
