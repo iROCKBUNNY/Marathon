@@ -2,50 +2,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 04-01
-      distance: 0
-      state: disabled
-    - date: 04-02
-      distance: 0
-      state: disabled
-    - date: 04-03
-      distance: 5
-      state: disabled
-    - date: 04-04
-      distance: 8
-      state: disabled
-    - date: 04-05
-      distance: 0
-      state: disabled
-    - date: 04-06
-      distance: 15
-      state: disabled
-    - date: 04-07
-      distance: 0
-      state: disabled
-  - days:
-    - date: 04-08
-      distance: 0
-      state: disabled
-    - date: 04-09
-      distance: 5
-      state: disabled
-    - date: 04-10
-      distance: 10
-      state: disabled
-    - date: 04-11
-      distance: 5
-      state: disabled
-    - date: 04-12
-      distance: 0
-      state: disabled
-    - date: 04-13
-      distance: 21
-      state: disabled
-    - date: 04-14
-      distance: 0
-      state: disabled
-  - days:
     - date: 04-15
       distance: 0
       state: disabled
@@ -132,6 +88,54 @@
       state: disabled
     - date: 05-12
       distance: 42.195
+      state: disabled
+
+- race: 2019-04-14 Beijing Half Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 04-01
+      distance: 0
+      state: disabled
+    - date: 04-02
+      distance: 0
+      state: disabled
+    - date: 04-03
+      distance: 5
+      state: disabled
+    - date: 04-04
+      distance: 8
+      state: disabled
+    - date: 04-05
+      distance: 0
+      state: disabled
+    - date: 04-06
+      distance: 15
+      state: disabled
+    - date: 04-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 04-08
+      distance: 0
+      state: disabled
+    - date: 04-09
+      distance: 5
+      state: disabled
+    - date: 04-10
+      distance: 10
+      state: disabled
+    - date: 04-11
+      distance: 5
+      state: disabled
+    - date: 04-12
+      distance: 0
+      state: disabled
+    - date: 04-13
+      distance: 0
+      state: disabled
+    - date: 04-14
+      distance: 21.0975
       state: disabled
 
 - race: 2019-03-31 Zhengkai Marathon
