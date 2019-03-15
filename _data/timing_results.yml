@@ -2,6 +2,7 @@
   results:
   - date: 2019-05-12
     bib_number:
+    shoes:
     personal_best: false
     check_points:
     - net: "0:00:00"
@@ -34,6 +35,7 @@
 
   - date: 2018-05-13
     bib_number: B1059
+    shoes: ASICS Gel-Kayano 24
     personal_best: false
     check_points:
     - net: "0:35:20"
@@ -66,6 +68,7 @@
 
   - date: 2017-05-14
     bib_number: A0820
+    shoes: ASICS Gel-Nimbus 19
     personal_best: false
     check_points:
     - net: "0:33:24"
@@ -98,6 +101,7 @@
 
   - date: 2016-05-01
     bib_number: A0308
+    shoes: ASICS Gel-Nimbus 18
     personal_best: false
     check_points:
     - net: "0:39:38"
@@ -132,6 +136,7 @@
   results:
   - date: 2019-03-31
     bib_number: C2339
+    shoes:
     personal_best: false
     check_points:
     - net: "0:00:00"
@@ -166,6 +171,7 @@
   results:
   - date: 2019-02-17
     bib_number: B7610
+    shoes: ASICS Gel-Kayano 25
     personal_best: false
     check_points:
     - net: "*:**:**"
@@ -200,6 +206,7 @@
   results:
   - date: 2019-01-06
     bib_number: H25213
+    shoes: ASICS Gel-Kayano 25
     personal_best: false
     check_points:
     - net: "0:27:12"
@@ -234,6 +241,7 @@
   results:
   - date: 2018-12-09
     bib_number: D0639
+    shoes: ASICS Gel-Kayano 25
     personal_best: false
     check_points:
     - net: "0:34:47"
@@ -268,6 +276,7 @@
   results:
   - date: 2018-11-04
     bib_number: C11389
+    shoes: ASICS Gel-Kayano 25
     personal_best: true
     check_points:
     - net: "0:29:23"
@@ -302,6 +311,7 @@
   results:
   - date: 2018-10-14
     bib_number: A1121
+    shoes: ASICS Gel-Kayano 25
     personal_best: false
     check_points:
     - net: "0:33:36"
@@ -336,6 +346,7 @@
   results:
   - date: 2018-09-16
     bib_number: E2034
+    shoes: ASICS Gel-Nimbus 20
     personal_best: false
     check_points:
     - net: "0:30:47"
