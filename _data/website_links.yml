@@ -16,7 +16,7 @@
     url: http://aims-worldrunning.org/calendar.html
     flag: gr
 
-- name: Race Website Links (finished)
+- name: Race Website Links (participated)
   websites:
   - name: Beijing Marathon
     url: http://www.beijing-marathon.com/
@@ -46,7 +46,7 @@
     url: https://www.hkmarathon.com/
     flag: hk
 
-- name: Race Website Links (pending)
+- name: Race Website Links (scheduled)
   websites:
   - name: Beijing Half Marathon
     url: http://www.beijing-halfmarathon.com/

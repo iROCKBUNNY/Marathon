@@ -1,7 +1,7 @@
 <div class="ui vertical segment">
     <div class="ui container">
         <h2 id="timing-results" class="ui header"><i class="stopwatch icon"></i>Timing Results</h2>
-        <h2 class="ui teal sub-section header">Marathons</h2>
+        <h2 id="marathon-timing-results" class="ui teal sub-section header">Marathons</h2>
         {%- for item in site.data.timing_results -%}
             {%- if item.type == 'full' -%}
                 <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>
@@ -31,7 +31,7 @@
                 </table>
             {%- endif -%}
         {%- endfor -%}
-        <h2 class="ui teal sub-section header">Half Marathons</h2>
+        <h2 id="half-marathon-timing-results" class="ui teal sub-section header">Half Marathons</h2>
         {%- for item in site.data.timing_results -%}
             {%- if item.type == 'half' -%}
                 <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>

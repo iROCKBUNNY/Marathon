@@ -20,8 +20,13 @@
             )</a>{%- endfor -%}
         </div>
         <h3 class="ui header">Timing Results<a class="ui basic horizontal label" href="{{ '/' | relative_url }}#timing-results"><i class="arrow right icon"></i>View</a></h3>
+        <h4 class="ui header">Marathons<a class="ui circular label" href="{{ '/' | relative_url }}#marathon-timing-results"><i class="arrow right fitted icon"></i></a></h4>
         <div class="ui bulleted selection link list">
-            {%- for item in site.data.timing_results -%}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{%- endfor -%}
+            {%- for item in site.data.timing_results -%}{% if item.type == 'full' %}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
+        </div>
+        <h4 class="ui header">Half Marathons<a class="ui circular label" href="{{ '/' | relative_url }}#half-marathon-timing-results"><i class="arrow right fitted icon"></i></a></h4>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.timing_results -%}{% if item.type == 'half' %}<a class="item" href="{{ '/' | relative_url }}#{{ item.race | slugify }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
         </div>
         <h3 class="ui header">Website Links<a class="ui basic horizontal label" href="#website-links"><i class="arrow right icon"></i>View</a></h3>
         <div class="ui bulleted selection link list">
