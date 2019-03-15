@@ -1,32 +1,65 @@
 <div class="ui vertical segment">
     <div class="ui container">
         <h2 id="timing-results" class="ui header"><i class="stopwatch icon"></i>Timing Results</h2>
+        <h2 class="ui teal sub-section header">Marathons</h2>
         {%- for item in site.data.timing_results -%}
-            <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>
-            <table class="ui unstackable selectable celled definition table">
-                <thead>
-                    <tr>
-                        <th>Race Date</th>
-                        <th class="right aligned">5 km</th>
-                        <th class="right aligned">10 km</th>
-                        <th class="right aligned">15 km</th>
-                        <th class="right aligned">20 km</th>
-                        <th class="right aligned">25 km</th>
-                        <th class="right aligned">30 km</th>
-                        <th class="right aligned">35 km</th>
-                        <th class="right aligned">40 km</th>
-                        <th class="right aligned">42.195 km</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {%- for result in item.results -%}
-                        <tr{% if result.personal_best %} id="personal-best"{% endif %}>
-                            <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow {% endif %}horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% endif %}</td>
-                            {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
+            {%- if item.type == 'full' -%}
+                <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>
+                <table class="ui unstackable selectable celled definition table">
+                    <thead>
+                        <tr>
+                            <th>Race Date</th>
+                            <th class="right aligned">5 km</th>
+                            <th class="right aligned">10 km</th>
+                            <th class="right aligned">15 km</th>
+                            <th class="right aligned">20 km</th>
+                            <th class="right aligned">25 km</th>
+                            <th class="right aligned">30 km</th>
+                            <th class="right aligned">35 km</th>
+                            <th class="right aligned">40 km</th>
+                            <th class="right aligned">42.195 km</th>
                         </tr>
-                    {%- endfor -%}
-                </tbody>
-            </table>
+                    </thead>
+                    <tbody>
+                        {%- for result in item.results -%}
+                            <tr{% if result.personal_best %} id="personal-best"{% endif %}>
+                                <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow {% endif %}horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% endif %}</td>
+                                {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
+                            </tr>
+                        {%- endfor -%}
+                    </tbody>
+                </table>
+            {%- endif -%}
+        {%- endfor -%}
+        <h2 class="ui teal sub-section header">Half Marathons</h2>
+        {%- for item in site.data.timing_results -%}
+            {%- if item.type == 'half' -%}
+                <h3 id="{{ item.race | slugify }}-timing-results" class="ui header">{{ item.race }}</h3>
+                <table class="ui unstackable selectable celled definition table">
+                    <thead>
+                        <tr>
+                            <th>Race Date</th>
+                            <th class="right aligned">5 km</th>
+                            <th class="right aligned">10 km</th>
+                            <th class="right aligned">15 km</th>
+                            <th class="right aligned">20 km</th>
+                            <th class="right aligned">25 km</th>
+                            <th class="right aligned">30 km</th>
+                            <th class="right aligned">35 km</th>
+                            <th class="right aligned">40 km</th>
+                            <th class="right aligned">42.195 km</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {%- for result in item.results -%}
+                            <tr{% if result.personal_best %} id="personal-best"{% endif %}>
+                                <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow {% endif %}horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% endif %}</td>
+                                {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
+                            </tr>
+                        {%- endfor -%}
+                    </tbody>
+                </table>
+            {%- endif -%}
         {%- endfor -%}
     </div>
 </div>

@@ -13,6 +13,10 @@
     padding-bottom: 6em;
 }
 
+.ui.sub-section.header {
+    font-weight: normal;
+}
+
 @media only screen and (max-width: 767px) {
     .ui.segment,
     .ui.masthead.segment,

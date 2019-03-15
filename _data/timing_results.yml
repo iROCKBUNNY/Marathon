@@ -1,4 +1,5 @@
 - race: Qinhuangdao Marathon
+  type: full
   results:
   - date: 2019-05-12
     bib_number:
@@ -132,7 +133,32 @@
       segment: "13:15"
       state: positive
 
+- race: Beijing Half Marathon
+  type: half
+  results:
+  - date: 2019-04-14
+    bib_number:
+    shoes:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Zhengkai Marathon
+  type: full
   results:
   - date: 2019-03-31
     bib_number: C2339
@@ -168,6 +194,7 @@
       state: disabled
 
 - race: Hong Kong Marathon
+  type: full
   results:
   - date: 2019-02-17
     bib_number: B7610
@@ -203,6 +230,7 @@
       state: positive
 
 - race: Xiamen Marathon
+  type: full
   results:
   - date: 2019-01-06
     bib_number: H25213
@@ -238,6 +266,7 @@
       state: positive
 
 - race: Guangzhou Marathon
+  type: full
   results:
   - date: 2018-12-09
     bib_number: D0639
@@ -273,6 +302,7 @@
       state: positive
 
 - race: Hangzhou Marathon
+  type: full
   results:
   - date: 2018-11-04
     bib_number: C11389
@@ -308,6 +338,7 @@
       state: positive
 
 - race: Zhengzhou Yanhuang Marathon
+  type: full
   results:
   - date: 2018-10-14
     bib_number: A1121
@@ -343,6 +374,7 @@
       state: positive
 
 - race: Beijing Marathon
+  type: full
   results:
   - date: 2018-09-16
     bib_number: E2034
