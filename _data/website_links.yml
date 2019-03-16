@@ -38,6 +38,10 @@
     url: http://www.qhdmarathon.com/
     flag: cn
 
+  - name: Zhengkai Marathon
+    url: http://www.zkmarathon.com/
+    flag: cn
+
   - name: Zhengzhou Yanhuang Marathon
     url: http://zzmarathon.com/
     flag: cn
@@ -58,10 +62,6 @@
 
   - name: Wuhan Marathon
     url: http://www.wuhanmarathon.org/
-    flag: cn
-
-  - name: Zhengkai Marathon
-    url: http://www.zkmarathon.com/
     flag: cn
 
   - name: Zhengzhou Marathon
