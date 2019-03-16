@@ -1,7 +1,7 @@
 - name: Organization Website Links
   websites:
-  - name: China Athletic Association
-    url: http://www.athletics.org.cn/
+  - name: China Athletic Association (Marathon)
+    url: http://www.athletics.org.cn/marathon/
     flag: cn
 
   - name: China Marathon
@@ -68,6 +68,10 @@
     url: http://www.wuhanmarathon.org/
     flag: cn
 
+  - name: Hengshui Lake Marathon
+    url: http://www.hengshuimalasong.com/
+    flag: cn
+
   - name: Zhengzhou Marathon
     url: http://www.zhengzhou42195.com/
     flag: cn
@@ -112,10 +116,6 @@
 
   - name: Hefei Marathon
     url: http://www.hefeimarathon.com/
-    flag: cn
-
-  - name: Hengshui Lake Marathon
-    url: http://www.hengshuimalasong.com/
     flag: cn
 
   - name: Changsha Marathon
