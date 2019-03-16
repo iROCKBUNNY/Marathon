@@ -1,5 +1,9 @@
 - name: Organization Website Links
   websites:
+  - name: China Athletic Association
+    url: http://www.athletics.org.cn/
+    flag: cn
+
   - name: China Marathon
     url: http://www.runchina.org.cn/
     flag: cn
