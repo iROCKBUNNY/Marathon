@@ -232,7 +232,7 @@
   - days:
     - date: 03-18
       distance: 0
-      state: disabled
+      state: green
     - date: 03-19
       distance: 8
       state: disabled
