@@ -241,7 +241,7 @@
       state: green
     - date: 03-21
       distance: 8
-      state: disabled
+      state: green
     - date: 03-22
       distance: 0
       state: disabled
