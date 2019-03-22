@@ -26,6 +26,10 @@
     url: http://www.beijing-marathon.com/
     flag: cn
 
+  - name: Beijing Half Marathon
+    url: http://www.beijing-halfmarathon.com/
+    flag: cn
+
   - name: Guangzhou Marathon
     url: http://www.guangzhou-marathon.com/
     flag: cn
@@ -56,10 +60,6 @@
 
 - name: Race Website Links (scheduled)
   websites:
-  - name: Beijing Half Marathon
-    url: http://www.beijing-halfmarathon.com/
-    flag: cn
-
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
