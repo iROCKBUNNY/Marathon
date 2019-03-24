@@ -43,7 +43,8 @@
     flag: cn
 
   - name: Qinhuangdao Marathon
-    url: http://www.qhdmarathon.com/
+    # url: http://www.qhdmarathon.com/
+    url: http://sjz.yerensports.com/qhdmls/
     flag: cn
 
   - name: Zhengkai Marathon
