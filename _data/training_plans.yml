@@ -269,7 +269,7 @@
       state: green
     - date: 03-30
       distance: 0
-      state: disabled
+      state: green
     - date: 03-31
       distance: 42.195
       state: disabled
