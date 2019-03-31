@@ -65,14 +65,6 @@
     url: http://www.shmarathon.com/
     flag: cn
 
-  - name: Wuhan Marathon
-    url: http://www.wuhanmarathon.org/
-    flag: cn
-
-  - name: Hengshui Lake Marathon
-    url: http://www.hengshuimalasong.com/
-    flag: cn
-
   - name: Zhengzhou Marathon
     url: http://www.zhengzhou42195.com/
     flag: cn
@@ -80,10 +72,6 @@
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
-
-  - name: Seoul Marathon
-    url: http://www.seoul-marathon.com/
-    flag: kr
 
 - name: Race Website Links
   websites:
@@ -107,12 +95,24 @@
     url: http://www.tymarathon.org/
     flag: cn
 
+  - name: Dalian Marathon
+    url: http://www.dlmls.org/
+    flag: cn
+
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
+    flag: cn
+
   - name: Wuxi Marathon
     url: http://wuximarathon.com/
     flag: cn
 
-  - name: Dalian Marathon
-    url: http://www.dlmls.org/
+  - name: Hengshui Lake Marathon
+    url: http://www.hengshuimalasong.com/
+    flag: cn
+
+  - name: Qingdao Marathon
+    url: http://www.qd-mls.com/
     flag: cn
 
   - name: Hefei Marathon
@@ -186,6 +186,10 @@
   - name: Fukuoka International Open Marathon Championships
     url: http://www.fukuoka-marathon.com/
     flag: jp
+
+  - name: Seoul Marathon
+    url: http://www.seoul-marathon.com/
+    flag: kr
 
   - name: Daegu International Marathon
     url: http://marathon.daegusports.or.kr/
