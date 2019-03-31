@@ -163,7 +163,7 @@
   - date: 2019-03-31
     bib_number: C2339
     shoes: UNDER ARMOUR HOVR Sonic
-    personal_best: false
+    personal_best: true
     check_points:
     - net: "0:00:00"
       segment: "00:00"
@@ -189,9 +189,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "4:25:35"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Hong Kong Marathon
   type: full
@@ -307,7 +307,7 @@
   - date: 2018-11-04
     bib_number: C11389
     shoes: ASICS GEL-KAYANO 25 LITE-SHOW
-    personal_best: true
+    personal_best: false
     check_points:
     - net: "0:29:23"
       segment: "29:23"

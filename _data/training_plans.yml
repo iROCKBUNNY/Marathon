@@ -272,7 +272,7 @@
       state: green
     - date: 03-31
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2019-02-17 Hong Kong Marathon
   icon: medal
