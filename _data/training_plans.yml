@@ -96,7 +96,7 @@
   - days:
     - date: 04-01
       distance: 0
-      state: disabled
+      state: green
     - date: 04-02
       distance: 0
       state: disabled
