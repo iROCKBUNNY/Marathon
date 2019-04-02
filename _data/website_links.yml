@@ -139,8 +139,12 @@
     url: http://lps.matchton.com/
     flag: cn
 
-  - name: Miyun Marathon
+  - name: Beijing Miyun Marathon
     url: http://www.miyun-marathon.com/
+    flag: cn
+
+  - name: Beijing Tongzhou Half Marathon
+    url: http://www.bjtzmls.com/
     flag: cn
 
   - name: Macao Galaxy Entertainment International Marathon
