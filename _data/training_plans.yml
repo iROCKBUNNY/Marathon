@@ -99,7 +99,7 @@
       state: green
     - date: 04-02
       distance: 0
-      state: green
+      state: disabled
     - date: 04-03
       distance: 5
       state: disabled

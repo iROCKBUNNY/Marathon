@@ -139,6 +139,10 @@
     url: http://lps.matchton.com/
     flag: cn
 
+  - name: Miyun Marathon
+    url: http://www.miyun-marathon.com/
+    flag: cn
+
   - name: Macao Galaxy Entertainment International Marathon
     url: http://www.macaomarathon.com/
     flag: mo
