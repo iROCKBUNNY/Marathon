@@ -1,3 +1,403 @@
+- race: 2019-09-15 Beijing Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 05-13
+      distance: 0
+      state: disabled
+    - date: 05-14
+      distance: 0
+      state: disabled
+    - date: 05-15
+      distance: 5
+      state: disabled
+    - date: 05-16
+      distance: 8
+      state: disabled
+    - date: 05-17
+      distance: 0
+      state: disabled
+    - date: 05-18
+      distance: 15
+      state: disabled
+    - date: 05-19
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-20
+      distance: 0
+      state: disabled
+    - date: 05-21
+      distance: 5
+      state: disabled
+    - date: 05-22
+      distance: 10
+      state: disabled
+    - date: 05-23
+      distance: 5
+      state: disabled
+    - date: 05-24
+      distance: 0
+      state: disabled
+    - date: 05-25
+      distance: 21
+      state: disabled
+    - date: 05-26
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-27
+      distance: 0
+      state: disabled
+    - date: 05-28
+      distance: 6
+      state: disabled
+    - date: 05-29
+      distance: 12
+      state: disabled
+    - date: 05-30
+      distance: 6
+      state: disabled
+    - date: 05-31
+      distance: 0
+      state: disabled
+    - date: 06-01
+      distance: 25
+      state: disabled
+    - date: 06-02
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-03
+      distance: 0
+      state: disabled
+    - date: 06-04
+      distance: 5
+      state: disabled
+    - date: 06-05
+      distance: 10
+      state: disabled
+    - date: 06-06
+      distance: 5
+      state: disabled
+    - date: 06-07
+      distance: 0
+      state: disabled
+    - date: 06-08
+      distance: 21
+      state: disabled
+    - date: 06-09
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-10
+      distance: 0
+      state: disabled
+    - date: 06-11
+      distance: 5
+      state: disabled
+    - date: 06-12
+      distance: 8
+      state: disabled
+    - date: 06-13
+      distance: 5
+      state: disabled
+    - date: 06-14
+      distance: 0
+      state: disabled
+    - date: 06-15
+      distance: 15
+      state: disabled
+    - date: 06-16
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-17
+      distance: 0
+      state: disabled
+    - date: 06-18
+      distance: 5
+      state: disabled
+    - date: 06-19
+      distance: 10
+      state: disabled
+    - date: 06-20
+      distance: 5
+      state: disabled
+    - date: 06-21
+      distance: 0
+      state: disabled
+    - date: 06-22
+      distance: 21
+      state: disabled
+    - date: 06-23
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-24
+      distance: 0
+      state: disabled
+    - date: 06-25
+      distance: 6
+      state: disabled
+    - date: 06-26
+      distance: 12
+      state: disabled
+    - date: 06-27
+      distance: 6
+      state: disabled
+    - date: 06-28
+      distance: 0
+      state: disabled
+    - date: 06-29
+      distance: 25
+      state: disabled
+    - date: 06-30
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-01
+      distance: 0
+      state: disabled
+    - date: 07-02
+      distance: 6
+      state: disabled
+    - date: 07-03
+      distance: 15
+      state: disabled
+    - date: 07-04
+      distance: 8
+      state: disabled
+    - date: 07-05
+      distance: 0
+      state: disabled
+    - date: 07-06
+      distance: 30
+      state: disabled
+    - date: 07-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-08
+      distance: 0
+      state: disabled
+    - date: 07-09
+      distance: 6
+      state: disabled
+    - date: 07-10
+      distance: 12
+      state: disabled
+    - date: 07-11
+      distance: 6
+      state: disabled
+    - date: 07-12
+      distance: 0
+      state: disabled
+    - date: 07-13
+      distance: 25
+      state: disabled
+    - date: 07-14
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-15
+      distance: 0
+      state: disabled
+    - date: 07-16
+      distance: 5
+      state: disabled
+    - date: 07-17
+      distance: 10
+      state: disabled
+    - date: 07-18
+      distance: 5
+      state: disabled
+    - date: 07-19
+      distance: 0
+      state: disabled
+    - date: 07-20
+      distance: 21
+      state: disabled
+    - date: 07-21
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-22
+      distance: 0
+      state: disabled
+    - date: 07-23
+      distance: 5
+      state: disabled
+    - date: 07-24
+      distance: 8
+      state: disabled
+    - date: 07-25
+      distance: 5
+      state: disabled
+    - date: 07-26
+      distance: 0
+      state: disabled
+    - date: 07-27
+      distance: 15
+      state: disabled
+    - date: 07-28
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-29
+      distance: 0
+      state: disabled
+    - date: 07-30
+      distance: 5
+      state: disabled
+    - date: 07-31
+      distance: 10
+      state: disabled
+    - date: 08-01
+      distance: 5
+      state: disabled
+    - date: 08-02
+      distance: 0
+      state: disabled
+    - date: 08-03
+      distance: 21
+      state: disabled
+    - date: 08-04
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-05
+      distance: 0
+      state: disabled
+    - date: 08-06
+      distance: 6
+      state: disabled
+    - date: 08-07
+      distance: 12
+      state: disabled
+    - date: 08-08
+      distance: 6
+      state: disabled
+    - date: 08-09
+      distance: 0
+      state: disabled
+    - date: 08-10
+      distance: 25
+      state: disabled
+    - date: 08-11
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-12
+      distance: 0
+      state: disabled
+    - date: 08-13
+      distance: 6
+      state: disabled
+    - date: 08-14
+      distance: 15
+      state: disabled
+    - date: 08-15
+      distance: 8
+      state: disabled
+    - date: 08-16
+      distance: 0
+      state: disabled
+    - date: 08-17
+      distance: 30
+      state: disabled
+    - date: 08-18
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-19
+      distance: 0
+      state: disabled
+    - date: 08-20
+      distance: 6
+      state: disabled
+    - date: 08-21
+      distance: 12
+      state: disabled
+    - date: 08-22
+      distance: 6
+      state: disabled
+    - date: 08-23
+      distance: 0
+      state: disabled
+    - date: 08-24
+      distance: 25
+      state: disabled
+    - date: 08-25
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-26
+      distance: 0
+      state: disabled
+    - date: 08-27
+      distance: 5
+      state: disabled
+    - date: 08-28
+      distance: 10
+      state: disabled
+    - date: 08-29
+      distance: 5
+      state: disabled
+    - date: 08-30
+      distance: 0
+      state: disabled
+    - date: 08-31
+      distance: 21
+      state: disabled
+    - date: 09-01
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-02
+      distance: 0
+      state: disabled
+    - date: 09-03
+      distance: 8
+      state: disabled
+    - date: 09-04
+      distance: 15
+      state: disabled
+    - date: 09-05
+      distance: 8
+      state: disabled
+    - date: 09-06
+      distance: 0
+      state: disabled
+    - date: 09-07
+      distance: 15
+      state: disabled
+    - date: 09-08
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-09
+      distance: 0
+      state: disabled
+    - date: 09-10
+      distance: 5
+      state: disabled
+    - date: 09-11
+      distance: 8
+      state: disabled
+    - date: 09-12
+      distance: 3
+      state: disabled
+    - date: 09-13
+      distance: 0
+      state: disabled
+    - date: 09-14
+      distance: 0
+      state: disabled
+    - date: 09-15
+      distance: 42.195
+      state: disabled
+
 - race: 2019-05-12 Qinhuangdao Marathon
   icon: lock
   weeks:
