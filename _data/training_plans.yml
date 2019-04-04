@@ -2,204 +2,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 09-16
-      distance: 0
-      state: disabled
-    - date: 09-17
-      distance: 0
-      state: disabled
-    - date: 09-18
-      distance: 0
-      state: disabled
-    - date: 09-19
-      distance: 0
-      state: disabled
-    - date: 09-20
-      distance: 0
-      state: disabled
-    - date: 09-21
-      distance: 0
-      state: disabled
-    - date: 09-22
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-23
-      distance: 0
-      state: disabled
-    - date: 09-24
-      distance: 0
-      state: disabled
-    - date: 09-25
-      distance: 0
-      state: disabled
-    - date: 09-26
-      distance: 0
-      state: disabled
-    - date: 09-27
-      distance: 0
-      state: disabled
-    - date: 09-28
-      distance: 0
-      state: disabled
-    - date: 09-29
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-30
-      distance: 0
-      state: disabled
-    - date: 10-01
-      distance: 0
-      state: disabled
-    - date: 10-02
-      distance: 0
-      state: disabled
-    - date: 10-03
-      distance: 0
-      state: disabled
-    - date: 10-04
-      distance: 0
-      state: disabled
-    - date: 10-05
-      distance: 0
-      state: disabled
-    - date: 10-06
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-07
-      distance: 0
-      state: disabled
-    - date: 10-08
-      distance: 0
-      state: disabled
-    - date: 10-09
-      distance: 0
-      state: disabled
-    - date: 10-10
-      distance: 0
-      state: disabled
-    - date: 10-11
-      distance: 0
-      state: disabled
-    - date: 10-12
-      distance: 0
-      state: disabled
-    - date: 10-13
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-14
-      distance: 0
-      state: disabled
-    - date: 10-15
-      distance: 0
-      state: disabled
-    - date: 10-16
-      distance: 0
-      state: disabled
-    - date: 10-17
-      distance: 0
-      state: disabled
-    - date: 10-18
-      distance: 0
-      state: disabled
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 0
-      state: disabled
-    - date: 10-24
-      distance: 0
-      state: disabled
-    - date: 10-25
-      distance: 0
-      state: disabled
-    - date: 10-26
-      distance: 0
-      state: disabled
-    - date: 10-27
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-28
-      distance: 0
-      state: disabled
-    - date: 10-29
-      distance: 0
-      state: disabled
-    - date: 10-30
-      distance: 0
-      state: disabled
-    - date: 10-31
-      distance: 0
-      state: disabled
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 0
-      state: disabled
-    - date: 11-03
-      distance: 0
-      state: disabled
-  - days:
-    - date: 11-04
-      distance: 0
-      state: disabled
-    - date: 11-05
-      distance: 0
-      state: disabled
-    - date: 11-06
-      distance: 0
-      state: disabled
-    - date: 11-07
-      distance: 0
-      state: disabled
-    - date: 11-08
-      distance: 0
-      state: disabled
-    - date: 11-09
-      distance: 0
-      state: disabled
-    - date: 11-10
-      distance: 0
-      state: disabled
-  - days:
-    - date: 11-11
-      distance: 0
-      state: disabled
-    - date: 11-12
-      distance: 0
-      state: disabled
-    - date: 11-13
-      distance: 0
-      state: disabled
-    - date: 11-14
-      distance: 0
-      state: disabled
-    - date: 11-15
-      distance: 0
-      state: disabled
-    - date: 11-16
-      distance: 0
-      state: disabled
-    - date: 11-17
-      distance: 0
-      state: disabled
-  - days:
     - date: 11-18
       distance: 0
       state: disabled
@@ -527,6 +329,208 @@
       distance: 0
       state: disabled
     - date: 03-01
+      distance: 42.195
+      state: disabled
+
+- race: 2019-11-17 Shanghai Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 09-16
+      distance: 0
+      state: disabled
+    - date: 09-17
+      distance: 0
+      state: disabled
+    - date: 09-18
+      distance: 0
+      state: disabled
+    - date: 09-19
+      distance: 0
+      state: disabled
+    - date: 09-20
+      distance: 0
+      state: disabled
+    - date: 09-21
+      distance: 0
+      state: disabled
+    - date: 09-22
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-23
+      distance: 0
+      state: disabled
+    - date: 09-24
+      distance: 0
+      state: disabled
+    - date: 09-25
+      distance: 0
+      state: disabled
+    - date: 09-26
+      distance: 0
+      state: disabled
+    - date: 09-27
+      distance: 0
+      state: disabled
+    - date: 09-28
+      distance: 0
+      state: disabled
+    - date: 09-29
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-30
+      distance: 0
+      state: disabled
+    - date: 10-01
+      distance: 0
+      state: disabled
+    - date: 10-02
+      distance: 0
+      state: disabled
+    - date: 10-03
+      distance: 0
+      state: disabled
+    - date: 10-04
+      distance: 0
+      state: disabled
+    - date: 10-05
+      distance: 0
+      state: disabled
+    - date: 10-06
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-07
+      distance: 0
+      state: disabled
+    - date: 10-08
+      distance: 0
+      state: disabled
+    - date: 10-09
+      distance: 0
+      state: disabled
+    - date: 10-10
+      distance: 0
+      state: disabled
+    - date: 10-11
+      distance: 0
+      state: disabled
+    - date: 10-12
+      distance: 0
+      state: disabled
+    - date: 10-13
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-14
+      distance: 0
+      state: disabled
+    - date: 10-15
+      distance: 0
+      state: disabled
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 0
+      state: disabled
+    - date: 10-18
+      distance: 0
+      state: disabled
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 0
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+    - date: 10-26
+      distance: 0
+      state: disabled
+    - date: 10-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-28
+      distance: 0
+      state: disabled
+    - date: 10-29
+      distance: 0
+      state: disabled
+    - date: 10-30
+      distance: 0
+      state: disabled
+    - date: 10-31
+      distance: 0
+      state: disabled
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 0
+      state: disabled
+    - date: 11-03
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-04
+      distance: 0
+      state: disabled
+    - date: 11-05
+      distance: 8
+      state: disabled
+    - date: 11-06
+      distance: 15
+      state: disabled
+    - date: 11-07
+      distance: 8
+      state: disabled
+    - date: 11-08
+      distance: 0
+      state: disabled
+    - date: 11-09
+      distance: 15
+      state: disabled
+    - date: 11-10
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-11
+      distance: 0
+      state: disabled
+    - date: 11-12
+      distance: 5
+      state: disabled
+    - date: 11-13
+      distance: 8
+      state: disabled
+    - date: 11-14
+      distance: 3
+      state: disabled
+    - date: 11-15
+      distance: 0
+      state: disabled
+    - date: 11-16
+      distance: 0
+      state: disabled
+    - date: 11-17
       distance: 42.195
       state: disabled
 
