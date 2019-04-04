@@ -12,7 +12,7 @@
                     {%- assign total_distance = total_distance | plus: day.distance %}
                 {%- endfor -%}
             {%- endfor -%}
-            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui basic horizontal label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km<div class="detail">{% if total_distance > 0 %}{{ completed_distance | divided_by: total_distance | times: 100 | round }}{% else %}0{% endif %}%</div></div></h3>
+            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui basic horizontal label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km{% if total_distance > 0 %}<div class="detail">{{ completed_distance | divided_by: total_distance | times: 100 | round }}%</div>{% endif %}</div></h3>
             <table class="ui unstackable selectable celled definition table">
                 <thead>
                     <tr>
