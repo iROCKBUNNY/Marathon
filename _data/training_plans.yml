@@ -1049,10 +1049,10 @@
       state: green
     - date: 04-04
       distance: 5
-      state: disabled
+      state: green
     - date: 04-05
       distance: 0
-      state: disabled
+      state: green
     - date: 04-06
       distance: 15
       state: disabled
