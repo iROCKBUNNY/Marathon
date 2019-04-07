@@ -1061,12 +1061,12 @@
       distance: 0
       state: orange
     - date: 04-07
-      distance: 0
-      state: disabled
+      distance: 15
+      state: orange
   - days:
     - date: 04-08
       distance: 0
-      state: disabled
+      state: green
     - date: 04-09
       distance: 5
       state: disabled
