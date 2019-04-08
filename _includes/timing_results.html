@@ -22,7 +22,7 @@
                     </thead>
                     <tbody>
                         {%- for result in item.results -%}
-                            <tr{% if result.personal_best %} id="personal-best"{% endif %}>
+                            <tr{% if result.personal_best %} id="personal-best-full"{% endif %}>
                                 <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow{% else %}grey{% endif %} horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% endif %}</td>
                                 {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                             </tr>
@@ -48,7 +48,7 @@
                     </thead>
                     <tbody>
                         {%- for result in item.results -%}
-                            <tr{% if result.personal_best %} id="personal-best"{% endif %}>
+                            <tr{% if result.personal_best %} id="personal-best-half"{% endif %}>
                                 <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow {% endif %}horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% endif %}</td>
                                 {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                             </tr>
