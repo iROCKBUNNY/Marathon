@@ -1069,7 +1069,7 @@
       state: green
     - date: 04-09
       distance: 5
-      state: disabled
+      state: green
     - date: 04-10
       distance: 10
       state: disabled
