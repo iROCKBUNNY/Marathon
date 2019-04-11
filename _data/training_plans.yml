@@ -1075,13 +1075,13 @@
       state: green
     - date: 04-11
       distance: 5
-      state: disabled
+      state: green
     - date: 04-12
       distance: 0
-      state: disabled
+      state: green
     - date: 04-13
       distance: 0
-      state: disabled
+      state: green
     - date: 04-14
       distance: 21.0975
       state: disabled
