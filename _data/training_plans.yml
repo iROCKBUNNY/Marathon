@@ -947,12 +947,12 @@
       state: disabled
 
 - race: 2019-05-12 Qinhuangdao Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 04-15
       distance: 0
-      state: disabled
+      state: green
     - date: 04-16
       distance: 6
       state: disabled
@@ -1039,7 +1039,7 @@
       state: disabled
 
 - race: 2019-04-14 Beijing Half Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 04-01
@@ -1084,7 +1084,7 @@
       state: green
     - date: 04-14
       distance: 21.0975
-      state: disabled
+      state: green
 
 - race: 2019-03-31 Zhengkai Marathon
   icon: medal

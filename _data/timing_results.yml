@@ -397,7 +397,7 @@
   - date: 2019-04-14
     bib_number: C3460
     shoes: NIKE Air Zoom Pegasus 35
-    personal_best: false
+    personal_best: true
     check_points:
     - net: "0:00:00"
       segment: "00:00"
@@ -411,9 +411,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "1:56:39"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Zhengkai Marathon
   type: full
