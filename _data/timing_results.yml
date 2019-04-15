@@ -399,20 +399,20 @@
     shoes: NIKE Air Zoom Pegasus 35
     personal_best: true
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:28:27"
+      segment: "28:27"
+      state: positive
+    - net: "0:56:35"
+      segment: "28:08"
+      state: positive
+    - net: "1:24:15"
+      segment: "27:40"
+      state: positive
+    - net: "1:51:20"
+      segment: "27:05"
+      state: positive
     - net: "1:56:39"
-      segment: "00:00"
+      segment: "05:19"
       state: positive
 
 - race: Zhengkai Marathon
