@@ -957,8 +957,8 @@
       distance: 6
       state: green
     - date: 04-17
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-18
       distance: 6
       state: disabled
