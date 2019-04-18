@@ -960,8 +960,8 @@
       distance: 0
       state: orange
     - date: 04-18
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-19
       distance: 0
       state: disabled
