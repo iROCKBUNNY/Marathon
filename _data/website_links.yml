@@ -73,6 +73,18 @@
     url: https://www.marathon.tokyo/
     flag: jp
 
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
+    flag: cn
+
+  - name: Wuxi Marathon
+    url: http://wuximarathon.com/
+    flag: cn
+
+  - name: Xian Marathon
+    url: http://www.xian42195.com/
+    flag: cn
+
 - name: Race Website Links
   websites:
   - name: Chongqing Marathon
@@ -99,14 +111,6 @@
     url: http://www.dlmls.org/
     flag: cn
 
-  - name: Wuhan Marathon
-    url: http://www.wuhanmarathon.org/
-    flag: cn
-
-  - name: Wuxi Marathon
-    url: http://wuximarathon.com/
-    flag: cn
-
   - name: Hengshui Lake Marathon
     url: http://www.hengshuimalasong.com/
     flag: cn
@@ -121,10 +125,6 @@
 
   - name: Changsha Marathon
     url: http://www.changsha-marathon.com/
-    flag: cn
-
-  - name: Xian Marathon
-    url: http://www.xian42195.com/
     flag: cn
 
   - name: Chengdu Marathon
