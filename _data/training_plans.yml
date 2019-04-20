@@ -967,10 +967,10 @@
       state: orange
     - date: 04-20
       distance: 25
-      state: disabled
+      state: green
     - date: 04-21
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-22
       distance: 0
