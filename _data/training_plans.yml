@@ -979,8 +979,8 @@
       distance: 6
       state: green
     - date: 04-24
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-25
       distance: 8
       state: disabled
