@@ -986,7 +986,7 @@
       state: green
     - date: 04-26
       distance: 0
-      state: disabled
+      state: green
     - date: 04-27
       distance: 30
       state: disabled
