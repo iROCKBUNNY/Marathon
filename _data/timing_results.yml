@@ -1,196 +1,127 @@
-- race: Tokyo Marathon
-  type: full
-  results:
-  - date: 2020-03-01
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+# - race: Tokyo Marathon
+#   type: full
+#   results:
+#   - date: 2020-03-01
+#     bib_number:
+#     shoes:
+#     personal_best: false
+#     check_points:
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
 
-- race: Guangzhou Marathon
-  type: full
-  results:
-  - date: 2019-12-08
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+# - race: Shanghai Marathon
+#   type: full
+#   results:
+#   - date: 2019-11-17
+#     bib_number:
+#     shoes:
+#     personal_best: false
+#     check_points:
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
 
-  - date: 2018-12-09
-    bib_number: D0639
-    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
-    personal_best: false
-    check_points:
-    - net: "0:34:47"
-      segment: "34:47"
-      state: positive
-    - net: "1:14:11"
-      segment: "39:24"
-      state: positive
-    - net: "1:52:08"
-      segment: "37:57"
-      state: positive
-    - net: "2:25:51"
-      segment: "33:43"
-      state: positive
-    - net: "3:02:55"
-      segment: "37:04"
-      state: positive
-    - net: "3:44:23"
-      segment: "41:28"
-      state: positive
-    - net: "4:29:21"
-      segment: "44:58"
-      state: positive
-    - net: "5:12:06"
-      segment: "42:45"
-      state: positive
-    - net: "5:35:41"
-      segment: "23:35"
-      state: positive
+# - race: Zhengzhou Half Marathon
+#   type: half
+#   results:
+#   - date: 2019-11-03
+#     bib_number:
+#     shoes:
+#     personal_best: false
+#     check_points:
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
 
-- race: Shanghai Marathon
-  type: full
-  results:
-  - date: 2019-11-17
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-
-- race: Zhengzhou Half Marathon
-  type: half
-  results:
-  - date: 2019-11-03
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-
-- race: Zhengzhou Yanhuang Half Marathon
-  type: half
-  results:
-  - date: 2019-10-13
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+# - race: Zhengzhou Yanhuang Half Marathon
+#   type: half
+#   results:
+#   - date: 2019-10-13
+#     bib_number:
+#     shoes:
+#     personal_best: false
+#     check_points:
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
+#     - net: "0:00:00"
+#       segment: "00:00"
+#       state: disabled
 
 - race: Beijing Marathon
   type: full
   results:
-  - date: 2019-09-15
+  - date: 2019-10-13
     bib_number:
     shoes:
     personal_best: false
@@ -521,6 +452,75 @@
       state: positive
     - net: "4:54:31"
       segment: "14:41"
+      state: positive
+
+- race: Guangzhou Marathon
+  type: full
+  results:
+  # - date: 2019-12-08
+  #   bib_number:
+  #   shoes:
+  #   personal_best: false
+  #   check_points:
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+
+  - date: 2018-12-09
+    bib_number: D0639
+    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:34:47"
+      segment: "34:47"
+      state: positive
+    - net: "1:14:11"
+      segment: "39:24"
+      state: positive
+    - net: "1:52:08"
+      segment: "37:57"
+      state: positive
+    - net: "2:25:51"
+      segment: "33:43"
+      state: positive
+    - net: "3:02:55"
+      segment: "37:04"
+      state: positive
+    - net: "3:44:23"
+      segment: "41:28"
+      state: positive
+    - net: "4:29:21"
+      segment: "44:58"
+      state: positive
+    - net: "5:12:06"
+      segment: "42:45"
+      state: positive
+    - net: "5:35:41"
+      segment: "23:35"
       state: positive
 
 - race: Hangzhou Marathon
