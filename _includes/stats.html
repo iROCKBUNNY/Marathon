@@ -1,0 +1,63 @@
+<div class="ui vertical segment">
+    <div class="ui center aligned container">
+        <div class="ui three stackable statistics">
+            <div class="red statistic">
+                {%- assign cumulative_distance = 0 -%}
+                {%- for item in site.data.training_plans -%}
+                    {%- for week in item.weeks -%}
+                        {%- for day in week.days -%}
+                            {%- unless day.state == 'disabled' -%}
+                                {%- assign cumulative_distance = cumulative_distance | plus: day.distance -%}
+                            {%- endunless -%}
+                        {%- endfor -%}
+                    {%- endfor -%}
+                {%- endfor -%}
+                <div class="label">Cumulative Distance</div>
+                <div class="value">{% assign digits = cumulative_distance | round | split: '' %}{% for digit in digits %}{% assign three_digits = digits.size | minus: forloop.index | modulo: 3 %}{% if three_digits == 0 and forloop.last == false %}{{ digit | append: ',' }}{% else %}{{ digit }}{% endif %}{% endfor %}</div>
+                <div class="label">km</div>
+            </div>
+            <div class="orange statistic">
+                {%- assign personal_best_full = '0:00:00' -%}
+                {%- assign pb_date_full = 'YYYY-MM-DD' -%}
+                {%- for item in site.data.timing_results -%}
+                    {%- if item.type == 'full' -%}
+                        {%- for result in item.results -%}
+                            {%- if result.personal_best -%}
+                                {%- for check_point in result.check_points -%}
+                                    {%- if forloop.last -%}
+                                        {%- assign personal_best_full = check_point.net -%}
+                                    {%- endif -%}
+                                {%- endfor -%}
+                                {%- assign pb_date_full = result.date -%}
+                            {%- endif -%}
+                        {%- endfor -%}
+                    {%- endif -%}
+                {%- endfor -%}
+                <div class="label">Marathon PB</div>
+                <div class="value">{{ personal_best_full }}</div>
+                <div class="label">{{ pb_date_full }}</div>
+            </div>
+            <div class="yellow statistic">
+                {%- assign personal_best_half = '0:00:00' -%}
+                {%- assign pb_date_half = 'YYYY-MM-DD' -%}
+                {%- for item in site.data.timing_results -%}
+                    {%- if item.type == 'half' -%}
+                        {%- for result in item.results -%}
+                            {%- if result.personal_best -%}
+                                {%- for check_point in result.check_points -%}
+                                    {%- if forloop.last -%}
+                                        {%- assign personal_best_half = check_point.net -%}
+                                    {%- endif -%}
+                                {%- endfor -%}
+                                {%- assign pb_date_half = result.date -%}
+                            {%- endif -%}
+                        {%- endfor -%}
+                    {%- endif -%}
+                {%- endfor -%}
+                <div class="label">&frac12; Marathon PB</div>
+                <div class="value">{{ personal_best_half }}</div>
+                <div class="label">{{ pb_date_half }}</div>
+            </div>
+        </div>
+    </div>
+</div>
