@@ -1,14 +1,14 @@
 <div class="ui vertical segment">
     <div class="ui center aligned container">
         <div class="ui four small stackable statistics">
-            {%- assign completed_training_times = 0 -%}
+            {%- assign completed_training_sessions = 0 -%}
             {%- assign cumulative_distance = 0 -%}
             {%- for item in site.data.training_plans -%}
                 {%- for week in item.weeks -%}
                     {%- for day in week.days -%}
                         {%- unless day.state == 'disabled' -%}
                             {%- if day.distance > 0 -%}
-                                {%- assign completed_training_times = completed_training_times | plus: 1 -%}
+                                {%- assign completed_training_sessions = completed_training_sessions | plus: 1 -%}
                             {%- endif -%}
                             {%- assign cumulative_distance = cumulative_distance | plus: day.distance -%}
                         {%- endunless -%}
@@ -17,8 +17,8 @@
             {%- endfor -%}
             <div class="olive statistic">
                 <div class="label">Completed Training</div>
-                <div class="value">{% assign digits = completed_training_times | round | split: '' %}{% for digit in digits %}{% assign three_digits = digits.size | minus: forloop.index | modulo: 3 %}{% if three_digits == 0 and forloop.last == false %}{{ digit | append: ',' }}{% else %}{{ digit }}{% endif %}{% endfor %}</div>
-                <div class="label">Times</div>
+                <div class="value">{% assign digits = completed_training_sessions | round | split: '' %}{% for digit in digits %}{% assign three_digits = digits.size | minus: forloop.index | modulo: 3 %}{% if three_digits == 0 and forloop.last == false %}{{ digit | append: ',' }}{% else %}{{ digit }}{% endif %}{% endfor %}</div>
+                <div class="label">Sessions</div>
             </div>
             <div class="red statistic">
                 <div class="label">Cumulative Distance</div>
