@@ -1818,6 +1818,204 @@
   icon: medal
   weeks:
   - days:
+    - date: 05-14
+      distance: 0
+      state: olive
+    - date: 05-15
+      distance: 0
+      state: olive
+    - date: 05-16
+      distance: 0
+      state: olive
+    - date: 05-17
+      distance: 0
+      state: olive
+    - date: 05-18
+      distance: 0
+      state: olive
+    - date: 05-19
+      distance: 0
+      state: olive
+    - date: 05-20
+      distance: 10
+      state: olive
+  - days:
+    - date: 05-21
+      distance: 0
+      state: olive
+    - date: 05-22
+      distance: 10
+      state: olive
+    - date: 05-23
+      distance: 10
+      state: olive
+    - date: 05-24
+      distance: 10
+      state: olive
+    - date: 05-25
+      distance: 0
+      state: olive
+    - date: 05-26
+      distance: 0
+      state: olive
+    - date: 05-27
+      distance: 10
+      state: olive
+  - days:
+    - date: 05-28
+      distance: 0
+      state: olive
+    - date: 05-29
+      distance: 10
+      state: olive
+    - date: 05-30
+      distance: 10
+      state: olive
+    - date: 05-31
+      distance: 10
+      state: olive
+    - date: 06-01
+      distance: 0
+      state: olive
+    - date: 06-02
+      distance: 10
+      state: olive
+    - date: 06-03
+      distance: 0
+      state: olive
+  - days:
+    - date: 06-04
+      distance: 0
+      state: olive
+    - date: 06-05
+      distance: 10
+      state: olive
+    - date: 06-06
+      distance: 10
+      state: olive
+    - date: 06-07
+      distance: 10
+      state: olive
+    - date: 06-08
+      distance: 0
+      state: olive
+    - date: 06-09
+      distance: 0
+      state: olive
+    - date: 06-10
+      distance: 21
+      state: olive
+  - days:
+    - date: 06-11
+      distance: 0
+      state: olive
+    - date: 06-12
+      distance: 0
+      state: olive
+    - date: 06-13
+      distance: 10
+      state: olive
+    - date: 06-14
+      distance: 10
+      state: olive
+    - date: 06-15
+      distance: 0
+      state: olive
+    - date: 06-16
+      distance: 0
+      state: olive
+    - date: 06-17
+      distance: 0
+      state: olive
+  - days:
+    - date: 06-18
+      distance: 0
+      state: olive
+    - date: 06-19
+      distance: 0
+      state: olive
+    - date: 06-20
+      distance: 10
+      state: olive
+    - date: 06-21
+      distance: 10
+      state: olive
+    - date: 06-22
+      distance: 0
+      state: olive
+    - date: 06-23
+      distance: 0
+      state: olive
+    - date: 06-24
+      distance: 0
+      state: olive
+  - days:
+    - date: 06-25
+      distance: 0
+      state: olive
+    - date: 06-26
+      distance: 6
+      state: olive
+    - date: 06-27
+      distance: 0
+      state: olive
+    - date: 06-28
+      distance: 10
+      state: olive
+    - date: 06-29
+      distance: 0
+      state: olive
+    - date: 06-30
+      distance: 0
+      state: olive
+    - date: 07-01
+      distance: 10
+      state: olive
+  - days:
+    - date: 07-02
+      distance: 0
+      state: olive
+    - date: 07-03
+      distance: 5
+      state: olive
+    - date: 07-04
+      distance: 0
+      state: olive
+    - date: 07-05
+      distance: 0
+      state: olive
+    - date: 07-06
+      distance: 0
+      state: olive
+    - date: 07-07
+      distance: 0
+      state: olive
+    - date: 07-08
+      distance: 0
+      state: olive
+  - days:
+    - date: 07-09
+      distance: 0
+      state: olive
+    - date: 07-10
+      distance: 5
+      state: olive
+    - date: 07-11
+      distance: 0
+      state: olive
+    - date: 07-12
+      distance: 5
+      state: olive
+    - date: 07-13
+      distance: 0
+      state: olive
+    - date: 07-14
+      distance: 0
+      state: olive
+    - date: 07-15
+      distance: 0
+      state: olive
+  - days:
     - date: 07-16
       distance: 0
       state: green
