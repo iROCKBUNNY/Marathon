@@ -21,5 +21,6 @@
     <script type="text/javascript" src="//unpkg.com/dayjs/dayjs.min.js"></script>
     <script type="text/javascript" src="//unpkg.com/dayjs/plugin/relativeTime.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
+    {% if page.active_key == 'pace_calculator' %}<script type="text/javascript" src="{{ '/assets/js/pace-calculator.js' | relative_url }}"></script>{% endif %}
 </body>
 </html>

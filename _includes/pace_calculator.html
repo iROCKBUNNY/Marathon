@@ -1,0 +1,61 @@
+<div class="ui vertical segment">
+    <div class="ui container">
+        <h2 id="pace-calculator" class="ui header"><i class="calculator icon"></i>Pace Calculator</h2>
+        <div id="pace-calculator-form" class="ui form">
+            <div class="fields">
+                <div class="four wide required field">
+                    <label for="hour">Hour</label>
+                    <div class="ui selection dropdown">
+                        <input id="hour" type="hidden" name="hour">
+                        <i class="dropdown icon"></i>
+                        <div class="default text">Hour</div>
+                        <div class="menu">
+                            {% for hour in (1..6) %}<div class="item" data-value="{{ hour }}">{{ hour }} h</div>{% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="four wide required field">
+                    <label for="minute">Minute</label>
+                    <div class="ui selection dropdown">
+                        <input id="minute" type="hidden" name="minute">
+                        <i class="dropdown icon"></i>
+                        <div class="default text">Minute</div>
+                        <div class="menu">
+                            {% for minute in (0..59) %}<div class="item" data-value="{{ minute }}">{{ minute }} min</div>{% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="four wide required field">
+                    <label for="second">Second</label>
+                    <div class="ui selection dropdown">
+                        <input id="second" type="hidden" name="second">
+                        <i class="dropdown icon"></i>
+                        <div class="default text">Second</div>
+                        <div class="menu">
+                            {% for second in (0..59) %}<div class="item" data-value="{{ second }}">{{ second }} sec</div>{% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="four wide required field">
+                    <label for="distance">Distance</label>
+                    <div class="ui selection dropdown">
+                        <input id="distance" type="hidden" name="distance">
+                        <i class="dropdown icon"></i>
+                        <div class="default text">Distance</div>
+                        <div class="menu">
+                            <div class="item" data-value="21.0975">21.0975 km</div>
+                            <div class="item" data-value="42.195">42.195 km</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ui placeholder segment">
+            <div class="ui blue small statistic">
+                <div id="pace" class="value">0:00.000</div>
+                <div class="label">per km</div>
+            </div>
+            <div id="calculate-pace" class="ui primary left labeled icon button"><i class="arrow right icon"></i>Calculate</div>
+        </div>
+    </div>
+</div>
