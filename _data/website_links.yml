@@ -95,21 +95,17 @@
     url: http://www.lzmarathon.com/
     flag: cn
 
-  # - name: Yellow River Estuary Marathon
-  #   url: http://www.hhkgjmls.net/
-  #   flag: cn
-
   - name: Yangzhou Jianzhen Half Marathon
     url: http://www.yzmls.com/
+    flag: cn
+
+  - name: Zhengzhou Women's Half Marathon
+    url: http://zhengzhou.kiss-run.com/
     flag: cn
 
   - name: Taiyuan Marathon
     url: http://www.tymarathon.org/
     flag: cn
-
-  # - name: Dalian Marathon
-  #   url: http://www.dlmls.org/
-  #   flag: cn
 
   - name: Hengshui Lake Marathon
     url: http://www.hengshuimalasong.com/
@@ -206,3 +202,13 @@
   - name: Mangyongdae Prize Marathon
     url: http://pyongyangmarathon.com/
     flag: kp
+
+- name: Race Website Links (deprecated)
+  websites:
+  - name: Yellow River Estuary Marathon
+    url: http://www.hhkgjmls.net/
+    flag: cn
+
+  - name: Dalian Marathon
+    url: http://www.dlmls.org/
+    flag: cn
