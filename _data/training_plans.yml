@@ -1017,7 +1017,7 @@
       state: green
     - date: 05-07
       distance: 5
-      state: disabled
+      state: green
     - date: 05-08
       distance: 8
       state: disabled
