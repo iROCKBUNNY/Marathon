@@ -1020,7 +1020,7 @@
       state: green
     - date: 05-08
       distance: 8
-      state: disabled
+      state: green
     - date: 05-09
       distance: 3
       state: disabled
