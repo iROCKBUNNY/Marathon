@@ -10,7 +10,7 @@
                         <i class="dropdown icon"></i>
                         <div class="default text">Hour</div>
                         <div class="menu">
-                            {% for hour in (1..6) %}<div class="item" data-value="{{ hour }}">{{ hour }} h</div>{% endfor %}
+                            {% for hour in (0..15) %}<div class="item" data-value="{{ hour }}">{{ hour }} h</div>{% endfor %}
                         </div>
                     </div>
                 </div>
@@ -43,8 +43,7 @@
                         <i class="dropdown icon"></i>
                         <div class="default text">Distance</div>
                         <div class="menu">
-                            <div class="item" data-value="21.0975">21.0975 km</div>
-                            <div class="item" data-value="42.195">42.195 km</div>
+                            {% for distance in site.data.pace_calculator.distances %}<div class="item" data-value="{{ distance }}">{{ distance }} km</div>{% endfor %}
                         </div>
                     </div>
                 </div>
