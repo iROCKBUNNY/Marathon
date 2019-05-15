@@ -466,7 +466,7 @@
       state: green
     - date: 05-15
       distance: 3
-      state: disabled
+      state: green
     - date: 05-16
       distance: 5
       state: disabled
