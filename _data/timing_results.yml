@@ -252,32 +252,32 @@
     shoes: ASICS GEL-NIMBUS 21
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:41:04"
+      segment: "41:04"
+      state: positive
+    - net: "1:20:40"
+      segment: "39:36"
+      state: positive
+    - net: "2:01:55"
+      segment: "41:15"
+      state: positive
+    - net: "2:41:13"
+      segment: "39:18"
+      state: positive
+    - net: "3:21:29"
+      segment: "40:16"
+      state: positive
+    - net: "4:03:11"
+      segment: "41:42"
+      state: positive
+    - net: "4:47:42"
+      segment: "44:31"
+      state: positive
+    - net: "5:35:21"
+      segment: "47:39"
+      state: positive
     - net: "5:52:11"
-      segment: "00:00"
+      segment: "16:50"
       state: positive
 
   - date: 2018-05-13
