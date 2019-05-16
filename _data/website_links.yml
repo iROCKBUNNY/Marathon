@@ -61,6 +61,10 @@
 
 - name: Race Website Links (scheduled)
   websites:
+  - name: Taiyuan Marathon
+    url: http://www.tymarathon.org/
+    flag: cn
+
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
@@ -101,10 +105,6 @@
 
   - name: Zhengzhou Women's Half Marathon
     url: http://zhengzhou.kiss-run.com/
-    flag: cn
-
-  - name: Taiyuan Marathon
-    url: http://www.tymarathon.org/
     flag: cn
 
   - name: Hengshui Lake Marathon
