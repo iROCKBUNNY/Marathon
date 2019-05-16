@@ -42,6 +42,10 @@
     url: http://www.hzim.org/
     flag: cn
 
+  - name: Taiyuan Marathon
+    url: http://www.tymarathon.org/
+    flag: cn
+
   - name: Qinhuangdao Marathon
     # url: http://www.qhdmarathon.com/
     url: http://sjz.yerensports.com/qhdmls/
@@ -61,16 +65,12 @@
 
 - name: Race Website Links (scheduled)
   websites:
-  - name: Taiyuan Marathon
-    url: http://www.tymarathon.org/
+  - name: Zhengzhou Marathon
+    url: http://www.zhengzhou42195.com/
     flag: cn
 
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
-    flag: cn
-
-  - name: Zhengzhou Marathon
-    url: http://www.zhengzhou42195.com/
     flag: cn
 
   - name: Tokyo Marathon
