@@ -139,10 +139,6 @@
     url: http://www.miyun-marathon.com/
     flag: cn
 
-  - name: Beijing Tongzhou Half Marathon
-    url: http://www.bjtzmls.com/
-    flag: cn
-
   - name: Macao Galaxy Entertainment International Marathon
     url: http://www.macaomarathon.com/
     flag: mo
@@ -211,4 +207,8 @@
 
   - name: Dalian Marathon
     url: http://www.dlmls.org/
+    flag: cn
+
+  - name: Beijing Tongzhou Half Marathon
+    url: http://www.bjtzmls.com/
     flag: cn
