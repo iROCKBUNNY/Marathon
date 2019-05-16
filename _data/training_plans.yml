@@ -455,6 +455,120 @@
       state: disabled
 
 - race: 2019-10-13 Zhengzhou Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 09-09
+      distance: 0
+      state: disabled
+    - date: 09-10
+      distance: 0
+      state: disabled
+    - date: 09-11
+      distance: 3
+      state: disabled
+    - date: 09-12
+      distance: 5
+      state: disabled
+    - date: 09-13
+      distance: 0
+      state: disabled
+    - date: 09-14
+      distance: 10
+      state: disabled
+    - date: 09-15
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-16
+      distance: 0
+      state: disabled
+    - date: 09-17
+      distance: 5
+      state: disabled
+    - date: 09-18
+      distance: 8
+      state: disabled
+    - date: 09-19
+      distance: 5
+      state: disabled
+    - date: 09-20
+      distance: 0
+      state: disabled
+    - date: 09-21
+      distance: 15
+      state: disabled
+    - date: 09-22
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-23
+      distance: 0
+      state: disabled
+    - date: 09-24
+      distance: 5
+      state: disabled
+    - date: 09-25
+      distance: 10
+      state: disabled
+    - date: 09-26
+      distance: 5
+      state: disabled
+    - date: 09-27
+      distance: 0
+      state: disabled
+    - date: 09-28
+      distance: 21
+      state: disabled
+    - date: 09-29
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-30
+      distance: 0
+      state: disabled
+    - date: 10-01
+      distance: 8
+      state: disabled
+    - date: 10-02
+      distance: 15
+      state: disabled
+    - date: 10-03
+      distance: 8
+      state: disabled
+    - date: 10-04
+      distance: 0
+      state: disabled
+    - date: 10-05
+      distance: 15
+      state: disabled
+    - date: 10-06
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-07
+      distance: 0
+      state: disabled
+    - date: 10-08
+      distance: 5
+      state: disabled
+    - date: 10-09
+      distance: 8
+      state: disabled
+    - date: 10-10
+      distance: 3
+      state: disabled
+    - date: 10-11
+      distance: 0
+      state: disabled
+    - date: 10-12
+      distance: 0
+      state: disabled
+    - date: 10-13
+      distance: 42.195
+      state: disabled
+
+- race: 2019-09-08 Taiyuan Marathon
   icon: running
   weeks:
   - days:
@@ -616,19 +730,19 @@
       distance: 0
       state: disabled
     - date: 07-02
-      distance: 5
+      distance: 6
       state: disabled
     - date: 07-03
-      distance: 8
+      distance: 15
       state: disabled
     - date: 07-04
-      distance: 5
+      distance: 8
       state: disabled
     - date: 07-05
       distance: 0
       state: disabled
     - date: 07-06
-      distance: 15
+      distance: 30
       state: disabled
     - date: 07-07
       distance: 0
@@ -641,7 +755,7 @@
       distance: 5
       state: disabled
     - date: 07-10
-      distance: 10
+      distance: 8
       state: disabled
     - date: 07-11
       distance: 5
@@ -650,7 +764,7 @@
       distance: 0
       state: disabled
     - date: 07-13
-      distance: 21
+      distance: 15
       state: disabled
     - date: 07-14
       distance: 0
@@ -660,19 +774,19 @@
       distance: 0
       state: disabled
     - date: 07-16
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-17
-      distance: 12
+      distance: 10
       state: disabled
     - date: 07-18
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-19
       distance: 0
       state: disabled
     - date: 07-20
-      distance: 25
+      distance: 21
       state: disabled
     - date: 07-21
       distance: 0
@@ -682,19 +796,19 @@
       distance: 0
       state: disabled
     - date: 07-23
-      distance: 5
+      distance: 6
       state: disabled
     - date: 07-24
-      distance: 8
+      distance: 12
       state: disabled
     - date: 07-25
-      distance: 5
+      distance: 6
       state: disabled
     - date: 07-26
       distance: 0
       state: disabled
     - date: 07-27
-      distance: 15
+      distance: 25
       state: disabled
     - date: 07-28
       distance: 0
@@ -707,7 +821,7 @@
       distance: 5
       state: disabled
     - date: 07-31
-      distance: 10
+      distance: 8
       state: disabled
     - date: 08-01
       distance: 5
@@ -716,7 +830,7 @@
       distance: 0
       state: disabled
     - date: 08-03
-      distance: 21
+      distance: 15
       state: disabled
     - date: 08-04
       distance: 0
@@ -726,19 +840,19 @@
       distance: 0
       state: disabled
     - date: 08-06
-      distance: 6
+      distance: 5
       state: disabled
     - date: 08-07
-      distance: 12
+      distance: 10
       state: disabled
     - date: 08-08
-      distance: 6
+      distance: 5
       state: disabled
     - date: 08-09
       distance: 0
       state: disabled
     - date: 08-10
-      distance: 25
+      distance: 21
       state: disabled
     - date: 08-11
       distance: 0
@@ -748,19 +862,19 @@
       distance: 0
       state: disabled
     - date: 08-13
-      distance: 5
+      distance: 6
       state: disabled
     - date: 08-14
-      distance: 8
+      distance: 12
       state: disabled
     - date: 08-15
-      distance: 5
+      distance: 6
       state: disabled
     - date: 08-16
       distance: 0
       state: disabled
     - date: 08-17
-      distance: 15
+      distance: 25
       state: disabled
     - date: 08-18
       distance: 0
@@ -770,19 +884,19 @@
       distance: 0
       state: disabled
     - date: 08-20
-      distance: 5
+      distance: 6
       state: disabled
     - date: 08-21
-      distance: 10
+      distance: 15
       state: disabled
     - date: 08-22
-      distance: 5
+      distance: 8
       state: disabled
     - date: 08-23
       distance: 0
       state: disabled
     - date: 08-24
-      distance: 21
+      distance: 30
       state: disabled
     - date: 08-25
       distance: 0
@@ -792,19 +906,19 @@
       distance: 0
       state: disabled
     - date: 08-27
-      distance: 6
+      distance: 8
       state: disabled
     - date: 08-28
-      distance: 12
+      distance: 15
       state: disabled
     - date: 08-29
-      distance: 6
+      distance: 8
       state: disabled
     - date: 08-30
       distance: 0
       state: disabled
     - date: 08-31
-      distance: 25
+      distance: 15
       state: disabled
     - date: 09-01
       distance: 0
@@ -814,131 +928,21 @@
       distance: 0
       state: disabled
     - date: 09-03
-      distance: 8
+      distance: 5
       state: disabled
     - date: 09-04
-      distance: 15
+      distance: 8
       state: disabled
     - date: 09-05
-      distance: 8
+      distance: 3
       state: disabled
     - date: 09-06
       distance: 0
       state: disabled
     - date: 09-07
-      distance: 15
+      distance: 0
       state: disabled
     - date: 09-08
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-09
-      distance: 0
-      state: disabled
-    - date: 09-10
-      distance: 5
-      state: disabled
-    - date: 09-11
-      distance: 10
-      state: disabled
-    - date: 09-12
-      distance: 5
-      state: disabled
-    - date: 09-13
-      distance: 0
-      state: disabled
-    - date: 09-14
-      distance: 21
-      state: disabled
-    - date: 09-15
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-16
-      distance: 0
-      state: disabled
-    - date: 09-17
-      distance: 6
-      state: disabled
-    - date: 09-18
-      distance: 12
-      state: disabled
-    - date: 09-19
-      distance: 6
-      state: disabled
-    - date: 09-20
-      distance: 0
-      state: disabled
-    - date: 09-21
-      distance: 25
-      state: disabled
-    - date: 09-22
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-23
-      distance: 0
-      state: disabled
-    - date: 09-24
-      distance: 6
-      state: disabled
-    - date: 09-25
-      distance: 15
-      state: disabled
-    - date: 09-26
-      distance: 8
-      state: disabled
-    - date: 09-27
-      distance: 0
-      state: disabled
-    - date: 09-28
-      distance: 30
-      state: disabled
-    - date: 09-29
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-30
-      distance: 0
-      state: disabled
-    - date: 10-01
-      distance: 8
-      state: disabled
-    - date: 10-02
-      distance: 15
-      state: disabled
-    - date: 10-03
-      distance: 8
-      state: disabled
-    - date: 10-04
-      distance: 0
-      state: disabled
-    - date: 10-05
-      distance: 15
-      state: disabled
-    - date: 10-06
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-07
-      distance: 0
-      state: disabled
-    - date: 10-08
-      distance: 5
-      state: disabled
-    - date: 10-09
-      distance: 8
-      state: disabled
-    - date: 10-10
-      distance: 3
-      state: disabled
-    - date: 10-11
-      distance: 0
-      state: disabled
-    - date: 10-12
-      distance: 0
-      state: disabled
-    - date: 10-13
       distance: 42.195
       state: disabled
 
