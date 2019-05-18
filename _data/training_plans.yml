@@ -588,8 +588,8 @@
       distance: 0
       state: green
     - date: 05-18
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 05-19
       distance: 0
       state: disabled
