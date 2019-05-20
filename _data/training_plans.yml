@@ -598,8 +598,8 @@
       distance: 5.2
       state: orange
     - date: 05-21
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 05-22
       distance: 8
       state: disabled
