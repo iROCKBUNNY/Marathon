@@ -99,16 +99,16 @@
     url: http://www.lzmarathon.com/
     flag: cn
 
+  - name: Hengshui Lake Marathon
+    url: http://www.hengshuimalasong.com/
+    flag: cn
+
   - name: Yangzhou Jianzhen Half Marathon
     url: http://www.yzmls.com/
     flag: cn
 
   - name: Zhengzhou Women's Half Marathon
     url: http://zhengzhou.kiss-run.com/
-    flag: cn
-
-  - name: Hengshui Lake Marathon
-    url: http://www.hengshuimalasong.com/
     flag: cn
 
   - name: Qingdao Marathon
