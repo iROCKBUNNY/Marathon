@@ -602,7 +602,7 @@
       state: orange
     - date: 05-22
       distance: 8
-      state: disabled
+      state: green
     - date: 05-23
       distance: 5
       state: disabled
