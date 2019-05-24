@@ -19,7 +19,7 @@
                     {%- endfor -%}
                 {%- endfor -%}
             {%- endfor -%}
-            <a class="olive statistic" href="{{ '/' | relative_url }}{{ current_training_plan }}" data-tooltip="View Current Training Plan" data-variation="mini" data-position="top center" data-inverted="">
+            <a class="olive statistic" href="{{ '/' | relative_url }}{{ current_training_plan }}" data-tooltip="View Current Training Plan" data-variation="mini basic" data-position="top center" data-inverted="">
                 <div class="label">Completed Training</div>
                 <div class="value">{% assign digits = completed_training_sessions | round | split: '' %}{% for digit in digits %}{% assign three_digits = digits.size | minus: forloop.index | modulo: 3 %}{% if three_digits == 0 and forloop.last == false %}{{ digit | append: ',' }}{% else %}{{ digit }}{% endif %}{% endfor %}</div>
                 <div class="label">Sessions</div>
@@ -29,7 +29,7 @@
                 <div class="value">{% assign digits = cumulative_distance | round | split: '' %}{% for digit in digits %}{% assign three_digits = digits.size | minus: forloop.index | modulo: 3 %}{% if three_digits == 0 and forloop.last == false %}{{ digit | append: ',' }}{% else %}{{ digit }}{% endif %}{% endfor %}</div>
                 <div class="label">km</div>
             </div>
-            <a class="orange statistic" href="{{ '/' | relative_url }}#personal-best-full" data-tooltip="View Details" data-variation="mini" data-position="top center" data-inverted="">
+            <a class="orange statistic" href="{{ '/' | relative_url }}#personal-best-full" data-tooltip="View Details" data-variation="mini basic" data-position="top center" data-inverted="">
                 {%- assign personal_best_full = '0:00:00' -%}
                 {%- assign race_date_full = 'N/A' -%}
                 {%- for item in site.data.timing_results -%}
@@ -46,7 +46,7 @@
                 <div class="value">{{ personal_best_full }}</div>
                 <div class="label">{{ race_date_full }}</div>
             </a>
-            <a class="yellow statistic" href="{{ '/' | relative_url }}#personal-best-half" data-tooltip="View Details" data-variation="mini" data-position="top center" data-inverted="">
+            <a class="yellow statistic" href="{{ '/' | relative_url }}#personal-best-half" data-tooltip="View Details" data-variation="mini basic" data-position="top center" data-inverted="">
                 {%- assign personal_best_half = '0:00:00' -%}
                 {%- assign race_date_half = 'N/A' -%}
                 {%- for item in site.data.timing_results -%}
