@@ -627,10 +627,10 @@
       state: green
     - date: 05-30
       distance: 5
-      state: disabled
+      state: green
     - date: 05-31
       distance: 0
-      state: disabled
+      state: green
     - date: 06-01
       distance: 21
       state: disabled
