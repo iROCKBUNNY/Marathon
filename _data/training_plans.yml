@@ -632,8 +632,8 @@
       distance: 0
       state: green
     - date: 06-01
-      distance: 21
-      state: disabled
+      distance: 0
+      state: orange
     - date: 06-02
       distance: 0
       state: disabled
