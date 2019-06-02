@@ -635,12 +635,12 @@
       distance: 0
       state: orange
     - date: 06-02
-      distance: 0
-      state: disabled
+      distance: 21
+      state: orange
   - days:
     - date: 06-03
       distance: 0
-      state: disabled
+      state: green
     - date: 06-04
       distance: 6
       state: disabled
