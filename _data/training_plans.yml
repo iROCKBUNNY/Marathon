@@ -649,10 +649,10 @@
       state: green
     - date: 06-06
       distance: 6
-      state: disabled
+      state: green
     - date: 06-07
       distance: 0
-      state: disabled
+      state: green
     - date: 06-08
       distance: 25
       state: disabled
