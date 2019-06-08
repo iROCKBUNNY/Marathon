@@ -655,14 +655,14 @@
       state: green
     - date: 06-08
       distance: 25
-      state: disabled
+      state: green
     - date: 06-09
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-10
       distance: 0
-      state: disabled
+      state: green
     - date: 06-11
       distance: 5
       state: disabled
