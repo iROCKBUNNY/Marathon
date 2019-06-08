@@ -340,67 +340,23 @@
   icon: lock
   weeks:
   - days:
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 3
-      state: disabled
-    - date: 10-24
-      distance: 5
-      state: disabled
-    - date: 10-25
-      distance: 0
-      state: disabled
-    - date: 10-26
-      distance: 10
-      state: disabled
-    - date: 10-27
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-28
-      distance: 0
-      state: disabled
-    - date: 10-29
-      distance: 5
-      state: disabled
-    - date: 10-30
-      distance: 8
-      state: disabled
-    - date: 10-31
-      distance: 5
-      state: disabled
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 15
-      state: disabled
-    - date: 11-03
-      distance: 0
-      state: disabled
-  - days:
     - date: 11-04
       distance: 0
       state: disabled
     - date: 11-05
-      distance: 8
+      distance: 0
       state: disabled
     - date: 11-06
-      distance: 15
+      distance: 3
       state: disabled
     - date: 11-07
-      distance: 8
+      distance: 5
       state: disabled
     - date: 11-08
       distance: 0
       state: disabled
     - date: 11-09
-      distance: 15
+      distance: 10
       state: disabled
     - date: 11-10
       distance: 0
@@ -428,7 +384,7 @@
       distance: 42.195
       state: disabled
 
-- race: 2019-10-20 Beijing Marathon
+- race: 2019-11-03 Beijing Marathon
   icon: lock
   weeks:
   - days:
@@ -442,15 +398,59 @@
       distance: 3
       state: disabled
     - date: 10-17
-      distance: 3
+      distance: 5
       state: disabled
     - date: 10-18
       distance: 0
       state: disabled
     - date: 10-19
-      distance: 0
+      distance: 10
       state: disabled
     - date: 10-20
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 5
+      state: disabled
+    - date: 10-23
+      distance: 8
+      state: disabled
+    - date: 10-24
+      distance: 5
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+    - date: 10-26
+      distance: 15
+      state: disabled
+    - date: 10-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-28
+      distance: 0
+      state: disabled
+    - date: 10-29
+      distance: 5
+      state: disabled
+    - date: 10-30
+      distance: 8
+      state: disabled
+    - date: 10-31
+      distance: 3
+      state: disabled
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 0
+      state: disabled
+    - date: 11-03
       distance: 42.195
       state: disabled
 
