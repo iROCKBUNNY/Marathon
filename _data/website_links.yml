@@ -123,6 +123,10 @@
     url: http://www.changsha-marathon.com/
     flag: cn
 
+  - name: Nanchang Marathon
+    url: http://www.nanchang-marathon.com/
+    flag: cn
+
   - name: Chengdu Marathon
     url: http://www.chengdu-marathon.org/
     flag: cn
@@ -135,11 +139,19 @@
     url: http://lps.matchton.com/
     flag: cn
 
+  - name: Xichang Qionghai Lake Wetland Marathon
+    url: http:/www.xcmarathon.cn/
+    flag: cn
+
+  - name: Changzhou West Taihu Lake Half Marathon
+    url: http://www.czxthmls.com/
+    flag: cn
+
   - name: Beijing Miyun Marathon
     url: http://www.miyun-marathon.com/
     flag: cn
 
-  - name: Macao Galaxy Entertainment International Marathon
+  - name: Macao Marathon
     url: http://www.macaomarathon.com/
     flag: mo
 
