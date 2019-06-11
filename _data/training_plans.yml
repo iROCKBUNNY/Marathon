@@ -665,7 +665,7 @@
       state: green
     - date: 06-11
       distance: 5
-      state: disabled
+      state: green
     - date: 06-12
       distance: 8
       state: disabled
