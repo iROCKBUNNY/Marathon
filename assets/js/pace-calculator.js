@@ -51,7 +51,11 @@ function calculatePace() {
         var pace = ((Number(values.hour) * 60 + Number(values.minute)) * 60 + Number(values.second)) / Number(values.distance);
         var minute = Math.floor(pace / 60);
         var second = pace - minute * 60;
-        $('#pace').text(`${minute}:${second.toFixed(3)}`);
+        if (second < 10) {
+            $('#pace').text(`${minute}:0${second.toFixed(3)}`);
+        } else {
+            $('#pace').text(`${minute}:${second.toFixed(3)}`);
+        };
     };
 };
 
