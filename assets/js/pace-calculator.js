@@ -52,7 +52,7 @@ function calculatePace() {
         var minutes = Math.floor(pace / 60);
         var seconds = Math.floor(pace - minutes * 60);
         var milliseconds = (pace - Math.floor(pace)) * 1000;
-        $('#pace').html(`${minutes.toString().padStart(2, '0')}'${seconds.toString().padStart(2, '0')}"<span class="ui mini text">${milliseconds.toFixed(0).padStart(3, '0')}</span>`);
+        $('#pace').html(`${minutes.toString().padStart(2, '0')}&prime;${seconds.toString().padStart(2, '0')}&Prime;<span class="ui mini text">${milliseconds.toFixed(0).padStart(3, '0')}</span>`);
     };
 };
 
