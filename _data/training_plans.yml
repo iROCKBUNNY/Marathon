@@ -677,14 +677,14 @@
       state: green
     - date: 06-15
       distance: 15
-      state: disabled
+      state: green
     - date: 06-16
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-17
       distance: 0
-      state: disabled
+      state: green
     - date: 06-18
       distance: 5
       state: disabled
