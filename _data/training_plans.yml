@@ -690,7 +690,7 @@
       state: green
     - date: 06-19
       distance: 10
-      state: disabled
+      state: green
     - date: 06-20
       distance: 5
       state: disabled
