@@ -698,15 +698,15 @@
       distance: 0
       state: green
     - date: 06-22
-      distance: 21
-      state: disabled
-    - date: 06-23
       distance: 0
-      state: disabled
+      state: orange
+    - date: 06-23
+      distance: 21
+      state: orange
   - days:
     - date: 06-24
       distance: 0
-      state: disabled
+      state: green
     - date: 06-25
       distance: 6
       state: disabled
