@@ -721,14 +721,14 @@
       state: green
     - date: 06-29
       distance: 25
-      state: disabled
+      state: green
     - date: 06-30
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 07-01
       distance: 0
-      state: disabled
+      state: green
     - date: 07-02
       distance: 6
       state: disabled
