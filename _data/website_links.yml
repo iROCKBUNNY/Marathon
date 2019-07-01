@@ -107,8 +107,12 @@
     url: http://www.yzmls.com/
     flag: cn
 
-  - name: Zhengzhou Women's Half Marathon
+  - name: Zhengzhou Women&rsquo;s Half Marathon
     url: http://zhengzhou.kiss-run.com/
+    flag: cn
+
+  - name: Zhengzhou Longhu Lake Half Marathon
+    url: https://www.longhu-marathon.com/
     flag: cn
 
   - name: Qingdao Marathon
