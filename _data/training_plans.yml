@@ -731,7 +731,7 @@
       state: green
     - date: 07-02
       distance: 6
-      state: disabled
+      state: green
     - date: 07-03
       distance: 15
       state: disabled
