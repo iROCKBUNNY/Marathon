@@ -733,8 +733,8 @@
       distance: 6
       state: green
     - date: 07-03
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 07-04
       distance: 8
       state: disabled
