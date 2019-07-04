@@ -737,10 +737,10 @@
       state: orange
     - date: 07-04
       distance: 8
-      state: disabled
+      state: green
     - date: 07-05
       distance: 0
-      state: disabled
+      state: green
     - date: 07-06
       distance: 30
       state: disabled
