@@ -745,12 +745,12 @@
       distance: 0
       state: orange
     - date: 07-07
-      distance: 0
-      state: disabled
+      distance: 25
+      state: orange
   - days:
     - date: 07-08
       distance: 0
-      state: disabled
+      state: green
     - date: 07-09
       distance: 5
       state: disabled
