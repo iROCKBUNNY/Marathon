@@ -7,3 +7,9 @@ distances:
 - 50
 - 75
 - 100
+
+initial_values:
+  hour: 4
+  minute: 15
+  second: 0
+  distance: 42.195

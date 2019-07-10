@@ -208,6 +208,42 @@
       segment: "15:24"
       state: positive
 
+- race: Xian Marathon
+  type: full
+  results:
+  - date: 2019-10-20
+    bib_number:
+    shoes:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Zhengzhou Marathon
   type: full
   results:

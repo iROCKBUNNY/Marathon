@@ -1,3 +1,6 @@
+---
+---
+
 // pace-calculator.js
 
 $('.selection.dropdown').dropdown();
@@ -57,15 +60,23 @@ function calculatePace() {
 };
 
 // set initial values
-$('#pace-calculator-form').form('set values', {
-    hour: '4',
-    minute: '0',
-    second: '0',
-    distance: '42.195'
-});
-calculatePace();
-
-// bind event to calculate button
-$('#calculate-pace').click(function(event) {
+function setInitialValues() {
+    $('#pace-calculator-form').form('set values', {
+        hour: '{{ site.data.pace_calculator.initial_values.hour }}',
+        minute: '{{ site.data.pace_calculator.initial_values.minute }}',
+        second: '{{ site.data.pace_calculator.initial_values.second }}',
+        distance: '{{ site.data.pace_calculator.initial_values.distance }}'
+    });
     calculatePace();
+};
+setInitialValues();
+
+// update pace when if detecting data change
+$('#pace-calculator-form').change(function (event) {
+    calculatePace();
+});
+
+// bind event to reset button
+$('#reset').click(function (event) {
+    setInitialValues();
 });
