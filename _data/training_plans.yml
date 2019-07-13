@@ -769,14 +769,14 @@
       state: green
     - date: 07-13
       distance: 15
-      state: disabled
+      state: green
     - date: 07-14
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 07-15
       distance: 0
-      state: disabled
+      state: green
     - date: 07-16
       distance: 5
       state: disabled
