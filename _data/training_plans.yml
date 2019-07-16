@@ -779,7 +779,7 @@
       state: green
     - date: 07-16
       distance: 5
-      state: disabled
+      state: green
     - date: 07-17
       distance: 10
       state: disabled
