@@ -782,7 +782,7 @@
       state: green
     - date: 07-17
       distance: 10
-      state: disabled
+      state: green
     - date: 07-18
       distance: 5
       state: disabled
