@@ -800,19 +800,19 @@
       distance: 0
       state: green
     - date: 07-23
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-24
-      distance: 12
+      distance: 5
       state: disabled
     - date: 07-25
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-26
       distance: 0
       state: disabled
     - date: 07-27
-      distance: 25
+      distance: 10
       state: disabled
     - date: 07-28
       distance: 0
