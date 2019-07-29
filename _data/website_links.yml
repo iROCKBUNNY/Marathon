@@ -143,10 +143,6 @@
     url: http://www.shenzhenmarathon.org/
     flag: cn
 
-  - name: Liupanshui Summer Marathon
-    url: http://lps.matchton.com/
-    flag: cn
-
   - name: Xichang Qionghai Lake Wetland Marathon
     url: http:/www.xcmarathon.cn/
     flag: cn
@@ -227,6 +223,10 @@
 
   - name: Dalian Marathon
     url: http://www.dlmls.org/
+    flag: cn
+
+  - name: Liupanshui Summer Marathon
+    url: http://lps.matchton.com/
     flag: cn
 
   - name: Beijing Tongzhou Half Marathon
