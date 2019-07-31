@@ -826,7 +826,7 @@
       state: green
     - date: 07-31
       distance: 8
-      state: disabled
+      state: green
     - date: 08-01
       distance: 5
       state: disabled
