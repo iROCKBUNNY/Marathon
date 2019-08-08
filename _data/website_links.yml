@@ -51,10 +51,6 @@
     url: http://sjz.yerensports.com/qhdmls/
     flag: cn
 
-  - name: Zhengzhou Marathon
-    url: http://www.zhengzhou42195.com/
-    flag: cn
-
   - name: Zhengkai Marathon
     url: http://www.zkmarathon.com/
     flag: cn
@@ -69,6 +65,10 @@
 
 - name: Race Website Links (scheduled)
   websites:
+  - name: Zhengzhou Marathon
+    url: http://www.zhengzhou42195.com/
+    flag: cn
+
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
