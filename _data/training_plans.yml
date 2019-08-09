@@ -75,7 +75,7 @@
       distance: 5
       state: disabled
     - date: 01-01
-      distance: 5
+      distance: 10
       state: disabled
     - date: 01-02
       distance: 5
@@ -94,13 +94,13 @@
       distance: 0
       state: disabled
     - date: 01-07
-      distance: 5
-      state: disabled
-    - date: 01-08
       distance: 8
       state: disabled
+    - date: 01-08
+      distance: 15
+      state: disabled
     - date: 01-09
-      distance: 5
+      distance: 8
       state: disabled
     - date: 01-10
       distance: 0
