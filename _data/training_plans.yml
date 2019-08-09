@@ -350,13 +350,13 @@
       distance: 3
       state: disabled
     - date: 11-07
-      distance: 5
+      distance: 3
       state: disabled
     - date: 11-08
       distance: 0
       state: disabled
     - date: 11-09
-      distance: 10
+      distance: 5
       state: disabled
     - date: 11-10
       distance: 0
@@ -398,13 +398,13 @@
       distance: 3
       state: disabled
     - date: 10-24
-      distance: 5
+      distance: 3
       state: disabled
     - date: 10-25
       distance: 0
       state: disabled
     - date: 10-26
-      distance: 10
+      distance: 5
       state: disabled
     - date: 10-27
       distance: 0
@@ -472,13 +472,13 @@
       distance: 3
       state: disabled
     - date: 09-12
-      distance: 5
+      distance: 3
       state: disabled
     - date: 09-13
       distance: 0
       state: disabled
     - date: 09-14
-      distance: 10
+      distance: 5
       state: disabled
     - date: 09-15
       distance: 0
@@ -491,7 +491,7 @@
       distance: 5
       state: disabled
     - date: 09-18
-      distance: 8
+      distance: 5
       state: disabled
     - date: 09-19
       distance: 5
@@ -500,7 +500,7 @@
       distance: 0
       state: disabled
     - date: 09-21
-      distance: 15
+      distance: 10
       state: disabled
     - date: 09-22
       distance: 0
@@ -513,7 +513,7 @@
       distance: 5
       state: disabled
     - date: 09-25
-      distance: 10
+      distance: 8
       state: disabled
     - date: 09-26
       distance: 5
@@ -522,7 +522,7 @@
       distance: 0
       state: disabled
     - date: 09-28
-      distance: 21
+      distance: 15
       state: disabled
     - date: 09-29
       distance: 0
