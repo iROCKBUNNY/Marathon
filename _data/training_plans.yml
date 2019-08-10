@@ -857,14 +857,14 @@
       state: green
     - date: 08-10
       distance: 21
-      state: disabled
+      state: green
     - date: 08-11
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-12
       distance: 0
-      state: disabled
+      state: green
     - date: 08-13
       distance: 6
       state: disabled
