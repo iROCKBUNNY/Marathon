@@ -873,10 +873,10 @@
       state: green
     - date: 08-15
       distance: 6
-      state: disabled
+      state: green
     - date: 08-16
       distance: 0
-      state: disabled
+      state: green
     - date: 08-17
       distance: 25
       state: disabled
