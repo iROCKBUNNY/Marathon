@@ -889,7 +889,7 @@
       state: green
     - date: 08-20
       distance: 6
-      state: disabled
+      state: green
     - date: 08-21
       distance: 15
       state: disabled
