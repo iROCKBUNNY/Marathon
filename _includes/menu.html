@@ -1,8 +1,3 @@
 <div class="ui labels">
-    <a class="ui black label" href="{{ '/' | relative_url }}"><i class="home icon"></i>Home</a>
-    <a class="ui black label" href="{{ '/' | relative_url }}#toc"><i class="list ul icon"></i>TOC</a>
-    <a class="ui black label" href="{{ '/' | relative_url }}#training-plans"><i class="route icon"></i>Training</a>
-    <a class="ui black label" href="{{ '/' | relative_url }}#timing-results"><i class="stopwatch icon"></i>Results</a>
-    <a class="ui black label" href="{{ '/' | relative_url }}#website-links"><i class="linkify icon"></i>Links</a>
-    <a class="ui black label" href="{{ '/pace-calculator/' | relative_url }}"><i class="calculator icon"></i>Pace</a>
+    {% for item in site.data.menu_items %}<a class="ui {% if item.active_key == page.active_key %}black {% endif %}label" href="{{ item.url | relative_url }}"><i class="{{ item.icon }} icon"></i>{{ item.title }}</a>{% endfor %}
 </div>

@@ -1,0 +1,24 @@
+- title: Home
+  icon: home
+  url: '/'
+  active_key: home
+
+- title: Training Plans
+  icon: route
+  url: '/training-plans/'
+  active_key: training_plans
+
+- title: Timing Results
+  icon: stopwatch
+  url: '/timing-results/'
+  active_key: timing_results
+
+- title: Website Links
+  icon: linkify
+  url: '/website-links/'
+  active_key: website_links
+
+- title: Pace Calculator
+  icon: calculator
+  url: '/pace-calculator/'
+  active_key: pace_calculator

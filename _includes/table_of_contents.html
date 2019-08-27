@@ -1,0 +1,35 @@
+<div class="ui vertical segment">
+    <div class="ui container">
+        <h2 class="ui header">Training Plans<a class="ui basic horizontal label" href="{{ '/training-plans/' | relative_url }}"><i class="arrow right icon"></i>View</a></h2>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.training_plans -%}<a class="item" href="{{ '/training-plans/' | relative_url }}{{ item.race | slugify | prepend: '#' }}"><i class="{{ item.icon }} icon{% if item.icon == 'lock' %} disabled{% endif %}"></i>{{ item.race }} ({{ item.weeks.size }} {% if item.weeks.size > 1 %}weeks{% else %}week{% endif %}
+                {%- if item.icon == 'running' -%}
+                    {%- assign elapsed_days = 0 -%}
+                    {%- assign total_days = 0 -%}
+                    {%- for week in item.weeks -%}
+                        {%- for day in week.days -%}
+                            {%- unless day.state == 'disabled' -%}
+                                {%- assign elapsed_days = elapsed_days | plus: 1 -%}
+                            {%- endunless -%}
+                            {%- assign total_days = total_days | plus: 1 %}
+                        {%- endfor -%}
+                    {%- endfor -%}
+                    : {{ elapsed_days }}/{{ total_days }}
+                {%- endif -%}
+            )</a>{%- endfor -%}
+        </div>
+        <h2 class="ui header">Timing Results<a class="ui basic horizontal label" href="{{ '/timing-results/' | relative_url }}"><i class="arrow right icon"></i>View</a></h2>
+        <h3 class="ui header">Marathons<a class="ui circular label" href="{{ '/timing-results/' | relative_url }}#marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.timing_results -%}{% if item.type == 'full' %}<a class="item" href="{{ '/timing-results/' | relative_url }}{{ item.race | slugify | prepend: '#' }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
+        </div>
+        <h3 class="ui header">Half Marathons<a class="ui circular label" href="{{ '/timing-results/' | relative_url }}#half-marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.timing_results -%}{% if item.type == 'half' %}<a class="item" href="{{ '/timing-results/' | relative_url }}{{ item.race | slugify | prepend: '#' }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
+        </div>
+        <h2 class="ui header">Website Links<a class="ui basic horizontal label" href="{{ '/website-links/' | relative_url }}"><i class="arrow right icon"></i>View</a></h2>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.website_links -%}<a class="item" href="{{ '/website-links/' | relative_url }}{{ item.name | slugify | prepend: '#' }}">{{ item.name }} ({{ item.websites.size }})</a>{%- endfor -%}
+        </div>
+    </div>
+</div>
