@@ -340,19 +340,19 @@
       distance: 0
       state: disabled
     - date: 11-26
-      distance: 5
+      distance: 8
       state: disabled
     - date: 11-27
-      distance: 10
+      distance: 15
       state: disabled
     - date: 11-28
-      distance: 5
+      distance: 8
       state: disabled
     - date: 11-29
       distance: 0
       state: disabled
     - date: 11-30
-      distance: 21
+      distance: 15
       state: disabled
     - date: 12-01
       distance: 0
