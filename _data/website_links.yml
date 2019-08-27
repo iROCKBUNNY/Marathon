@@ -46,9 +46,8 @@
     url: http://www.tymarathon.org/
     flag: cn
 
-  - name: Qinhuangdao Marathon
-    # url: http://www.qhdmarathon.com/
-    url: http://sjz.yerensports.com/qhdmls/
+  - name: Zhengzhou Marathon
+    url: http://www.zhengzhou42195.com/
     flag: cn
 
   - name: Zhengkai Marathon
@@ -59,16 +58,17 @@
     url: http://zzmarathon.com/
     flag: cn
 
+  - name: Qinhuangdao Marathon
+    # url: http://www.qhdmarathon.com/
+    url: http://sjz.yerensports.com/qhdmls/
+    flag: cn
+
   - name: Standard Chartered Hong Kong Marathon
     url: https://www.hkmarathon.com/
     flag: hk
 
 - name: Race Website Links (scheduled)
   websites:
-  - name: Zhengzhou Marathon
-    url: http://www.zhengzhou42195.com/
-    flag: cn
-
   - name: Shanghai Marathon
     url: http://www.shmarathon.com/
     flag: cn
