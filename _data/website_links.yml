@@ -225,6 +225,10 @@
     url: http://www.dlmls.org/
     flag: cn
 
+  - name: Harbin Marathon
+    url: http://hrb-marathon.cn/
+    flag: cn
+
   - name: Liupanshui Summer Marathon
     url: http://lps.matchton.com/
     flag: cn
