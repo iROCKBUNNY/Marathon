@@ -73,13 +73,13 @@
 
 - name: Race Website Links (scheduled)
   websites:
-  - name: Shanghai Marathon
-    url: http://www.shmarathon.com/
-    flag: cn
-
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
+
+  - name: Shanghai Marathon
+    url: http://www.shmarathon.com/
+    flag: cn
 
   - name: Wuhan Marathon
     url: http://www.wuhanmarathon.org/
