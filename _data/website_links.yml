@@ -58,6 +58,10 @@
     url: http://zzmarathon.com/
     flag: cn
 
+  - name: Xian Marathon
+    url: http://www.xian42195.com/
+    flag: cn
+
   - name: Qinhuangdao Marathon
     # url: http://www.qhdmarathon.com/
     url: http://sjz.yerensports.com/qhdmls/
@@ -83,10 +87,6 @@
 
   - name: Wuxi Marathon
     url: http://wuximarathon.com/
-    flag: cn
-
-  - name: Xian Marathon
-    url: http://www.xian42195.com/
     flag: cn
 
 - name: Race Website Links
