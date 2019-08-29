@@ -913,10 +913,10 @@
       state: green
     - date: 08-29
       distance: 8
-      state: disabled
+      state: green
     - date: 08-30
       distance: 0
-      state: disabled
+      state: green
     - date: 08-31
       distance: 15
       state: disabled
