@@ -919,14 +919,14 @@
       state: green
     - date: 08-31
       distance: 15
-      state: disabled
+      state: green
     - date: 09-01
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-02
       distance: 0
-      state: disabled
+      state: green
     - date: 09-03
       distance: 5
       state: disabled
