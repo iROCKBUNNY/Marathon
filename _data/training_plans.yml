@@ -932,7 +932,7 @@
       state: green
     - date: 09-04
       distance: 8
-      state: disabled
+      state: green
     - date: 09-05
       distance: 3
       state: disabled
