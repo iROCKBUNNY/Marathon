@@ -1,5 +1,13 @@
 <div class="ui vertical segment">
     <div class="ui container">
+        <h2 class="ui header"><i class="list alternate icon"></i>Table of Contents</h2>
+        <div class="ui bulleted selection link list">
+            {%- for item in site.data.website_links -%}<a class="item" href="{{ '/website-links/' | relative_url }}{{ item.name | slugify | prepend: '#' }}">{{ item.name }} ({{ item.websites.size }})</a>{%- endfor -%}
+        </div>
+    </div>
+</div>
+<div class="ui vertical segment">
+    <div class="ui container">
         <h2 id="website-links" class="ui header"><i class="linkify icon"></i>Website Links</h2>
         {%- for section in site.data.website_links -%}
             <h3 id="{{ section.name | slugify }}" class="ui header">{{ section.name }}</h3>
