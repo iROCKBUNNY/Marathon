@@ -73,6 +73,10 @@
 
 - name: Race Website Links (scheduled)
   websites:
+  - name: Kyoto Marathon
+    url: https://www.kyoto-marathon.com/
+    flag: jp
+
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
@@ -173,10 +177,6 @@
 
   - name: Osaka Marathon
     url: http://www.osaka-marathon.com/
-    flag: jp
-
-  - name: Kyoto Marathon
-    url: https://www.kyoto-marathon.com/
     flag: jp
 
   - name: Okinawa Marathon
