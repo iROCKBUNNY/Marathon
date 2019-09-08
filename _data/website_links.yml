@@ -34,10 +34,6 @@
     url: http://www.guangzhou-marathon.com/
     flag: cn
 
-  - name: Xiamen Marathon
-    url: http://www.xmim.org/
-    flag: cn
-
   - name: Hangzhou Marathon
     url: http://www.hzim.org/
     flag: cn
@@ -54,17 +50,22 @@
     url: http://www.zkmarathon.com/
     flag: cn
 
-  - name: Zhengzhou Yanhuang Marathon
-    url: http://zzmarathon.com/
-    flag: cn
-
   - name: Xian Marathon
     url: http://www.xian42195.com/
     flag: cn
 
+- name: Race Website Links (participated, archived)
+  websites:
+  - name: Xiamen Marathon
+    url: http://www.xmim.org/
+    flag: cn
+
+  - name: Zhengzhou Yanhuang Marathon
+    url: http://zzmarathon.com/
+    flag: cn
+
   - name: Qinhuangdao Marathon
-    # url: http://www.qhdmarathon.com/
-    url: http://sjz.yerensports.com/qhdmls/
+    url: http://www.qhdmls.com/
     flag: cn
 
   - name: Standard Chartered Hong Kong Marathon
@@ -227,6 +228,10 @@
 
   - name: Harbin Marathon
     url: http://hrb-marathon.cn/
+    flag: cn
+
+  - name: Shenyang Marathon
+    url: http://symarathon.wd-sports.cn/
     flag: cn
 
   - name: Liupanshui Summer Marathon
