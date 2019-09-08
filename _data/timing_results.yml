@@ -312,9 +312,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "4:49:04"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Qinhuangdao Marathon
   type: full

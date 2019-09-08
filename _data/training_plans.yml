@@ -455,15 +455,15 @@
       state: disabled
 
 - race: 2019-10-13 Zhengzhou Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 09-09
       distance: 0
-      state: disabled
+      state: green
     - date: 09-10
       distance: 0
-      state: disabled
+      state: green
     - date: 09-11
       distance: 3
       state: disabled
@@ -569,7 +569,7 @@
       state: disabled
 
 - race: 2019-09-08 Taiyuan Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 05-13
@@ -944,7 +944,7 @@
       state: green
     - date: 09-08
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2019-05-12 Qinhuangdao Marathon
   icon: medal
