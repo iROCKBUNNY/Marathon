@@ -2,6 +2,54 @@
   icon: lock
   weeks:
   - days:
+    - date: 02-17
+      distance: 0
+      state: disabled
+    - date: 02-18
+      distance: 0
+      state: disabled
+    - date: 02-19
+      distance: 3
+      state: disabled
+    - date: 02-20
+      distance: 3
+      state: disabled
+    - date: 02-21
+      distance: 0
+      state: disabled
+    - date: 02-22
+      distance: 5
+      state: disabled
+    - date: 02-23
+      distance: 0
+      state: disabled
+  - days:
+    - date: 02-24
+      distance: 0
+      state: disabled
+    - date: 02-25
+      distance: 5
+      state: disabled
+    - date: 02-26
+      distance: 8
+      state: disabled
+    - date: 02-27
+      distance: 3
+      state: disabled
+    - date: 02-28
+      distance: 0
+      state: disabled
+    - date: 02-29
+      distance: 0
+      state: disabled
+    - date: 03-01
+      distance: 42.195
+      state: disabled
+
+- race: 2020-02-16 Kyoto Marathon
+  icon: lock
+  weeks:
+  - days:
     - date: 12-09
       distance: 0
       state: disabled
@@ -75,7 +123,7 @@
       distance: 5
       state: disabled
     - date: 01-01
-      distance: 10
+      distance: 5
       state: disabled
     - date: 01-02
       distance: 5
@@ -94,13 +142,13 @@
       distance: 0
       state: disabled
     - date: 01-07
-      distance: 8
+      distance: 5
       state: disabled
     - date: 01-08
-      distance: 15
+      distance: 8
       state: disabled
     - date: 01-09
-      distance: 8
+      distance: 5
       state: disabled
     - date: 01-10
       distance: 0
@@ -119,7 +167,7 @@
       distance: 5
       state: disabled
     - date: 01-15
-      distance: 5
+      distance: 10
       state: disabled
     - date: 01-16
       distance: 5
@@ -128,7 +176,7 @@
       distance: 0
       state: disabled
     - date: 01-18
-      distance: 10
+      distance: 21
       state: disabled
     - date: 01-19
       distance: 0
@@ -138,19 +186,19 @@
       distance: 0
       state: disabled
     - date: 01-21
-      distance: 5
+      distance: 6
       state: disabled
     - date: 01-22
-      distance: 8
+      distance: 12
       state: disabled
     - date: 01-23
-      distance: 5
+      distance: 6
       state: disabled
     - date: 01-24
       distance: 0
       state: disabled
     - date: 01-25
-      distance: 15
+      distance: 25
       state: disabled
     - date: 01-26
       distance: 0
@@ -160,19 +208,19 @@
       distance: 0
       state: disabled
     - date: 01-28
-      distance: 5
+      distance: 6
       state: disabled
     - date: 01-29
-      distance: 10
+      distance: 15
       state: disabled
     - date: 01-30
-      distance: 5
+      distance: 8
       state: disabled
     - date: 01-31
       distance: 0
       state: disabled
     - date: 02-01
-      distance: 21
+      distance: 30
       state: disabled
     - date: 02-02
       distance: 0
@@ -182,19 +230,19 @@
       distance: 0
       state: disabled
     - date: 02-04
-      distance: 6
+      distance: 8
       state: disabled
     - date: 02-05
-      distance: 12
+      distance: 15
       state: disabled
     - date: 02-06
-      distance: 6
+      distance: 8
       state: disabled
     - date: 02-07
       distance: 0
       state: disabled
     - date: 02-08
-      distance: 25
+      distance: 15
       state: disabled
     - date: 02-09
       distance: 0
@@ -204,65 +252,21 @@
       distance: 0
       state: disabled
     - date: 02-11
-      distance: 6
+      distance: 5
       state: disabled
     - date: 02-12
-      distance: 15
+      distance: 8
       state: disabled
     - date: 02-13
-      distance: 8
+      distance: 3
       state: disabled
     - date: 02-14
       distance: 0
       state: disabled
     - date: 02-15
-      distance: 30
+      distance: 0
       state: disabled
     - date: 02-16
-      distance: 0
-      state: disabled
-  - days:
-    - date: 02-17
-      distance: 0
-      state: disabled
-    - date: 02-18
-      distance: 8
-      state: disabled
-    - date: 02-19
-      distance: 15
-      state: disabled
-    - date: 02-20
-      distance: 8
-      state: disabled
-    - date: 02-21
-      distance: 0
-      state: disabled
-    - date: 02-22
-      distance: 15
-      state: disabled
-    - date: 02-23
-      distance: 0
-      state: disabled
-  - days:
-    - date: 02-24
-      distance: 0
-      state: disabled
-    - date: 02-25
-      distance: 5
-      state: disabled
-    - date: 02-26
-      distance: 8
-      state: disabled
-    - date: 02-27
-      distance: 3
-      state: disabled
-    - date: 02-28
-      distance: 0
-      state: disabled
-    - date: 02-29
-      distance: 0
-      state: disabled
-    - date: 03-01
       distance: 42.195
       state: disabled
 
