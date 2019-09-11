@@ -470,7 +470,7 @@
       state: green
     - date: 09-11
       distance: 3
-      state: disabled
+      state: green
     - date: 09-12
       distance: 3
       state: disabled
