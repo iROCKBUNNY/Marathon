@@ -478,15 +478,15 @@
       distance: 0
       state: green
     - date: 09-14
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-15
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-16
       distance: 0
-      state: disabled
+      state: green
     - date: 09-17
       distance: 5
       state: disabled
