@@ -489,7 +489,7 @@
       state: green
     - date: 09-17
       distance: 5
-      state: disabled
+      state: green
     - date: 09-18
       distance: 5
       state: disabled
