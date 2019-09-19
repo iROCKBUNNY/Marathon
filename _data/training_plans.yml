@@ -1,50 +1,50 @@
-- race: 2020-03-01 Tokyo Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 02-17
-      distance: 0
-      state: disabled
-    - date: 02-18
-      distance: 0
-      state: disabled
-    - date: 02-19
-      distance: 3
-      state: disabled
-    - date: 02-20
-      distance: 3
-      state: disabled
-    - date: 02-21
-      distance: 0
-      state: disabled
-    - date: 02-22
-      distance: 5
-      state: disabled
-    - date: 02-23
-      distance: 0
-      state: disabled
-  - days:
-    - date: 02-24
-      distance: 0
-      state: disabled
-    - date: 02-25
-      distance: 5
-      state: disabled
-    - date: 02-26
-      distance: 8
-      state: disabled
-    - date: 02-27
-      distance: 3
-      state: disabled
-    - date: 02-28
-      distance: 0
-      state: disabled
-    - date: 02-29
-      distance: 0
-      state: disabled
-    - date: 03-01
-      distance: 42.195
-      state: disabled
+# - race: 2020-03-01 Tokyo Marathon
+#   icon: lock
+#   weeks:
+#   - days:
+#     - date: 02-17
+#       distance: 0
+#       state: disabled
+#     - date: 02-18
+#       distance: 0
+#       state: disabled
+#     - date: 02-19
+#       distance: 3
+#       state: disabled
+#     - date: 02-20
+#       distance: 3
+#       state: disabled
+#     - date: 02-21
+#       distance: 0
+#       state: disabled
+#     - date: 02-22
+#       distance: 5
+#       state: disabled
+#     - date: 02-23
+#       distance: 0
+#       state: disabled
+#   - days:
+#     - date: 02-24
+#       distance: 0
+#       state: disabled
+#     - date: 02-25
+#       distance: 5
+#       state: disabled
+#     - date: 02-26
+#       distance: 8
+#       state: disabled
+#     - date: 02-27
+#       distance: 3
+#       state: disabled
+#     - date: 02-28
+#       distance: 0
+#       state: disabled
+#     - date: 02-29
+#       distance: 0
+#       state: disabled
+#     - date: 03-01
+#       distance: 42.195
+#       state: disabled
 
 - race: 2020-02-16 Kyoto Marathon
   icon: lock
@@ -491,10 +491,10 @@
       state: green
     - date: 09-19
       distance: 5
-      state: disabled
+      state: green
     - date: 09-20
       distance: 0
-      state: disabled
+      state: green
     - date: 09-21
       distance: 10
       state: disabled
