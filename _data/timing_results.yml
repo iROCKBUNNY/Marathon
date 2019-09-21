@@ -34,42 +34,6 @@
 #       segment: "00:00"
 #       state: disabled
 
-- race: Kyoto Marathon
-  type: full
-  results:
-  - date: 2020-02-16
-    bib_number:
-    shoes:
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-
 - race: Beijing Marathon
   type: full
   results:
