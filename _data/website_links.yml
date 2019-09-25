@@ -104,10 +104,6 @@
     url: http://www.lzmarathon.com/
     flag: cn
 
-  - name: Hengshui Lake Marathon
-    url: http://www.hengshuimalasong.com/
-    flag: cn
-
   - name: Nanjing Marathon
     url: http://www.nj-marathon.org/
     flag: cn
@@ -220,6 +216,10 @@
   websites:
   - name: Yellow River Estuary Marathon
     url: http://www.hhkgjmls.net/
+    flag: cn
+
+  - name: Hengshui Lake Marathon
+    url: http://www.hengshuimalasong.com/
     flag: cn
 
   - name: Dalian Marathon
