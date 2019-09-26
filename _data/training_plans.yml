@@ -509,10 +509,10 @@
       state: green
     - date: 09-26
       distance: 5
-      state: disabled
+      state: green
     - date: 09-27
       distance: 0
-      state: disabled
+      state: green
     - date: 09-28
       distance: 15
       state: disabled
