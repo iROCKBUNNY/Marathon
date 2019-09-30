@@ -17,8 +17,6 @@ organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
 github: https://github.com/iROCKBUNNY
 
-image: /images/logo.png
-logo: /images/logo.png
 icon: running
 
 plugins:
