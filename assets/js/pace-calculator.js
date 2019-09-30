@@ -13,8 +13,8 @@ $('#pace-calculator-form').form({
             identifier: 'hour',
             rules: [
                 {
-                    type   : 'empty',
-                    prompt : 'Please select hour'
+                    type: 'empty',
+                    prompt: 'Please select hour'
                 }
             ]
         },
@@ -22,8 +22,8 @@ $('#pace-calculator-form').form({
             identifier: 'minute',
             rules: [
                 {
-                    type   : 'empty',
-                    prompt : 'Please select minute'
+                    type: 'empty',
+                    prompt: 'Please select minute'
                 }
             ]
         },
@@ -31,8 +31,8 @@ $('#pace-calculator-form').form({
             identifier: 'second',
             rules: [
                 {
-                    type   : 'empty',
-                    prompt : 'Please select second'
+                    type: 'empty',
+                    prompt: 'Please select second'
                 }
             ]
         },
@@ -40,8 +40,8 @@ $('#pace-calculator-form').form({
             identifier: 'distance',
             rules: [
                 {
-                    type   : 'empty',
-                    prompt : 'Please select distance'
+                    type: 'empty',
+                    prompt: 'Please select distance'
                 }
             ]
         }
