@@ -527,8 +527,8 @@
       distance: 8
       state: green
     - date: 10-02
-      distance: 15
-      state: disabled
+      distance: 5
+      state: orange
     - date: 10-03
       distance: 8
       state: disabled
