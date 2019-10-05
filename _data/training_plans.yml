@@ -537,14 +537,14 @@
       state: green
     - date: 10-05
       distance: 15
-      state: disabled
+      state: green
     - date: 10-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-07
       distance: 0
-      state: disabled
+      state: green
     - date: 10-08
       distance: 5
       state: disabled
