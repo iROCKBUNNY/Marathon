@@ -657,226 +657,6 @@
   icon: medal
   weeks:
   - days:
-    - date: 05-13
-      distance: 0
-      state: green
-    - date: 05-14
-      distance: 0
-      state: green
-    - date: 05-15
-      distance: 3
-      state: green
-    - date: 05-16
-      distance: 5
-      state: green
-    - date: 05-17
-      distance: 0
-      state: green
-    - date: 05-18
-      distance: 0
-      state: orange
-    - date: 05-19
-      distance: 10
-      state: orange
-  - days:
-    - date: 05-20
-      distance: 5.2
-      state: orange
-    - date: 05-21
-      distance: 0
-      state: orange
-    - date: 05-22
-      distance: 8
-      state: green
-    - date: 05-23
-      distance: 5
-      state: green
-    - date: 05-24
-      distance: 0
-      state: green
-    - date: 05-25
-      distance: 15
-      state: green
-    - date: 05-26
-      distance: 0
-      state: green
-  - days:
-    - date: 05-27
-      distance: 0
-      state: green
-    - date: 05-28
-      distance: 5
-      state: green
-    - date: 05-29
-      distance: 10
-      state: green
-    - date: 05-30
-      distance: 5
-      state: green
-    - date: 05-31
-      distance: 0
-      state: green
-    - date: 06-01
-      distance: 0
-      state: orange
-    - date: 06-02
-      distance: 21
-      state: orange
-  - days:
-    - date: 06-03
-      distance: 0
-      state: green
-    - date: 06-04
-      distance: 0
-      state: orange
-    - date: 06-05
-      distance: 12
-      state: green
-    - date: 06-06
-      distance: 6
-      state: green
-    - date: 06-07
-      distance: 0
-      state: green
-    - date: 06-08
-      distance: 25
-      state: green
-    - date: 06-09
-      distance: 0
-      state: green
-  - days:
-    - date: 06-10
-      distance: 0
-      state: green
-    - date: 06-11
-      distance: 5
-      state: green
-    - date: 06-12
-      distance: 8
-      state: green
-    - date: 06-13
-      distance: 5
-      state: green
-    - date: 06-14
-      distance: 0
-      state: green
-    - date: 06-15
-      distance: 15
-      state: green
-    - date: 06-16
-      distance: 0
-      state: green
-  - days:
-    - date: 06-17
-      distance: 0
-      state: green
-    - date: 06-18
-      distance: 5
-      state: green
-    - date: 06-19
-      distance: 10
-      state: green
-    - date: 06-20
-      distance: 5
-      state: green
-    - date: 06-21
-      distance: 0
-      state: green
-    - date: 06-22
-      distance: 0
-      state: orange
-    - date: 06-23
-      distance: 21
-      state: orange
-  - days:
-    - date: 06-24
-      distance: 0
-      state: green
-    - date: 06-25
-      distance: 6
-      state: green
-    - date: 06-26
-      distance: 12
-      state: green
-    - date: 06-27
-      distance: 6
-      state: green
-    - date: 06-28
-      distance: 0
-      state: green
-    - date: 06-29
-      distance: 25
-      state: green
-    - date: 06-30
-      distance: 0
-      state: green
-  - days:
-    - date: 07-01
-      distance: 0
-      state: green
-    - date: 07-02
-      distance: 6
-      state: green
-    - date: 07-03
-      distance: 0
-      state: orange
-    - date: 07-04
-      distance: 8
-      state: green
-    - date: 07-05
-      distance: 0
-      state: green
-    - date: 07-06
-      distance: 0
-      state: orange
-    - date: 07-07
-      distance: 25
-      state: orange
-  - days:
-    - date: 07-08
-      distance: 0
-      state: green
-    - date: 07-09
-      distance: 5
-      state: green
-    - date: 07-10
-      distance: 8
-      state: green
-    - date: 07-11
-      distance: 5
-      state: green
-    - date: 07-12
-      distance: 0
-      state: green
-    - date: 07-13
-      distance: 15
-      state: green
-    - date: 07-14
-      distance: 0
-      state: green
-  - days:
-    - date: 07-15
-      distance: 0
-      state: green
-    - date: 07-16
-      distance: 5
-      state: green
-    - date: 07-17
-      distance: 10
-      state: green
-    - date: 07-18
-      distance: 5
-      state: green
-    - date: 07-19
-      distance: 0
-      state: green
-    - date: 07-20
-      distance: 21
-      state: green
-    - date: 07-21
-      distance: 0
-      state: green
-  - days:
     - date: 07-22
       distance: 0
       state: green
@@ -1030,6 +810,230 @@
     - date: 09-08
       distance: 42.195
       state: green
+
+- race: 2019 Summer Training
+  icon: clipboard check
+  weeks:
+  - days:
+    - date: 05-13
+      distance: 0
+      state: olive
+    - date: 05-14
+      distance: 0
+      state: olive
+    - date: 05-15
+      distance: 3
+      state: olive
+    - date: 05-16
+      distance: 5
+      state: olive
+    - date: 05-17
+      distance: 0
+      state: olive
+    - date: 05-18
+      distance: 0
+      state: olive
+    - date: 05-19
+      distance: 10
+      state: olive
+  - days:
+    - date: 05-20
+      distance: 5.2
+      state: olive
+    - date: 05-21
+      distance: 0
+      state: olive
+    - date: 05-22
+      distance: 8
+      state: olive
+    - date: 05-23
+      distance: 5
+      state: olive
+    - date: 05-24
+      distance: 0
+      state: olive
+    - date: 05-25
+      distance: 15
+      state: olive
+    - date: 05-26
+      distance: 0
+      state: olive
+  - days:
+    - date: 05-27
+      distance: 0
+      state: olive
+    - date: 05-28
+      distance: 5
+      state: olive
+    - date: 05-29
+      distance: 10
+      state: olive
+    - date: 05-30
+      distance: 5
+      state: olive
+    - date: 05-31
+      distance: 0
+      state: olive
+    - date: 06-01
+      distance: 0
+      state: olive
+    - date: 06-02
+      distance: 21
+      state: olive
+  - days:
+    - date: 06-03
+      distance: 0
+      state: olive
+    - date: 06-04
+      distance: 0
+      state: olive
+    - date: 06-05
+      distance: 12
+      state: olive
+    - date: 06-06
+      distance: 6
+      state: olive
+    - date: 06-07
+      distance: 0
+      state: olive
+    - date: 06-08
+      distance: 25
+      state: olive
+    - date: 06-09
+      distance: 0
+      state: olive
+  - days:
+    - date: 06-10
+      distance: 0
+      state: olive
+    - date: 06-11
+      distance: 5
+      state: olive
+    - date: 06-12
+      distance: 8
+      state: olive
+    - date: 06-13
+      distance: 5
+      state: olive
+    - date: 06-14
+      distance: 0
+      state: olive
+    - date: 06-15
+      distance: 15
+      state: olive
+    - date: 06-16
+      distance: 0
+      state: olive
+  - days:
+    - date: 06-17
+      distance: 0
+      state: olive
+    - date: 06-18
+      distance: 5
+      state: olive
+    - date: 06-19
+      distance: 10
+      state: olive
+    - date: 06-20
+      distance: 5
+      state: olive
+    - date: 06-21
+      distance: 0
+      state: olive
+    - date: 06-22
+      distance: 0
+      state: olive
+    - date: 06-23
+      distance: 21
+      state: olive
+  - days:
+    - date: 06-24
+      distance: 0
+      state: olive
+    - date: 06-25
+      distance: 6
+      state: olive
+    - date: 06-26
+      distance: 12
+      state: olive
+    - date: 06-27
+      distance: 6
+      state: olive
+    - date: 06-28
+      distance: 0
+      state: olive
+    - date: 06-29
+      distance: 25
+      state: olive
+    - date: 06-30
+      distance: 0
+      state: olive
+  - days:
+    - date: 07-01
+      distance: 0
+      state: olive
+    - date: 07-02
+      distance: 6
+      state: olive
+    - date: 07-03
+      distance: 0
+      state: olive
+    - date: 07-04
+      distance: 8
+      state: olive
+    - date: 07-05
+      distance: 0
+      state: olive
+    - date: 07-06
+      distance: 0
+      state: olive
+    - date: 07-07
+      distance: 25
+      state: olive
+  - days:
+    - date: 07-08
+      distance: 0
+      state: olive
+    - date: 07-09
+      distance: 5
+      state: olive
+    - date: 07-10
+      distance: 8
+      state: olive
+    - date: 07-11
+      distance: 5
+      state: olive
+    - date: 07-12
+      distance: 0
+      state: olive
+    - date: 07-13
+      distance: 15
+      state: olive
+    - date: 07-14
+      distance: 0
+      state: olive
+  - days:
+    - date: 07-15
+      distance: 0
+      state: olive
+    - date: 07-16
+      distance: 5
+      state: olive
+    - date: 07-17
+      distance: 10
+      state: olive
+    - date: 07-18
+      distance: 5
+      state: olive
+    - date: 07-19
+      distance: 0
+      state: olive
+    - date: 07-20
+      distance: 21
+      state: olive
+    - date: 07-21
+      distance: 0
+      state: olive
 
 - race: 2019-05-12 Qinhuangdao Marathon
   icon: medal
@@ -1815,6 +1819,208 @@
   icon: medal
   weeks:
   - days:
+    - date: 07-23
+      distance: 0
+      state: green
+    - date: 07-24
+      distance: 5
+      state: green
+    - date: 07-25
+      distance: 5
+      state: green
+    - date: 07-26
+      distance: 5
+      state: green
+    - date: 07-27
+      distance: 0
+      state: green
+    - date: 07-28
+      distance: 10
+      state: green
+    - date: 07-29
+      distance: 0
+      state: green
+  - days:
+    - date: 07-30
+      distance: 0
+      state: green
+    - date: 07-31
+      distance: 5
+      state: green
+    - date: 08-01
+      distance: 6
+      state: green
+    - date: 08-02
+      distance: 5
+      state: green
+    - date: 08-03
+      distance: 0
+      state: green
+    - date: 08-04
+      distance: 8
+      state: green
+    - date: 08-05
+      distance: 0
+      state: green
+  - days:
+    - date: 08-06
+      distance: 0
+      state: green
+    - date: 08-07
+      distance: 5
+      state: green
+    - date: 08-08
+      distance: 8
+      state: green
+    - date: 08-09
+      distance: 5
+      state: green
+    - date: 08-10
+      distance: 0
+      state: green
+    - date: 08-11
+      distance: 15
+      state: green
+    - date: 08-12
+      distance: 0
+      state: green
+  - days:
+    - date: 08-13
+      distance: 0
+      state: green
+    - date: 08-14
+      distance: 5
+      state: green
+    - date: 08-15
+      distance: 10
+      state: green
+    - date: 08-16
+      distance: 5
+      state: green
+    - date: 08-17
+      distance: 0
+      state: green
+    - date: 08-18
+      distance: 21
+      state: green
+    - date: 08-19
+      distance: 0
+      state: green
+  - days:
+    - date: 08-20
+      distance: 0
+      state: green
+    - date: 08-21
+      distance: 6
+      state: green
+    - date: 08-22
+      distance: 12
+      state: green
+    - date: 08-23
+      distance: 6
+      state: green
+    - date: 08-24
+      distance: 0
+      state: green
+    - date: 08-25
+      distance: 25
+      state: green
+    - date: 08-26
+      distance: 0
+      state: green
+  - days:
+    - date: 08-27
+      distance: 0
+      state: green
+    - date: 08-28
+      distance: 0
+      state: orange
+    - date: 08-29
+      distance: 15
+      state: green
+    - date: 08-30
+      distance: 8
+      state: green
+    - date: 08-31
+      distance: 0
+      state: green
+    - date: 09-01
+      distance: 30
+      state: green
+    - date: 09-02
+      distance: 0
+      state: green
+  - days:
+    - date: 09-03
+      distance: 0
+      state: green
+    - date: 09-04
+      distance: 8
+      state: green
+    - date: 09-05
+      distance: 15
+      state: green
+    - date: 09-06
+      distance: 8
+      state: green
+    - date: 09-07
+      distance: 0
+      state: green
+    - date: 09-08
+      distance: 10
+      state: orange
+    - date: 09-09
+      distance: 0
+      state: green
+  - days:
+    - date: 09-10
+      distance: 0
+      state: green
+    - date: 09-11
+      distance: 5
+      state: green
+    - date: 09-12
+      distance: 8
+      state: green
+    - date: 09-13
+      distance: 3
+      state: green
+    - date: 09-14
+      distance: 0
+      state: green
+    - date: 09-15
+      distance: 0
+      state: green
+    - date: 09-16
+      distance: 42.195
+      state: green
+
+- race: 2018 Summer Training
+  icon: clipboard check
+  weeks:
+  - days:
+    - date: 07-16
+      distance: 0
+      state: olive
+    - date: 07-17
+      distance: 3
+      state: olive
+    - date: 07-18
+      distance: 0
+      state: olive
+    - date: 07-19
+      distance: 5
+      state: olive
+    - date: 07-20
+      distance: 0
+      state: olive
+    - date: 07-21
+      distance: 10
+      state: olive
+    - date: 07-22
+      distance: 5
+      state: olive
+  - days:
     - date: 05-14
       distance: 0
       state: olive
@@ -2012,204 +2218,6 @@
     - date: 07-15
       distance: 0
       state: olive
-  - days:
-    - date: 07-16
-      distance: 0
-      state: green
-    - date: 07-17
-      distance: 3
-      state: green
-    - date: 07-18
-      distance: 0
-      state: green
-    - date: 07-19
-      distance: 5
-      state: green
-    - date: 07-20
-      distance: 0
-      state: green
-    - date: 07-21
-      distance: 10
-      state: green
-    - date: 07-22
-      distance: 5
-      state: orange
-  - days:
-    - date: 07-23
-      distance: 0
-      state: green
-    - date: 07-24
-      distance: 5
-      state: green
-    - date: 07-25
-      distance: 5
-      state: green
-    - date: 07-26
-      distance: 5
-      state: green
-    - date: 07-27
-      distance: 0
-      state: green
-    - date: 07-28
-      distance: 10
-      state: green
-    - date: 07-29
-      distance: 0
-      state: green
-  - days:
-    - date: 07-30
-      distance: 0
-      state: green
-    - date: 07-31
-      distance: 5
-      state: green
-    - date: 08-01
-      distance: 6
-      state: green
-    - date: 08-02
-      distance: 5
-      state: green
-    - date: 08-03
-      distance: 0
-      state: green
-    - date: 08-04
-      distance: 8
-      state: green
-    - date: 08-05
-      distance: 0
-      state: green
-  - days:
-    - date: 08-06
-      distance: 0
-      state: green
-    - date: 08-07
-      distance: 5
-      state: green
-    - date: 08-08
-      distance: 8
-      state: green
-    - date: 08-09
-      distance: 5
-      state: green
-    - date: 08-10
-      distance: 0
-      state: green
-    - date: 08-11
-      distance: 15
-      state: green
-    - date: 08-12
-      distance: 0
-      state: green
-  - days:
-    - date: 08-13
-      distance: 0
-      state: green
-    - date: 08-14
-      distance: 5
-      state: green
-    - date: 08-15
-      distance: 10
-      state: green
-    - date: 08-16
-      distance: 5
-      state: green
-    - date: 08-17
-      distance: 0
-      state: green
-    - date: 08-18
-      distance: 21
-      state: green
-    - date: 08-19
-      distance: 0
-      state: green
-  - days:
-    - date: 08-20
-      distance: 0
-      state: green
-    - date: 08-21
-      distance: 6
-      state: green
-    - date: 08-22
-      distance: 12
-      state: green
-    - date: 08-23
-      distance: 6
-      state: green
-    - date: 08-24
-      distance: 0
-      state: green
-    - date: 08-25
-      distance: 25
-      state: green
-    - date: 08-26
-      distance: 0
-      state: green
-  - days:
-    - date: 08-27
-      distance: 0
-      state: green
-    - date: 08-28
-      distance: 0
-      state: orange
-    - date: 08-29
-      distance: 15
-      state: green
-    - date: 08-30
-      distance: 8
-      state: green
-    - date: 08-31
-      distance: 0
-      state: green
-    - date: 09-01
-      distance: 30
-      state: green
-    - date: 09-02
-      distance: 0
-      state: green
-  - days:
-    - date: 09-03
-      distance: 0
-      state: green
-    - date: 09-04
-      distance: 8
-      state: green
-    - date: 09-05
-      distance: 15
-      state: green
-    - date: 09-06
-      distance: 8
-      state: green
-    - date: 09-07
-      distance: 0
-      state: green
-    - date: 09-08
-      distance: 10
-      state: orange
-    - date: 09-09
-      distance: 0
-      state: green
-  - days:
-    - date: 09-10
-      distance: 0
-      state: green
-    - date: 09-11
-      distance: 5
-      state: green
-    - date: 09-12
-      distance: 8
-      state: green
-    - date: 09-13
-      distance: 3
-      state: green
-    - date: 09-14
-      distance: 0
-      state: green
-    - date: 09-15
-      distance: 0
-      state: green
-    - date: 09-16
-      distance: 42.195
-      state: green
 
 - race: 2018-05-13 Qinhuangdao Marathon
   icon: medal
