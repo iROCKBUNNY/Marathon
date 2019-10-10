@@ -719,13 +719,13 @@
       state: green
     - date: 10-10
       distance: 3
-      state: disabled
+      state: green
     - date: 10-11
       distance: 0
-      state: disabled
+      state: green
     - date: 10-12
       distance: 0
-      state: disabled
+      state: green
     - date: 10-13
       distance: 42.195
       state: disabled
