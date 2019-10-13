@@ -596,10 +596,10 @@
   - days:
     - date: 10-14
       distance: 0
-      state: disabled
+      state: green
     - date: 10-15
       distance: 0
-      state: disabled
+      state: green
     - date: 10-16
       distance: 3
       state: disabled
@@ -728,7 +728,7 @@
       state: green
     - date: 10-13
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2019-09-08 Taiyuan Marathon
   icon: medal

@@ -102,9 +102,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "5:59:08"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Taiyuan Marathon
   type: full
