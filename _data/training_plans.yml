@@ -591,7 +591,7 @@
       state: disabled
 
 - race: 2019-10-20 Xian Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 10-14
@@ -617,7 +617,7 @@
       state: disabled
 
 - race: 2019-10-13 Zhengzhou Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 09-09
