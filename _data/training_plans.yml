@@ -601,8 +601,8 @@
       distance: 0
       state: green
     - date: 10-16
-      distance: 3
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-17
       distance: 3
       state: disabled
