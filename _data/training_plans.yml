@@ -605,13 +605,13 @@
       state: orange
     - date: 10-17
       distance: 3
-      state: disabled
+      state: green
     - date: 10-18
       distance: 0
-      state: disabled
+      state: green
     - date: 10-19
       distance: 0
-      state: disabled
+      state: green
     - date: 10-20
       distance: 42.195
       state: disabled
