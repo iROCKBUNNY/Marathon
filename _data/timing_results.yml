@@ -66,9 +66,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "4:41:53"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Zhengzhou Marathon
   type: full

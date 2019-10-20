@@ -279,15 +279,15 @@
       state: disabled
 
 - race: 2019-2020 Winter Training
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 10-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 10-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 10-23
       distance: 3
       state: disabled
@@ -591,7 +591,7 @@
       state: disabled
 
 - race: 2019-10-20 Xian Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 10-14
@@ -614,7 +614,7 @@
       state: green
     - date: 10-20
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2019-10-13 Zhengzhou Marathon
   icon: medal
