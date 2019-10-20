@@ -34,6 +34,74 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Zhengkai Marathon
+  type: full
+  results:
+  - date: 2020-03-29
+    bib_number:
+    shoes:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2019-03-31
+    bib_number: C2339
+    shoes: UNDER ARMOUR HOVR Sonic
+    personal_best: true
+    check_points:
+    - net: "0:29:12"
+      segment: "29:12"
+      state: positive
+    - net: "0:57:41"
+      segment: "28:29"
+      state: positive
+    - net: "1:26:13"
+      segment: "28:32"
+      state: positive
+    - net: "1:55:40"
+      segment: "29:27"
+      state: positive
+    - net: "2:25:28"
+      segment: "29:48"
+      state: positive
+    - net: "2:55:50"
+      segment: "30:22"
+      state: positive
+    - net: "3:32:04"
+      segment: "36:14"
+      state: positive
+    - net: "4:10:34"
+      segment: "38:30"
+      state: positive
+    - net: "4:25:35"
+      segment: "15:01"
+      state: positive
+
 - race: Xian Marathon
   type: full
   results:
@@ -299,42 +367,6 @@
       state: positive
     - net: "1:56:39"
       segment: "05:19"
-      state: positive
-
-- race: Zhengkai Marathon
-  type: full
-  results:
-  - date: 2019-03-31
-    bib_number: C2339
-    shoes: UNDER ARMOUR HOVR Sonic
-    personal_best: true
-    check_points:
-    - net: "0:29:12"
-      segment: "29:12"
-      state: positive
-    - net: "0:57:41"
-      segment: "28:29"
-      state: positive
-    - net: "1:26:13"
-      segment: "28:32"
-      state: positive
-    - net: "1:55:40"
-      segment: "29:27"
-      state: positive
-    - net: "2:25:28"
-      segment: "29:48"
-      state: positive
-    - net: "2:55:50"
-      segment: "30:22"
-      state: positive
-    - net: "3:32:04"
-      segment: "36:14"
-      state: positive
-    - net: "4:10:34"
-      segment: "38:30"
-      state: positive
-    - net: "4:25:35"
-      segment: "15:01"
       state: positive
 
 - race: Hong Kong Marathon
