@@ -110,32 +110,32 @@
     shoes: ASICS GEL-NIMBUS 21
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:32:24"
+      segment: "32:24"
+      state: positive
+    - net: "1:06:23"
+      segment: "33:59"
+      state: positive
+    - net: "1:37:50"
+      segment: "31:27"
+      state: positive
+    - net: "2:11:16"
+      segment: "33:26"
+      state: positive
+    - net: "2:44:39"
+      segment: "33:23"
+      state: positive
+    - net: "3:20:45"
+      segment: "36:06"
+      state: positive
+    - net: "3:54:17"
+      segment: "33:32"
+      state: positive
+    - net: "4:26:37"
+      segment: "32:20"
+      state: positive
     - net: "4:41:53"
-      segment: "00:00"
+      segment: "15:16"
       state: positive
 
 - race: Zhengzhou Marathon
