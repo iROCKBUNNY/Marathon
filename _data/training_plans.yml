@@ -302,11 +302,11 @@
       state: olive
     - date: 10-27
       distance: 10
-      state: disabled
+      state: olive
   - days:
     - date: 10-28
       distance: 0
-      state: disabled
+      state: olive
     - date: 10-29
       distance: 5
       state: disabled
