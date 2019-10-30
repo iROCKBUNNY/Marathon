@@ -312,7 +312,7 @@
       state: olive
     - date: 10-30
       distance: 5
-      state: disabled
+      state: olive
     - date: 10-31
       distance: 5
       state: disabled
