@@ -364,10 +364,10 @@
       distance: 0
       state: disabled
     - date: 11-16
-      distance: 10
+      distance: 0
       state: disabled
     - date: 11-17
-      distance: 0
+      distance: 10
       state: disabled
   - days:
     - date: 11-18
@@ -430,10 +430,10 @@
       distance: 0
       state: disabled
     - date: 12-07
-      distance: 15
+      distance: 0
       state: disabled
     - date: 12-08
-      distance: 0
+      distance: 15
       state: disabled
   - days:
     - date: 12-09
