@@ -315,13 +315,13 @@
       state: olive
     - date: 10-31
       distance: 5
-      state: disabled
+      state: olive
     - date: 11-01
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-02
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-03
       distance: 10
       state: disabled
