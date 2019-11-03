@@ -324,11 +324,11 @@
       state: olive
     - date: 11-03
       distance: 10
-      state: disabled
+      state: olive
   - days:
     - date: 11-04
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-05
       distance: 5
       state: disabled
