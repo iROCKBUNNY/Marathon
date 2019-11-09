@@ -342,10 +342,10 @@
       distance: 0
       state: olive
     - date: 11-09
-      distance: 15
-      state: disabled
-    - date: 11-10
       distance: 0
+      state: olive
+    - date: 11-10
+      distance: 15
       state: disabled
   - days:
     - date: 11-11
