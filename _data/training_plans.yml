@@ -346,11 +346,11 @@
       state: olive
     - date: 11-10
       distance: 15
-      state: disabled
+      state: olive
   - days:
     - date: 11-11
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-12
       distance: 5
       state: disabled
