@@ -352,11 +352,11 @@
       distance: 0
       state: olive
     - date: 11-12
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-13
-      distance: 10
-      state: disabled
+      distance: 5
+      state: olive
     - date: 11-14
       distance: 5
       state: disabled
