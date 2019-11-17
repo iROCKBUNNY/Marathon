@@ -368,7 +368,7 @@
       state: olive
     - date: 11-17
       distance: 10
-      state: disabled
+      state: olive
   - days:
     - date: 11-18
       distance: 0
@@ -386,10 +386,10 @@
       distance: 0
       state: disabled
     - date: 11-23
-      distance: 15
+      distance: 0
       state: disabled
     - date: 11-24
-      distance: 0
+      distance: 15
       state: disabled
   - days:
     - date: 11-25
