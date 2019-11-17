@@ -372,7 +372,7 @@
   - days:
     - date: 11-18
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-19
       distance: 5
       state: disabled
