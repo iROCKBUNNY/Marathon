@@ -383,11 +383,11 @@
       distance: 3
       state: olive
     - date: 11-22
-      distance: 5
-      state: disabled
-    - date: 11-23
       distance: 0
-      state: disabled
+      state: olive
+    - date: 11-23
+      distance: 5
+      state: olive
     - date: 11-24
       distance: 15
       state: disabled
