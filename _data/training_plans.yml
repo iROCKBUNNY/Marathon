@@ -403,7 +403,7 @@
       state: olive
     - date: 11-28
       distance: 5
-      state: disabled
+      state: olive
     - date: 11-29
       distance: 0
       state: disabled
