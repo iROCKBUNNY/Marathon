@@ -409,14 +409,14 @@
       state: olive
     - date: 11-30
       distance: 10
-      state: disabled
+      state: olive
     - date: 12-01
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 12-02
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-03
       distance: 5
       state: disabled
