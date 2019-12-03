@@ -419,7 +419,7 @@
       state: olive
     - date: 12-03
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-04
       distance: 8
       state: disabled
