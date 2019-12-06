@@ -428,12 +428,12 @@
       state: olive
     - date: 12-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-07
-      distance: 0
+      distance: 5
       state: disabled
     - date: 12-08
-      distance: 15
+      distance: 10
       state: disabled
   - days:
     - date: 12-09
