@@ -431,7 +431,7 @@
       state: olive
     - date: 12-07
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-08
       distance: 10
       state: disabled
