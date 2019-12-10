@@ -441,7 +441,7 @@
       state: olive
     - date: 12-10
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-11
       distance: 10
       state: disabled
