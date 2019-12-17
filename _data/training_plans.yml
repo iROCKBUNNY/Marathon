@@ -462,11 +462,11 @@
       distance: 0
       state: olive
     - date: 12-17
-      distance: 5
-      state: disabled
+      distance: 10
+      state: olive
     - date: 12-18
-      distance: 8
-      state: disabled
+      distance: 0
+      state: olive
     - date: 12-19
       distance: 5
       state: disabled
