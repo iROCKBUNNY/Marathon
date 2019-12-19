@@ -468,10 +468,10 @@
       distance: 0
       state: olive
     - date: 12-19
-      distance: 5
-      state: disabled
-    - date: 12-20
       distance: 0
+      state: olive
+    - date: 12-20
+      distance: 5
       state: disabled
     - date: 12-21
       distance: 15
