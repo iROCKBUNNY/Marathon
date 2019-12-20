@@ -472,7 +472,7 @@
       state: olive
     - date: 12-20
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-21
       distance: 15
       state: disabled
