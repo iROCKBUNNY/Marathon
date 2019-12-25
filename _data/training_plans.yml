@@ -488,10 +488,10 @@
       state: olive
     - date: 12-25
       distance: 10
-      state: disabled
+      state: olive
     - date: 12-26
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 12-27
       distance: 0
       state: disabled
