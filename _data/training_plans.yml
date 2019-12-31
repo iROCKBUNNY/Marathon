@@ -507,9 +507,9 @@
       state: olive
     - date: 12-31
       distance: 5
-      state: disabled
+      state: olive
     - date: 01-01
-      distance: 8
+      distance: 10
       state: disabled
     - date: 01-02
       distance: 5
