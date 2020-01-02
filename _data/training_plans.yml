@@ -512,14 +512,14 @@
       distance: 10
       state: olive
     - date: 01-02
-      distance: 5
-      state: disabled
+      distance: 3
+      state: olive
     - date: 01-03
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-04
-      distance: 15
-      state: disabled
+      distance: 0
+      state: olive
     - date: 01-05
       distance: 0
       state: disabled
