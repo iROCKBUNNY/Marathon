@@ -521,12 +521,12 @@
       distance: 0
       state: olive
     - date: 01-05
-      distance: 0
-      state: disabled
+      distance: 10
+      state: olive
   - days:
     - date: 01-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-07
       distance: 5
       state: disabled
