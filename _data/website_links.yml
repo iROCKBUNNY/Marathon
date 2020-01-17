@@ -94,6 +94,10 @@
     url: http://wuximarathon.com/
     flag: cn
 
+  - name: Luoyang Marathon
+    url: http://www.luoyangmalasong.com/
+    flag: cn
+
 - name: Race Website Links
   websites:
   - name: Chongqing Marathon
