@@ -1,4 +1,53 @@
-- race: 2020-04-19 Beijing Half Marathon
+  # - days:
+  #   - date: 04-13
+  #     distance: 0
+  #     state: disabled
+  #   - date: 04-14
+  #     distance: 0
+  #     state: disabled
+  #   - date: 04-15
+  #     distance: 3
+  #     state: disabled
+  #   - date: 04-16
+  #     distance: 3
+  #     state: disabled
+  #   - date: 04-17
+  #     distance: 0
+  #     state: disabled
+  #   - date: 04-18
+  #     distance: 0
+  #     state: disabled
+  #   - date: 04-19
+  #     distance: 21.0975
+  #     state: disabled
+
+- race: 2020-04-12 Beijing Half Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 04-06
+      distance: 0
+      state: disabled
+    - date: 04-07
+      distance: 0
+      state: disabled
+    - date: 04-08
+      distance: 3
+      state: disabled
+    - date: 04-09
+      distance: 3
+      state: disabled
+    - date: 04-10
+      distance: 0
+      state: disabled
+    - date: 04-11
+      distance: 0
+      state: disabled
+    - date: 04-12
+      distance: 21.0975
+      state: disabled
+
+- race: 2020-04-05 Luoyang Marathon
   icon: lock
   weeks:
   - days:
@@ -18,54 +67,10 @@
       distance: 0
       state: disabled
     - date: 04-04
-      distance: 5
+      distance: 0
       state: disabled
     - date: 04-05
-      distance: 0
-      state: disabled
-  - days:
-    - date: 04-06
-      distance: 0
-      state: disabled
-    - date: 04-07
-      distance: 5
-      state: disabled
-    - date: 04-08
-      distance: 5
-      state: disabled
-    - date: 04-09
-      distance: 5
-      state: disabled
-    - date: 04-10
-      distance: 0
-      state: disabled
-    - date: 04-11
-      distance: 10
-      state: disabled
-    - date: 04-12
-      distance: 0
-      state: disabled
-  - days:
-    - date: 04-13
-      distance: 0
-      state: disabled
-    - date: 04-14
-      distance: 0
-      state: disabled
-    - date: 04-15
-      distance: 3
-      state: disabled
-    - date: 04-16
-      distance: 3
-      state: disabled
-    - date: 04-17
-      distance: 0
-      state: disabled
-    - date: 04-18
-      distance: 0
-      state: disabled
-    - date: 04-19
-      distance: 21.0975
+      distance: 42.195
       state: disabled
 
 - race: 2020-03-29 Zhengkai Marathon
