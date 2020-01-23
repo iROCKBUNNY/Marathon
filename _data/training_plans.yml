@@ -554,12 +554,12 @@
       state: olive
     - date: 01-23
       distance: 5
-      state: disabled
+      state: olive
     - date: 01-24
-      distance: 0
+      distance: 5
       state: disabled
     - date: 01-25
-      distance: 10
+      distance: 5
       state: disabled
     - date: 01-26
       distance: 0
