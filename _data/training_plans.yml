@@ -560,14 +560,14 @@
       state: olive
     - date: 01-25
       distance: 10
-      state: disabled
+      state: olive
     - date: 01-26
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 01-27
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-28
       distance: 5
       state: disabled
