@@ -578,8 +578,8 @@
       distance: 0
       state: olive
     - date: 01-31
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 02-01
       distance: 15
       state: disabled
