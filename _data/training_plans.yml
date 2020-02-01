@@ -74,12 +74,12 @@
       state: disabled
 
 - race: 2020-03-29 Zhengkai Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 02-03
       distance: 0
-      state: disabled
+      state: green
     - date: 02-04
       distance: 5
       state: disabled
@@ -254,7 +254,7 @@
       state: disabled
 
 - race: 2019-2020 Winter Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 10-21
@@ -582,10 +582,10 @@
       state: olive
     - date: 02-01
       distance: 15
-      state: disabled
+      state: olive
     - date: 02-02
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2019-10-20 Xian Marathon
   icon: medal
