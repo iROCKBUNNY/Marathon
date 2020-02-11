@@ -173,7 +173,7 @@
       state: green
     - date: 02-11
       distance: 5
-      state: disabled
+      state: green
     - date: 02-12
       distance: 6
       state: disabled
