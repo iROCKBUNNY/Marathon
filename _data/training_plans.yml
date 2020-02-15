@@ -185,14 +185,14 @@
       state: orange
     - date: 02-15
       distance: 8
-      state: disabled
+      state: green
     - date: 02-16
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-17
       distance: 0
-      state: disabled
+      state: green
     - date: 02-18
       distance: 5
       state: disabled
