@@ -191,8 +191,8 @@
       state: green
   - days:
     - date: 02-17
-      distance: 0
-      state: green
+      distance: 5
+      state: orange
     - date: 02-18
       distance: 5
       state: disabled
