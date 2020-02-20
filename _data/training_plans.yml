@@ -201,10 +201,10 @@
       state: orange
     - date: 02-20
       distance: 5
-      state: disabled
+      state: green
     - date: 02-21
       distance: 0
-      state: disabled
+      state: green
     - date: 02-22
       distance: 15
       state: disabled
