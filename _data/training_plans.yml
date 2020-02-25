@@ -217,7 +217,7 @@
       state: green
     - date: 02-25
       distance: 5
-      state: disabled
+      state: green
     - date: 02-26
       distance: 10
       state: disabled
