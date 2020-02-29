@@ -229,14 +229,14 @@
       state: green
     - date: 02-29
       distance: 21
-      state: disabled
+      state: green
     - date: 03-01
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-02
       distance: 0
-      state: disabled
+      state: green
     - date: 03-03
       distance: 6
       state: disabled
