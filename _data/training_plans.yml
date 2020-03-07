@@ -123,14 +123,14 @@
       state: olive
     - date: 03-07
       distance: 25
-      state: disabled
+      state: olive
     - date: 03-08
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 03-09
       distance: 0
-      state: disabled
+      state: olive
     - date: 03-10
       distance: 6
       state: disabled
