@@ -1,18 +1,720 @@
-# - race: 2020-12-13 Guangzhou Marathon
-#   icon: lock
-#   weeks:
-
-# - race: 2020-11-29 Shanghai Marathon
-#   icon: lock
-#   weeks:
-
-# - race: 2020-11-01 Hangzhou Marathon
-#   icon: lock
-#   weeks:
-
 # - race: 2020-03-29 Zhengkai Marathon
 #   icon: lock
 #   weeks:
+
+- race: 2020-12-13 Guangzhou Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 11-30
+      distance: 0
+      state: disabled
+    - date: 12-01
+      distance: 0
+      state: disabled
+    - date: 12-02
+      distance: 3
+      state: disabled
+    - date: 12-03
+      distance: 3
+      state: disabled
+    - date: 12-04
+      distance: 0
+      state: disabled
+    - date: 12-05
+      distance: 5
+      state: disabled
+    - date: 12-06
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-07
+      distance: 0
+      state: disabled
+    - date: 12-08
+      distance: 5
+      state: disabled
+    - date: 12-09
+      distance: 8
+      state: disabled
+    - date: 12-10
+      distance: 3
+      state: disabled
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
+      distance: 0
+      state: disabled
+    - date: 12-13
+      distance: 42.195
+      state: disabled
+
+- race: 2020-11-29 Shanghai Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 11-09
+      distance: 0
+      state: disabled
+    - date: 11-10
+      distance: 0
+      state: disabled
+    - date: 11-11
+      distance: 3
+      state: disabled
+    - date: 11-12
+      distance: 3
+      state: disabled
+    - date: 11-13
+      distance: 0
+      state: disabled
+    - date: 11-14
+      distance: 5
+      state: disabled
+    - date: 11-15
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-16
+      distance: 0
+      state: disabled
+    - date: 11-17
+      distance: 5
+      state: disabled
+    - date: 11-18
+      distance: 5
+      state: disabled
+    - date: 11-19
+      distance: 5
+      state: disabled
+    - date: 11-20
+      distance: 0
+      state: disabled
+    - date: 11-21
+      distance: 10
+      state: disabled
+    - date: 11-22
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-23
+      distance: 0
+      state: disabled
+    - date: 11-24
+      distance: 5
+      state: disabled
+    - date: 11-25
+      distance: 8
+      state: disabled
+    - date: 11-26
+      distance: 3
+      state: disabled
+    - date: 11-27
+      distance: 0
+      state: disabled
+    - date: 11-28
+      distance: 0
+      state: disabled
+    - date: 11-29
+      distance: 42.195
+      state: disabled
+
+- race: 2020-11-08 Nanjing Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 11-02
+      distance: 0
+      state: disabled
+    - date: 11-03
+      distance: 0
+      state: disabled
+    - date: 11-04
+      distance: 3
+      state: disabled
+    - date: 11-05
+      distance: 3
+      state: disabled
+    - date: 11-06
+      distance: 0
+      state: disabled
+    - date: 11-07
+      distance: 0
+      state: disabled
+    - date: 11-08
+      distance: 42.195
+      state: disabled
+
+- race: 2020-11-01 Hangzhou Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+    - date: 10-21
+      distance: 3
+      state: disabled
+    - date: 10-22
+      distance: 3
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 5
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-26
+      distance: 0
+      state: disabled
+    - date: 10-27
+      distance: 5
+      state: disabled
+    - date: 10-28
+      distance: 8
+      state: disabled
+    - date: 10-29
+      distance: 3
+      state: disabled
+    - date: 10-30
+      distance: 0
+      state: disabled
+    - date: 10-31
+      distance: 0
+      state: disabled
+    - date: 11-01
+      distance: 42.195
+      state: disabled
+
+- race: 2020-10-18 Xian Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 10-12
+      distance: 0
+      state: disabled
+    - date: 10-13
+      distance: 0
+      state: disabled
+    - date: 10-14
+      distance: 3
+      state: disabled
+    - date: 10-15
+      distance: 3
+      state: disabled
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 0
+      state: disabled
+    - date: 10-18
+      distance: 42.195
+      state: disabled
+
+- race: 2020-10-11 Zhengzhou Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 09-21
+      distance: 0
+      state: disabled
+    - date: 09-22
+      distance: 0
+      state: disabled
+    - date: 09-23
+      distance: 3
+      state: disabled
+    - date: 09-24
+      distance: 3
+      state: disabled
+    - date: 09-25
+      distance: 0
+      state: disabled
+    - date: 09-26
+      distance: 5
+      state: disabled
+    - date: 09-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-28
+      distance: 0
+      state: disabled
+    - date: 09-29
+      distance: 5
+      state: disabled
+    - date: 09-30
+      distance: 5
+      state: disabled
+    - date: 10-01
+      distance: 5
+      state: disabled
+    - date: 10-02
+      distance: 0
+      state: disabled
+    - date: 10-03
+      distance: 10
+      state: disabled
+    - date: 10-04
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-05
+      distance: 0
+      state: disabled
+    - date: 10-06
+      distance: 5
+      state: disabled
+    - date: 10-07
+      distance: 8
+      state: disabled
+    - date: 10-08
+      distance: 3
+      state: disabled
+    - date: 10-09
+      distance: 0
+      state: disabled
+    - date: 10-10
+      distance: 0
+      state: disabled
+    - date: 10-11
+      distance: 42.195
+      state: disabled
+
+- race: 2020-09-20 Taiyuan Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 07-27
+      distance: 0
+      state: disabled
+    - date: 07-28
+      distance: 5
+      state: disabled
+    - date: 07-29
+      distance: 5
+      state: disabled
+    - date: 07-30
+      distance: 5
+      state: disabled
+    - date: 07-31
+      distance: 0
+      state: disabled
+    - date: 08-01
+      distance: 10
+      state: disabled
+    - date: 08-02
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-03
+      distance: 0
+      state: disabled
+    - date: 08-04
+      distance: 5
+      state: disabled
+    - date: 08-05
+      distance: 6
+      state: disabled
+    - date: 08-06
+      distance: 5
+      state: disabled
+    - date: 08-07
+      distance: 0
+      state: disabled
+    - date: 08-08
+      distance: 8
+      state: disabled
+    - date: 08-09
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-10
+      distance: 0
+      state: disabled
+    - date: 08-11
+      distance: 5
+      state: disabled
+    - date: 08-12
+      distance: 8
+      state: disabled
+    - date: 08-13
+      distance: 5
+      state: disabled
+    - date: 08-14
+      distance: 0
+      state: disabled
+    - date: 08-15
+      distance: 15
+      state: disabled
+    - date: 08-16
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-17
+      distance: 0
+      state: disabled
+    - date: 08-18
+      distance: 5
+      state: disabled
+    - date: 08-19
+      distance: 10
+      state: disabled
+    - date: 08-20
+      distance: 5
+      state: disabled
+    - date: 08-21
+      distance: 0
+      state: disabled
+    - date: 08-22
+      distance: 21
+      state: disabled
+    - date: 08-23
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-24
+      distance: 0
+      state: disabled
+    - date: 08-25
+      distance: 6
+      state: disabled
+    - date: 08-26
+      distance: 12
+      state: disabled
+    - date: 08-27
+      distance: 6
+      state: disabled
+    - date: 08-28
+      distance: 0
+      state: disabled
+    - date: 08-29
+      distance: 25
+      state: disabled
+    - date: 08-30
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-31
+      distance: 0
+      state: disabled
+    - date: 09-01
+      distance: 6
+      state: disabled
+    - date: 09-02
+      distance: 15
+      state: disabled
+    - date: 09-03
+      distance: 8
+      state: disabled
+    - date: 09-04
+      distance: 0
+      state: disabled
+    - date: 09-05
+      distance: 30
+      state: disabled
+    - date: 09-06
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-07
+      distance: 0
+      state: disabled
+    - date: 09-08
+      distance: 8
+      state: disabled
+    - date: 09-09
+      distance: 15
+      state: disabled
+    - date: 09-10
+      distance: 8
+      state: disabled
+    - date: 09-11
+      distance: 0
+      state: disabled
+    - date: 09-12
+      distance: 15
+      state: disabled
+    - date: 09-13
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-14
+      distance: 0
+      state: disabled
+    - date: 09-15
+      distance: 5
+      state: disabled
+    - date: 09-16
+      distance: 8
+      state: disabled
+    - date: 09-17
+      distance: 3
+      state: disabled
+    - date: 09-18
+      distance: 0
+      state: disabled
+    - date: 09-19
+      distance: 0
+      state: disabled
+    - date: 09-20
+      distance: 42.195
+      state: disabled
+
+- race: 2020 Summer Training
+  icon: lock
+  weeks:
+  - days:
+    - date: 05-11
+      distance: 0
+      state: disabled
+    - date: 05-12
+      distance: 0
+      state: disabled
+    - date: 05-13
+      distance: 0
+      state: disabled
+    - date: 05-14
+      distance: 0
+      state: disabled
+    - date: 05-15
+      distance: 0
+      state: disabled
+    - date: 05-16
+      distance: 0
+      state: disabled
+    - date: 05-17
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-18
+      distance: 0
+      state: disabled
+    - date: 05-19
+      distance: 0
+      state: disabled
+    - date: 05-20
+      distance: 0
+      state: disabled
+    - date: 05-21
+      distance: 0
+      state: disabled
+    - date: 05-22
+      distance: 0
+      state: disabled
+    - date: 05-23
+      distance: 0
+      state: disabled
+    - date: 05-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-25
+      distance: 0
+      state: disabled
+    - date: 05-26
+      distance: 0
+      state: disabled
+    - date: 05-27
+      distance: 0
+      state: disabled
+    - date: 05-28
+      distance: 0
+      state: disabled
+    - date: 05-29
+      distance: 0
+      state: disabled
+    - date: 05-30
+      distance: 0
+      state: disabled
+    - date: 05-31
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-01
+      distance: 0
+      state: disabled
+    - date: 06-02
+      distance: 0
+      state: disabled
+    - date: 06-03
+      distance: 0
+      state: disabled
+    - date: 06-04
+      distance: 0
+      state: disabled
+    - date: 06-05
+      distance: 0
+      state: disabled
+    - date: 06-06
+      distance: 0
+      state: disabled
+    - date: 06-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-08
+      distance: 0
+      state: disabled
+    - date: 06-09
+      distance: 0
+      state: disabled
+    - date: 06-10
+      distance: 0
+      state: disabled
+    - date: 06-11
+      distance: 0
+      state: disabled
+    - date: 06-12
+      distance: 0
+      state: disabled
+    - date: 06-13
+      distance: 0
+      state: disabled
+    - date: 06-14
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-15
+      distance: 0
+      state: disabled
+    - date: 06-16
+      distance: 0
+      state: disabled
+    - date: 06-17
+      distance: 0
+      state: disabled
+    - date: 06-18
+      distance: 0
+      state: disabled
+    - date: 06-19
+      distance: 0
+      state: disabled
+    - date: 06-20
+      distance: 0
+      state: disabled
+    - date: 06-21
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-22
+      distance: 0
+      state: disabled
+    - date: 06-23
+      distance: 0
+      state: disabled
+    - date: 06-24
+      distance: 0
+      state: disabled
+    - date: 06-25
+      distance: 0
+      state: disabled
+    - date: 06-26
+      distance: 0
+      state: disabled
+    - date: 06-27
+      distance: 0
+      state: disabled
+    - date: 06-28
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-29
+      distance: 0
+      state: disabled
+    - date: 06-30
+      distance: 0
+      state: disabled
+    - date: 07-01
+      distance: 0
+      state: disabled
+    - date: 07-02
+      distance: 0
+      state: disabled
+    - date: 07-03
+      distance: 0
+      state: disabled
+    - date: 07-04
+      distance: 0
+      state: disabled
+    - date: 07-05
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-06
+      distance: 0
+      state: disabled
+    - date: 07-07
+      distance: 0
+      state: disabled
+    - date: 07-08
+      distance: 0
+      state: disabled
+    - date: 07-09
+      distance: 0
+      state: disabled
+    - date: 07-10
+      distance: 0
+      state: disabled
+    - date: 07-11
+      distance: 0
+      state: disabled
+    - date: 07-12
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-13
+      distance: 0
+      state: disabled
+    - date: 07-14
+      distance: 0
+      state: disabled
+    - date: 07-15
+      distance: 0
+      state: disabled
+    - date: 07-16
+      distance: 0
+      state: disabled
+    - date: 07-17
+      distance: 0
+      state: disabled
+    - date: 07-18
+      distance: 0
+      state: disabled
+    - date: 07-19
+      distance: 0
+      state: disabled
+  - days:
+    - date: 07-20
+      distance: 0
+      state: disabled
+    - date: 07-21
+      distance: 0
+      state: disabled
+    - date: 07-22
+      distance: 0
+      state: disabled
+    - date: 07-23
+      distance: 0
+      state: disabled
+    - date: 07-24
+      distance: 0
+      state: disabled
+    - date: 07-25
+      distance: 0
+      state: disabled
+    - date: 07-26
+      distance: 0
+      state: disabled
 
 - race: 2020 Spring Training
   icon: running
