@@ -847,14 +847,14 @@
       state: olive
     - date: 03-14
       distance: 30
-      state: disabled
+      state: olive
     - date: 03-15
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 03-16
       distance: 0
-      state: disabled
+      state: olive
     - date: 03-17
       distance: 5
       state: disabled
