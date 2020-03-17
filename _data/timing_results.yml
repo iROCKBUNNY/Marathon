@@ -245,7 +245,6 @@
     - net: "5:52:11"
       segment: "16:50"
       state: negative
-
   - date: 2018-05-13
     bib_number: B1059
     shoes: ASICS GEL-KAYANO 24
@@ -278,7 +277,6 @@
     - net: "5:31:23"
       segment: "16:06"
       state: negative
-
   - date: 2017-05-14
     bib_number: A0820
     shoes: ASICS GEL-NIMBUS 19
@@ -311,7 +309,6 @@
     - net: "5:28:54"
       segment: "15:11"
       state: negative
-
   - date: 2016-05-01
     bib_number: A0308
     shoes: ASICS GEL-NIMBUS 18
