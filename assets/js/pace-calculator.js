@@ -62,10 +62,10 @@ function calculatePace() {
 // set initial values
 function setInitialValues() {
     $('#pace-calculator-form').form('set values', {
-        hour: '{{ site.data.pace_calculator.initial_values.hour }}',
-        minute: '{{ site.data.pace_calculator.initial_values.minute }}',
-        second: '{{ site.data.pace_calculator.initial_values.second }}',
-        distance: '{{ site.data.pace_calculator.initial_values.distance }}'
+        hour: '{{ site.data.pace_calculator.default.hour }}',
+        minute: '{{ site.data.pace_calculator.default.minute }}',
+        second: '{{ site.data.pace_calculator.default.second }}',
+        distance: '{{ site.data.pace_calculator.default.distance }}'
     });
     calculatePace();
 };

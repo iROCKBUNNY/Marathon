@@ -11,7 +11,7 @@ distances:
 - 75
 - 100
 
-initial_values:
+default:
   hour: 4
   minute: 20
   second: 0
