@@ -869,14 +869,14 @@
       state: olive
     - date: 03-21
       distance: 15
-      state: disabled
+      state: olive
     - date: 03-22
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 03-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 03-24
       distance: 5
       state: disabled
