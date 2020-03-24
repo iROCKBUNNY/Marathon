@@ -879,7 +879,7 @@
       state: olive
     - date: 03-24
       distance: 5
-      state: disabled
+      state: olive
     - date: 03-25
       distance: 10
       state: disabled
