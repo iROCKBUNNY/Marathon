@@ -887,11 +887,11 @@
       distance: 0
       state: olive
     - date: 03-27
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 03-28
-      distance: 21
-      state: disabled
+      distance: 0
+      state: olive
     - date: 03-29
       distance: 0
       state: disabled
