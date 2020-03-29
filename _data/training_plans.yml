@@ -893,12 +893,12 @@
       distance: 0
       state: olive
     - date: 03-29
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
   - days:
     - date: 03-30
       distance: 0
-      state: disabled
+      state: olive
     - date: 03-31
       distance: 6
       state: disabled
