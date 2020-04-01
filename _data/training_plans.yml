@@ -904,7 +904,7 @@
       state: olive
     - date: 04-01
       distance: 12
-      state: disabled
+      state: olive
     - date: 04-02
       distance: 6
       state: disabled
