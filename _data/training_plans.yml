@@ -907,10 +907,10 @@
       state: olive
     - date: 04-02
       distance: 6
-      state: disabled
+      state: olive
     - date: 04-03
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-04
       distance: 25
       state: disabled
