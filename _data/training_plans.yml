@@ -912,15 +912,15 @@
       distance: 0
       state: olive
     - date: 04-04
-      distance: 25
-      state: disabled
+      distance: 18
+      state: olive
     - date: 04-05
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 04-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-07
       distance: 6
       state: disabled
@@ -937,7 +937,7 @@
       distance: 0
       state: disabled
     - date: 04-12
-      distance: 30
+      distance: 21
       state: disabled
   - days:
     - date: 04-13
