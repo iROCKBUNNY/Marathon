@@ -938,11 +938,11 @@
       state: olive
     - date: 04-12
       distance: 21
-      state: disabled
+      state: olive
   - days:
     - date: 04-13
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-14
       distance: 5
       state: disabled
