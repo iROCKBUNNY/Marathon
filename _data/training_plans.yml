@@ -960,7 +960,7 @@
       state: olive
     - date: 04-19
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 04-20
       distance: 0
