@@ -967,7 +967,7 @@
       state: olive
     - date: 04-21
       distance: 5
-      state: disabled
+      state: olive
     - date: 04-22
       distance: 10
       state: disabled
