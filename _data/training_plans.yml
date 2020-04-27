@@ -986,7 +986,7 @@
   - days:
     - date: 04-27
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-28
       distance: 6
       state: disabled
