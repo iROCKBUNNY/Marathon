@@ -988,10 +988,10 @@
       distance: 0
       state: olive
     - date: 04-28
-      distance: 6
-      state: disabled
+      distance: 0
+      state: olive
     - date: 04-29
-      distance: 12
+      distance: 8
       state: disabled
     - date: 04-30
       distance: 6
