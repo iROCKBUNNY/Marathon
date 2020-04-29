@@ -992,7 +992,7 @@
       state: olive
     - date: 04-29
       distance: 8
-      state: disabled
+      state: olive
     - date: 04-30
       distance: 6
       state: disabled
