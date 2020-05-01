@@ -994,10 +994,10 @@
       distance: 8
       state: olive
     - date: 04-30
-      distance: 6
-      state: disabled
-    - date: 05-01
       distance: 0
+      state: olive
+    - date: 05-01
+      distance: 10
       state: disabled
     - date: 05-02
       distance: 25
