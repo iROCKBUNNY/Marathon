@@ -474,6 +474,28 @@
   icon: lock
   weeks:
   - days:
+    - date: 05-04
+      distance: 8
+      state: disabled
+    - date: 05-05
+      distance: 6
+      state: disabled
+    - date: 05-06
+      distance: 15
+      state: disabled
+    - date: 05-07
+      distance: 8
+      state: disabled
+    - date: 05-08
+      distance: 0
+      state: disabled
+    - date: 05-09
+      distance: 30
+      state: disabled
+    - date: 05-10
+      distance: 0
+      state: disabled
+  - days:
     - date: 05-11
       distance: 0
       state: disabled
@@ -1005,28 +1027,6 @@
     - date: 05-03
       distance: 0
       state: olive
-  - days:
-    - date: 05-04
-      distance: 8
-      state: disabled
-    - date: 05-05
-      distance: 6
-      state: disabled
-    - date: 05-06
-      distance: 15
-      state: disabled
-    - date: 05-07
-      distance: 8
-      state: disabled
-    - date: 05-08
-      distance: 0
-      state: disabled
-    - date: 05-09
-      distance: 30
-      state: disabled
-    - date: 05-10
-      distance: 0
-      state: disabled
 
 - race: 2019-2020 Winter Training
   icon: clipboard check
