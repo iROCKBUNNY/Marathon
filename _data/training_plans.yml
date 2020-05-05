@@ -478,8 +478,8 @@
       distance: 7
       state: olive
     - date: 05-05
-      distance: 6
-      state: disabled
+      distance: 0
+      state: olive
     - date: 05-06
       distance: 15
       state: disabled
