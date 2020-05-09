@@ -490,8 +490,8 @@
       distance: 9
       state: olive
     - date: 05-09
-      distance: 30
-      state: disabled
+      distance: 0
+      state: olive
     - date: 05-10
       distance: 0
       state: disabled
