@@ -494,7 +494,7 @@
       state: olive
     - date: 05-10
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 05-11
       distance: 0
