@@ -523,7 +523,7 @@
       state: olive
     - date: 05-19
       distance: 5
-      state: disabled
+      state: olive
     - date: 05-20
       distance: 10
       state: disabled
