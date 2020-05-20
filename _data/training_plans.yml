@@ -525,8 +525,8 @@
       distance: 5
       state: olive
     - date: 05-20
-      distance: 10
-      state: disabled
+      distance: 5
+      state: olive
     - date: 05-21
       distance: 5
       state: disabled
