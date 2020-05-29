@@ -554,7 +554,7 @@
       state: olive
     - date: 05-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-30
       distance: 25
       state: disabled
