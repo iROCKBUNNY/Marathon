@@ -556,11 +556,11 @@
       distance: 0
       state: olive
     - date: 05-30
-      distance: 25
-      state: disabled
+      distance: 10
+      state: olive
     - date: 05-31
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 06-01
       distance: 0
