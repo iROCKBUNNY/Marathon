@@ -582,7 +582,7 @@
       state: olive
     - date: 06-07
       distance: 5
-      state: disabled
+      state: olive
   - days:
     - date: 06-08
       distance: 0
