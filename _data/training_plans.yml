@@ -585,11 +585,11 @@
       state: olive
   - days:
     - date: 06-08
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
     - date: 06-09
-      distance: 5
-      state: disabled
+      distance: 3
+      state: olive
     - date: 06-10
       distance: 8
       state: disabled
