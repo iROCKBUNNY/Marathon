@@ -600,10 +600,10 @@
       distance: 0
       state: olive
     - date: 06-13
-      distance: 15
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-14
-      distance: 0
+      distance: 7
       state: disabled
   - days:
     - date: 06-15
