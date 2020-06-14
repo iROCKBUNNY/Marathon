@@ -603,11 +603,11 @@
       distance: 5
       state: olive
     - date: 06-14
-      distance: 7
-      state: disabled
+      distance: 6
+      state: olive
   - days:
     - date: 06-15
-      distance: 0
+      distance: 3
       state: disabled
     - date: 06-16
       distance: 5
