@@ -607,8 +607,8 @@
       state: olive
   - days:
     - date: 06-15
-      distance: 3
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-16
       distance: 5
       state: disabled
