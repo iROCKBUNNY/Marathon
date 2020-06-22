@@ -630,7 +630,7 @@
   - days:
     - date: 06-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-23
       distance: 6
       state: disabled
