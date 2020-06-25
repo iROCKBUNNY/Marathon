@@ -638,10 +638,10 @@
       distance: 0
       state: olive
     - date: 06-25
-      distance: 6
-      state: disabled
-    - date: 06-26
       distance: 0
+      state: olive
+    - date: 06-26
+      distance: 5
       state: disabled
     - date: 06-27
       distance: 25
