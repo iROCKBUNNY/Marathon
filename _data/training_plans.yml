@@ -642,7 +642,7 @@
       state: olive
     - date: 06-26
       distance: 5
-      state: disabled
+      state: olive
     - date: 06-27
       distance: 25
       state: disabled
