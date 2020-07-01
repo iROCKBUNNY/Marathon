@@ -657,8 +657,8 @@
       distance: 5
       state: olive
     - date: 07-01
-      distance: 15
-      state: disabled
+      distance: 5
+      state: olive
     - date: 07-02
       distance: 8
       state: disabled
