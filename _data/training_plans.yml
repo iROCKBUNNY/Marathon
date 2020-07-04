@@ -666,8 +666,8 @@
       distance: 0
       state: olive
     - date: 07-04
-      distance: 30
-      state: disabled
+      distance: 0
+      state: olive
     - date: 07-05
       distance: 0
       state: disabled
