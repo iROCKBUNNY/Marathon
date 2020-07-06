@@ -674,7 +674,7 @@
   - days:
     - date: 07-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-07
       distance: 5
       state: disabled
