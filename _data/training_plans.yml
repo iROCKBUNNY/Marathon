@@ -677,10 +677,10 @@
       state: olive
     - date: 07-07
       distance: 5
-      state: disabled
+      state: olive
     - date: 07-08
-      distance: 8
-      state: disabled
+      distance: 5
+      state: olive
     - date: 07-09
       distance: 5
       state: disabled
