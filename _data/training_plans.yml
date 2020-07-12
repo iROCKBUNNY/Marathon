@@ -688,11 +688,11 @@
       distance: 0
       state: olive
     - date: 07-11
-      distance: 15
-      state: disabled
+      distance: 5
+      state: olive
     - date: 07-12
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 07-13
       distance: 0
