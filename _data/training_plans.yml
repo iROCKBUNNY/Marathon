@@ -696,7 +696,7 @@
   - days:
     - date: 07-13
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-14
       distance: 5
       state: disabled
