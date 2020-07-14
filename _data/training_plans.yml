@@ -699,7 +699,7 @@
       state: olive
     - date: 07-14
       distance: 5
-      state: disabled
+      state: olive
     - date: 07-15
       distance: 10
       state: disabled
