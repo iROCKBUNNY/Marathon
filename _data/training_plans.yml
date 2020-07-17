@@ -708,9 +708,9 @@
       state: olive
     - date: 07-17
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-18
-      distance: 21
+      distance: 10
       state: disabled
     - date: 07-19
       distance: 0
