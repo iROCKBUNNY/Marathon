@@ -713,26 +713,26 @@
       distance: 0
       state: olive
     - date: 07-19
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
   - days:
     - date: 07-20
-      distance: 0
+      distance: 5
       state: disabled
     - date: 07-21
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-22
-      distance: 12
+      distance: 5
       state: disabled
     - date: 07-23
-      distance: 6
+      distance: 5
       state: disabled
     - date: 07-24
-      distance: 0
+      distance: 5
       state: disabled
     - date: 07-25
-      distance: 25
+      distance: 5
       state: disabled
     - date: 07-26
       distance: 0
