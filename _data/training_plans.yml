@@ -727,7 +727,7 @@
       state: olive
     - date: 07-23
       distance: 5
-      state: disabled
+      state: olive
     - date: 07-24
       distance: 5
       state: disabled
