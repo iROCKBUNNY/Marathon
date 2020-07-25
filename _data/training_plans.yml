@@ -729,14 +729,14 @@
       distance: 5
       state: olive
     - date: 07-24
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 07-25
-      distance: 5
-      state: disabled
+      distance: 6
+      state: olive
     - date: 07-26
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2020 Spring Training
   icon: clipboard check
