@@ -296,7 +296,7 @@
   - days:
     - date: 07-27
       distance: 0
-      state: olive
+      state: green
     - date: 07-28
       distance: 5
       state: disabled
