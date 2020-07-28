@@ -298,8 +298,8 @@
       distance: 0
       state: green
     - date: 07-28
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 07-29
       distance: 5
       state: disabled
