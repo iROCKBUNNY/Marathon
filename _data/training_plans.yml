@@ -305,7 +305,7 @@
       state: green
     - date: 07-30
       distance: 5
-      state: disabled
+      state: green
     - date: 07-31
       distance: 0
       state: disabled
