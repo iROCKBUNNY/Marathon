@@ -310,11 +310,11 @@
       distance: 0
       state: green
     - date: 08-01
-      distance: 10
-      state: disabled
+      distance: 5
+      state: green
     - date: 08-02
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-03
       distance: 0
