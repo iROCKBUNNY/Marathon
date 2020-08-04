@@ -321,7 +321,7 @@
       state: green
     - date: 08-04
       distance: 5
-      state: disabled
+      state: green
     - date: 08-05
       distance: 6
       state: disabled
