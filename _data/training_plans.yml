@@ -333,10 +333,10 @@
       state: green
     - date: 08-08
       distance: 8
-      state: disabled
+      state: green
     - date: 08-09
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-10
       distance: 0
