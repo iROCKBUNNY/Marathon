@@ -365,7 +365,7 @@
       state: green
     - date: 08-18
       distance: 5
-      state: disabled
+      state: green
     - date: 08-19
       distance: 10
       state: disabled
