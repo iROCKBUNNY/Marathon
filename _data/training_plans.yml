@@ -377,14 +377,14 @@
       state: green
     - date: 08-22
       distance: 21
-      state: disabled
+      state: green
     - date: 08-23
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-24
       distance: 0
-      state: disabled
+      state: green
     - date: 08-25
       distance: 6
       state: disabled
