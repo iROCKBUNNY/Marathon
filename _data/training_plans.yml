@@ -390,7 +390,7 @@
       state: green
     - date: 08-26
       distance: 12
-      state: disabled
+      state: green
     - date: 08-27
       distance: 6
       state: disabled
