@@ -393,10 +393,10 @@
       state: green
     - date: 08-27
       distance: 6
-      state: disabled
+      state: green
     - date: 08-28
       distance: 0
-      state: disabled
+      state: green
     - date: 08-29
       distance: 25
       state: disabled
