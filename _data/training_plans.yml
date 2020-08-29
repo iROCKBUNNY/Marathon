@@ -399,14 +399,14 @@
       state: green
     - date: 08-29
       distance: 25
-      state: disabled
+      state: green
     - date: 08-30
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-31
       distance: 0
-      state: disabled
+      state: green
     - date: 09-01
       distance: 6
       state: disabled
