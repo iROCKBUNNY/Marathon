@@ -415,10 +415,10 @@
       state: green
     - date: 09-03
       distance: 8
-      state: disabled
+      state: green
     - date: 09-04
       distance: 0
-      state: disabled
+      state: green
     - date: 09-05
       distance: 30
       state: disabled
