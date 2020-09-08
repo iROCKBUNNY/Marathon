@@ -431,7 +431,7 @@
       state: green
     - date: 09-08
       distance: 8
-      state: disabled
+      state: green
     - date: 09-09
       distance: 15
       state: disabled
