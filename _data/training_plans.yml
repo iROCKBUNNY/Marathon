@@ -443,14 +443,14 @@
       state: green
     - date: 09-12
       distance: 15
-      state: disabled
+      state: green
     - date: 09-13
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-14
       distance: 0
-      state: disabled
+      state: green
     - date: 09-15
       distance: 5
       state: disabled
