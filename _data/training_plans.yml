@@ -459,13 +459,13 @@
       state: green
     - date: 09-17
       distance: 3
-      state: disabled
+      state: green
     - date: 09-18
       distance: 0
-      state: disabled
+      state: green
     - date: 09-19
       distance: 0
-      state: disabled
+      state: green
     - date: 09-20
       distance: 42.195
       state: disabled
