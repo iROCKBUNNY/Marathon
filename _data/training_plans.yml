@@ -414,11 +414,11 @@
       distance: 0
       state: orange
     - date: 09-24
-      distance: 8
-      state: disabled
+      distance: 5
+      state: orange
     - date: 09-25
       distance: 0
-      state: disabled
+      state: green
     - date: 09-26
       distance: 30
       state: disabled
