@@ -420,10 +420,10 @@
       distance: 0
       state: green
     - date: 09-26
-      distance: 30
-      state: disabled
-    - date: 09-27
       distance: 0
+      state: orange
+    - date: 09-27
+      distance: 5
       state: disabled
   - days:
     - date: 09-28
