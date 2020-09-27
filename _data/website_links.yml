@@ -98,6 +98,10 @@
     url: http://www.nj-marathon.org/
     flag: cn
 
+  - name: Shaoxing Marathon
+    url: http://sxym.org.cn/
+    flag: cn
+
   - name: Luoyang Marathon
     url: http://www.luoyangmalasong.com/
     flag: cn
