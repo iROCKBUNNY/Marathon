@@ -424,7 +424,7 @@
   - days:
     - date: 09-28
       distance: 0
-      state: disabled
+      state: green
     - date: 09-29
       distance: 8
       state: disabled
