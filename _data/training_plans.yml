@@ -432,8 +432,8 @@
       distance: 15
       state: green
     - date: 10-01
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-02
       distance: 0
       state: disabled
