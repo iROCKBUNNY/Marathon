@@ -436,7 +436,7 @@
       state: orange
     - date: 10-02
       distance: 0
-      state: disabled
+      state: green
     - date: 10-03
       distance: 15
       state: disabled
