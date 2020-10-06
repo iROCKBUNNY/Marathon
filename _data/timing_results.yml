@@ -38,9 +38,7 @@
   type: full
   results:
   - date: 2020-10-11
-    # bib_number: 200139218418
-    # bib_number: 228377
-    bib_number: Virtual
+    bib_number: A39798
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
