@@ -62,6 +62,32 @@
   icon: lock
   weeks:
   - days:
+    - date: 11-23
+      distance: 0
+      state: disabled
+    - date: 11-24
+      distance: 0
+      state: disabled
+    - date: 11-25
+      distance: 3
+      state: disabled
+    - date: 11-26
+      distance: 3
+      state: disabled
+    - date: 11-27
+      distance: 0
+      state: disabled
+    - date: 11-28
+      distance: 0
+      state: disabled
+    - date: 11-29
+      distance: 42.195
+      state: disabled
+
+- race: 2020-11-22 Hangzhou Marathon
+  icon: lock
+  weeks:
+  - days:
     - date: 11-09
       distance: 0
       state: disabled
@@ -91,40 +117,18 @@
       distance: 5
       state: disabled
     - date: 11-18
-      distance: 5
+      distance: 8
       state: disabled
     - date: 11-19
-      distance: 5
+      distance: 3
       state: disabled
     - date: 11-20
       distance: 0
       state: disabled
     - date: 11-21
-      distance: 10
+      distance: 0
       state: disabled
     - date: 11-22
-      distance: 0
-      state: disabled
-  - days:
-    - date: 11-23
-      distance: 0
-      state: disabled
-    - date: 11-24
-      distance: 5
-      state: disabled
-    - date: 11-25
-      distance: 8
-      state: disabled
-    - date: 11-26
-      distance: 3
-      state: disabled
-    - date: 11-27
-      distance: 0
-      state: disabled
-    - date: 11-28
-      distance: 0
-      state: disabled
-    - date: 11-29
       distance: 42.195
       state: disabled
 
@@ -452,7 +456,7 @@
       state: green
     - date: 10-07
       distance: 8
-      state: disabled
+      state: green
     - date: 10-08
       distance: 3
       state: disabled
