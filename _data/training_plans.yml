@@ -132,27 +132,27 @@
       distance: 42.195
       state: disabled
 
-- race: 2020-11-08 Shaoxing Marathon
-  icon: lock
+- race: 2020-11-08 Shaoxing/Xian Marathon
+  icon: running
   weeks:
   - days:
     - date: 10-12
       distance: 0
-      state: disabled
+      state: green
     - date: 10-13
-      distance: 0
+      distance: 6
       state: disabled
     - date: 10-14
-      distance: 3
+      distance: 12
       state: disabled
     - date: 10-15
-      distance: 3
+      distance: 6
       state: disabled
     - date: 10-16
       distance: 0
       state: disabled
     - date: 10-17
-      distance: 5
+      distance: 25
       state: disabled
     - date: 10-18
       distance: 0
@@ -162,19 +162,19 @@
       distance: 0
       state: disabled
     - date: 10-20
-      distance: 5
+      distance: 6
       state: disabled
     - date: 10-21
-      distance: 8
+      distance: 15
       state: disabled
     - date: 10-22
-      distance: 5
+      distance: 8
       state: disabled
     - date: 10-23
       distance: 0
       state: disabled
     - date: 10-24
-      distance: 15
+      distance: 30
       state: disabled
     - date: 10-25
       distance: 0
@@ -225,7 +225,7 @@
       state: disabled
 
 - race: 2020-10-11 Taiyuan Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 07-27
@@ -468,7 +468,7 @@
       state: green
     - date: 10-11
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2020 Summer Training
   icon: clipboard check
