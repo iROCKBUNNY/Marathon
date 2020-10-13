@@ -140,8 +140,8 @@
       distance: 0
       state: green
     - date: 10-13
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-14
       distance: 12
       state: disabled
