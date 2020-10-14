@@ -144,7 +144,7 @@
       state: orange
     - date: 10-14
       distance: 12
-      state: disabled
+      state: green
     - date: 10-15
       distance: 6
       state: disabled
