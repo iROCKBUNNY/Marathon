@@ -153,14 +153,14 @@
       state: green
     - date: 10-17
       distance: 25
-      state: disabled
+      state: green
     - date: 10-18
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-19
       distance: 0
-      state: disabled
+      state: green
     - date: 10-20
       distance: 6
       state: disabled
