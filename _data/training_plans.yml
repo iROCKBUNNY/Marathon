@@ -1,7 +1,3 @@
-# - race: 2020-10-18 Xian Marathon
-#   icon: lock
-#   weeks:
-
 # - race: 2020-10-11 Zhengzhou Marathon
 #   icon: lock
 #   weeks:
@@ -132,7 +128,7 @@
       distance: 42.195
       state: disabled
 
-- race: 2020-11-08 Shaoxing/Xian Marathon
+- race: 2020-11-08 Xian Marathon
   icon: running
   weeks:
   - days:
