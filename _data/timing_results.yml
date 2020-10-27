@@ -112,31 +112,31 @@
     check_points:
     - net: "0:21:21"
       segment: "21:21"
-      state: basic
+      state: warning
     - net: "0:46:41"
       segment: "25:20"
-      state: basic
+      state: warning
     - net: "1:06:32"
       segment: "19:51"
-      state: basic
+      state: warning
     - net: "1:25:38"
       segment: "19:06"
-      state: basic
+      state: warning
     - net: "1:46:05"
       segment: "20:27"
-      state: basic
+      state: warning
     - net: "2:06:26"
       segment: "20:21"
-      state: basic
+      state: warning
     - net: "2:26:58"
       segment: "20:22"
-      state: basic
+      state: warning
     - net: "2:48:03"
       segment: "21:05"
-      state: basic
+      state: warning
     - net: "2:59:26"
       segment: "11:23"
-      state: basic
+      state: warning
 
 - race: Zhengzhou Marathon
   type: full
