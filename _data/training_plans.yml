@@ -201,13 +201,13 @@
       state: green
     - date: 11-05
       distance: 3
-      state: disabled
+      state: green
     - date: 11-06
       distance: 0
-      state: disabled
+      state: green
     - date: 11-07
       distance: 0
-      state: disabled
+      state: green
     - date: 11-08
       distance: 42.195
       state: disabled
