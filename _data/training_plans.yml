@@ -7,12 +7,12 @@
 #   weeks:
 
 - race: 2020-12-13 Guangzhou Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 11-09
       distance: 0
-      state: disabled
+      state: green
     - date: 11-10
       distance: 0
       state: disabled
@@ -121,7 +121,7 @@
       state: disabled
 
 - race: 2020-11-08 Xian Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 10-12
@@ -210,7 +210,7 @@
       state: green
     - date: 11-08
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2020-10-11 Taiyuan Marathon
   icon: medal

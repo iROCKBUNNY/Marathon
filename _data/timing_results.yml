@@ -66,9 +66,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "4:42:19"
       segment: "00:00"
-      state: disabled
+      state: positive
   - date: 2019-10-20
     bib_number: D13892
     shoes: ASICS GEL-NIMBUS 21
