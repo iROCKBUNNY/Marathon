@@ -15,7 +15,7 @@
       state: green
     - date: 11-10
       distance: 0
-      state: disabled
+      state: green
     - date: 11-11
       distance: 3
       state: disabled
