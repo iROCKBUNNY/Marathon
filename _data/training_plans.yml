@@ -358,8 +358,8 @@
       distance: 4
       state: orange
     - date: 11-12
-      distance: 3
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-13
       distance: 0
       state: disabled
