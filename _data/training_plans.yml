@@ -362,7 +362,7 @@
       state: orange
     - date: 11-13
       distance: 0
-      state: disabled
+      state: green
     - date: 11-14
       distance: 5
       state: disabled
