@@ -187,7 +187,7 @@
       state: disabled
 
 - race: 2020-2021 Winter Training
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 11-09
