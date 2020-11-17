@@ -214,10 +214,10 @@
   - days:
     - date: 11-16
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-17
       distance: 5
-      state: disabled
+      state: olive
     - date: 11-18
       distance: 5
       state: disabled
