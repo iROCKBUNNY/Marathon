@@ -250,10 +250,10 @@
       distance: 5
       state: olive
     - date: 11-28
-      distance: 10
-      state: disabled
-    - date: 11-29
       distance: 0
+      state: olive
+    - date: 11-29
+      distance: 5
       state: disabled
   - days:
     - date: 11-30
