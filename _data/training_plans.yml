@@ -254,14 +254,14 @@
       state: olive
     - date: 11-29
       distance: 5
-      state: disabled
+      state: olive
   - days:
     - date: 11-30
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-01
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 12-02
       distance: 8
       state: disabled
