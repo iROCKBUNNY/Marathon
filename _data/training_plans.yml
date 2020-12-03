@@ -263,8 +263,8 @@
       distance: 0
       state: olive
     - date: 12-02
-      distance: 8
-      state: disabled
+      distance: 0
+      state: olive
     - date: 12-03
       distance: 5
       state: disabled
