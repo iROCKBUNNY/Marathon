@@ -266,11 +266,11 @@
       distance: 0
       state: olive
     - date: 12-03
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 12-04
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-05
       distance: 15
       state: disabled
