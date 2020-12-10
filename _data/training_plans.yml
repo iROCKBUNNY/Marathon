@@ -286,10 +286,10 @@
       state: olive
     - date: 12-09
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-10
-      distance: 5
-      state: disabled
+      distance: 3
+      state: olive
     - date: 12-11
       distance: 0
       state: disabled
