@@ -311,7 +311,7 @@
       state: olive
     - date: 12-17
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-18
       distance: 0
       state: disabled
