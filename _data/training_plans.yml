@@ -333,10 +333,10 @@
       state: olive
     - date: 12-24
       distance: 5
-      state: disabled
+      state: olive
     - date: 12-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-26
       distance: 10
       state: disabled
