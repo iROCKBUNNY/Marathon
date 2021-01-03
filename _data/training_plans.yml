@@ -426,11 +426,11 @@
       distance: 0
       state: olive
     - date: 01-02
-      distance: 15
-      state: disabled
+      distance: 0
+      state: olive
     - date: 01-03
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 01-04
       distance: 0
