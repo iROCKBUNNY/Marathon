@@ -446,10 +446,10 @@
       state: olive
     - date: 01-08
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-09
-      distance: 10
-      state: disabled
+      distance: 5
+      state: olive
     - date: 01-10
       distance: 0
       state: disabled
