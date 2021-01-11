@@ -452,7 +452,7 @@
       state: olive
     - date: 01-10
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 01-11
       distance: 0
