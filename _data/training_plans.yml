@@ -456,7 +456,7 @@
   - days:
     - date: 01-11
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-12
       distance: 5
       state: disabled
