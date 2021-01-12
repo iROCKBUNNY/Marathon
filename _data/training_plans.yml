@@ -459,7 +459,7 @@
       state: olive
     - date: 01-12
       distance: 5
-      state: disabled
+      state: olive
     - date: 01-13
       distance: 8
       state: disabled
