@@ -470,10 +470,10 @@
       distance: 0
       state: olive
     - date: 01-16
-      distance: 15
-      state: disabled
-    - date: 01-17
       distance: 0
+      state: olive
+    - date: 01-17
+      distance: 10
       state: disabled
   - days:
     - date: 01-18
