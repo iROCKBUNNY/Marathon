@@ -474,11 +474,11 @@
       state: olive
     - date: 01-17
       distance: 10
-      state: disabled
+      state: olive
   - days:
     - date: 01-18
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-19
       distance: 5
       state: disabled
