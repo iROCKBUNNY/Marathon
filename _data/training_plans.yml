@@ -492,15 +492,15 @@
       distance: 0
       state: olive
     - date: 01-23
-      distance: 10
-      state: disabled
+      distance: 0
+      state: olive
     - date: 01-24
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 01-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-26
       distance: 5
       state: disabled
