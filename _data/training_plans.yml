@@ -503,7 +503,7 @@
       state: olive
     - date: 01-26
       distance: 5
-      state: disabled
+      state: olive
     - date: 01-27
       distance: 8
       state: disabled
