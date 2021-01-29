@@ -512,9 +512,9 @@
       state: olive
     - date: 01-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-30
-      distance: 15
+      distance: 10
       state: disabled
     - date: 01-31
       distance: 0
