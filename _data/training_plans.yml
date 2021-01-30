@@ -514,11 +514,11 @@
       distance: 0
       state: olive
     - date: 01-30
-      distance: 10
-      state: disabled
+      distance: 5
+      state: olive
     - date: 01-31
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2020-11-08 Xian Marathon
   icon: medal
