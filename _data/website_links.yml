@@ -144,6 +144,10 @@
     url: http://www.nanchang-marathon.com/
     flag: cn
 
+  - name: Yangling Marathon
+    url: http://www.yangling-marathon.com/
+    flag: cn
+
   - name: Chengdu Marathon
     url: http://www.chengdu-marathon.org/
     flag: cn
