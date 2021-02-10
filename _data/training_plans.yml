@@ -102,11 +102,11 @@
       distance: 0
       state: green
     - date: 02-09
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 02-10
       distance: 6
-      state: disabled
+      state: green
     - date: 02-11
       distance: 5
       state: disabled
