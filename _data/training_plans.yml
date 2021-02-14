@@ -118,7 +118,7 @@
       state: orange
     - date: 02-14
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-15
       distance: 0
