@@ -125,7 +125,7 @@
       state: green
     - date: 02-16
       distance: 5
-      state: disabled
+      state: green
     - date: 02-17
       distance: 8
       state: disabled
