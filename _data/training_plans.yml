@@ -130,11 +130,11 @@
       distance: 8
       state: green
     - date: 02-18
-      distance: 5
-      state: disabled
-    - date: 02-19
       distance: 0
-      state: disabled
+      state: orange
+    - date: 02-19
+      distance: 5
+      state: orange
     - date: 02-20
       distance: 15
       state: disabled
