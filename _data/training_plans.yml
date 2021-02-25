@@ -152,8 +152,8 @@
       distance: 0
       state: orange
     - date: 02-25
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 02-26
       distance: 0
       state: disabled
