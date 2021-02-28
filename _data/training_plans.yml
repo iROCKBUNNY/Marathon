@@ -156,13 +156,13 @@
       state: orange
     - date: 02-26
       distance: 0
-      state: orange
+      state: green
     - date: 02-27
       distance: 0
       state: orange
     - date: 02-28
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-01
       distance: 0
