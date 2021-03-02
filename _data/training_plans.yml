@@ -168,8 +168,8 @@
       distance: 0
       state: green
     - date: 03-02
-      distance: orange
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-03
       distance: 12
       state: disabled
