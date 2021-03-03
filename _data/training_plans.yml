@@ -171,8 +171,8 @@
       distance: 0
       state: orange
     - date: 03-03
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-04
       distance: 6
       state: disabled
