@@ -178,7 +178,7 @@
       state: orange
     - date: 03-05
       distance: 0
-      state: disabled
+      state: green
     - date: 03-06
       distance: 25
       state: disabled
