@@ -127,7 +127,7 @@
       state: orange
     - date: 03-11
       distance: 5
-      state: disabled
+      state: green
     - date: 03-12
       distance: 0
       state: disabled
