@@ -2,77 +2,7 @@
 #   icon: lock
 #   weeks:
 
-- race: 2021-04-18 Xian Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 03-29
-      distance: 0
-      state: disabled
-    - date: 03-30
-      distance: 0
-      state: disabled
-    - date: 03-31
-      distance: 3
-      state: disabled
-    - date: 04-01
-      distance: 5
-      state: disabled
-    - date: 04-02
-      distance: 0
-      state: disabled
-    - date: 04-03
-      distance: 10
-      state: disabled
-    - date: 04-04
-      distance: 0
-      state: disabled
-  - days:
-    - date: 04-05
-      distance: 0
-      state: disabled
-    - date: 04-06
-      distance: 8
-      state: disabled
-    - date: 04-07
-      distance: 15
-      state: disabled
-    - date: 04-08
-      distance: 8
-      state: disabled
-    - date: 04-09
-      distance: 0
-      state: disabled
-    - date: 04-10
-      distance: 15
-      state: disabled
-    - date: 04-11
-      distance: 0
-      state: disabled
-  - days:
-    - date: 04-12
-      distance: 0
-      state: disabled
-    - date: 04-13
-      distance: 5
-      state: disabled
-    - date: 04-14
-      distance: 8
-      state: disabled
-    - date: 04-15
-      distance: 3
-      state: disabled
-    - date: 04-16
-      distance: 0
-      state: disabled
-    - date: 04-17
-      distance: 0
-      state: disabled
-    - date: 04-18
-      distance: 42.195
-      state: disabled
-
-- race: 2021-03-28 Zhengkai Marathon
+- race: 2021-04-18 Zhengkai Marathon
   icon: running
   weeks:
   - days:
@@ -196,13 +126,13 @@
       distance: 0
       state: orange
     - date: 03-11
-      distance: 8
+      distance: 5
       state: disabled
     - date: 03-12
       distance: 0
       state: disabled
     - date: 03-13
-      distance: 30
+      distance: 15
       state: disabled
     - date: 03-14
       distance: 0
@@ -212,19 +142,19 @@
       distance: 0
       state: disabled
     - date: 03-16
-      distance: 8
+      distance: 5
       state: disabled
     - date: 03-17
-      distance: 15
+      distance: 10
       state: disabled
     - date: 03-18
-      distance: 8
+      distance: 5
       state: disabled
     - date: 03-19
       distance: 0
       state: disabled
     - date: 03-20
-      distance: 15
+      distance: 21
       state: disabled
     - date: 03-21
       distance: 0
@@ -234,21 +164,87 @@
       distance: 0
       state: disabled
     - date: 03-23
-      distance: 5
+      distance: 6
       state: disabled
     - date: 03-24
-      distance: 8
+      distance: 12
       state: disabled
     - date: 03-25
-      distance: 3
+      distance: 6
       state: disabled
     - date: 03-26
       distance: 0
       state: disabled
     - date: 03-27
-      distance: 0
+      distance: 25
       state: disabled
     - date: 03-28
+      distance: 0
+      state: disabled
+  - days:
+    - date: 03-29
+      distance: 0
+      state: disabled
+    - date: 03-30
+      distance: 6
+      state: disabled
+    - date: 03-31
+      distance: 15
+      state: disabled
+    - date: 04-01
+      distance: 8
+      state: disabled
+    - date: 04-02
+      distance: 0
+      state: disabled
+    - date: 04-03
+      distance: 30
+      state: disabled
+    - date: 04-04
+      distance: 0
+      state: disabled
+  - days:
+    - date: 04-05
+      distance: 0
+      state: disabled
+    - date: 04-06
+      distance: 8
+      state: disabled
+    - date: 04-07
+      distance: 15
+      state: disabled
+    - date: 04-08
+      distance: 8
+      state: disabled
+    - date: 04-09
+      distance: 0
+      state: disabled
+    - date: 04-10
+      distance: 15
+      state: disabled
+    - date: 04-11
+      distance: 0
+      state: disabled
+  - days:
+    - date: 04-12
+      distance: 0
+      state: disabled
+    - date: 04-13
+      distance: 5
+      state: disabled
+    - date: 04-14
+      distance: 8
+      state: disabled
+    - date: 04-15
+      distance: 3
+      state: disabled
+    - date: 04-16
+      distance: 0
+      state: disabled
+    - date: 04-17
+      distance: 0
+      state: disabled
+    - date: 04-18
       distance: 42.195
       state: disabled
 
