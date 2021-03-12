@@ -130,7 +130,7 @@
       state: green
     - date: 03-12
       distance: 0
-      state: disabled
+      state: green
     - date: 03-13
       distance: 21
       state: disabled
