@@ -143,7 +143,7 @@
       state: green
     - date: 03-16
       distance: 5
-      state: disabled
+      state: green
     - date: 03-17
       distance: 10
       state: disabled
