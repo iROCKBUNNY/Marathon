@@ -152,7 +152,7 @@
       state: orange
     - date: 03-19
       distance: 0
-      state: disabled
+      state: green
     - date: 03-20
       distance: 21
       state: disabled
