@@ -157,12 +157,12 @@
       distance: 0
       state: orange
     - date: 03-21
-      distance: 0
-      state: disabled
+      distance: 21
+      state: orange
   - days:
     - date: 03-22
       distance: 0
-      state: disabled
+      state: green
     - date: 03-23
       distance: 6
       state: disabled
