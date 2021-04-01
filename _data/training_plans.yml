@@ -193,10 +193,10 @@
       state: orange
     - date: 04-01
       distance: 8
-      state: disabled
+      state: green
     - date: 04-02
       distance: 0
-      state: disabled
+      state: green
     - date: 04-03
       distance: 30
       state: disabled
