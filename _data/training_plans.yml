@@ -201,12 +201,12 @@
       distance: 0
       state: orange
     - date: 04-04
-      distance: 0
-      state: disabled
+      distance: 30
+      state: orange
   - days:
     - date: 04-05
       distance: 0
-      state: disabled
+      state: green
     - date: 04-06
       distance: 8
       state: disabled
