@@ -208,8 +208,8 @@
       distance: 0
       state: green
     - date: 04-06
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-07
       distance: 15
       state: disabled
