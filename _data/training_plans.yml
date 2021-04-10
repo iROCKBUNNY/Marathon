@@ -221,7 +221,7 @@
       state: green
     - date: 04-10
       distance: 15
-      state: disabled
+      state: green
     - date: 04-11
       distance: 0
       state: disabled
