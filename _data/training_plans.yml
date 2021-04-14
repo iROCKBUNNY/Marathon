@@ -233,8 +233,8 @@
       distance: 5
       state: green
     - date: 04-14
-      distance: 8
-      state: disabled
+      distance: 6
+      state: orange
     - date: 04-15
       distance: 3
       state: disabled
