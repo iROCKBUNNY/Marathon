@@ -237,13 +237,13 @@
       state: orange
     - date: 04-15
       distance: 3
-      state: disabled
+      state: green
     - date: 04-16
       distance: 0
-      state: disabled
+      state: green
     - date: 04-17
       distance: 0
-      state: disabled
+      state: green
     - date: 04-18
       distance: 42.195
       state: disabled
