@@ -2,8 +2,34 @@
 #   icon: lock
 #   weeks:
 
-- race: 2021-04-18 Zhengkai Marathon
+- race: 2021 Summer Training
   icon: running
+  weeks:
+  - days:
+    - date: 04-19
+      distance: 0
+      state: green
+    - date: 04-20
+      distance: 0
+      state: disabled
+    - date: 04-21
+      distance: 0
+      state: disabled
+    - date: 04-22
+      distance: 0
+      state: disabled
+    - date: 04-23
+      distance: 0
+      state: disabled
+    - date: 04-24
+      distance: 0
+      state: disabled
+    - date: 04-25
+      distance: 0
+      state: disabled
+
+- race: 2021-04-18 Zhengkai Marathon
+  icon: medal
   weeks:
   - days:
     - date: 02-01
@@ -246,7 +272,7 @@
       state: green
     - date: 04-18
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2020-2021 Winter Training
   icon: clipboard check
