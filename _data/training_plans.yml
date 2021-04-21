@@ -8,13 +8,13 @@
   - days:
     - date: 04-19
       distance: 0
-      state: green
+      state: olive
     - date: 04-20
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-22
       distance: 0
       state: disabled
