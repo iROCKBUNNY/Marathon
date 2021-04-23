@@ -17,10 +17,10 @@
       state: olive
     - date: 04-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-24
       distance: 0
       state: disabled
