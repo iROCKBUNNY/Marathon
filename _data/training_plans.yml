@@ -30,16 +30,16 @@
   - days:
     - date: 04-26
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-27
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 04-28
-      distance: 0
-      state: disabled
+      distance: 6
+      state: olive
     - date: 04-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-30
       distance: 0
       state: disabled
