@@ -71,7 +71,7 @@
     - date: 09-19
       distance: 0
       state: disabled
- - days:
+  - days:
     - date: 09-20
       distance: 0
       state: disabled
@@ -93,7 +93,7 @@
     - date: 09-26
       distance: 0
       state: disabled
- - days:
+  - days:
     - date: 09-27
       distance: 0
       state: disabled
@@ -115,7 +115,7 @@
     - date: 10-03
       distance: 0
       state: disabled
- - days:
+  - days:
     - date: 10-04
       distance: 0
       state: disabled
@@ -137,7 +137,7 @@
     - date: 10-10
       distance: 0
       state: disabled
- - days:
+  - days:
     - date: 10-11
       distance: 0
       state: disabled
@@ -159,7 +159,7 @@
     - date: 10-17
       distance: 0
       state: disabled
- - days:
+  - days:
     - date: 10-18
       distance: 0
       state: disabled
