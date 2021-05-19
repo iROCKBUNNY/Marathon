@@ -400,7 +400,7 @@
       state: olive
     - date: 05-19
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-20
       distance: 0
       state: disabled
