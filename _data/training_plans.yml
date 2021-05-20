@@ -402,8 +402,8 @@
       distance: 0
       state: olive
     - date: 05-20
-      distance: 0
-      state: disabled
+      distance: 5.2
+      state: olive
     - date: 05-21
       distance: 0
       state: disabled
