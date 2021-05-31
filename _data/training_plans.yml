@@ -438,7 +438,7 @@
   - days:
     - date: 05-31
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-01
       distance: 0
       state: disabled
