@@ -460,10 +460,10 @@
   - days:
     - date: 06-07
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-08
-      distance: 0
-      state: disabled
+      distance: 6.5
+      state: olive
     - date: 06-09
       distance: 0
       state: disabled
