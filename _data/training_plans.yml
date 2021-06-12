@@ -475,7 +475,7 @@
       state: olive
     - date: 06-12
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-13
       distance: 0
       state: disabled
