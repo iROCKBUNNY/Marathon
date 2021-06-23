@@ -504,13 +504,13 @@
   - days:
     - date: 06-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-24
       distance: 0
       state: disabled
