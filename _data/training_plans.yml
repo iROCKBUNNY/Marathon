@@ -516,7 +516,7 @@
       state: olive
     - date: 06-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-26
       distance: 0
       state: disabled
