@@ -522,7 +522,7 @@
       state: olive
     - date: 06-27
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 06-28
       distance: 0
