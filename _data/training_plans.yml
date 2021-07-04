@@ -538,10 +538,10 @@
       state: olive
     - date: 07-02
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-03
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-04
       distance: 0
       state: disabled
