@@ -32,6 +32,50 @@
   icon: lock
   weeks:
   - days:
+    - date: 09-13
+      distance: 0
+      state: disabled
+    - date: 09-14
+      distance: 0
+      state: disabled
+    - date: 09-15
+      distance: 3
+      state: disabled
+    - date: 09-16
+      distance: 3
+      state: disabled
+    - date: 09-17
+      distance: 0
+      state: disabled
+    - date: 09-18
+      distance: 5
+      state: disabled
+    - date: 09-19
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-20
+      distance: 0
+      state: disabled
+    - date: 09-21
+      distance: 6
+      state: disabled
+    - date: 09-22
+      distance: 12
+      state: disabled
+    - date: 09-23
+      distance: 6
+      state: disabled
+    - date: 09-24
+      distance: 0
+      state: disabled
+    - date: 09-25
+      distance: 25
+      state: disabled
+    - date: 09-26
+      distance: 0
+      state: disabled
+  - days:
     - date: 09-27
       distance: 0
       state: disabled
@@ -98,9 +142,31 @@
       distance: 42.195
       state: disabled
 
-- race: 2021-09-21 Yellow River Marathon
+- race: 2021-09-12 Taiyuan Marathon
   icon: lock
   weeks:
+  - days:
+    - date: 07-19
+      distance: 0
+      state: disabled
+    - date: 07-20
+      distance: 5
+      state: disabled
+    - date: 07-21
+      distance: 5
+      state: disabled
+    - date: 07-22
+      distance: 5
+      state: disabled
+    - date: 07-23
+      distance: 0
+      state: disabled
+    - date: 07-24
+      distance: 10
+      state: disabled
+    - date: 07-25
+      distance: 0
+      state: disabled
   - days:
     - date: 07-26
       distance: 0
@@ -109,7 +175,7 @@
       distance: 5
       state: disabled
     - date: 07-28
-      distance: 5
+      distance: 6
       state: disabled
     - date: 07-29
       distance: 5
@@ -118,7 +184,7 @@
       distance: 0
       state: disabled
     - date: 07-31
-      distance: 10
+      distance: 8
       state: disabled
     - date: 08-01
       distance: 0
@@ -131,7 +197,7 @@
       distance: 5
       state: disabled
     - date: 08-04
-      distance: 6
+      distance: 8
       state: disabled
     - date: 08-05
       distance: 5
@@ -140,7 +206,7 @@
       distance: 0
       state: disabled
     - date: 08-07
-      distance: 8
+      distance: 15
       state: disabled
     - date: 08-08
       distance: 0
@@ -153,7 +219,7 @@
       distance: 5
       state: disabled
     - date: 08-11
-      distance: 8
+      distance: 10
       state: disabled
     - date: 08-12
       distance: 5
@@ -162,7 +228,7 @@
       distance: 0
       state: disabled
     - date: 08-14
-      distance: 15
+      distance: 21
       state: disabled
     - date: 08-15
       distance: 0
@@ -172,19 +238,19 @@
       distance: 0
       state: disabled
     - date: 08-17
-      distance: 5
+      distance: 6
       state: disabled
     - date: 08-18
-      distance: 10
+      distance: 12
       state: disabled
     - date: 08-19
-      distance: 5
+      distance: 6
       state: disabled
     - date: 08-20
       distance: 0
       state: disabled
     - date: 08-21
-      distance: 21
+      distance: 25
       state: disabled
     - date: 08-22
       distance: 0
@@ -197,16 +263,16 @@
       distance: 6
       state: disabled
     - date: 08-25
-      distance: 12
+      distance: 15
       state: disabled
     - date: 08-26
-      distance: 6
+      distance: 8
       state: disabled
     - date: 08-27
       distance: 0
       state: disabled
     - date: 08-28
-      distance: 25
+      distance: 30
       state: disabled
     - date: 08-29
       distance: 0
@@ -216,7 +282,7 @@
       distance: 0
       state: disabled
     - date: 08-31
-      distance: 6
+      distance: 8
       state: disabled
     - date: 09-01
       distance: 15
@@ -228,7 +294,7 @@
       distance: 0
       state: disabled
     - date: 09-04
-      distance: 30
+      distance: 15
       state: disabled
     - date: 09-05
       distance: 0
@@ -238,66 +304,22 @@
       distance: 0
       state: disabled
     - date: 09-07
-      distance: 8
+      distance: 5
       state: disabled
     - date: 09-08
-      distance: 15
+      distance: 8
       state: disabled
     - date: 09-09
-      distance: 8
+      distance: 3
       state: disabled
     - date: 09-10
       distance: 0
       state: disabled
     - date: 09-11
-      distance: 15
+      distance: 0
       state: disabled
     - date: 09-12
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-13
-      distance: 0
-      state: disabled
-    - date: 09-14
-      distance: 5
-      state: disabled
-    - date: 09-15
-      distance: 8
-      state: disabled
-    - date: 09-16
-      distance: 5
-      state: disabled
-    - date: 09-17
-      distance: 0
-      state: disabled
-    - date: 09-18
-      distance: 8
-      state: disabled
-    - date: 09-19
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-20
-      distance: 0
-      state: disabled
-    - date: 09-21
       distance: 42.195
-      state: disabled
-    - date: 09-22
-      distance: 0
-      state: disabled
-    - date: 09-23
-      distance: 0
-      state: disabled
-    - date: 09-24
-      distance: 3
-      state: disabled
-    - date: 09-25
-      distance: 3
-      state: disabled
-    - date: 09-26
-      distance: 0
       state: disabled
 
 - race: 2021 Summer Training
@@ -587,28 +609,6 @@
       distance: 0
       state: disabled
     - date: 07-18
-      distance: 0
-      state: disabled
-  - days:
-    - date: 07-19
-      distance: 0
-      state: disabled
-    - date: 07-20
-      distance: 0
-      state: disabled
-    - date: 07-21
-      distance: 0
-      state: disabled
-    - date: 07-22
-      distance: 0
-      state: disabled
-    - date: 07-23
-      distance: 0
-      state: disabled
-    - date: 07-24
-      distance: 0
-      state: disabled
-    - date: 07-25
       distance: 0
       state: disabled
 
