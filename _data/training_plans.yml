@@ -143,12 +143,12 @@
       state: disabled
 
 - race: 2021-09-12 Taiyuan Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 07-19
       distance: 0
-      state: disabled
+      state: green
     - date: 07-20
       distance: 5
       state: disabled
@@ -323,7 +323,7 @@
       state: disabled
 
 - race: 2021 Summer Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 04-19
