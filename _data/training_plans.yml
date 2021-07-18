@@ -609,8 +609,8 @@
       distance: 0
       state: olive
     - date: 07-18
-      distance: 0
-      state: disabled
+      distance: 1
+      state: olive
 
 - race: 2021-04-18 Zhengkai Marathon
   icon: medal
