@@ -157,10 +157,10 @@
       state: green
     - date: 07-22
       distance: 5
-      state: disabled
+      state: green
     - date: 07-23
       distance: 0
-      state: disabled
+      state: green
     - date: 07-24
       distance: 10
       state: disabled
