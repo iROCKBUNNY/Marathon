@@ -166,7 +166,7 @@
       state: orange
     - date: 07-25
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 07-26
       distance: 0
