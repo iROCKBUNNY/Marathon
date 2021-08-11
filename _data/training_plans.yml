@@ -316,7 +316,7 @@
       state: green
     - date: 08-11
       distance: 10
-      state: disabled
+      state: green
     - date: 08-12
       distance: 5
       state: disabled
