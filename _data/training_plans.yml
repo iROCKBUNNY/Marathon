@@ -319,10 +319,10 @@
       state: green
     - date: 08-12
       distance: 5
-      state: disabled
+      state: green
     - date: 08-13
       distance: 0
-      state: disabled
+      state: green
     - date: 08-14
       distance: 21
       state: disabled
