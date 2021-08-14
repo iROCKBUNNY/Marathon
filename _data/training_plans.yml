@@ -324,8 +324,8 @@
       distance: 0
       state: green
     - date: 08-14
-      distance: 21
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-15
       distance: 0
       state: disabled
