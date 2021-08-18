@@ -337,8 +337,8 @@
       distance: 6
       state: green
     - date: 08-18
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-19
       distance: 6
       state: disabled
