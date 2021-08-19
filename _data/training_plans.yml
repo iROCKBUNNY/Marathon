@@ -340,8 +340,8 @@
       distance: 0
       state: orange
     - date: 08-19
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-20
       distance: 0
       state: disabled
