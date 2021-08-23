@@ -346,15 +346,15 @@
       distance: 0
       state: green
     - date: 08-21
-      distance: 25
-      state: disabled
+      distance: 15
+      state: orange
     - date: 08-22
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-23
       distance: 0
-      state: disabled
+      state: green
     - date: 08-24
       distance: 6
       state: disabled
