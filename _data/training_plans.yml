@@ -2,33 +2,33 @@
 #   icon: lock
 #   weeks:
 
-- race: 2021-11-21 Hangzhou Marathon
+- race: 2021-11-14 Shaoxing Marathon
   icon: lock
   weeks:
   - days:
-    - date: 11-15
+    - date: 11-08
       distance: 0
       state: disabled
-    - date: 11-16
+    - date: 11-09
       distance: 0
       state: disabled
-    - date: 11-17
+    - date: 11-10
       distance: 3
       state: disabled
-    - date: 11-18
+    - date: 11-11
       distance: 3
       state: disabled
-    - date: 11-19
+    - date: 11-12
       distance: 0
       state: disabled
-    - date: 11-20
+    - date: 11-13
       distance: 0
       state: disabled
-    - date: 11-21
+    - date: 11-14
       distance: 42.195
       state: disabled
 
-- race: 2021-11-14 Shaoxing Marathon
+- race: 2021-11-07 Hangzhou Marathon
   icon: lock
   weeks:
   - days:
@@ -42,13 +42,13 @@
       distance: 3
       state: disabled
     - date: 10-28
-      distance: 5
+      distance: 3
       state: disabled
     - date: 10-29
       distance: 0
       state: disabled
     - date: 10-30
-      distance: 10
+      distance: 5
       state: disabled
     - date: 10-31
       distance: 0
@@ -58,43 +58,21 @@
       distance: 0
       state: disabled
     - date: 11-02
-      distance: 8
+      distance: 5
       state: disabled
     - date: 11-03
-      distance: 15
+      distance: 8
       state: disabled
     - date: 11-04
-      distance: 8
+      distance: 3
       state: disabled
     - date: 11-05
       distance: 0
       state: disabled
     - date: 11-06
-      distance: 15
+      distance: 0
       state: disabled
     - date: 11-07
-      distance: 0
-      state: disabled
-  - days:
-    - date: 11-08
-      distance: 0
-      state: disabled
-    - date: 11-09
-      distance: 5
-      state: disabled
-    - date: 11-10
-      distance: 8
-      state: disabled
-    - date: 11-11
-      distance: 3
-      state: disabled
-    - date: 11-12
-      distance: 0
-      state: disabled
-    - date: 11-13
-      distance: 0
-      state: disabled
-    - date: 11-14
       distance: 42.195
       state: disabled
 
