@@ -260,10 +260,6 @@
       distance: 42.195
       state: disabled
 
-# - race: 2021-09-12 Taiyuan Marathon
-#   icon: running
-#   weeks:
-
 - race: 2021 Summer Training
   icon: running
   weeks:
