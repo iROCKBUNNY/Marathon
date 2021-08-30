@@ -103,12 +103,12 @@
       state: disabled
 
 - race: 2021-10-17 Beijing Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 08-30
       distance: 0
-      state: disabled
+      state: green
     - date: 08-31
       distance: 5
       state: disabled
@@ -261,7 +261,7 @@
       state: disabled
 
 - race: 2021 Summer Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 04-19
