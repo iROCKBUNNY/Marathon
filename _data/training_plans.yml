@@ -111,13 +111,13 @@
       state: green
     - date: 08-31
       distance: 5
-      state: disabled
+      state: green
     - date: 09-01
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-02
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-03
       distance: 0
       state: disabled
