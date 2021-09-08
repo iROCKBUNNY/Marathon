@@ -102,7 +102,7 @@
       distance: 42.195
       state: disabled
 
-- race: 2021-10-17 Beijing Marathon
+- race: 2021-10-17 Taiyuan/Beijing Marathon
   icon: running
   weeks:
   - days:
@@ -130,10 +130,10 @@
   - days:
     - date: 09-06
       distance: 0
-      state: disabled
+      state: green
     - date: 09-07
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-08
       distance: 8
       state: disabled
