@@ -138,17 +138,17 @@
       distance: 0
       state: orange
     - date: 09-09
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-10
       distance: 0
-      state: disabled
+      state: green
     - date: 09-11
-      distance: 15
-      state: disabled
+      distance: 12
+      state: orange
     - date: 09-12
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-13
       distance: 0
