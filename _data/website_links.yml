@@ -110,6 +110,10 @@
     url: http://www.zhongyuan-sports.com/Gxty/detail/id/477.html
     flag: cn
 
+  - name: Beijing Daxing Half Marathon
+    url: http://dxwsz.mararun.com/
+    flag: cn
+
 - name: Race Website Links
   websites:
   - name: Chongqing Marathon
