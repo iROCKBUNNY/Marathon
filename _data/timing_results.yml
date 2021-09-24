@@ -34,6 +34,74 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Taiyuan Marathon
+  type: full
+  results:
+  - date: 2021-10-17
+    bib_number:
+    shoes:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2019-09-08
+    bib_number: C1159
+    shoes: ASICS GEL-NIMBUS 21
+    personal_best: false
+    check_points:
+    - net: "0:33:30"
+      segment: "33:30"
+      state: positive
+    - net: "1:06:31"
+      segment: "33:02"
+      state: positive
+    - net: "1:37:33"
+      segment: "31:02"
+      state: positive
+    - net: "2:08:33"
+      segment: "31:01"
+      state: positive
+    - net: "2:39:39"
+      segment: "31:06"
+      state: positive
+    - net: "3:13:17"
+      segment: "33:39"
+      state: positive
+    - net: "3:51:37"
+      segment: "38:20"
+      state: positive
+    - net: "4:31:47"
+      segment: "40:11"
+      state: positive
+    - net: "4:49:04"
+      segment: "17:17"
+      state: positive
+
 - race: Zhengkai Marathon
   type: full
   results:
@@ -240,42 +308,6 @@
       state: positive
     - net: "5:59:08"
       segment: "24:07"
-      state: positive
-
-- race: Taiyuan Marathon
-  type: full
-  results:
-  - date: 2019-09-08
-    bib_number: C1159
-    shoes: ASICS GEL-NIMBUS 21
-    personal_best: false
-    check_points:
-    - net: "0:33:30"
-      segment: "33:30"
-      state: positive
-    - net: "1:06:31"
-      segment: "33:02"
-      state: positive
-    - net: "1:37:33"
-      segment: "31:02"
-      state: positive
-    - net: "2:08:33"
-      segment: "31:01"
-      state: positive
-    - net: "2:39:39"
-      segment: "31:06"
-      state: positive
-    - net: "3:13:17"
-      segment: "33:39"
-      state: positive
-    - net: "3:51:37"
-      segment: "38:20"
-      state: positive
-    - net: "4:31:47"
-      segment: "40:11"
-      state: positive
-    - net: "4:49:04"
-      segment: "17:17"
       state: positive
 
 - race: Qinhuangdao Marathon
