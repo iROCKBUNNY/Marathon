@@ -102,10 +102,6 @@
     url: http://sxym.org.cn/
     flag: cn
 
-  - name: Luoyang Marathon
-    url: http://www.luoyangmalasong.com/
-    flag: cn
-
   - name: Yellow River Marathon
     url: http://www.zhongyuan-sports.com/Gxty/detail/id/477.html
     flag: cn
@@ -134,6 +130,10 @@
 
   - name: Zhengzhou Longhu Lake Half Marathon
     url: https://www.longhu-marathon.com/
+    flag: cn
+
+  - name: Luoyang Marathon
+    url: http://www.luoyangmalasong.com/
     flag: cn
 
   - name: Qingdao Marathon
