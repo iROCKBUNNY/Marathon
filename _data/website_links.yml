@@ -186,11 +186,11 @@
 
   - name: Taipei Marathon
     url: http://www.taipeicitymarathon.com/
-    flag: tw
+    flag: cn
 
   - name: New Taipei City Wan Jin Shi Marathon
     url: http://www.wanjinshi-marathon.com.tw/
-    flag: tw
+    flag: cn
 
   - name: Standard Chartered Singapore Marathon
     url: https://singaporemarathon.com/
