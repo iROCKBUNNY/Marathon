@@ -14,7 +14,7 @@
   active_key: timing_results
 
 - title: Website Links
-  icon: linkify
+  icon: globe
   url: '/website-links/'
   active_key: website_links
 
