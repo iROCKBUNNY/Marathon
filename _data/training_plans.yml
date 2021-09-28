@@ -195,7 +195,7 @@
       state: green
     - date: 09-28
       distance: 6
-      state: disabled
+      state: green
     - date: 09-29
       distance: 15
       state: disabled
