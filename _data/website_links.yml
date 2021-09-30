@@ -90,6 +90,10 @@
     url: http://www.wuhanmarathon.org/
     flag: cn
 
+  - name: Chongqing Marathon
+    url: http://www.cqmarathon.com/
+    flag: cn
+
   - name: Wuxi Marathon
     url: http://wuximarathon.com/
     flag: cn
@@ -112,10 +116,6 @@
 
 - name: Race Website Links
   websites:
-  - name: Chongqing Marathon
-    url: http://www.cqmarathon.com/
-    flag: cn
-
   - name: Lanzhou Marathon
     url: http://www.lzmarathon.com/
     flag: cn
