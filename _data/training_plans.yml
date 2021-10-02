@@ -62,10 +62,10 @@
       distance: 0
       state: disabled
     - date: 10-26
-      distance: 5
+      distance: 0
       state: disabled
     - date: 10-27
-      distance: 8
+      distance: 3
       state: disabled
     - date: 10-28
       distance: 3
