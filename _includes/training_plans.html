@@ -34,7 +34,7 @@
                     {%- assign total_distance = total_distance | plus: day.distance %}
                 {%- endfor -%}
             {%- endfor -%}
-            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui basic horizontal label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km{% if total_distance > 0 %}<div class="detail">{{ completed_distance | times: 100.0 | divided_by: total_distance | round }}%</div>{% endif %}</div></h3>
+            <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui mini basic label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km{% if total_distance > 0 %}<div class="detail">{{ completed_distance | times: 100.0 | divided_by: total_distance | round }}%</div>{% endif %}</div></h3>
             <table class="ui unstackable selectable celled definition table">
                 <thead>
                     <tr>
@@ -52,7 +52,7 @@
                     {%- for week in item.weeks -%}
                         <tr>
                             <td>#{{ forloop.index }}</td>
-                            {%- for day in week.days -%}<td class="single line"><div class="ui {{ day.state }} horizontal label">{{ day.date }}<div class="detail">{% if day.distance > 0 %}{{ day.distance }} km{% else %}rest{% endif %}</div></div></td>{%- endfor -%}
+                            {%- for day in week.days -%}<td class="single line"><div class="ui mini {{ day.state }} label">{{ day.date }}<div class="detail">{% if day.distance > 0 %}{{ day.distance }} km{% else %}rest{% endif %}</div></div></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
                 </tbody>

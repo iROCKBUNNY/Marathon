@@ -1,11 +1,11 @@
 <div class="ui vertical segment">
     <div class="ui container">
         <h2 class="ui header"><i class="list alternate icon"></i>Table of Contents</h2>
-        <h3 class="ui header">Marathons<a class="ui circular label" href="{{ '/timing-results/' | relative_url }}#marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
+        <h3 class="ui header">Marathons<a class="ui mini circular label" href="{{ '/timing-results/' | relative_url }}#marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
         <div class="ui bulleted selection link list">
             {%- for item in site.data.timing_results -%}{% if item.type == 'full' %}<a class="item" href="{{ '/timing-results/' | relative_url }}{{ item.race | slugify | prepend: '#' }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
         </div>
-        <h3 class="ui header">Half Marathons<a class="ui circular label" href="{{ '/timing-results/' | relative_url }}#half-marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
+        <h3 class="ui header">Half Marathons<a class="ui mini circular label" href="{{ '/timing-results/' | relative_url }}#half-marathon-timing-results"><i class="arrow right fitted icon"></i></a></h3>
         <div class="ui bulleted selection link list">
             {%- for item in site.data.timing_results -%}{% if item.type == 'half' %}<a class="item" href="{{ '/timing-results/' | relative_url }}{{ item.race | slugify | prepend: '#' }}-timing-results">{{ item.race }} ({{ item.results.size }})</a>{% endif %}{%- endfor -%}
         </div>
@@ -36,7 +36,7 @@
                     <tbody>
                         {%- for result in item.results -%}
                             <tr{% if result.personal_best %} id="personal-best-full"{% endif %}>
-                                <td class="single line">{{ result.date }}<br>{% if result.bib_number %}<div class="ui {% if result.personal_best %}orange{% else %}grey{% endif %} horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini basic" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% else %}<div class="ui horizontal label">Bib# TBA</div>{% endif %}</td>
+                                <td class="single line">{{ result.date }}<br>{% if result.bib_number %}<div class="ui mini {% if result.personal_best %}orange{% else %}grey{% endif %} label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini basic" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% else %}<div class="ui mini label">Bib# TBA</div>{% endif %}</td>
                                 {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                             </tr>
                         {%- endfor -%}
@@ -62,7 +62,7 @@
                     <tbody>
                         {%- for result in item.results -%}
                             <tr{% if result.personal_best %} id="personal-best-half"{% endif %}>
-                                <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui {% if result.personal_best %}yellow{% else %}grey{% endif %} horizontal label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini basic" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% else %}<div class="ui horizontal label">Bib# TBA</div>{% endif %}</td>
+                                <td class="single line">{{ result.date }}{% if result.bib_number %}<br><div class="ui mini {% if result.personal_best %}yellow{% else %}grey{% endif %} label"{% if result.shoes %} data-tooltip="{{ result.shoes }}" data-variation="mini basic" data-position="right center" data-inverted=""{% endif %}>{{ result.bib_number }}</div>{% else %}<div class="ui mini label">Bib# TBA</div>{% endif %}</td>
                                 {%- for check_point in result.check_points -%}<td class="right aligned {{ check_point.state }}"><code>{{ check_point.net }}</code><br><code>{{ check_point.segment }}</code></td>{%- endfor -%}
                             </tr>
                         {%- endfor -%}
