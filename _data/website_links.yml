@@ -34,6 +34,10 @@
     url: http://www.hzim.org/
     flag: cn
 
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
+    flag: cn
+
   - name: Zhengzhou Marathon
     url: http://www.zhengzhou42195.com/
     flag: cn
@@ -84,10 +88,6 @@
 
   - name: Shanghai Marathon
     url: https://www.shang-ma.com/
-    flag: cn
-
-  - name: Wuhan Marathon
-    url: http://www.wuhanmarathon.org/
     flag: cn
 
   - name: Chongqing Marathon
