@@ -214,15 +214,15 @@
       distance: 0
       state: green
     - date: 10-02
-      distance: 30
-      state: disabled
-    - date: 10-03
       distance: 0
-      state: disabled
+      state: orange
+    - date: 10-03
+      distance: 30
+      state: orange
   - days:
     - date: 10-04
       distance: 0
-      state: disabled
+      state: green
     - date: 10-05
       distance: 8
       state: disabled
