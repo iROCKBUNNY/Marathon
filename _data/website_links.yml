@@ -30,14 +30,6 @@
     url: http://www.beijing-halfmarathon.com/
     flag: cn
 
-  - name: Hangzhou Marathon
-    url: http://www.hzim.org/
-    flag: cn
-
-  - name: Wuhan Marathon
-    url: http://www.wuhanmarathon.org/
-    flag: cn
-
   - name: Zhengzhou Marathon
     url: http://www.zhengzhou42195.com/
     flag: cn
@@ -50,12 +42,20 @@
     url: http://www.qhdmls.com/
     flag: cn
 
+  - name: Hangzhou Marathon
+    url: http://www.hzim.org/
+    flag: cn
+
   - name: Xian Marathon
     url: http://www.qjty-xian.com/
     flag: cn
 
   - name: Taiyuan Marathon
     url: http://www.tymarathon.org/
+    flag: cn
+
+  - name: Wuhan Marathon
+    url: http://www.wuhanmarathon.org/
     flag: cn
 
   - name: Guangzhou Marathon

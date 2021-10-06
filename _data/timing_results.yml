@@ -75,7 +75,7 @@
   results:
   - date: 2021-10-17
     bib_number: E6090
-    shoes: ASICS GEL-NIMBUS 22 LITE
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
     personal_best: false
     check_points:
     - net: "0:00:00"
@@ -274,7 +274,7 @@
       segment: "15:16"
       state: positive
 
-- race: Taiyuan Marathon (Virtual Race)
+- race: Taiyuan Marathon (Virtual)
   type: full
   results:
   - date: 2020-10-11
