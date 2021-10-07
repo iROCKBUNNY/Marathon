@@ -327,10 +327,10 @@
       state: green
     - date: 10-07
       distance: 8
-      state: disabled
+      state: green
     - date: 10-08
       distance: 0
-      state: disabled
+      state: green
     - date: 10-09
       distance: 15
       state: disabled
