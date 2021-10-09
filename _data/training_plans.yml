@@ -180,32 +180,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 10-18
-      distance: 0
-      state: disabled
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 3
-      state: disabled
-    - date: 10-21
-      distance: 3
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 0
-      state: disabled
-    - date: 10-24
-      distance: 42.195
-      state: disabled
-
-- race: 2021-10-17 Taiyuan Marathon
-  icon: running
-  weeks:
-  - days:
     - date: 08-30
       distance: 0
       state: green
@@ -332,8 +306,8 @@
       distance: 0
       state: green
     - date: 10-09
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-10
       distance: 0
       state: disabled
@@ -342,21 +316,43 @@
       distance: 0
       state: disabled
     - date: 10-12
-      distance: 5
-      state: disabled
-    - date: 10-13
       distance: 8
       state: disabled
+    - date: 10-13
+      distance: 15
+      state: disabled
     - date: 10-14
-      distance: 3
+      distance: 8
       state: disabled
     - date: 10-15
       distance: 0
       state: disabled
     - date: 10-16
-      distance: 0
+      distance: 15
       state: disabled
     - date: 10-17
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-18
+      distance: 0
+      state: disabled
+    - date: 10-19
+      distance: 5
+      state: disabled
+    - date: 10-20
+      distance: 8
+      state: disabled
+    - date: 10-21
+      distance: 3
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
       distance: 42.195
       state: disabled
 
