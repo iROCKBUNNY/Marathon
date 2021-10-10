@@ -310,7 +310,7 @@
       state: orange
     - date: 10-10
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-11
       distance: 0
