@@ -34,6 +34,142 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Hangzhou Marathon
+  type: full
+  results:
+  - date: 2021-11-07
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2018-11-04
+    bib_number: C11389
+    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:29:23"
+      segment: "29:23"
+      state: positive
+    - net: "0:59:04"
+      segment: "29:41"
+      state: positive
+    - net: "1:29:52"
+      segment: "30:48"
+      state: positive
+    - net: "2:00:14"
+      segment: "30:22"
+      state: positive
+    - net: "2:34:17"
+      segment: "34:03"
+      state: positive
+    - net: "3:10:38"
+      segment: "36:21"
+      state: positive
+    - net: "3:53:19"
+      segment: "42:41"
+      state: positive
+    - net: "4:31:52"
+      segment: "38:33"
+      state: positive
+    - net: "4:46:57"
+      segment: "15:05"
+      state: positive
+
+- race: Beijing Marathon
+  type: full
+  results:
+  - date: 2021-10-31
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2018-09-16
+    bib_number: E2034
+    shoes: ASICS GEL-NIMBUS 20
+    personal_best: false
+    check_points:
+    - net: "0:30:47"
+      segment: "30:47"
+      state: positive
+    - net: "1:03:27"
+      segment: "32:40"
+      state: positive
+    - net: "1:35:35"
+      segment: "32:08"
+      state: positive
+    - net: "2:09:22"
+      segment: "33:47"
+      state: positive
+    - net: "2:44:27"
+      segment: "35:05"
+      state: positive
+    - net: "3:21:24"
+      segment: "36:57"
+      state: positive
+    - net: "4:01:24"
+      segment: "40:00"
+      state: positive
+    - net: "4:40:44"
+      segment: "39:20"
+      state: positive
+    - net: "4:56:08"
+      segment: "15:24"
+      state: positive
+
 - race: Wuhan Marathon
   type: full
   results:
@@ -578,42 +714,6 @@
       segment: "23:35"
       state: positive
 
-- race: Hangzhou Marathon
-  type: full
-  results:
-  - date: 2018-11-04
-    bib_number: C11389
-    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
-    personal_best: false
-    check_points:
-    - net: "0:29:23"
-      segment: "29:23"
-      state: positive
-    - net: "0:59:04"
-      segment: "29:41"
-      state: positive
-    - net: "1:29:52"
-      segment: "30:48"
-      state: positive
-    - net: "2:00:14"
-      segment: "30:22"
-      state: positive
-    - net: "2:34:17"
-      segment: "34:03"
-      state: positive
-    - net: "3:10:38"
-      segment: "36:21"
-      state: positive
-    - net: "3:53:19"
-      segment: "42:41"
-      state: positive
-    - net: "4:31:52"
-      segment: "38:33"
-      state: positive
-    - net: "4:46:57"
-      segment: "15:05"
-      state: positive
-
 - race: Zhengzhou Yanhuang Marathon
   type: full
   results:
@@ -648,40 +748,4 @@
       state: positive
     - net: "5:04:58"
       segment: "16:38"
-      state: positive
-
-- race: Beijing Marathon
-  type: full
-  results:
-  - date: 2018-09-16
-    bib_number: E2034
-    shoes: ASICS GEL-NIMBUS 20
-    personal_best: false
-    check_points:
-    - net: "0:30:47"
-      segment: "30:47"
-      state: positive
-    - net: "1:03:27"
-      segment: "32:40"
-      state: positive
-    - net: "1:35:35"
-      segment: "32:08"
-      state: positive
-    - net: "2:09:22"
-      segment: "33:47"
-      state: positive
-    - net: "2:44:27"
-      segment: "35:05"
-      state: positive
-    - net: "3:21:24"
-      segment: "36:57"
-      state: positive
-    - net: "4:01:24"
-      segment: "40:00"
-      state: positive
-    - net: "4:40:44"
-      segment: "39:20"
-      state: positive
-    - net: "4:56:08"
-      segment: "15:24"
       state: positive
