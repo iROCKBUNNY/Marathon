@@ -328,7 +328,7 @@
       distance: 0
       state: disabled
     - date: 10-16
-      distance: 15
+      distance: 30
       state: disabled
     - date: 10-17
       distance: 0

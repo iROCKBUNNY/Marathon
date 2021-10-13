@@ -34,6 +34,42 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Chongqing Marathon
+  type: full
+  results:
+  - date: 2021-11-14
+    bib_number: C11362
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Hangzhou Marathon
   type: full
   results:
