@@ -331,12 +331,12 @@
       distance: 0
       state: orange
     - date: 10-17
-      distance: 0
-      state: disabled
+      distance: 15
+      state: orange
   - days:
     - date: 10-18
       distance: 0
-      state: disabled
+      state: green
     - date: 10-19
       distance: 5
       state: disabled
