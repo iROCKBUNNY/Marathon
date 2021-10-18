@@ -62,6 +62,10 @@
     url: http://www.guangzhou-marathon.com/
     flag: cn
 
+  - name: Chongqing Marathon
+    url: http://www.cqmarathon.com/
+    flag: cn
+
 - name: Race Website Links (participated, archived)
   websites:
   - name: Xiamen Marathon
@@ -88,10 +92,6 @@
 
   - name: Shanghai Marathon
     url: https://www.shang-ma.com/
-    flag: cn
-
-  - name: Chongqing Marathon
-    url: http://www.cqmarathon.com/
     flag: cn
 
   - name: Wuxi Marathon
