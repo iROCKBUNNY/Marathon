@@ -151,32 +151,6 @@
       state: disabled
 
 - race: 2021-10-31 Beijing Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 10-25
-      distance: 0
-      state: disabled
-    - date: 10-26
-      distance: 0
-      state: disabled
-    - date: 10-27
-      distance: 3
-      state: disabled
-    - date: 10-28
-      distance: 3
-      state: disabled
-    - date: 10-29
-      distance: 0
-      state: disabled
-    - date: 10-30
-      distance: 0
-      state: disabled
-    - date: 10-31
-      distance: 42.195
-      state: disabled
-
-- race: 2021-10-24 Wuhan Marathon
   icon: running
   weeks:
   - days:
@@ -344,15 +318,37 @@
       distance: 8
       state: green
     - date: 10-21
-      distance: 3
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-22
       distance: 0
       state: disabled
     - date: 10-23
-      distance: 0
+      distance: 15
       state: disabled
     - date: 10-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-25
+      distance: 0
+      state: disabled
+    - date: 10-26
+      distance: 5
+      state: disabled
+    - date: 10-27
+      distance: 8
+      state: disabled
+    - date: 10-28
+      distance: 3
+      state: disabled
+    - date: 10-29
+      distance: 0
+      state: disabled
+    - date: 10-30
+      distance: 0
+      state: disabled
+    - date: 10-31
       distance: 42.195
       state: disabled
 
