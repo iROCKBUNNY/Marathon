@@ -128,32 +128,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 0
-      state: disabled
-    - date: 11-03
-      distance: 3
-      state: disabled
-    - date: 11-04
-      distance: 3
-      state: disabled
-    - date: 11-05
-      distance: 0
-      state: disabled
-    - date: 11-06
-      distance: 0
-      state: disabled
-    - date: 11-07
-      distance: 42.195
-      state: disabled
-
-- race: 2021-10-31 Beijing Marathon
-  icon: running
-  weeks:
-  - days:
     - date: 08-30
       distance: 0
       state: green
@@ -322,33 +296,55 @@
       state: orange
     - date: 10-22
       distance: 0
-      state: disabled
+      state: green
     - date: 10-23
-      distance: 15
-      state: disabled
-    - date: 10-24
       distance: 0
-      state: disabled
+      state: orange
+    - date: 10-24
+      distance: 15
+      state: orange
   - days:
     - date: 10-25
       distance: 0
       state: disabled
     - date: 10-26
-      distance: 5
-      state: disabled
-    - date: 10-27
       distance: 8
       state: disabled
+    - date: 10-27
+      distance: 15
+      state: disabled
     - date: 10-28
-      distance: 3
+      distance: 8
       state: disabled
     - date: 10-29
       distance: 0
       state: disabled
     - date: 10-30
-      distance: 0
+      distance: 15
       state: disabled
     - date: 10-31
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 5
+      state: disabled
+    - date: 11-03
+      distance: 8
+      state: disabled
+    - date: 11-04
+      distance: 3
+      state: disabled
+    - date: 11-05
+      distance: 0
+      state: disabled
+    - date: 11-06
+      distance: 0
+      state: disabled
+    - date: 11-07
       distance: 42.195
       state: disabled
 
