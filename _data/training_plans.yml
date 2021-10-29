@@ -50,27 +50,71 @@
       distance: 42.195
       state: disabled
 
-- race: 2021-11-28 Shanghai Marathon
+- race: 2021-11-28 Beijing Marathon
   icon: lock
   weeks:
+  - days:
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 6
+      state: disabled
+    - date: 11-03
+      distance: 12
+      state: disabled
+    - date: 11-04
+      distance: 6
+      state: disabled
+    - date: 11-05
+      distance: 0
+      state: disabled
+    - date: 11-06
+      distance: 25
+      state: disabled
+    - date: 11-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-08
+      distance: 0
+      state: disabled
+    - date: 11-09
+      distance: 6
+      state: disabled
+    - date: 11-10
+      distance: 15
+      state: disabled
+    - date: 11-11
+      distance: 8
+      state: disabled
+    - date: 11-12
+      distance: 0
+      state: disabled
+    - date: 11-13
+      distance: 30
+      state: disabled
+    - date: 11-14
+      distance: 0
+      state: disabled
   - days:
     - date: 11-15
       distance: 0
       state: disabled
     - date: 11-16
-      distance: 0
+      distance: 8
       state: disabled
     - date: 11-17
-      distance: 3
+      distance: 15
       state: disabled
     - date: 11-18
-      distance: 3
+      distance: 8
       state: disabled
     - date: 11-19
       distance: 0
       state: disabled
     - date: 11-20
-      distance: 5
+      distance: 15
       state: disabled
     - date: 11-21
       distance: 0
@@ -98,254 +142,206 @@
       distance: 42.195
       state: disabled
 
-- race: 2021-11-14 Chongqing Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 11-08
-      distance: 0
-      state: disabled
-    - date: 11-09
-      distance: 0
-      state: disabled
-    - date: 11-10
-      distance: 3
-      state: disabled
-    - date: 11-11
-      distance: 3
-      state: disabled
-    - date: 11-12
-      distance: 0
-      state: disabled
-    - date: 11-13
-      distance: 0
-      state: disabled
-    - date: 11-14
-      distance: 42.195
-      state: disabled
-
-- race: 2021-11-07 Hangzhou Marathon
+- race: 2021 Autumn Training
   icon: running
   weeks:
   - days:
     - date: 08-30
       distance: 0
-      state: green
+      state: olive
     - date: 08-31
       distance: 5
-      state: green
+      state: olive
     - date: 09-01
       distance: 0
-      state: orange
+      state: olive
     - date: 09-02
       distance: 0
-      state: orange
+      state: olive
     - date: 09-03
       distance: 0
-      state: green
+      state: olive
     - date: 09-04
       distance: 8
-      state: green
+      state: olive
     - date: 09-05
       distance: 0
-      state: green
+      state: olive
   - days:
     - date: 09-06
       distance: 0
-      state: green
+      state: olive
     - date: 09-07
       distance: 0
-      state: orange
+      state: olive
     - date: 09-08
       distance: 0
-      state: orange
+      state: olive
     - date: 09-09
       distance: 0
-      state: orange
+      state: olive
     - date: 09-10
       distance: 0
-      state: green
+      state: olive
     - date: 09-11
       distance: 12
-      state: orange
+      state: olive
     - date: 09-12
       distance: 0
-      state: green
+      state: olive
   - days:
     - date: 09-13
       distance: 0
-      state: green
+      state: olive
     - date: 09-14
       distance: 5
-      state: green
+      state: olive
     - date: 09-15
       distance: 0
-      state: orange
+      state: olive
     - date: 09-16
       distance: 0
-      state: orange
+      state: olive
     - date: 09-17
       distance: 0
-      state: green
+      state: olive
     - date: 09-18
       distance: 0
-      state: orange
+      state: olive
     - date: 09-19
       distance: 0
-      state: green
+      state: olive
   - days:
     - date: 09-20
       distance: 3
-      state: orange
+      state: olive
     - date: 09-21
       distance: 6
-      state: green
+      state: olive
     - date: 09-22
       distance: 12
-      state: green
+      state: olive
     - date: 09-23
       distance: 6
-      state: green
+      state: olive
     - date: 09-24
       distance: 0
-      state: green
+      state: olive
     - date: 09-25
       distance: 25
-      state: green
+      state: olive
     - date: 09-26
       distance: 0
-      state: green
+      state: olive
   - days:
     - date: 09-27
       distance: 0
-      state: green
+      state: olive
     - date: 09-28
       distance: 6
-      state: green
+      state: olive
     - date: 09-29
       distance: 15
-      state: green
+      state: olive
     - date: 09-30
       distance: 8
-      state: green
+      state: olive
     - date: 10-01
       distance: 0
-      state: green
+      state: olive
     - date: 10-02
       distance: 0
-      state: orange
+      state: olive
     - date: 10-03
       distance: 30
-      state: orange
+      state: olive
   - days:
     - date: 10-04
       distance: 0
-      state: green
+      state: olive
     - date: 10-05
       distance: 8
-      state: green
+      state: olive
     - date: 10-06
       distance: 15
-      state: green
+      state: olive
     - date: 10-07
       distance: 8
-      state: green
+      state: olive
     - date: 10-08
       distance: 0
-      state: green
+      state: olive
     - date: 10-09
       distance: 0
-      state: orange
+      state: olive
     - date: 10-10
       distance: 0
-      state: green
+      state: olive
   - days:
     - date: 10-11
       distance: 0
-      state: green
+      state: olive
     - date: 10-12
       distance: 8
-      state: green
+      state: olive
     - date: 10-13
       distance: 5
-      state: orange
+      state: olive
     - date: 10-14
       distance: 8
-      state: green
+      state: olive
     - date: 10-15
       distance: 0
-      state: green
+      state: olive
     - date: 10-16
       distance: 0
-      state: orange
+      state: olive
     - date: 10-17
       distance: 15
-      state: orange
+      state: olive
   - days:
     - date: 10-18
       distance: 0
-      state: green
+      state: olive
     - date: 10-19
       distance: 5
-      state: green
+      state: olive
     - date: 10-20
       distance: 8
-      state: green
+      state: olive
     - date: 10-21
       distance: 0
-      state: orange
+      state: olive
     - date: 10-22
       distance: 0
-      state: green
+      state: olive
     - date: 10-23
       distance: 0
-      state: orange
+      state: olive
     - date: 10-24
       distance: 15
-      state: orange
+      state: olive
   - days:
     - date: 10-25
       distance: 0
-      state: green
+      state: olive
     - date: 10-26
       distance: 5
-      state: orange
+      state: olive
     - date: 10-27
       distance: 0
-      state: orange
+      state: olive
     - date: 10-28
       distance: 0
-      state: orange
+      state: olive
     - date: 10-29
       distance: 0
-      state: green
+      state: olive
     - date: 10-30
       distance: 21
       state: disabled
     - date: 10-31
       distance: 0
-      state: disabled
-  - days:
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 5
-      state: disabled
-    - date: 11-03
-      distance: 8
-      state: disabled
-    - date: 11-04
-      distance: 3
-      state: disabled
-    - date: 11-05
-      distance: 0
-      state: disabled
-    - date: 11-06
-      distance: 0
-      state: disabled
-    - date: 11-07
-      distance: 42.195
       state: disabled
 
 - race: 2021 Summer Training
