@@ -56,7 +56,7 @@
   - days:
     - date: 11-01
       distance: 0
-      state: disabled
+      state: green
     - date: 11-02
       distance: 6
       state: disabled
@@ -342,7 +342,7 @@
       state: olive
     - date: 10-31
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2021 Summer Training
   icon: clipboard check
