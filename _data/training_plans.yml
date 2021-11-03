@@ -50,19 +50,19 @@
       distance: 42.195
       state: disabled
 
-- race: 2021-11-28 Beijing Marathon
-  icon: lock
+- race: 2021-2022 Winter Training
+  icon: running
   weeks:
   - days:
     - date: 11-01
       distance: 0
-      state: green
+      state: olive
     - date: 11-02
       distance: 0
-      state: orange
+      state: olive
     - date: 11-03
-      distance: 12
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-04
       distance: 6
       state: disabled
@@ -143,7 +143,7 @@
       state: disabled
 
 - race: 2021 Autumn Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 08-30
