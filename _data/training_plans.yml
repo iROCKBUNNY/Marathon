@@ -68,17 +68,17 @@
       state: olive
     - date: 11-05
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-06
-      distance: 25
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-07
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 11-08
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-09
       distance: 6
       state: disabled
