@@ -2,53 +2,9 @@
 #   icon: lock/running/medal/clipboard check
 #   weeks:
 
-- race: 2021-12-12 Guangzhou Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 11-29
-      distance: 0
-      state: disabled
-    - date: 11-30
-      distance: 0
-      state: disabled
-    - date: 12-01
-      distance: 3
-      state: disabled
-    - date: 12-02
-      distance: 3
-      state: disabled
-    - date: 12-03
-      distance: 0
-      state: disabled
-    - date: 12-04
-      distance: 5
-      state: disabled
-    - date: 12-05
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-06
-      distance: 0
-      state: disabled
-    - date: 12-07
-      distance: 5
-      state: disabled
-    - date: 12-08
-      distance: 8
-      state: disabled
-    - date: 12-09
-      distance: 3
-      state: disabled
-    - date: 12-10
-      distance: 0
-      state: disabled
-    - date: 12-11
-      distance: 0
-      state: disabled
-    - date: 12-12
-      distance: 42.195
-      state: disabled
+# - race: 2021-12-12 Guangzhou Marathon
+#   icon: lock
+#   weeks:
 
 - race: 2021-2022 Winter Training
   icon: running
@@ -80,17 +36,17 @@
       distance: 0
       state: olive
     - date: 11-09
-      distance: 6
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-10
-      distance: 15
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-11
-      distance: 8
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-12
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-13
       distance: 30
       state: disabled
@@ -139,6 +95,50 @@
       distance: 0
       state: disabled
     - date: 11-28
+      distance: 42.195
+      state: disabled
+  - days:
+    - date: 11-29
+      distance: 0
+      state: disabled
+    - date: 11-30
+      distance: 0
+      state: disabled
+    - date: 12-01
+      distance: 3
+      state: disabled
+    - date: 12-02
+      distance: 3
+      state: disabled
+    - date: 12-03
+      distance: 0
+      state: disabled
+    - date: 12-04
+      distance: 5
+      state: disabled
+    - date: 12-05
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-06
+      distance: 0
+      state: disabled
+    - date: 12-07
+      distance: 5
+      state: disabled
+    - date: 12-08
+      distance: 8
+      state: disabled
+    - date: 12-09
+      distance: 3
+      state: disabled
+    - date: 12-10
+      distance: 0
+      state: disabled
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
       distance: 42.195
       state: disabled
 
