@@ -80,11 +80,11 @@
       distance: 0
       state: olive
     - date: 11-23
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-24
-      distance: 8
-      state: disabled
+      distance: 5
+      state: olive
     - date: 11-25
       distance: 3
       state: disabled
