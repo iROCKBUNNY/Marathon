@@ -191,20 +191,42 @@
       state: olive
     - date: 12-28
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-30
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-31
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-01
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-02
+      distance: 0
+      state: olive
+  - days:
+    - date: 01-03
+      distance: 0
+      state: olive
+    - date: 01-04
+      distance: 0
+      state: disabled
+    - date: 01-05
+      distance: 0
+      state: disabled
+    - date: 01-06
+      distance: 0
+      state: disabled
+    - date: 01-07
+      distance: 0
+      state: disabled
+    - date: 01-08
+      distance: 0
+      state: disabled
+    - date: 01-09
       distance: 0
       state: disabled
 
