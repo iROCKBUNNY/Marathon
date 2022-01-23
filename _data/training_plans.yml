@@ -7,7 +7,7 @@
 #   weeks:
 
 - race: 2022-03-20 Wuxi/Chongqing Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 01-24
@@ -187,7 +187,7 @@
       state: disabled
 
 - race: 2021-2022 Winter Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 11-01
@@ -443,16 +443,16 @@
       state: olive
     - date: 01-20
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-23
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2021 Autumn Training
   icon: clipboard check
