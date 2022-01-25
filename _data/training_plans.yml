@@ -12,10 +12,10 @@
   - days:
     - date: 01-24
       distance: 0
-      state: disabled
+      state: green
     - date: 01-25
       distance: 5
-      state: disabled
+      state: green
     - date: 01-26
       distance: 5
       state: disabled
