@@ -18,7 +18,7 @@
       state: green
     - date: 01-26
       distance: 5
-      state: disabled
+      state: green
     - date: 01-27
       distance: 5
       state: disabled
