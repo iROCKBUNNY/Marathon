@@ -26,15 +26,15 @@
       distance: 0
       state: green
     - date: 01-29
-      distance: 10
-      state: disabled
-    - date: 01-30
       distance: 0
-      state: disabled
+      state: orange
+    - date: 01-30
+      distance: 10
+      state: orange
   - days:
     - date: 01-31
       distance: 0
-      state: disabled
+      state: green
     - date: 02-01
       distance: 5
       state: disabled
