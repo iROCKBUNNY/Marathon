@@ -48,11 +48,11 @@
       distance: 0
       state: green
     - date: 02-05
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 02-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-07
       distance: 0
