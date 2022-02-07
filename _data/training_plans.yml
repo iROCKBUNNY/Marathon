@@ -55,8 +55,8 @@
       state: green
   - days:
     - date: 02-07
-      distance: 0
-      state: disabled
+      distance: 8
+      state: orange
     - date: 02-08
       distance: 5
       state: disabled
