@@ -65,10 +65,10 @@
       state: green
     - date: 02-10
       distance: 5
-      state: disabled
+      state: green
     - date: 02-11
       distance: 0
-      state: disabled
+      state: green
     - date: 02-12
       distance: 15
       state: disabled
