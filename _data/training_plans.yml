@@ -71,10 +71,10 @@
       state: green
     - date: 02-12
       distance: 15
-      state: disabled
+      state: green
     - date: 02-13
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-14
       distance: 0
