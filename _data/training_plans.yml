@@ -103,7 +103,7 @@
       state: green
     - date: 02-22
       distance: 6
-      state: disabled
+      state: green
     - date: 02-23
       distance: 12
       state: disabled
