@@ -6,7 +6,77 @@
 #   icon: lock
 #   weeks:
 
-- race: 2022-03-20 Wuxi/Chongqing Marathon
+- race: 2022-04-10 Chongqing Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 03-21
+      distance: 0
+      state: disabled
+    - date: 03-22
+      distance: 6
+      state: disabled
+    - date: 03-23
+      distance: 15
+      state: disabled
+    - date: 03-24
+      distance: 8
+      state: disabled
+    - date: 03-25
+      distance: 0
+      state: disabled
+    - date: 03-26
+      distance: 30
+      state: disabled
+    - date: 03-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 03-28
+      distance: 0
+      state: disabled
+    - date: 03-29
+      distance: 8
+      state: disabled
+    - date: 03-30
+      distance: 15
+      state: disabled
+    - date: 03-31
+      distance: 8
+      state: disabled
+    - date: 04-01
+      distance: 0
+      state: disabled
+    - date: 04-02
+      distance: 15
+      state: disabled
+    - date: 04-03
+      distance: 0
+      state: disabled
+  - days:
+    - date: 04-04
+      distance: 0
+      state: disabled
+    - date: 04-05
+      distance: 5
+      state: disabled
+    - date: 04-06
+      distance: 8
+      state: disabled
+    - date: 04-07
+      distance: 3
+      state: disabled
+    - date: 04-08
+      distance: 0
+      state: disabled
+    - date: 04-09
+      distance: 0
+      state: disabled
+    - date: 04-10
+      distance: 42.195
+      state: disabled
+
+- race: 2022-03-20 Wuxi Marathon
   icon: running
   weeks:
   - days:
@@ -109,10 +179,10 @@
       state: green
     - date: 02-24
       distance: 6
-      state: disabled
+      state: green
     - date: 02-25
       distance: 0
-      state: disabled
+      state: green
     - date: 02-26
       distance: 25
       state: disabled
