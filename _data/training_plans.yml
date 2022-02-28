@@ -126,7 +126,7 @@
   - days:
     - date: 02-28
       distance: 10.55
-      state: disabled
+      state: green
     - date: 03-01
       distance: 0
       state: disabled
