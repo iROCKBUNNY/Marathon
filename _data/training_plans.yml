@@ -129,21 +129,21 @@
       state: green
     - date: 03-01
       distance: 0
-      state: disabled
+      state: green
     - date: 03-02
-      distance: 10.55
-      state: disabled
+      distance: 3
+      state: green
     - date: 03-03
-      distance: 0
+      distance: 10.55
       state: disabled
     - date: 03-04
-      distance: 10.55
-      state: disabled
-    - date: 03-05
       distance: 0
       state: disabled
+    - date: 03-05
+      distance: 15
+      state: disabled
     - date: 03-06
-      distance: 10.55
+      distance: 0
       state: disabled
   - days:
     - date: 03-07
