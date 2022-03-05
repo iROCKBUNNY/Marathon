@@ -188,11 +188,11 @@
       distance: 0
       state: green
     - date: 03-05
-      distance: 15
-      state: disabled
+      distance: 10.55
+      state: green
     - date: 03-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-07
       distance: 0
