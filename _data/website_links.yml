@@ -12,8 +12,8 @@
     url: https://www.chinamarathonmajors.com.cn/
     flag: cn
 
-  - name: IAAF Label Road Races
-    url: https://www.iaaf.org/competitions/iaaf-label-road-races
+  - name: World Athletics Label Road Races
+    url: https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results
     flag: mc
 
   - name: AIMS Calendar
