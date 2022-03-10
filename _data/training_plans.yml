@@ -201,11 +201,11 @@
       distance: 5
       state: green
     - date: 03-09
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-10
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-11
       distance: 0
       state: disabled
