@@ -208,13 +208,13 @@
       state: orange
     - date: 03-11
       distance: 0
-      state: disabled
+      state: green
     - date: 03-12
-      distance: 21
-      state: disabled
-    - date: 03-13
       distance: 0
-      state: disabled
+      state: orange
+    - date: 03-13
+      distance: 5
+      state: orange
   - days:
     - date: 03-14
       distance: 0
