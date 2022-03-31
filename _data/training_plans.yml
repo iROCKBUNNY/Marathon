@@ -217,10 +217,10 @@
       state: green
     - date: 03-29
       distance: 6
-      state: disabled
+      state: green
     - date: 03-30
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-31
       distance: 6
       state: disabled
