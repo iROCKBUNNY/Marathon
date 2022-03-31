@@ -223,7 +223,7 @@
       state: orange
     - date: 03-31
       distance: 6
-      state: disabled
+      state: green
     - date: 04-01
       distance: 0
       state: disabled
