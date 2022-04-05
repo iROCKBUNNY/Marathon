@@ -226,20 +226,20 @@
       state: green
     - date: 04-01
       distance: 0
-      state: disabled
+      state: green
     - date: 04-02
-      distance: 25
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-03
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-04
       distance: 0
-      state: disabled
+      state: green
     - date: 04-05
       distance: 6
-      state: disabled
+      state: green
     - date: 04-06
       distance: 15
       state: disabled
