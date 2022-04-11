@@ -109,38 +109,38 @@
 - race: Zhengkai Marathon
   type: full
   results:
-  - date: 2022-04-23
-    bib_number:
-    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
-    personal_best: false
-    check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+  # - date: 2022-04-23
+  #   bib_number:
+  #   shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+  #   personal_best: false
+  #   check_points:
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
+  #   - net: "0:00:00"
+  #     segment: "00:00"
+  #     state: disabled
   - date: 2021-04-18
     bib_number: C30576
     shoes: ASICS GEL-NIMBUS 22 LITE
