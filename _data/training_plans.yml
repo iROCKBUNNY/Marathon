@@ -248,17 +248,17 @@
       state: green
     - date: 04-08
       distance: 0
-      state: orange
+      state: green
     - date: 04-09
-      distance: 30
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-10
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-11
       distance: 0
-      state: disabled
+      state: green
     - date: 04-12
       distance: 8
       state: disabled
