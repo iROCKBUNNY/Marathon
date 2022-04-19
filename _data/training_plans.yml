@@ -270,23 +270,23 @@
       state: olive
     - date: 04-15
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-16
-      distance: 15
-      state: disabled
+      distance: 0
+      state: olive
     - date: 04-17
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 04-18
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 04-19
-      distance: 8
-      state: disabled
+      distance: 5
+      state: olive
     - date: 04-20
-      distance: 3
-      state: disabled
+      distance: 0
+      state: olive
     - date: 04-21
       distance: 0
       state: disabled
