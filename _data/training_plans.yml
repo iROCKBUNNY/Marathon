@@ -22,19 +22,19 @@
       state: olive
     - date: 04-27
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-28
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 04-30
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-01
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
   - days:
     - date: 05-02
       distance: 0
