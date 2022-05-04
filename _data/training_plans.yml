@@ -38,13 +38,13 @@
   - days:
     - date: 05-02
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-03
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-04
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 05-05
       distance: 0
       state: disabled
