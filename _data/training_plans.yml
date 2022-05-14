@@ -63,19 +63,19 @@
       state: olive
     - date: 05-10
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-11
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-12
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
     - date: 05-13
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-14
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-15
       distance: 0
       state: disabled
