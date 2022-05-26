@@ -104,16 +104,16 @@
   - days:
     - date: 05-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-24
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-26
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 05-27
       distance: 0
       state: disabled
