@@ -170,13 +170,13 @@
   - days:
     - date: 06-13
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-14
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-15
-      distance: 0
-      state: disabled
+      distance: 2
+      state: olive
     - date: 06-16
       distance: 0
       state: disabled
