@@ -179,23 +179,23 @@
       state: olive
     - date: 06-16
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-17
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-18
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-19
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 06-20
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-22
       distance: 0
       state: disabled
