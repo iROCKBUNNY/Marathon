@@ -198,23 +198,23 @@
       state: olive
     - date: 06-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-24
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-26
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 06-27
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-28
       distance: 0
       state: disabled
