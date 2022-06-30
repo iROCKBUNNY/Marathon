@@ -219,11 +219,11 @@
       distance: 5
       state: olive
     - date: 06-29
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-30
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 07-01
       distance: 0
       state: disabled
