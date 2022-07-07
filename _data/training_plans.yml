@@ -718,8 +718,8 @@
       distance: 5
       state: olive
     - date: 07-07
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 07-08
       distance: 0
       state: disabled
