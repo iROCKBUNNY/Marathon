@@ -310,10 +310,10 @@
   - days:
     - date: 07-18
       distance: 0
-      state: disabled
+      state: green
     - date: 07-19
       distance: 5
-      state: disabled
+      state: green
     - date: 07-20
       distance: 5
       state: disabled
