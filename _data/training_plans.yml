@@ -332,10 +332,10 @@
   - days:
     - date: 07-25
       distance: 0
-      state: disabled
+      state: green
     - date: 07-26
       distance: 5
-      state: disabled
+      state: green
     - date: 07-27
       distance: 6
       state: disabled
