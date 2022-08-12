@@ -379,16 +379,16 @@
       state: green
     - date: 08-09
       distance: 5
-      state: disabled
+      state: green
     - date: 08-10
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-11
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-12
       distance: 0
-      state: disabled
+      state: green
     - date: 08-13
       distance: 21
       state: disabled
