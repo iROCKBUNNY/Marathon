@@ -425,8 +425,8 @@
       distance: 8
       state: orange
     - date: 08-24
-      distance: 15
-      state: disabled
+      distance: 10
+      state: orange
     - date: 08-25
       distance: 8
       state: disabled
