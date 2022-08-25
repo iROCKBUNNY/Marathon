@@ -429,10 +429,10 @@
       state: orange
     - date: 08-25
       distance: 8
-      state: disabled
+      state: green
     - date: 08-26
       distance: 0
-      state: disabled
+      state: green
     - date: 08-27
       distance: 30
       state: disabled
