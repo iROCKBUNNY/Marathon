@@ -444,11 +444,11 @@
       distance: 0
       state: green
     - date: 08-30
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-31
-      distance: 15
-      state: disabled
+      distance: 5
+      state: orange
     - date: 09-01
       distance: 8
       state: disabled
