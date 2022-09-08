@@ -469,11 +469,11 @@
       distance: 5
       state: green
     - date: 09-07
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-08
-      distance: 3
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-09
       distance: 0
       state: disabled
