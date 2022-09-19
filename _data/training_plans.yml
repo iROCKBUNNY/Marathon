@@ -124,31 +124,31 @@
       distance: 42.195
       state: disabled
 
-- race: 2022-11-06 Hangzhou/Xian Marathon
+- race: 2022-11-06 Hangzhou/Xian/Wuxi Marathon
   icon: running
   weeks:
   - days:
     - date: 09-12
       distance: 0
-      state: disabled
+      state: green
     - date: 09-13
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-14
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-15
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-16
       distance: 0
-      state: disabled
+      state: green
     - date: 09-17
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-18
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-19
       distance: 0
@@ -446,7 +446,7 @@
     - date: 08-30
       distance: 0
       state: orange
-    - date: 09-31
+    - date: 08-31
       distance: 5
       state: orange
     - date: 09-01
