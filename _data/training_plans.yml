@@ -167,10 +167,10 @@
       state: green
     - date: 09-24
       distance: 8
-      state: disabled
+      state: green
     - date: 09-25
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-26
       distance: 0
