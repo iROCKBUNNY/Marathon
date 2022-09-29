@@ -183,10 +183,10 @@
       state: green
     - date: 09-29
       distance: 5
-      state: disabled
+      state: green
     - date: 09-30
       distance: 0
-      state: disabled
+      state: green
     - date: 10-01
       distance: 15
       state: disabled
