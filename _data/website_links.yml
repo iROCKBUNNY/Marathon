@@ -58,10 +58,6 @@
     url: http://www.wuhanmarathon.org/
     flag: cn
 
-  - name: Wuxi Marathon
-    url: http://wuximarathon.com/
-    flag: cn
-
   - name: Guangzhou Marathon
     url: http://www.guangzhou-marathon.com/
     flag: cn
@@ -100,6 +96,10 @@
 
   - name: Nanjing Marathon
     url: http://www.nj-marathon.org/
+    flag: cn
+
+  - name: Wuxi Marathon
+    url: http://wuximarathon.com/
     flag: cn
 
   - name: Shaoxing Marathon
