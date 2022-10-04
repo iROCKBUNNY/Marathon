@@ -202,8 +202,8 @@
       distance: 5
       state: orange
     - date: 10-04
-      distance: 5
-      state: disabled
+      distance: 10
+      state: orange
     - date: 10-05
       distance: 10
       state: disabled
