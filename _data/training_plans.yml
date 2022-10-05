@@ -205,11 +205,11 @@
       distance: 10
       state: orange
     - date: 10-05
-      distance: 10
-      state: disabled
-    - date: 10-06
       distance: 5
-      state: disabled
+      state: orange
+    - date: 10-06
+      distance: 0
+      state: orange
     - date: 10-07
       distance: 0
       state: disabled
