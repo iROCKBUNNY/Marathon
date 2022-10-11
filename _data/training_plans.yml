@@ -225,7 +225,7 @@
       state: green
     - date: 10-11
       distance: 6
-      state: disabled
+      state: green
     - date: 10-12
       distance: 12
       state: disabled
