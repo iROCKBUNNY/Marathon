@@ -231,10 +231,10 @@
       state: green
     - date: 10-13
       distance: 6
-      state: disabled
+      state: green
     - date: 10-14
       distance: 0
-      state: disabled
+      state: green
     - date: 10-15
       distance: 25
       state: disabled
