@@ -280,15 +280,15 @@
       distance: 0
       state: green
     - date: 10-29
-      distance: 15
-      state: disabled
+      distance: 30
+      state: orange
     - date: 10-30
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-31
       distance: 0
-      state: disabled
+      state: green
     - date: 11-01
       distance: 5
       state: disabled
