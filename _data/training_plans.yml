@@ -291,7 +291,7 @@
       state: green
     - date: 11-01
       distance: 5
-      state: disabled
+      state: green
     - date: 11-02
       distance: 8
       state: disabled
