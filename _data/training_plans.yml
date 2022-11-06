@@ -81,12 +81,12 @@
       state: disabled
 
 - race: 2022-11-20 Hangzhou Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 11-07
       distance: 0
-      state: disabled
+      state: green
     - date: 11-08
       distance: 0
       state: disabled
@@ -129,7 +129,7 @@
       state: disabled
 
 - race: 2022-11-06 Beijing Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 09-12
@@ -297,16 +297,16 @@
       state: green
     - date: 11-03
       distance: 3
-      state: disabled
+      state: green
     - date: 11-04
       distance: 0
-      state: disabled
+      state: green
     - date: 11-05
       distance: 0
-      state: disabled
+      state: green
     - date: 11-06
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2022-09-11 Taiyuan Marathon Training
   icon: clipboard check
