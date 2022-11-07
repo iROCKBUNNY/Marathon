@@ -150,33 +150,33 @@
     shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:37:56"
+      segment: "37:56"
+      state: negative
+    - net: "1:15:05"
+      segment: "37:09"
+      state: negative
+    - net: "1:54:04"
+      segment: "38:59"
+      state: negative
+    - net: "2:32:29"
+      segment: "38:25"
+      state: negative
+    - net: "3:11:50"
+      segment: "39:21"
+      state: negative
+    - net: "3:50:57"
+      segment: "39:07"
+      state: negative
+    - net: "4:32:45"
+      segment: "41:48"
+      state: negative
+    - net: "5:11:54"
+      segment: "39:09"
+      state: positive
     - net: "5:29:13"
-      segment: "00:00"
-      state: disabled
+      segment: "17:19"
+      state: negative
   - date: 2018-09-16
     bib_number: E2034
     shoes: ASICS GEL-NIMBUS 20
