@@ -41,8 +41,8 @@
       state: olive
   - days:
     - date: 11-14
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
     - date: 11-15
       distance: 5
       state: disabled
