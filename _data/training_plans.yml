@@ -44,11 +44,11 @@
       distance: 3
       state: olive
     - date: 11-15
-      distance: 5
-      state: disabled
+      distance: 0
+      state: olive
     - date: 11-16
-      distance: 8
-      state: disabled
+      distance: 5
+      state: olive
     - date: 11-17
       distance: 3
       state: disabled
