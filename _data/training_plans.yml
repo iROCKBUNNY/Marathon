@@ -64,7 +64,7 @@
   - days:
     - date: 11-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 11-22
       distance: 0
       state: disabled
