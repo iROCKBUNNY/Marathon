@@ -120,12 +120,34 @@
       state: olive
     - date: 12-09
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-10
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-11
-      distance: 42.195
+      distance: 0
+      state: olive
+  - days:
+    - date: 12-12
+      distance: 0
+      state: olive
+    - date: 12-13
+      distance: 0
+      state: olive
+    - date: 12-14
+      distance: 5
+      state: olive
+    - date: 12-15
+      distance: 0
+      state: disabled
+    - date: 12-16
+      distance: 0
+      state: disabled
+    - date: 12-17
+      distance: 0
+      state: disabled
+    - date: 12-18
+      distance: 0
       state: disabled
 
 - race: 2022-11-06 Beijing Marathon
