@@ -152,7 +152,7 @@
   - days:
     - date: 12-19
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-20
       distance: 5
       state: olive
@@ -161,14 +161,36 @@
       state: olive
     - date: 12-22
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-23
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-24
       distance: 0
-      state: disabled
+      state: olive
     - date: 12-25
+      distance: 0
+      state: olive
+  - days:
+    - date: 12-26
+      distance: 0
+      state: olive
+    - date: 12-27
+      distance: 0
+      state: olive
+    - date: 12-28
+      distance: 0
+      state: olive
+    - date: 12-29
+      distance: 0
+      state: olive
+    - date: 12-30
+      distance: 3
+      state: olive
+    - date: 12-31
+      distance: 0
+      state: disabled
+    - date: 01-01
       distance: 0
       state: disabled
 
