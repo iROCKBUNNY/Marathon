@@ -182,32 +182,32 @@
   - days:
     - date: 01-23
       distance: 0
-      state: disabled
+      state: green
     - date: 01-24
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-25
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-26
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-27
       distance: 0
-      state: disabled
+      state: green
     - date: 01-28
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 01-29
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 01-30
       distance: 0
-      state: disabled
+      state: green
     - date: 01-31
       distance: 5
-      state: disabled
+      state: green
     - date: 02-01
       distance: 6
       state: disabled
