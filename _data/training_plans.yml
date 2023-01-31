@@ -597,10 +597,10 @@
       state: olive
     - date: 01-21
       distance: 0
-      state: disabled
+      state: olive
     - date: 01-22
       distance: 0
-      state: disabled
+      state: olive
 
 - race: 2022-11-06 Beijing Marathon
   icon: medal
