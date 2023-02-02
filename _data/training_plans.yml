@@ -14,44 +14,40 @@
 #   icon: lock
 #   weeks:
 
-- race: 2023-04-16 Zhengkai Marathon
+- race: 2023-04-16 Zhengkai/Wuhan Marathon
   icon: lock
   weeks:
   - days:
-    - date: 04-10
+    - date: 03-13
       distance: 0
       state: disabled
-    - date: 04-11
+    - date: 03-14
+      distance: 5
+      state: disabled
+    - date: 03-15
+      distance: 5
+      state: disabled
+    - date: 03-16
+      distance: 5
+      state: disabled
+    - date: 03-17
       distance: 0
       state: disabled
-    - date: 04-12
-      distance: 8
+    - date: 03-18
+      distance: 10
       state: disabled
-    - date: 04-13
-      distance: 3
-      state: disabled
-    - date: 04-14
+    - date: 03-19
       distance: 0
       state: disabled
-    - date: 04-15
-      distance: 0
-      state: disabled
-    - date: 04-16
-      distance: 42.195
-      state: disabled
-
-- race: 2023-04-09 Wuhan Marathon
-  icon: lock
-  weeks:
   - days:
     - date: 03-20
       distance: 0
       state: disabled
     - date: 03-21
-      distance: 0
+      distance: 5
       state: disabled
     - date: 03-22
-      distance: 5
+      distance: 6
       state: disabled
     - date: 03-23
       distance: 5
@@ -60,9 +56,31 @@
       distance: 0
       state: disabled
     - date: 03-25
-      distance: 10
+      distance: 8
       state: disabled
     - date: 03-26
+      distance: 0
+      state: disabled
+  - days:
+    - date: 03-13
+      distance: 0
+      state: disabled
+    - date: 03-14
+      distance: 5
+      state: disabled
+    - date: 03-15
+      distance: 8
+      state: disabled
+    - date: 03-16
+      distance: 5
+      state: disabled
+    - date: 03-17
+      distance: 0
+      state: disabled
+    - date: 03-18
+      distance: 15
+      state: disabled
+    - date: 03-19
       distance: 0
       state: disabled
   - days:
@@ -88,28 +106,6 @@
       distance: 0
       state: disabled
   - days:
-    - date: 03-13
-      distance: 0
-      state: disabled
-    - date: 03-14
-      distance: 6
-      state: disabled
-    - date: 03-15
-      distance: 12
-      state: disabled
-    - date: 03-16
-      distance: 6
-      state: disabled
-    - date: 03-17
-      distance: 0
-      state: disabled
-    - date: 03-18
-      distance: 25
-      state: disabled
-    - date: 03-19
-      distance: 0
-      state: disabled
-  - days:
     - date: 03-20
       distance: 0
       state: disabled
@@ -117,16 +113,16 @@
       distance: 6
       state: disabled
     - date: 03-22
-      distance: 15
+      distance: 12
       state: disabled
     - date: 03-23
-      distance: 8
+      distance: 6
       state: disabled
     - date: 03-24
       distance: 0
       state: disabled
     - date: 03-25
-      distance: 30
+      distance: 25
       state: disabled
     - date: 03-26
       distance: 0
@@ -136,7 +132,7 @@
       distance: 0
       state: disabled
     - date: 03-28
-      distance: 8
+      distance: 6
       state: disabled
     - date: 03-29
       distance: 15
@@ -148,7 +144,7 @@
       distance: 0
       state: disabled
     - date: 04-01
-      distance: 15
+      distance: 30
       state: disabled
     - date: 04-02
       distance: 0
@@ -158,59 +154,59 @@
       distance: 0
       state: disabled
     - date: 04-04
-      distance: 5
-      state: disabled
-    - date: 04-05
       distance: 8
       state: disabled
+    - date: 04-05
+      distance: 15
+      state: disabled
     - date: 04-06
-      distance: 3
+      distance: 8
       state: disabled
     - date: 04-07
       distance: 0
       state: disabled
     - date: 04-08
-      distance: 0
+      distance: 15
       state: disabled
     - date: 04-09
+      distance: 0
+      state: disabled
+  - days:
+    - date: 04-10
+      distance: 0
+      state: disabled
+    - date: 04-11
+      distance: 0
+      state: disabled
+    - date: 04-12
+      distance: 8
+      state: disabled
+    - date: 04-13
+      distance: 3
+      state: disabled
+    - date: 04-14
+      distance: 0
+      state: disabled
+    - date: 04-15
+      distance: 0
+      state: disabled
+    - date: 04-16
       distance: 42.195
       state: disabled
 
-- race: 2023-03-19 Wuxi/Chongqing Marathon
-  icon: lock
+- race: 2023 Spring Training
+  icon: running
   weeks:
-  - days:
-    - date: 01-23
-      distance: 0
-      state: green
-    - date: 01-24
-      distance: 0
-      state: orange
-    - date: 01-25
-      distance: 0
-      state: orange
-    - date: 01-26
-      distance: 0
-      state: orange
-    - date: 01-27
-      distance: 0
-      state: green
-    - date: 01-28
-      distance: 0
-      state: orange
-    - date: 01-29
-      distance: 0
-      state: green
   - days:
     - date: 01-30
       distance: 0
-      state: green
+      state: olive
     - date: 01-31
       distance: 5
-      state: green
+      state: olive
     - date: 02-01
       distance: 6
-      state: green
+      state: olive
     - date: 02-02
       distance: 5
       state: disabled
@@ -333,31 +329,9 @@
     - date: 03-12
       distance: 0
       state: disabled
-  - days:
-    - date: 03-13
-      distance: 0
-      state: disabled
-    - date: 03-14
-      distance: 5
-      state: disabled
-    - date: 03-15
-      distance: 8
-      state: disabled
-    - date: 03-16
-      distance: 3
-      state: disabled
-    - date: 03-17
-      distance: 0
-      state: disabled
-    - date: 03-18
-      distance: 0
-      state: disabled
-    - date: 03-19
-      distance: 42.195
-      state: disabled
 
 - race: 2022-2023 Winter Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 11-07
@@ -555,50 +529,6 @@
       distance: 0
       state: olive
     - date: 01-08
-      distance: 0
-      state: olive
-  - days:
-    - date: 01-09
-      distance: 0
-      state: olive
-    - date: 01-10
-      distance: 0
-      state: olive
-    - date: 01-11
-      distance: 0
-      state: olive
-    - date: 01-12
-      distance: 0
-      state: olive
-    - date: 01-13
-      distance: 0
-      state: olive
-    - date: 01-14
-      distance: 0
-      state: olive
-    - date: 01-15
-      distance: 0
-      state: olive
-  - days:
-    - date: 01-16
-      distance: 0
-      state: olive
-    - date: 01-17
-      distance: 0
-      state: olive
-    - date: 01-18
-      distance: 0
-      state: olive
-    - date: 01-19
-      distance: 0
-      state: olive
-    - date: 01-20
-      distance: 0
-      state: olive
-    - date: 01-21
-      distance: 0
-      state: olive
-    - date: 01-22
       distance: 0
       state: olive
 
