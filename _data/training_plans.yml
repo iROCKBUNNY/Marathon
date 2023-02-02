@@ -536,28 +536,6 @@
   icon: medal
   weeks:
   - days:
-    - date: 09-12
-      distance: 0
-      state: green
-    - date: 09-13
-      distance: 0
-      state: orange
-    - date: 09-14
-      distance: 0
-      state: orange
-    - date: 09-15
-      distance: 0
-      state: orange
-    - date: 09-16
-      distance: 0
-      state: green
-    - date: 09-17
-      distance: 0
-      state: orange
-    - date: 09-18
-      distance: 0
-      state: green
-  - days:
     - date: 09-19
       distance: 0
       state: green
@@ -1453,28 +1431,6 @@
 - race: 2021-2022 Winter Training
   icon: clipboard check
   weeks:
-  - days:
-    - date: 11-01
-      distance: 0
-      state: olive
-    - date: 11-02
-      distance: 0
-      state: olive
-    - date: 11-03
-      distance: 0
-      state: olive
-    - date: 11-04
-      distance: 0
-      state: olive
-    - date: 11-05
-      distance: 0
-      state: olive
-    - date: 11-06
-      distance: 0
-      state: olive
-    - date: 11-07
-      distance: 0
-      state: olive
   - days:
     - date: 11-08
       distance: 0
