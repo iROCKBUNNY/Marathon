@@ -110,36 +110,14 @@
   icon: lock
   weeks:
   - days:
-    - date: 03-13
-      distance: 0
-      state: disabled
-    - date: 03-14
-      distance: 5
-      state: disabled
-    - date: 03-15
-      distance: 5
-      state: disabled
-    - date: 03-16
-      distance: 5
-      state: disabled
-    - date: 03-17
-      distance: 0
-      state: disabled
-    - date: 03-18
-      distance: 10
-      state: disabled
-    - date: 03-19
-      distance: 0
-      state: disabled
-  - days:
     - date: 03-20
       distance: 0
       state: disabled
     - date: 03-21
-      distance: 5
+      distance: 0
       state: disabled
     - date: 03-22
-      distance: 6
+      distance: 5
       state: disabled
     - date: 03-23
       distance: 5
@@ -148,7 +126,7 @@
       distance: 0
       state: disabled
     - date: 03-25
-      distance: 8
+      distance: 10
       state: disabled
     - date: 03-26
       distance: 0
@@ -286,22 +264,22 @@
       distance: 42.195
       state: disabled
 
-- race: 2023 Spring Training
+- race: 2023-03-19 Chongqing Marathon
   icon: running
   weeks:
   - days:
     - date: 01-30
       distance: 0
-      state: olive
+      state: green
     - date: 01-31
       distance: 5
-      state: olive
+      state: green
     - date: 02-01
       distance: 6
-      state: olive
+      state: green
     - date: 02-02
       distance: 0
-      state: olive
+      state: orange
     - date: 02-03
       distance: 5
       state: disabled
@@ -420,6 +398,28 @@
       state: disabled
     - date: 03-12
       distance: 0
+      state: disabled
+  - days:
+    - date: 03-13
+      distance: 0
+      state: disabled
+    - date: 03-14
+      distance: 5
+      state: disabled
+    - date: 03-15
+      distance: 8
+      state: disabled
+    - date: 03-16
+      distance: 3
+      state: disabled
+    - date: 03-17
+      distance: 0
+      state: disabled
+    - date: 03-18
+      distance: 0
+      state: disabled
+    - date: 03-19
+      distance: 42.195
       state: disabled
 
 - race: 2022-2023 Winter Training
