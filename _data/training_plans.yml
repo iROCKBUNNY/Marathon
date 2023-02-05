@@ -288,11 +288,11 @@
       state: orange
     - date: 02-05
       distance: 8
-      state: disabled
+      state: orange
   - days:
     - date: 02-06
       distance: 0
-      state: disabled
+      state: green
     - date: 02-07
       distance: 5
       state: disabled
