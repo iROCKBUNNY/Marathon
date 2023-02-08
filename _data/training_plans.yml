@@ -298,7 +298,7 @@
       state: green
     - date: 02-08
       distance: 8
-      state: disabled
+      state: green
     - date: 02-09
       distance: 5
       state: disabled
