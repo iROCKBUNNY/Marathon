@@ -328,11 +328,11 @@
       distance: 0
       state: green
     - date: 02-18
-      distance: 21
-      state: disabled
+      distance: 0
+      state: orange
     - date: 02-19
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-20
       distance: 0
