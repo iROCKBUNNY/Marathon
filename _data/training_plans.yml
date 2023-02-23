@@ -341,11 +341,11 @@
       distance: 12
       state: orange
     - date: 02-22
-      distance: 12
-      state: disabled
-    - date: 02-23
       distance: 6
-      state: disabled
+      state: orange
+    - date: 02-23
+      distance: 0
+      state: orange
     - date: 02-24
       distance: 0
       state: disabled
