@@ -348,7 +348,7 @@
       state: orange
     - date: 02-24
       distance: 0
-      state: disabled
+      state: green
     - date: 02-25
       distance: 25
       state: disabled
