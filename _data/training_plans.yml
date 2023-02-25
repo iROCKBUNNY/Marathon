@@ -350,8 +350,8 @@
       distance: 0
       state: green
     - date: 02-25
-      distance: 25
-      state: disabled
+      distance: 10
+      state: orange
     - date: 02-26
       distance: 0
       state: disabled
