@@ -366,8 +366,8 @@
       distance: 10
       state: orange
     - date: 03-02
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-03
       distance: 0
       state: disabled
