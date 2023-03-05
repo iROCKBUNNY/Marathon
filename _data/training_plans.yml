@@ -370,13 +370,13 @@
       state: orange
     - date: 03-03
       distance: 0
-      state: disabled
+      state: green
     - date: 03-04
-      distance: 30
-      state: disabled
-    - date: 03-05
       distance: 0
-      state: disabled
+      state: orange
+    - date: 03-05
+      distance: 11
+      state: orange
   - days:
     - date: 03-06
       distance: 0
