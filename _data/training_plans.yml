@@ -341,17 +341,17 @@
       distance: 5
       state: green
     - date: 03-15
-      distance: 8
-      state: disabled
+      distance: 10
+      state: orange
     - date: 03-16
-      distance: 3
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-17
       distance: 0
-      state: disabled
+      state: green
     - date: 03-18
       distance: 0
-      state: disabled
+      state: green
     - date: 03-19
       distance: 42.195
       state: disabled
