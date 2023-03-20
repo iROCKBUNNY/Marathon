@@ -106,13 +106,13 @@
       distance: 42.195
       state: disabled
 
-- race: 2023-04-16 Zhengkai/Wuhan Marathon
-  icon: lock
+- race: 2023-04-16 Zhengkai Marathon
+  icon: running
   weeks:
   - days:
     - date: 03-20
       distance: 0
-      state: disabled
+      state: green
     - date: 03-21
       distance: 0
       state: disabled
@@ -199,7 +199,7 @@
       state: disabled
 
 - race: 2023-03-19 Chongqing Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 01-30
@@ -354,7 +354,7 @@
       state: green
     - date: 03-19
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2022-2023 Winter Training
   icon: clipboard check
