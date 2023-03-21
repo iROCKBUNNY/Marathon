@@ -214,33 +214,33 @@
     shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:38:28"
+      segment: "38:28"
+      state: positive
+    - net: "1:14:17"
+      segment: "35:49"
+      state: positive
+    - net: "1:49:54"
+      segment: "35:37"
+      state: positive
+    - net: "2:26:15"
+      segment: "36:21"
+      state: positive
+    - net: "3:05:12"
+      segment: "38:57"
+      state: positive
+    - net: "3:47:23"
+      segment: "42:11"
+      state: positive
+    - net: "4:31:12"
+      segment: "43:49"
+      state: positive
+    - net: "5:17:56"
+      segment: "46:44"
+      state: positive
+    - net: "5:36:44"
+      segment: "18:48"
+      state: positive
 
 - race: Beijing Marathon
   type: full
