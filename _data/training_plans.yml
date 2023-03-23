@@ -120,8 +120,8 @@
       distance: 12
       state: disabled
     - date: 03-23
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-24
       distance: 0
       state: disabled
