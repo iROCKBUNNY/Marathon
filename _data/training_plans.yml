@@ -118,7 +118,7 @@
       state: green
     - date: 03-22
       distance: 12
-      state: disabled
+      state: green
     - date: 03-23
       distance: 0
       state: orange
@@ -130,11 +130,11 @@
       state: orange
     - date: 03-26
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-27
       distance: 0
-      state: disabled
+      state: green
     - date: 03-28
       distance: 6
       state: disabled
