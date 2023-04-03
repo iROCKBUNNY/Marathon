@@ -142,17 +142,17 @@
       distance: 15
       state: green
     - date: 03-30
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 03-31
       distance: 0
-      state: disabled
+      state: green
     - date: 04-01
-      distance: 30
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-02
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-03
       distance: 0
