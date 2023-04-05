@@ -155,14 +155,14 @@
       state: green
   - days:
     - date: 04-03
-      distance: 0
-      state: disabled
+      distance: 21
+      state: orange
     - date: 04-04
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-05
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-06
       distance: 8
       state: disabled
