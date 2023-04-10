@@ -174,11 +174,11 @@
       state: orange
     - date: 04-09
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-10
-      distance: 0
-      state: disabled
+      distance: 6
+      state: orange
     - date: 04-11
       distance: 5
       state: disabled
