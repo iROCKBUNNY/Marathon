@@ -180,20 +180,20 @@
       distance: 6
       state: orange
     - date: 04-11
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-12
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-13
-      distance: 3
-      state: disabled
+      distance: 5
+      state: orange
     - date: 04-14
       distance: 0
-      state: disabled
+      state: green
     - date: 04-15
       distance: 0
-      state: disabled
+      state: green
     - date: 04-16
       distance: 42.195
       state: disabled
