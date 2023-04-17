@@ -15,12 +15,12 @@
 #   weeks:
 
 - race: 2023-05-14 Qinhuangdao Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 04-17
       distance: 0
-      state: disabled
+      state: green
     - date: 04-18
       distance: 0
       state: disabled
@@ -107,7 +107,7 @@
       state: disabled
 
 - race: 2023-04-16 Zhengkai Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 03-20
@@ -196,7 +196,7 @@
       state: green
     - date: 04-16
       distance: 42.195
-      state: disabled
+      state: green
 
 - race: 2023-03-19 Chongqing Marathon
   icon: medal
