@@ -304,7 +304,7 @@
       state: disabled
     - net: "5:38:43"
       segment: "00:00"
-      state: info
+      state: warning
   - date: 2021-04-18
     bib_number: C30576
     shoes: ASICS GEL-NIMBUS 22 LITE
