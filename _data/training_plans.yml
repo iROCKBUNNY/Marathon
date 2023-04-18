@@ -49,7 +49,7 @@
       state: green
     - date: 04-18
       distance: 0
-      state: disabled
+      state: green
     - date: 04-19
       distance: 12
       state: disabled

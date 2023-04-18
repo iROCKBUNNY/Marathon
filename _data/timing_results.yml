@@ -278,33 +278,33 @@
     shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:37:26"
+      segment: "37:26"
+      state: negative
+    - net: "1:16:09"
+      segment: "38:43"
+      state: negative
+    - net: "1:53:57"
+      segment: "37:48"
+      state: negative
+    - net: "2:32:02"
+      segment: "38:05"
+      state: negative
+    - net: "3:12:11"
+      segment: "40:09"
+      state: negative
+    - net: "3:51:58"
+      segment: "39:47"
+      state: positive
+    - net: "4:34:58"
+      segment: "43:00"
+      state: negative
+    - net: "5:19:41"
+      segment: "44:43"
+      state: negative
     - net: "5:38:43"
-      segment: "00:00"
-      state: warning
+      segment: "19:02"
+      state: negative
   - date: 2021-04-18
     bib_number: C30576
     shoes: ASICS GEL-NIMBUS 22 LITE
