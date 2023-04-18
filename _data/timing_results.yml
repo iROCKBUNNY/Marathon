@@ -106,6 +106,30 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Beijing Daxing Half Marathon
+  type: half
+  results:
+  - date: 2023-05-21
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Qinhuangdao Marathon
   type: full
   results:
