@@ -319,10 +319,10 @@
       state: negative
     - net: "3:51:58"
       segment: "39:47"
-      state: positive
+      state: negative
     - net: "4:34:58"
       segment: "43:00"
-      state: negative
+      state: positive
     - net: "5:19:41"
       segment: "44:43"
       state: negative
