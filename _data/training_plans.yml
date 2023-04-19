@@ -51,8 +51,8 @@
       distance: 0
       state: green
     - date: 04-19
-      distance: 12
-      state: disabled
+      distance: 7
+      state: orange
     - date: 04-20
       distance: 6
       state: disabled
