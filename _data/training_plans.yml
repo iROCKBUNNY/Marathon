@@ -60,8 +60,8 @@
       distance: 5
       state: orange
     - date: 04-22
-      distance: 25
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-23
       distance: 0
       state: disabled
