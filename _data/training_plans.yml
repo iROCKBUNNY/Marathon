@@ -68,10 +68,10 @@
   - days:
     - date: 04-24
       distance: 0
-      state: disabled
+      state: green
     - date: 04-25
       distance: 6
-      state: disabled
+      state: green
     - date: 04-26
       distance: 15
       state: disabled
