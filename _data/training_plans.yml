@@ -77,10 +77,10 @@
       state: green
     - date: 04-27
       distance: 8
-      state: disabled
+      state: green
     - date: 04-28
       distance: 0
-      state: disabled
+      state: green
     - date: 04-29
       distance: 30
       state: disabled
