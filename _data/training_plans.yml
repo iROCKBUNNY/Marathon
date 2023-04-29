@@ -82,11 +82,11 @@
       distance: 0
       state: green
     - date: 04-29
-      distance: 30
-      state: disabled
+      distance: 0
+      state: orange
     - date: 04-30
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 05-01
       distance: 0
