@@ -90,7 +90,7 @@
   - days:
     - date: 05-01
       distance: 0
-      state: disabled
+      state: green
     - date: 05-02
       distance: 8
       state: disabled
