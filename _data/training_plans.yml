@@ -92,11 +92,11 @@
       distance: 0
       state: green
     - date: 05-02
-      distance: 8
-      state: disabled
+      distance: 30
+      state: orange
     - date: 05-03
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 05-04
       distance: 8
       state: disabled
