@@ -98,8 +98,8 @@
       distance: 0
       state: orange
     - date: 05-04
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 05-05
       distance: 0
       state: disabled
