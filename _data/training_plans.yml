@@ -394,25 +394,25 @@
   icon: lock
   weeks:
   - days:
-    - date: 05-08
+    - date: 05-15
       distance: 0
       state: disabled
-    - date: 05-09
+    - date: 05-16
       distance: 0
       state: disabled
-    - date: 05-10
+    - date: 05-17
       distance: 5
       state: disabled
-    - date: 05-11
+    - date: 05-18
       distance: 10
       state: disabled
-    - date: 05-12
+    - date: 05-19
       distance: 5
       state: disabled
-    - date: 05-13
+    - date: 05-20
       distance: 0
       state: disabled
-    - date: 05-14
+    - date: 05-21
       distance: 21.0975
       state: disabled
 
