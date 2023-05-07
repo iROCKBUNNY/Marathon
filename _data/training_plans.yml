@@ -770,11 +770,11 @@
       distance: 8
       state: orange
     - date: 05-06
-      distance: 15
-      state: disabled
+      distance: 10
+      state: orange
     - date: 05-07
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 05-08
       distance: 0
