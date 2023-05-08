@@ -778,7 +778,7 @@
   - days:
     - date: 05-08
       distance: 0
-      state: disabled
+      state: green
     - date: 05-09
       distance: 5
       state: disabled
