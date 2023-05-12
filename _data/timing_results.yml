@@ -110,8 +110,8 @@
   type: half
   results:
   - date: 2023-05-21
-    bib_number:
-    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    bib_number: A2103
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
     - net: "0:00:00"
