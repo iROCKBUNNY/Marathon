@@ -686,7 +686,7 @@
   - days:
     - date: 05-15
       distance: 0
-      state: disabled
+      state: green
     - date: 05-16
       distance: 0
       state: disabled
