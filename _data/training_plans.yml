@@ -688,8 +688,8 @@
       distance: 0
       state: green
     - date: 05-16
-      distance: 5
-      state: disabled
+      distance: 0
+      state: green
     - date: 05-17
       distance: 10
       state: disabled
