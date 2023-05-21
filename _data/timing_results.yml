@@ -111,24 +111,24 @@
   results:
   - date: 2023-05-21
     bib_number: A2103
-    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    shoes: UNDER ARMOUR HOVR Sonic
     personal_best: false
     check_points:
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
+      state: positive
+    - net: "2:23:39"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Qinhuangdao Marathon
   type: full
