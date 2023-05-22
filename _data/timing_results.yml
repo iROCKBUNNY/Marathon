@@ -114,20 +114,20 @@
     shoes: UNDER ARMOUR HOVR Sonic
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "0:34:06"
+      segment: "34:06"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:07:53"
+      segment: "33:47"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:40:33"
+      segment: "32:40"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "2:16:35"
+      segment: "36:02"
       state: positive
     - net: "2:23:39"
-      segment: "00:00"
+      segment: "07:04"
       state: positive
 
 - race: Qinhuangdao Marathon
