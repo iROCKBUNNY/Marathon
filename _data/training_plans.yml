@@ -399,7 +399,7 @@
       state: green
     - date: 05-23
       distance: 0
-      state: disabled
+      state: green
     - date: 05-24
       distance: 0
       state: disabled
