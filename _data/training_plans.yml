@@ -405,16 +405,16 @@
       state: olive
     - date: 05-25
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-26
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-27
       distance: 0
-      state: disabled
+      state: olive
     - date: 05-28
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
   - days:
     - date: 05-29
       distance: 0
