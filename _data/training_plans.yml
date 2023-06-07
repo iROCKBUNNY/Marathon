@@ -439,14 +439,14 @@
       state: olive
   - days:
     - date: 06-05
-      distance: 0
-      state: disabled
+      distance: 10
+      state: olive
     - date: 06-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-07
-      distance: 0
-      state: disabled
+      distance: 5
+      state: olive
     - date: 06-08
       distance: 0
       state: disabled
