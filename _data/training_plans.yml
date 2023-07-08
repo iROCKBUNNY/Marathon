@@ -502,48 +502,48 @@
       state: olive
     - date: 06-25
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 06-26
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-27
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-28
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-29
       distance: 0
-      state: disabled
+      state: olive
     - date: 06-30
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-01
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-02
       distance: 0
-      state: disabled
+      state: olive
   - days:
     - date: 07-03
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-04
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-05
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-06
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-07
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-08
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
     - date: 07-09
       distance: 0
       state: disabled
