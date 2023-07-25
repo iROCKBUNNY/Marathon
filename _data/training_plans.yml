@@ -598,10 +598,10 @@
   - days:
     - date: 07-24
       distance: 0
-      state: disabled
+      state: olive
     - date: 07-25
-      distance: 0
-      state: disabled
+      distance: 3
+      state: olive
     - date: 07-26
       distance: 0
       state: disabled
