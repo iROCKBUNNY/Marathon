@@ -70,6 +70,10 @@
     url: http://www.cqmarathon.com/
     flag: cn
 
+  - name: Standard Chartered Hong Kong Marathon
+    url: https://www.hkmarathon.com/
+    flag: hk
+
 - name: Race Website Links (participated, archived)
   websites:
   - name: Xiamen Marathon
@@ -79,10 +83,6 @@
   - name: Zhengzhou Yanhuang Marathon
     url: http://zzmarathon.com/
     flag: cn
-
-  - name: Standard Chartered Hong Kong Marathon
-    url: https://www.hkmarathon.com/
-    flag: hk
 
 - name: Race Website Links (scheduled)
   websites:

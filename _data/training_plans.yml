@@ -14,6 +14,142 @@
 #   icon: lock
 #   weeks:
 
+- race: 2024-01-21 Hong Kong Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
+      distance: 0
+      state: disabled
+    - date: 12-13
+      distance: 8
+      state: disabled
+    - date: 12-14
+      distance: 5
+      state: disabled
+    - date: 12-15
+      distance: 0
+      state: disabled
+    - date: 12-16
+      distance: 15
+      state: disabled
+    - date: 12-17
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-18
+      distance: 0
+      state: disabled
+    - date: 12-19
+      distance: 5
+      state: disabled
+    - date: 12-20
+      distance: 10
+      state: disabled
+    - date: 12-21
+      distance: 5
+      state: disabled
+    - date: 12-22
+      distance: 0
+      state: disabled
+    - date: 12-23
+      distance: 21
+      state: disabled
+    - date: 12-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-25
+      distance: 0
+      state: disabled
+    - date: 12-26
+      distance: 6
+      state: disabled
+    - date: 12-27
+      distance: 12
+      state: disabled
+    - date: 12-28
+      distance: 6
+      state: disabled
+    - date: 12-29
+      distance: 0
+      state: disabled
+    - date: 12-30
+      distance: 25
+      state: disabled
+    - date: 12-31
+      distance: 0
+      state: disabled
+  - days:
+    - date: 01-01
+      distance: 0
+      state: disabled
+    - date: 01-02
+      distance: 6
+      state: disabled
+    - date: 01-03
+      distance: 15
+      state: disabled
+    - date: 01-04
+      distance: 8
+      state: disabled
+    - date: 01-05
+      distance: 0
+      state: disabled
+    - date: 01-06
+      distance: 30
+      state: disabled
+    - date: 01-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 01-08
+      distance: 0
+      state: disabled
+    - date: 01-09
+      distance: 8
+      state: disabled
+    - date: 01-10
+      distance: 15
+      state: disabled
+    - date: 01-11
+      distance: 8
+      state: disabled
+    - date: 01-12
+      distance: 0
+      state: disabled
+    - date: 01-13
+      distance: 15
+      state: disabled
+    - date: 01-14
+      distance: 0
+      state: disabled
+  - days:
+    - date: 01-15
+      distance: 0
+      state: disabled
+    - date: 01-16
+      distance: 5
+      state: disabled
+    - date: 01-17
+      distance: 8
+      state: disabled
+    - date: 01-18
+      distance: 3
+      state: disabled
+    - date: 01-19
+      distance: 0
+      state: disabled
+    - date: 01-20
+      distance: 0
+      state: disabled
+    - date: 01-21
+      distance: 42.195
+      state: disabled
+
 - race: 2023-12-10 Guangzhou Marathon
   icon: lock
   weeks:
