@@ -454,7 +454,7 @@
       state: green
     - date: 08-02
       distance: 6
-      state: disabled
+      state: green
     - date: 08-03
       distance: 5
       state: disabled
