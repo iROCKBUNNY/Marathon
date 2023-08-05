@@ -456,14 +456,14 @@
       distance: 6
       state: green
     - date: 08-03
-      distance: 5
-      state: disabled
+      distance: 3
+      state: orange
     - date: 08-04
       distance: 0
-      state: disabled
+      state: green
     - date: 08-05
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-06
       distance: 0
       state: disabled
