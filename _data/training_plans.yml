@@ -466,11 +466,11 @@
       state: orange
     - date: 08-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-07
       distance: 0
-      state: disabled
+      state: green
     - date: 08-08
       distance: 5
       state: disabled
