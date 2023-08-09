@@ -475,8 +475,8 @@
       distance: 5
       state: green
     - date: 08-09
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-10
       distance: 5
       state: disabled
