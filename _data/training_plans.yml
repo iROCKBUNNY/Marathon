@@ -478,11 +478,11 @@
       distance: 0
       state: orange
     - date: 08-10
-      distance: 5
-      state: disabled
+      distance: 8
+      state: orange
     - date: 08-11
       distance: 0
-      state: disabled
+      state: green
     - date: 08-12
       distance: 15
       state: disabled
