@@ -488,36 +488,36 @@
       state: orange
     - date: 08-13
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-14
       distance: 0
-      state: disabled
+      state: green
     - date: 08-15
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-16
-      distance: 10
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-17
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-18
       distance: 0
-      state: disabled
+      state: green
     - date: 08-19
-      distance: 21
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-20
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-21
       distance: 0
-      state: disabled
+      state: green
     - date: 08-22
-      distance: 6
-      state: disabled
+      distance: 3
+      state: orange
     - date: 08-23
       distance: 12
       state: disabled
