@@ -118,6 +118,10 @@
     url: http://www.xa42195.com/
     flag: cn
 
+  - name: Hong Kong Street Marathon
+    url: https://streetathon.com/
+    flag: hk
+
 - name: Race Website Links
   websites:
   - name: Lanzhou Marathon
