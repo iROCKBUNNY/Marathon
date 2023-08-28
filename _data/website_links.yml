@@ -110,9 +110,9 @@
     url: http://sxym.org.cn/
     flag: cn
 
-  - name: Yellow River Marathon
-    url: http://www.zhongyuan-sports.com/Gxty/detail/id/477.html
-    flag: cn
+  # - name: Yellow River Marathon
+  #   url: http://www.zhongyuan-sports.com/Gxty/detail/id/477.html
+  #   flag: cn
 
   - name: Xiongan Marathon
     url: http://www.xa42195.com/
