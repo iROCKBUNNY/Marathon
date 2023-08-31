@@ -387,11 +387,11 @@
       distance: 5
       state: green
     - date: 08-30
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 08-31
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-01
       distance: 0
       state: disabled
