@@ -51,7 +51,7 @@
     flag: cn
 
   - name: Xian Marathon
-    url: http://www.qjty-xian.com/
+    url: http://xi-ma.com/
     flag: cn
 
   - name: Taiyuan Marathon
@@ -93,6 +93,10 @@
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
+
+  - name: Tianjin Marathon
+    url: https://mp.weixin.qq.com/s/4ZqtXeCdWp-QTFBMAT8_2A
+    flag: cn
 
   - name: Shanghai Marathon
     url: https://www.shang-ma.com/
