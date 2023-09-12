@@ -425,7 +425,7 @@
       state: green
     - date: 09-12
       distance: 5
-      state: disabled
+      state: green
     - date: 09-13
       distance: 10
       state: disabled
