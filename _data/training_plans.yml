@@ -324,9 +324,31 @@
       distance: 42.195
       state: disabled
 
-- race: 2023-10-29 Zhengzhou Marathon
+- race: 2023-10-29 Zhengzhou/Xian Marathon
   icon: lock
   weeks:
+  - days:
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 8
+      state: disabled
+    - date: 10-18
+      distance: 15
+      state: disabled
+    - date: 10-19
+      distance: 8
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+    - date: 10-21
+      distance: 15
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
   - days:
     - date: 10-23
       distance: 0
@@ -347,32 +369,6 @@
       distance: 0
       state: disabled
     - date: 10-29
-      distance: 42.195
-      state: disabled
-
-- race: 2023-10-22 Xian Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 10-16
-      distance: 0
-      state: disabled
-    - date: 10-17
-      distance: 5
-      state: disabled
-    - date: 10-18
-      distance: 8
-      state: disabled
-    - date: 10-19
-      distance: 3
-      state: disabled
-    - date: 10-20
-      distance: 0
-      state: disabled
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
       distance: 42.195
       state: disabled
 
