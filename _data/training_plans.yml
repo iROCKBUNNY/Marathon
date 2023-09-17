@@ -436,15 +436,15 @@
       distance: 0
       state: green
     - date: 09-16
-      distance: 21
-      state: disabled
-    - date: 09-17
       distance: 0
-      state: disabled
+      state: orange
+    - date: 09-17
+      distance: 12
+      state: orange
   - days:
     - date: 09-18
       distance: 0
-      state: disabled
+      state: green
     - date: 09-19
       distance: 6
       state: disabled
