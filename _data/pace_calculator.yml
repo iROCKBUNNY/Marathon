@@ -13,6 +13,6 @@ distances:
 
 default:
   hour: 5
-  minute: 0
+  minute: 30
   second: 0
   distance: 42.195
