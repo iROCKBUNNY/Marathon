@@ -449,8 +449,8 @@
       distance: 6
       state: green
     - date: 09-20
-      distance: 12
-      state: disabled
+      distance: 0
+      state: orange
     - date: 09-21
       distance: 6
       state: disabled
