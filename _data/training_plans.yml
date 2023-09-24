@@ -325,12 +325,12 @@
       state: disabled
 
 - race: 2023-10-29 Zhengzhou Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 09-25
       distance: 0
-      state: disabled
+      state: green
     - date: 09-26
       distance: 5
       state: disabled
@@ -439,7 +439,7 @@
       state: disabled
 
 - race: 2023-10-15 Tianjin Marathon Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 08-28
@@ -527,8 +527,8 @@
       distance: 0
       state: orange
     - date: 09-24
-      distance: 15
-      state: disabled
+      distance: 0
+      state: green
 
 - race: 2023 Summer Training
   icon: clipboard check
