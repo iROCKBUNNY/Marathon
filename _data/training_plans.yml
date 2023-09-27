@@ -332,11 +332,11 @@
       distance: 0
       state: green
     - date: 09-26
-      distance: 5
-      state: disabled
+      distance: 6
+      state: orange
     - date: 09-27
-      distance: 10
-      state: disabled
+      distance: 3
+      state: orange
     - date: 09-28
       distance: 5
       state: disabled
