@@ -14,6 +14,32 @@
 #   icon: lock
 #   weeks:
 
+# - race: 2023-12-17 Hong Kong Street Marathon
+#   icon: lock
+#   weeks:
+#   - days:
+#     - date: 12-11
+#       distance: 0
+#       state: disabled
+#     - date: 12-12
+#       distance: 0
+#       state: disabled
+#     - date: 12-13
+#       distance: 8
+#       state: disabled
+#     - date: 12-14
+#       distance: 3
+#       state: disabled
+#     - date: 12-15
+#       distance: 0
+#       state: disabled
+#     - date: 12-16
+#       distance: 0
+#       state: disabled
+#     - date: 12-17
+#       distance: 42.195
+#       state: disabled
+
 - race: 2024-01-21 Hong Kong Marathon
   icon: lock
   weeks:
@@ -149,32 +175,6 @@
     - date: 01-21
       distance: 42.195
       state: disabled
-
-# - race: 2023-12-17 Hong Kong Street Marathon
-#   icon: lock
-#   weeks:
-#   - days:
-#     - date: 12-11
-#       distance: 0
-#       state: disabled
-#     - date: 12-12
-#       distance: 0
-#       state: disabled
-#     - date: 12-13
-#       distance: 8
-#       state: disabled
-#     - date: 12-14
-#       distance: 3
-#       state: disabled
-#     - date: 12-15
-#       distance: 0
-#       state: disabled
-#     - date: 12-16
-#       distance: 0
-#       state: disabled
-#     - date: 12-17
-#       distance: 42.195
-#       state: disabled
 
 - race: 2023-12-10 Guangzhou Marathon
   icon: lock
@@ -325,74 +325,8 @@
       state: disabled
 
 - race: 2023-10-29 Zhengzhou Marathon
-  icon: running
+  icon: lock
   weeks:
-  - days:
-    - date: 09-25
-      distance: 0
-      state: green
-    - date: 09-26
-      distance: 6
-      state: orange
-    - date: 09-27
-      distance: 3
-      state: orange
-    - date: 09-28
-      distance: 5
-      state: disabled
-    - date: 09-29
-      distance: 0
-      state: disabled
-    - date: 09-30
-      distance: 21
-      state: disabled
-    - date: 10-01
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-02
-      distance: 0
-      state: disabled
-    - date: 10-03
-      distance: 6
-      state: disabled
-    - date: 10-04
-      distance: 12
-      state: disabled
-    - date: 10-05
-      distance: 6
-      state: disabled
-    - date: 10-06
-      distance: 0
-      state: disabled
-    - date: 10-07
-      distance: 25
-      state: disabled
-    - date: 10-08
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-09
-      distance: 0
-      state: disabled
-    - date: 10-10
-      distance: 6
-      state: disabled
-    - date: 10-11
-      distance: 15
-      state: disabled
-    - date: 10-12
-      distance: 8
-      state: disabled
-    - date: 10-13
-      distance: 0
-      state: disabled
-    - date: 10-14
-      distance: 30
-      state: disabled
-    - date: 10-15
-      distance: 0
-      state: disabled
   - days:
     - date: 10-16
       distance: 0
@@ -438,8 +372,8 @@
       distance: 42.195
       state: disabled
 
-- race: 2023-10-15 Tianjin Marathon Training
-  icon: clipboard check
+- race: 2023-10-15 Tianjin Marathon
+  icon: running
   weeks:
   - days:
     - date: 08-28
@@ -529,6 +463,72 @@
     - date: 09-24
       distance: 0
       state: green
+  - days:
+    - date: 09-25
+      distance: 0
+      state: green
+    - date: 09-26
+      distance: 6
+      state: orange
+    - date: 09-27
+      distance: 3
+      state: orange
+    - date: 09-28
+      distance: 0
+      state: orange
+    - date: 09-29
+      distance: 0
+      state: disabled
+    - date: 09-30
+      distance: 30
+      state: disabled
+    - date: 10-01
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-02
+      distance: 0
+      state: disabled
+    - date: 10-03
+      distance: 8
+      state: disabled
+    - date: 10-04
+      distance: 15
+      state: disabled
+    - date: 10-05
+      distance: 8
+      state: disabled
+    - date: 10-06
+      distance: 0
+      state: disabled
+    - date: 10-07
+      distance: 15
+      state: disabled
+    - date: 10-08
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-09
+      distance: 0
+      state: disabled
+    - date: 10-10
+      distance: 5
+      state: disabled
+    - date: 10-11
+      distance: 8
+      state: disabled
+    - date: 10-12
+      distance: 3
+      state: disabled
+    - date: 10-13
+      distance: 0
+      state: disabled
+    - date: 10-14
+      distance: 30
+      state: disabled
+    - date: 10-15
+      distance: 42.195
+      state: disabled
 
 - race: 2023 Summer Training
   icon: clipboard check
