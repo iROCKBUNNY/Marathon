@@ -478,13 +478,13 @@
       state: orange
     - date: 09-29
       distance: 0
-      state: disabled
+      state: green
     - date: 09-30
-      distance: 30
-      state: disabled
-    - date: 10-01
       distance: 0
-      state: disabled
+      state: orange
+    - date: 10-01
+      distance: 15
+      state: orange
   - days:
     - date: 10-02
       distance: 0
