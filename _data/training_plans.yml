@@ -502,7 +502,7 @@
       state: orange
     - date: 10-08
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-09
       distance: 0
