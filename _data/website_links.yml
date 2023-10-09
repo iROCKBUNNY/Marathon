@@ -46,6 +46,10 @@
     url: http://www.qhd-marathon.com/
     flag: cn
 
+  - name: Tianjin Marathon
+    url: http://www.tianjin-marathon.com/
+    flag: cn
+
   - name: Hangzhou Marathon
     url: http://www.hzim.org/
     flag: cn
@@ -93,10 +97,6 @@
   - name: Tokyo Marathon
     url: https://www.marathon.tokyo/
     flag: jp
-
-  - name: Tianjin Marathon
-    url: http://www.tianjin-marathon.com/
-    flag: cn
 
   - name: Shanghai Marathon
     url: https://www.shang-ma.com/
