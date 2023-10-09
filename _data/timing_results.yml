@@ -106,6 +106,74 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Hong Kong Marathon
+  type: full
+  results:
+  - date: 2024-01-21
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2019-02-17
+    bib_number: B7610
+    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "*:**:**"
+      segment: "**:**"
+      state: positive
+    - net: "1:18:04"
+      segment: "**:**"
+      state: positive
+    - net: "1:52:42"
+      segment: "34:38"
+      state: positive
+    - net: "2:28:25"
+      segment: "35:43"
+      state: positive
+    - net: "3:00:22"
+      segment: "31:57"
+      state: positive
+    - net: "3:38:30"
+      segment: "38:08"
+      state: positive
+    - net: "4:13:09"
+      segment: "34:39"
+      state: positive
+    - net: "4:50:23"
+      segment: "37:14"
+      state: positive
+    - net: "5:04:46"
+      segment: "14:23"
+      state: positive
+
 - race: Hangzhou Marathon
   type: full
   results:
@@ -241,6 +309,42 @@
     - net: "5:59:08"
       segment: "24:07"
       state: positive
+
+- race: Tianjin Marathon
+  type: full
+  results:
+  - date: 2023-10-15
+    bib_number: B3097
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
 
 - race: Beijing Daxing Half Marathon
   type: half
@@ -796,42 +900,6 @@
       state: positive
     - net: "1:56:39"
       segment: "05:19"
-      state: positive
-
-- race: Hong Kong Marathon
-  type: full
-  results:
-  - date: 2019-02-17
-    bib_number: B7610
-    shoes: ASICS GEL-KAYANO 25 LITE-SHOW
-    personal_best: false
-    check_points:
-    - net: "*:**:**"
-      segment: "**:**"
-      state: positive
-    - net: "1:18:04"
-      segment: "**:**"
-      state: positive
-    - net: "1:52:42"
-      segment: "34:38"
-      state: positive
-    - net: "2:28:25"
-      segment: "35:43"
-      state: positive
-    - net: "3:00:22"
-      segment: "31:57"
-      state: positive
-    - net: "3:38:30"
-      segment: "38:08"
-      state: positive
-    - net: "4:13:09"
-      segment: "34:39"
-      state: positive
-    - net: "4:50:23"
-      segment: "37:14"
-      state: positive
-    - net: "5:04:46"
-      segment: "14:23"
       state: positive
 
 - race: Xiamen Marathon
