@@ -508,8 +508,8 @@
       distance: 8
       state: orange
     - date: 10-10
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-11
       distance: 8
       state: disabled
