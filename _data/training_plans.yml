@@ -518,10 +518,10 @@
       state: orange
     - date: 10-13
       distance: 0
-      state: disabled
+      state: green
     - date: 10-14
       distance: 0
-      state: disabled
+      state: green
     - date: 10-15
       distance: 42.195
       state: disabled
