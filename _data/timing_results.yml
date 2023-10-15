@@ -320,31 +320,31 @@
     check_points:
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
+      state: positive
+    - net: "5:44:35"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Beijing Daxing Half Marathon
   type: half
