@@ -318,32 +318,32 @@
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "0:37:37"
+      segment: "37:37"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:13:59"
+      segment: "36:22"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:49:46"
+      segment: "35:47"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "2:28:13"
+      segment: "38:27"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "3:08:26"
+      segment: "40:13"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "3:53:35"
+      segment: "45:09"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "4:40:06"
+      segment: "46:31"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "5:27:23"
+      segment: "47:17"
       state: positive
     - net: "5:44:35"
-      segment: "00:00"
+      segment: "17:12"
       state: positive
 
 - race: Beijing Daxing Half Marathon
