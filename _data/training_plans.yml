@@ -347,11 +347,11 @@
       state: orange
   - days:
     - date: 10-23
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 10-24
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 10-25
       distance: 8
       state: disabled
