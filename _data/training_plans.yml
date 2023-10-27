@@ -158,7 +158,7 @@
       distance: 42.195
       state: disabled
 
-- race: 2023-11-19 Hangzhou Marathon
+- race: 2023-12-17 Hangzhou Marathon
   icon: lock
   weeks:
   - days:
@@ -356,7 +356,7 @@
       state: orange
     - date: 10-27
       distance: 0
-      state: disabled
+      state: green
     - date: 10-28
       distance: 0
       state: disabled
