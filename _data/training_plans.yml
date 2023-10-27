@@ -92,94 +92,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 11-20
-      distance: 0
-      state: disabled
-    - date: 11-21
-      distance: 5
-      state: disabled
-    - date: 11-22
-      distance: 6
-      state: disabled
-    - date: 11-23
-      distance: 5
-      state: disabled
-    - date: 11-24
-      distance: 0
-      state: disabled
-    - date: 11-25
-      distance: 8
-      state: disabled
-    - date: 11-26
-      distance: 0
-      state: disabled
-  - days:
-    - date: 11-27
-      distance: 0
-      state: disabled
-    - date: 11-28
-      distance: 5
-      state: disabled
-    - date: 11-29
-      distance: 8
-      state: disabled
-    - date: 11-30
-      distance: 5
-      state: disabled
-    - date: 12-01
-      distance: 0
-      state: disabled
-    - date: 12-02
-      distance: 15
-      state: disabled
-    - date: 12-03
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-04
-      distance: 0
-      state: disabled
-    - date: 12-05
-      distance: 5
-      state: disabled
-    - date: 12-06
-      distance: 10
-      state: disabled
-    - date: 12-07
-      distance: 5
-      state: disabled
-    - date: 12-08
-      distance: 0
-      state: disabled
-    - date: 12-09
-      distance: 21
-      state: disabled
-    - date: 12-10
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-11
-      distance: 0
-      state: disabled
-    - date: 12-12
-      distance: 6
-      state: disabled
-    - date: 12-13
-      distance: 12
-      state: disabled
-    - date: 12-14
-      distance: 6
-      state: disabled
-    - date: 12-15
-      distance: 0
-      state: disabled
-    - date: 12-16
-      distance: 25
-      state: disabled
-    - date: 12-17
-      distance: 0
-      state: disabled
-  - days:
     - date: 12-18
       distance: 0
       state: disabled
@@ -254,19 +166,19 @@
       distance: 0
       state: disabled
     - date: 10-31
-      distance: 6
+      distance: 5
       state: disabled
     - date: 11-01
-      distance: 15
+      distance: 6
       state: disabled
     - date: 11-02
-      distance: 8
+      distance: 5
       state: disabled
     - date: 11-03
       distance: 0
       state: disabled
     - date: 11-04
-      distance: 30
+      distance: 8
       state: disabled
     - date: 11-05
       distance: 0
@@ -276,13 +188,13 @@
       distance: 0
       state: disabled
     - date: 11-07
-      distance: 0
+      distance: 5
       state: disabled
     - date: 11-08
-      distance: 15
+      distance: 8
       state: disabled
     - date: 11-09
-      distance: 8
+      distance: 5
       state: disabled
     - date: 11-10
       distance: 0
@@ -301,18 +213,106 @@
       distance: 5
       state: disabled
     - date: 11-15
-      distance: 8
+      distance: 10
       state: disabled
     - date: 11-16
-      distance: 3
+      distance: 5
       state: disabled
     - date: 11-17
       distance: 0
       state: disabled
     - date: 11-18
-      distance: 0
+      distance: 21
       state: disabled
     - date: 11-19
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-20
+      distance: 0
+      state: disabled
+    - date: 11-21
+      distance: 6
+      state: disabled
+    - date: 11-22
+      distance: 12
+      state: disabled
+    - date: 11-23
+      distance: 6
+      state: disabled
+    - date: 11-24
+      distance: 0
+      state: disabled
+    - date: 11-25
+      distance: 25
+      state: disabled
+    - date: 11-26
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-27
+      distance: 0
+      state: disabled
+    - date: 11-28
+      distance: 6
+      state: disabled
+    - date: 11-29
+      distance: 15
+      state: disabled
+    - date: 11-30
+      distance: 8
+      state: disabled
+    - date: 12-01
+      distance: 0
+      state: disabled
+    - date: 12-02
+      distance: 30
+      state: disabled
+    - date: 12-03
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-04
+      distance: 0
+      state: disabled
+    - date: 12-05
+      distance: 8
+      state: disabled
+    - date: 12-06
+      distance: 15
+      state: disabled
+    - date: 12-07
+      distance: 8
+      state: disabled
+    - date: 12-08
+      distance: 0
+      state: disabled
+    - date: 12-09
+      distance: 15
+      state: disabled
+    - date: 12-10
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
+      distance: 5
+      state: disabled
+    - date: 12-13
+      distance: 8
+      state: disabled
+    - date: 12-14
+      distance: 3
+      state: disabled
+    - date: 12-15
+      distance: 0
+      state: disabled
+    - date: 12-16
+      distance: 0
+      state: disabled
+    - date: 12-17
       distance: 42.195
       state: disabled
 
