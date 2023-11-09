@@ -186,16 +186,16 @@
   - days:
     - date: 11-06
       distance: 0
-      state: disabled
+      state: green
     - date: 11-07
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-08
-      distance: 8
-      state: disabled
+      distance: 3
+      state: orange
     - date: 11-09
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-10
       distance: 0
       state: disabled
