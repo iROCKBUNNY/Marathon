@@ -198,13 +198,13 @@
       state: orange
     - date: 11-10
       distance: 0
-      state: disabled
+      state: green
     - date: 11-11
-      distance: 15
-      state: disabled
-    - date: 11-12
       distance: 0
-      state: disabled
+      state: orange
+    - date: 11-12
+      distance: 15
+      state: orange
   - days:
     - date: 11-13
       distance: 0
