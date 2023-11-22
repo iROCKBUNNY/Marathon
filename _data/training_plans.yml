@@ -232,11 +232,11 @@
       distance: 0
       state: green
     - date: 11-21
-      distance: 6
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-22
       distance: 12
-      state: disabled
+      state: green
     - date: 11-23
       distance: 6
       state: disabled
