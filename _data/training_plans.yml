@@ -244,18 +244,18 @@
       distance: 0
       state: green
     - date: 11-25
-      distance: 25
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-26
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 11-27
       distance: 0
-      state: disabled
+      state: green
     - date: 11-28
       distance: 6
-      state: disabled
+      state: green
     - date: 11-29
       distance: 15
       state: disabled
