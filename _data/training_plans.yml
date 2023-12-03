@@ -257,20 +257,20 @@
       distance: 6
       state: green
     - date: 11-29
-      distance: 15
-      state: disabled
+      distance: 0
+      state: orange
     - date: 11-30
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 12-01
       distance: 0
-      state: disabled
+      state: green
     - date: 12-02
-      distance: 30
-      state: disabled
-    - date: 12-03
       distance: 0
-      state: disabled
+      state: orange
+    - date: 12-03
+      distance: 10
+      state: orange
   - days:
     - date: 12-04
       distance: 0
