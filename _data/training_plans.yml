@@ -288,11 +288,11 @@
       distance: 0
       state: green
     - date: 12-09
-      distance: 15
-      state: disabled
+      distance: 30
+      state: orange
     - date: 12-10
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 12-11
       distance: 0
