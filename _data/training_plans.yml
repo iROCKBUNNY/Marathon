@@ -298,11 +298,11 @@
       distance: 0
       state: green
     - date: 12-12
-      distance: 5
-      state: disabled
+      distance: 0
+      state: orange
     - date: 12-13
-      distance: 8
-      state: disabled
+      distance: 0
+      state: orange
     - date: 12-14
       distance: 3
       state: disabled
