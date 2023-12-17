@@ -206,9 +206,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "5:50:17"
       segment: "00:00"
-      state: disabled
+      state: negative
   - date: 2018-11-04
     bib_number: C11389
     shoes: ASICS GEL-KAYANO 25 LITE-SHOW
