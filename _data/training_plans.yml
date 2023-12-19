@@ -415,7 +415,7 @@
       distance: 0
       state: green
     - date: 12-20
-      distance: 15
+      distance: 10
       state: disabled
     - date: 12-21
       distance: 0
