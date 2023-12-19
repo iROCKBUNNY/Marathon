@@ -41,15 +41,15 @@
 #       state: disabled
 
 - race: 2024-01-21 Hong Kong Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 12-18
       distance: 0
-      state: disabled
+      state: green
     - date: 12-19
-      distance: 5
-      state: disabled
+      distance: 0
+      state: green
     - date: 12-20
       distance: 10
       state: disabled
@@ -153,7 +153,6 @@
     - date: 01-21
       distance: 42.195
       state: disabled
-
 
 - race: 2023-12-17 Hangzhou Marathon
   icon: medal
