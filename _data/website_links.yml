@@ -50,10 +50,6 @@
     url: http://www.tianjin-marathon.com/
     flag: cn
 
-  - name: Hangzhou Marathon
-    url: http://www.hzim.org/
-    flag: cn
-
   - name: Xian Marathon
     url: http://xi-ma.com/
     flag: cn
@@ -80,6 +76,10 @@
 
 - name: Race Website Links (participated, archived)
   websites:
+  - name: Hangzhou Marathon
+    url: http://www.hzim.org/
+    flag: cn
+
   - name: Xiamen Marathon
     url: http://www.xmim.org/
     flag: cn
