@@ -415,20 +415,20 @@
       distance: 0
       state: green
     - date: 12-20
-      distance: 10
-      state: disabled
+      distance: 0
+      state: green
     - date: 12-21
       distance: 0
-      state: disabled
+      state: green
     - date: 12-22
       distance: 0
-      state: disabled
+      state: green
     - date: 12-23
-      distance: 21
-      state: disabled
-    - date: 12-24
       distance: 0
-      state: disabled
+      state: green
+    - date: 12-24
+      distance: 5
+      state: orange
   - days:
     - date: 12-25
       distance: 0
