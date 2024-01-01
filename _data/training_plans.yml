@@ -432,29 +432,29 @@
   - days:
     - date: 12-25
       distance: 0
-      state: disabled
+      state: green
     - date: 12-26
       distance: 0
-      state: disabled
+      state: green
     - date: 12-27
-      distance: 12
-      state: disabled
+      distance: 0
+      state: green
     - date: 12-28
       distance: 0
-      state: disabled
+      state: green
     - date: 12-29
       distance: 0
-      state: disabled
+      state: green
     - date: 12-30
-      distance: 25
-      state: disabled
-    - date: 12-31
       distance: 0
-      state: disabled
+      state: green
+    - date: 12-31
+      distance: 5
+      state: orange
   - days:
     - date: 01-01
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 01-02
       distance: 0
       state: disabled
