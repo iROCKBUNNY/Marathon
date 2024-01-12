@@ -485,10 +485,10 @@
       state: orange
     - date: 01-11
       distance: 0
-      state: disabled
+      state: green
     - date: 01-12
       distance: 0
-      state: disabled
+      state: green
     - date: 01-13
       distance: 15
       state: disabled
