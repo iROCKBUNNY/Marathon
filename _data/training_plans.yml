@@ -490,11 +490,11 @@
       distance: 0
       state: green
     - date: 01-13
-      distance: 15
-      state: disabled
-    - date: 01-14
       distance: 0
-      state: disabled
+      state: green
+    - date: 01-14
+      distance: 12
+      state: orange
   - days:
     - date: 01-15
       distance: 0
