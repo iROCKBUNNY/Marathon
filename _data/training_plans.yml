@@ -498,7 +498,7 @@
   - days:
     - date: 01-15
       distance: 0
-      state: disabled
+      state: orange
     - date: 01-16
       distance: 10
       state: disabled
