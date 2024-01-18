@@ -180,32 +180,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 03-25
-      distance: 0
-      state: disabled
-    - date: 03-26
-      distance: 0
-      state: disabled
-    - date: 03-27
-      distance: 0
-      state: disabled
-    - date: 03-28
-      distance: 0
-      state: disabled
-    - date: 03-29
-      distance: 0
-      state: disabled
-    - date: 03-30
-      distance: 0
-      state: disabled
-    - date: 03-31
-      distance: 42.195
-      state: disabled
-
-- race: 2023-03-24 Chongqing Marathon
-  icon: lock
-  weeks:
-  - days:
     - date: 01-22
       distance: 0
       state: disabled
@@ -401,6 +375,28 @@
       distance: 0
       state: disabled
     - date: 03-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 03-25
+      distance: 0
+      state: disabled
+    - date: 03-26
+      distance: 0
+      state: disabled
+    - date: 03-27
+      distance: 0
+      state: disabled
+    - date: 03-28
+      distance: 0
+      state: disabled
+    - date: 03-29
+      distance: 0
+      state: disabled
+    - date: 03-30
+      distance: 0
+      state: disabled
+    - date: 03-31
       distance: 42.195
       state: disabled
 
