@@ -506,11 +506,11 @@
       distance: 10
       state: orange
     - date: 01-18
-      distance: 10
-      state: disabled
+      distance: 3
+      state: orange
     - date: 01-19
       distance: 0
-      state: disabled
+      state: green
     - date: 01-20
       distance: 0
       state: disabled
