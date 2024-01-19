@@ -509,7 +509,7 @@
       state: green
     - date: 01-20
       distance: 0
-      state: disabled
+      state: green
     - date: 01-21
       distance: 42.195
       state: disabled
