@@ -177,12 +177,12 @@
       state: disabled
 
 - race: 2024-03-31 Zhengkai Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 01-22
       distance: 0
-      state: disabled
+      state: green
     - date: 01-23
       distance: 0
       state: disabled
@@ -401,7 +401,7 @@
       state: disabled
 
 - race: 2024-01-21 Hong Kong Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 12-18
@@ -512,7 +512,7 @@
       state: green
     - date: 01-21
       distance: 42.195
-      state: disabled
+      state: orange
 
 - race: 2023-12-17 Hangzhou Marathon
   icon: medal
