@@ -185,10 +185,10 @@
       state: green
     - date: 01-23
       distance: 0
-      state: disabled
+      state: green
     - date: 01-24
       distance: 0
-      state: disabled
+      state: green
     - date: 01-25
       distance: 0
       state: disabled
