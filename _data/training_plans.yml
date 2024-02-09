@@ -232,13 +232,13 @@
       state: orange
     - date: 02-07
       distance: 0
-      state: disabled
+      state: green
     - date: 02-08
       distance: 0
-      state: disabled
+      state: green
     - date: 02-09
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 02-10
       distance: 0
       state: disabled
