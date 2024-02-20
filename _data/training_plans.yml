@@ -241,39 +241,39 @@
       state: orange
     - date: 02-10
       distance: 0
-      state: disabled
+      state: green
     - date: 02-11
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-12
       distance: 0
-      state: disabled
+      state: green
     - date: 02-13
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 02-14
       distance: 0
-      state: disabled
+      state: green
     - date: 02-15
       distance: 0
-      state: disabled
+      state: green
     - date: 02-16
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 02-17
       distance: 0
-      state: disabled
+      state: green
     - date: 02-18
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-19
       distance: 0
-      state: disabled
+      state: green
     - date: 02-20
       distance: 0
-      state: disabled
+      state: green
     - date: 02-21
       distance: 0
       state: disabled
