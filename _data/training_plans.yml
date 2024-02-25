@@ -276,19 +276,19 @@
       state: green
     - date: 02-21
       distance: 0
-      state: disabled
+      state: green
     - date: 02-22
       distance: 0
-      state: disabled
+      state: green
     - date: 02-23
       distance: 0
-      state: disabled
+      state: green
     - date: 02-24
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 02-25
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-26
       distance: 0
