@@ -476,22 +476,22 @@
       state: green
     - date: 02-27
       distance: 0
-      state: disabled
+      state: green
     - date: 02-28
-      distance: 0
-      state: disabled
+      distance: 1
+      state: orange
     - date: 02-29
       distance: 0
-      state: disabled
+      state: green
     - date: 03-01
-      distance: 0
-      state: disabled
+      distance: 1
+      state: orange
     - date: 03-02
       distance: 0
-      state: disabled
+      state: green
     - date: 03-03
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-04
       distance: 0
