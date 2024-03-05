@@ -106,6 +106,138 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Zhengkai Marathon
+  type: full
+  results:
+  - date: 2024-04-14
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2023-04-16
+    bib_number: B11206
+    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
+    personal_best: false
+    check_points:
+    - net: "0:37:26"
+      segment: "37:26"
+      state: negative
+    - net: "1:16:09"
+      segment: "38:43"
+      state: negative
+    - net: "1:53:57"
+      segment: "37:48"
+      state: negative
+    - net: "2:32:02"
+      segment: "38:05"
+      state: negative
+    - net: "3:12:11"
+      segment: "40:09"
+      state: negative
+    - net: "3:51:58"
+      segment: "39:47"
+      state: negative
+    - net: "4:34:58"
+      segment: "43:00"
+      state: positive
+    - net: "5:19:41"
+      segment: "44:43"
+      state: negative
+    - net: "5:38:43"
+      segment: "19:02"
+      state: negative
+  - date: 2021-04-18
+    bib_number: C30576
+    shoes: ASICS GEL-NIMBUS 22 LITE
+    personal_best: false
+    check_points:
+    - net: "0:29:48"
+      segment: "29:48"
+      state: negative
+    - net: "1:01:07"
+      segment: "31:19"
+      state: negative
+    - net: "1:32:25"
+      segment: "31:18"
+      state: negative
+    - net: "2:03:20"
+      segment: "30:55"
+      state: negative
+    - net: "2:36:32"
+      segment: "33:12"
+      state: negative
+    - net: "3:15:58"
+      segment: "39:26"
+      state: negative
+    - net: "4:02:10"
+      segment: "46:12"
+      state: negative
+    - net: "4:40:41"
+      segment: "38:31"
+      state: negative
+    - net: "4:56:45"
+      segment: "16:04"
+      state: negative
+  - date: 2019-03-31
+    bib_number: C2339
+    shoes: UNDER ARMOUR HOVR Sonic
+    personal_best: true
+    check_points:
+    - net: "0:29:12"
+      segment: "29:12"
+      state: positive
+    - net: "0:57:41"
+      segment: "28:29"
+      state: positive
+    - net: "1:26:13"
+      segment: "28:32"
+      state: positive
+    - net: "1:55:40"
+      segment: "29:27"
+      state: positive
+    - net: "2:25:28"
+      segment: "29:48"
+      state: positive
+    - net: "2:55:50"
+      segment: "30:22"
+      state: positive
+    - net: "3:32:04"
+      segment: "36:14"
+      state: positive
+    - net: "4:10:34"
+      segment: "38:30"
+      state: positive
+    - net: "4:25:35"
+      segment: "15:01"
+      state: positive
+
 - race: Hong Kong Marathon
   type: full
   results:
@@ -532,106 +664,6 @@
       state: positive
     - net: "5:47:45"
       segment: "13:15"
-      state: positive
-
-- race: Zhengkai Marathon
-  type: full
-  results:
-  - date: 2023-04-16
-    bib_number: B11206
-    shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
-    personal_best: false
-    check_points:
-    - net: "0:37:26"
-      segment: "37:26"
-      state: negative
-    - net: "1:16:09"
-      segment: "38:43"
-      state: negative
-    - net: "1:53:57"
-      segment: "37:48"
-      state: negative
-    - net: "2:32:02"
-      segment: "38:05"
-      state: negative
-    - net: "3:12:11"
-      segment: "40:09"
-      state: negative
-    - net: "3:51:58"
-      segment: "39:47"
-      state: negative
-    - net: "4:34:58"
-      segment: "43:00"
-      state: positive
-    - net: "5:19:41"
-      segment: "44:43"
-      state: negative
-    - net: "5:38:43"
-      segment: "19:02"
-      state: negative
-  - date: 2021-04-18
-    bib_number: C30576
-    shoes: ASICS GEL-NIMBUS 22 LITE
-    personal_best: false
-    check_points:
-    - net: "0:29:48"
-      segment: "29:48"
-      state: negative
-    - net: "1:01:07"
-      segment: "31:19"
-      state: negative
-    - net: "1:32:25"
-      segment: "31:18"
-      state: negative
-    - net: "2:03:20"
-      segment: "30:55"
-      state: negative
-    - net: "2:36:32"
-      segment: "33:12"
-      state: negative
-    - net: "3:15:58"
-      segment: "39:26"
-      state: negative
-    - net: "4:02:10"
-      segment: "46:12"
-      state: negative
-    - net: "4:40:41"
-      segment: "38:31"
-      state: negative
-    - net: "4:56:45"
-      segment: "16:04"
-      state: negative
-  - date: 2019-03-31
-    bib_number: C2339
-    shoes: UNDER ARMOUR HOVR Sonic
-    personal_best: true
-    check_points:
-    - net: "0:29:12"
-      segment: "29:12"
-      state: positive
-    - net: "0:57:41"
-      segment: "28:29"
-      state: positive
-    - net: "1:26:13"
-      segment: "28:32"
-      state: positive
-    - net: "1:55:40"
-      segment: "29:27"
-      state: positive
-    - net: "2:25:28"
-      segment: "29:48"
-      state: positive
-    - net: "2:55:50"
-      segment: "30:22"
-      state: positive
-    - net: "3:32:04"
-      segment: "36:14"
-      state: positive
-    - net: "4:10:34"
-      segment: "38:30"
-      state: positive
-    - net: "4:25:35"
-      segment: "15:01"
       state: positive
 
 - race: Chongqing Marathon
