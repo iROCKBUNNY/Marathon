@@ -559,13 +559,13 @@
       state: orange
     - date: 03-15
       distance: 0
-      state: disabled
+      state: green
     - date: 03-16
       distance: 0
-      state: disabled
+      state: green
     - date: 03-17
-      distance: 0
-      state: disabled
+      distance: 7
+      state: orange
   - days:
     - date: 03-18
       distance: 0
