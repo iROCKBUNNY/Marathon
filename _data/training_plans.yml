@@ -574,11 +574,11 @@
       distance: 8
       state: orange
     - date: 03-20
-      distance: 0
-      state: green
+      distance: 1
+      state: orange
     - date: 03-21
-      distance: 0
-      state: green
+      distance: 1
+      state: orange
     - date: 03-22
       distance: 0
       state: green
