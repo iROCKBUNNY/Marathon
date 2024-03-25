@@ -590,8 +590,8 @@
       state: orange
   - days:
     - date: 03-25
-      distance: 0
-      state: disabled
+      distance: 11
+      state: orange
     - date: 03-26
       distance: 0
       state: disabled
