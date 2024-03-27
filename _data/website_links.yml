@@ -39,8 +39,7 @@
     flag: cn
 
   - name: Zhengkai Marathon
-    # url: http://www.zkmarathon.com/
-    url: http://zkmls.zhongyuan-sports.com/
+    url: http://www.zkmarathon.com/
     flag: cn
 
   - name: Qinhuangdao Marathon
