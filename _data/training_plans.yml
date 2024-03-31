@@ -340,7 +340,7 @@
       state: disabled
 
 - race: 2024-04-14 Beijing Half Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 04-01
@@ -388,7 +388,7 @@
       state: disabled
 
 - race: 2024-03-31 Zhengkai Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 01-22
@@ -605,11 +605,11 @@
       distance: 0
       state: green
     - date: 03-30
-      distance: 0
-      state: green
+      distance: 3
+      state: orange
     - date: 03-31
       distance: 42.195
-      state: disabled
+      state: orange
 
 - race: 2024-01-21 Hong Kong Marathon
   icon: medal
