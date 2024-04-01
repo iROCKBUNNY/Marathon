@@ -109,37 +109,37 @@
 - race: Zhengkai Marathon
   type: full
   results:
-  - date: 2024-04-14
+  - date: 2024-03-31
     bib_number: C10886
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:35:04"
+      segment: "35:04"
+      state: positive
+    - net: "1:11:29"
+      segment: "36:25"
+      state: positive
+    - net: "1:50:24"
+      segment: "38:55"
+      state: negative
+    - net: "2:30:31"
+      segment: "40:07"
+      state: negative
+    - net: "3:09:34"
+      segment: "39:03"
+      state: positive
+    - net: "3:50:58"
+      segment: "41:24"
+      state: negative
+    - net: "4:30:15"
+      segment: "39:17"
+      state: positive
+    - net: "5:27:47"
+      segment: "57:32"
+      state: negative
     - net: "5:49:33"
-      segment: "00:00"
+      segment: "21:46"
       state: negative
   - date: 2023-04-16
     bib_number: B11206
