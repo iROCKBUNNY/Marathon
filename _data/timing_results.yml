@@ -140,7 +140,7 @@
       state: disabled
     - net: "5:49:33"
       segment: "00:00"
-      state: disabled
+      state: negative
   - date: 2023-04-16
     bib_number: B11206
     shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO

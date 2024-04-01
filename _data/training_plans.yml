@@ -221,33 +221,78 @@
       distance: 42.195
       state: disabled
 
-- race: 2024-05-19 Beijing Daxing Half Marathon
+  # - days:
+  #   - date: 05-13
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-14
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-15
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-16
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-17
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-18
+  #     distance: 0
+  #     state: disabled
+  #   - date: 05-19
+  #     distance: 21.0975
+  #     state: disabled
+
+- race: 2024-05-12 Qinhuangdao Marathon
   icon: lock
   weeks:
   - days:
-    - date: 05-13
+    - date: 04-29
       distance: 0
       state: disabled
-    - date: 05-14
+    - date: 04-30
       distance: 0
       state: disabled
-    - date: 05-15
+    - date: 05-01
       distance: 0
       state: disabled
-    - date: 05-16
+    - date: 05-02
       distance: 0
       state: disabled
-    - date: 05-17
+    - date: 05-03
       distance: 0
       state: disabled
-    - date: 05-18
+    - date: 05-04
       distance: 0
       state: disabled
-    - date: 05-19
-      distance: 21.0975
+    - date: 05-05
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-06
+      distance: 0
+      state: disabled
+    - date: 05-07
+      distance: 0
+      state: disabled
+    - date: 05-08
+      distance: 0
+      state: disabled
+    - date: 05-09
+      distance: 0
+      state: disabled
+    - date: 05-10
+      distance: 0
+      state: disabled
+    - date: 05-11
+      distance: 0
+      state: disabled
+    - date: 05-12
+      distance: 42.195
       state: disabled
 
-- race: 2024-05-12 Qinhuangdao Marathon
+- race: 2024-04-27 Beijing Daxing Half Marathon
   icon: lock
   weeks:
   - days:
@@ -293,50 +338,6 @@
       state: disabled
     - date: 04-28
       distance: 0
-      state: disabled
-  - days:
-    - date: 04-29
-      distance: 0
-      state: disabled
-    - date: 04-30
-      distance: 0
-      state: disabled
-    - date: 05-01
-      distance: 0
-      state: disabled
-    - date: 05-02
-      distance: 0
-      state: disabled
-    - date: 05-03
-      distance: 0
-      state: disabled
-    - date: 05-04
-      distance: 0
-      state: disabled
-    - date: 05-05
-      distance: 0
-      state: disabled
-  - days:
-    - date: 05-06
-      distance: 0
-      state: disabled
-    - date: 05-07
-      distance: 0
-      state: disabled
-    - date: 05-08
-      distance: 0
-      state: disabled
-    - date: 05-09
-      distance: 0
-      state: disabled
-    - date: 05-10
-      distance: 0
-      state: disabled
-    - date: 05-11
-      distance: 0
-      state: disabled
-    - date: 05-12
-      distance: 42.195
       state: disabled
 
 - race: 2024-04-14 Beijing Half Marathon
