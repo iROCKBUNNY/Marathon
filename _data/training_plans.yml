@@ -342,39 +342,39 @@
       state: green
     - date: 04-14
       distance: 0
-      state: orange
+      state: green
   - days:
     - date: 04-15
       distance: 0
-      state: orange
+      state: green
     - date: 04-16
       distance: 0
-      state: orange
+      state: green
     - date: 04-17
       distance: 0
-      state: orange
+      state: green
     - date: 04-18
       distance: 0
-      state: orange
+      state: green
     - date: 04-19
       distance: 0
-      state: orange
+      state: green
     - date: 04-20
       distance: 0
-      state: orange
+      state: green
     - date: 04-21
       distance: 10
       state: orange
   - days:
     - date: 04-22
       distance: 0
-      state: orange
+      state: green
     - date: 04-23
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 04-24
       distance: 0
-      state: disabled
+      state: green
     - date: 04-25
       distance: 0
       state: disabled
