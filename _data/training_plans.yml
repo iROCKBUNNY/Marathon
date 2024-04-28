@@ -2,22 +2,6 @@
 #   icon: lock/running/medal/clipboard check
 #   weeks:
 
-# - race: 2021-12-12 Guangzhou Marathon
-#   icon: lock
-#   weeks:
-
-# - race: 2022-03-20 Wuxi Marathon
-#   icon: running
-#   weeks:
-
-# - race: 2022-12-11 Guangzhou Marathon
-#   icon: lock
-#   weeks:
-
-# - race: 2024-04-14 Beijing Half Marathon
-#   icon: running
-#   weeks:
-
 # - race: 2023-12-17 Hong Kong Street Marathon
 #   icon: lock
 #   weeks:
@@ -225,31 +209,8 @@
       distance: 42.195
       state: disabled
 
-  # - days:
-  #   - date: 05-13
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-14
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-15
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-16
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-17
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-18
-  #     distance: 0
-  #     state: disabled
-  #   - date: 05-19
-  #     distance: 21.0975
-  #     state: disabled
-
 - race: 2024-05-12 Qinhuangdao Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 04-29
@@ -297,7 +258,7 @@
       state: disabled
 
 - race: 2024-04-27 Beijing Daxing Half Marathon
-  icon: lock
+  icon: medal
   weeks:
   - days:
     - date: 04-01
@@ -376,17 +337,17 @@
       distance: 0
       state: green
     - date: 04-25
-      distance: 0
-      state: disabled
+      distance: 1
+      state: orange
     - date: 04-26
       distance: 0
-      state: disabled
+      state: green
     - date: 04-27
       distance: 21.0975
-      state: disabled
+      state: orange
     - date: 04-28
       distance: 0
-      state: disabled
+      state: green
 
 - race: 2024-03-31 Zhengkai Marathon
   icon: medal

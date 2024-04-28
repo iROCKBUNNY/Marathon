@@ -310,21 +310,21 @@
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:36:37"
+      segment: "36:37"
+      state: negative
+    - net: "1:12:17"
+      segment: "35:40"
+      state: negative
+    - net: "1:50:56"
+      segment: "38:39"
+      state: negative
+    - net: "2:31:05"
+      segment: "40:09"
+      state: negative
+    - net: "2:39:04"
+      segment: "07:59"
+      state: negative
   - date: 2023-05-21
     bib_number: A2103
     shoes: UNDER ARMOUR HOVR Sonic
