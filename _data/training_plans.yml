@@ -28,7 +28,7 @@
 #       distance: 42.195
 #       state: disabled
 
-- race: 2024-10-27 Zhengzhou Marathon
+- race: 2024-10-27 Chengdu/Zhengzhou Marathon
   icon: lock
   weeks:
   weeks:
@@ -215,13 +215,13 @@
   - days:
     - date: 04-29
       distance: 0
-      state: disabled
+      state: green
     - date: 04-30
       distance: 0
-      state: disabled
+      state: green
     - date: 05-01
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 05-02
       distance: 0
       state: disabled
