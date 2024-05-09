@@ -224,26 +224,26 @@
       state: orange
     - date: 05-02
       distance: 0
-      state: disabled
+      state: green
     - date: 05-03
       distance: 0
-      state: disabled
+      state: green
     - date: 05-04
       distance: 0
-      state: disabled
+      state: green
     - date: 05-05
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
   - days:
     - date: 05-06
       distance: 0
-      state: disabled
+      state: green
     - date: 05-07
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 05-08
       distance: 0
-      state: disabled
+      state: green
     - date: 05-09
       distance: 0
       state: disabled
