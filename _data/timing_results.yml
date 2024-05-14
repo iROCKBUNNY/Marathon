@@ -109,38 +109,38 @@
 - race: Qinhuangdao Marathon
   type: full
   results:
-  - date: 2025-05-12
+  - date: 2024-05-12
     bib_number: B03700
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
     - net: "0:36:17"
       segment: "36:17"
-      state: disabled
+      state: negative
     - net: "1:11:47"
       segment: "35:30"
-      state: disabled
+      state: negative
     - net: "1:49:51"
       segment: "38:04"
-      state: disabled
+      state: positive
     - net: "2:34:27"
       segment: "44:36"
-      state: disabled
+      state: negative
     - net: "3:17:56"
       segment: "43:29"
-      state: disabled
+      state: negative
     - net: "4:04:50"
       segment: "46:54"
-      state: disabled
+      state: negative
     - net: "4:51:19"
       segment: "46:29"
-      state: disabled
+      state: positive
     - net: "5:33:05"
       segment: "41:46"
-      state: disabled
+      state: positive
     - net: "5:49:31"
       segment: "16:26"
-      state: disabled
+      state: negative
   - date: 2023-05-14
     bib_number: A13463
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
