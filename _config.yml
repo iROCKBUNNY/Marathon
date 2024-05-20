@@ -19,9 +19,9 @@ github: https://github.com/iROCKBUNNY
 
 icon: running
 
-# plugins:
-# - jekyll-seo-tag
-# - jekyll-sitemap
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
 
 exclude:
 - .gitignore
