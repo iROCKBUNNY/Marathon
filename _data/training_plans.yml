@@ -28,10 +28,104 @@
 #       distance: 42.195
 #       state: disabled
 
-- race: 2024-10-27 Chengdu/Zhengzhou Marathon
+- race: 2024-10-27 Chengdu/Beijing/Zhengzhou Marathon
   icon: lock
   weeks:
+  - days:
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 0
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+    - date: 10-26
+      distance: 0
+      state: disabled
+    - date: 10-27
+      distance: 42.195
+      state: disabled
+
+- race: 2024-10-20 Xian Marathon
+  icon: lock
   weeks:
+  - days:
+    - date: 10-14
+      distance: 0
+      state: disabled
+    - date: 10-15
+      distance: 0
+      state: disabled
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 0
+      state: disabled
+    - date: 10-18
+      distance: 0
+      state: disabled
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+
+- race: 2024-10-13 Tianjin Marathon
+  icon: lock
+  weeks:
+    - date: 08-19
+      distance: 0
+      state: disabled
+    - date: 08-20
+      distance: 0
+      state: disabled
+    - date: 08-21
+      distance: 0
+      state: disabled
+    - date: 08-22
+      distance: 0
+      state: disabled
+    - date: 08-23
+      distance: 0
+      state: disabled
+    - date: 08-24
+      distance: 0
+      state: disabled
+    - date: 08-25
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-26
+      distance: 0
+      state: disabled
+    - date: 08-27
+      distance: 0
+      state: disabled
+    - date: 08-28
+      distance: 0
+      state: disabled
+    - date: 08-29
+      distance: 0
+      state: disabled
+    - date: 08-30
+      distance: 0
+      state: disabled
+    - date: 08-31
+      distance: 0
+      state: disabled
+    - date: 09-01
+      distance: 0
+      state: disabled
   - days:
     - date: 09-02
       distance: 0
@@ -164,76 +258,10 @@
     - date: 10-13
       distance: 0
       state: disabled
-  - days:
-    - date: 10-14
-      distance: 0
-      state: disabled
-    - date: 10-15
-      distance: 0
-      state: disabled
-    - date: 10-16
-      distance: 0
-      state: disabled
-    - date: 10-17
-      distance: 0
-      state: disabled
-    - date: 10-18
-      distance: 0
-      state: disabled
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 0
-      state: disabled
-    - date: 10-24
-      distance: 0
-      state: disabled
-    - date: 10-25
-      distance: 0
-      state: disabled
-    - date: 10-26
-      distance: 0
-      state: disabled
-    - date: 10-27
-      distance: 42.195
-      state: disabled
 
 - race: 2024 Summer Training
   icon: running
   weeks:
-  - days:
-    - date: 05-13
-      distance: 0
-      state: green
-    - date: 05-14
-      distance: 0
-      state: disabled
-    - date: 05-15
-      distance: 0
-      state: disabled
-    - date: 05-16
-      distance: 0
-      state: disabled
-    - date: 05-17
-      distance: 0
-      state: disabled
-    - date: 05-18
-      distance: 0
-      state: disabled
-    - date: 05-19
-      distance: 0
-      state: disabled
   - days:
     - date: 05-20
       distance: 0
@@ -276,6 +304,94 @@
       distance: 0
       state: disabled
     - date: 06-02
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-03
+      distance: 0
+      state: disabled
+    - date: 06-04
+      distance: 0
+      state: disabled
+    - date: 06-05
+      distance: 0
+      state: disabled
+    - date: 06-06
+      distance: 0
+      state: disabled
+    - date: 06-07
+      distance: 0
+      state: disabled
+    - date: 06-08
+      distance: 0
+      state: disabled
+    - date: 06-09
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-10
+      distance: 0
+      state: disabled
+    - date: 06-11
+      distance: 0
+      state: disabled
+    - date: 06-12
+      distance: 0
+      state: disabled
+    - date: 06-13
+      distance: 0
+      state: disabled
+    - date: 06-14
+      distance: 0
+      state: disabled
+    - date: 06-15
+      distance: 0
+      state: disabled
+    - date: 06-16
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-17
+      distance: 0
+      state: disabled
+    - date: 06-18
+      distance: 0
+      state: disabled
+    - date: 06-19
+      distance: 0
+      state: disabled
+    - date: 06-20
+      distance: 0
+      state: disabled
+    - date: 06-21
+      distance: 0
+      state: disabled
+    - date: 06-22
+      distance: 0
+      state: disabled
+    - date: 06-23
+      distance: 0
+      state: disabled
+  - days:
+    - date: 06-24
+      distance: 0
+      state: disabled
+    - date: 06-25
+      distance: 0
+      state: disabled
+    - date: 06-26
+      distance: 0
+      state: disabled
+    - date: 06-27
+      distance: 0
+      state: disabled
+    - date: 06-28
+      distance: 0
+      state: disabled
+    - date: 06-29
+      distance: 0
+      state: disabled
+    - date: 06-30
       distance: 0
       state: disabled
 
