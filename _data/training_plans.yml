@@ -263,6 +263,7 @@
 - race: 2024-10-13 Tianjin Marathon
   icon: lock
   weeks:
+  - days:
     - date: 08-19
       distance: 0
       state: disabled
