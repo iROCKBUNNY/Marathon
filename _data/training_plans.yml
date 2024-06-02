@@ -452,19 +452,19 @@
       state: orange
     - date: 05-29
       distance: 0
-      state: disabled
+      state: green
     - date: 05-30
       distance: 0
-      state: disabled
+      state: green
     - date: 05-31
       distance: 0
-      state: disabled
+      state: green
     - date: 06-01
       distance: 0
-      state: disabled
+      state: green
     - date: 06-02
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
   - days:
     - date: 06-03
       distance: 0
