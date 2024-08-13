@@ -235,7 +235,7 @@
       state: disabled
 
 - race: 2024-10-19 China Mobile Wanfenglin Half Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 08-19
@@ -437,7 +437,7 @@
       state: disabled
 
 - race: 2024 Summer Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 05-27
