@@ -437,8 +437,8 @@
       distance: 0
       state: disabled
     - date: 10-13
-      distance: 0
-      state: 21.0975
+      distance: 21.0975
+      state: disabled
 
 - race: 2024 Summer Training
   icon: clipboard check
