@@ -234,7 +234,7 @@
       distance: 42.195
       state: disabled
 
-- race: 2024-10-19 China Mobile Wanfenglin Half Marathon
+- race: 2024-10-20 Tianjin Marathon
   icon: lock
   weeks:
   - days:
@@ -254,59 +254,15 @@
       distance: 0
       state: disabled
     - date: 10-19
-      distance: 21.0975
+      distance: 0
       state: disabled
     - date: 10-20
-      distance: 0
+      distance: 42.195
       state: disabled
 
 - race: 2024-10-13 WERUN Half Marathon
   icon: running
   weeks:
-  - days:
-    - date: 08-26
-      distance: 0
-      state: disabled
-    - date: 08-27
-      distance: 0
-      state: disabled
-    - date: 08-28
-      distance: 0
-      state: disabled
-    - date: 08-29
-      distance: 0
-      state: disabled
-    - date: 08-30
-      distance: 0
-      state: disabled
-    - date: 08-31
-      distance: 0
-      state: disabled
-    - date: 09-01
-      distance: 0
-      state: disabled
-  - days:
-    - date: 09-02
-      distance: 0
-      state: disabled
-    - date: 09-03
-      distance: 0
-      state: disabled
-    - date: 09-04
-      distance: 0
-      state: disabled
-    - date: 09-05
-      distance: 0
-      state: disabled
-    - date: 09-06
-      distance: 0
-      state: disabled
-    - date: 09-07
-      distance: 0
-      state: disabled
-    - date: 09-08
-      distance: 0
-      state: disabled
   - days:
     - date: 09-09
       distance: 0

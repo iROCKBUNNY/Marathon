@@ -106,6 +106,74 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Tianjin Marathon
+  type: full
+  results:
+  - date: 2024-10-20
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+  - date: 2023-10-15
+    bib_number: B3097
+    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
+    personal_best: false
+    check_points:
+    - net: "0:37:37"
+      segment: "37:37"
+      state: positive
+    - net: "1:13:59"
+      segment: "36:22"
+      state: positive
+    - net: "1:49:46"
+      segment: "35:47"
+      state: positive
+    - net: "2:28:13"
+      segment: "38:27"
+      state: positive
+    - net: "3:08:26"
+      segment: "40:13"
+      state: positive
+    - net: "3:53:35"
+      segment: "45:09"
+      state: positive
+    - net: "4:40:06"
+      segment: "46:31"
+      state: positive
+    - net: "5:27:23"
+      segment: "47:17"
+      state: positive
+    - net: "5:44:35"
+      segment: "17:12"
+      state: positive
+
 - race: Qinhuangdao Marathon
   type: full
   results:
@@ -680,42 +748,6 @@
       state: positive
     - net: "5:59:08"
       segment: "24:07"
-      state: positive
-
-- race: Tianjin Marathon
-  type: full
-  results:
-  - date: 2023-10-15
-    bib_number: B3097
-    shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
-    personal_best: false
-    check_points:
-    - net: "0:37:37"
-      segment: "37:37"
-      state: positive
-    - net: "1:13:59"
-      segment: "36:22"
-      state: positive
-    - net: "1:49:46"
-      segment: "35:47"
-      state: positive
-    - net: "2:28:13"
-      segment: "38:27"
-      state: positive
-    - net: "3:08:26"
-      segment: "40:13"
-      state: positive
-    - net: "3:53:35"
-      segment: "45:09"
-      state: positive
-    - net: "4:40:06"
-      segment: "46:31"
-      state: positive
-    - net: "5:27:23"
-      segment: "47:17"
-      state: positive
-    - net: "5:44:35"
-      segment: "17:12"
       state: positive
 
 - race: Chongqing Marathon
