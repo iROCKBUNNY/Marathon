@@ -314,13 +314,13 @@
   - days:
     - date: 09-30
       distance: 0
-      state: disabled
+      state: green
     - date: 10-01
       distance: 0
-      state: disabled
+      state: green
     - date: 10-02
       distance: 0
-      state: disabled
+      state: green
     - date: 10-03
       distance: 0
       state: disabled
