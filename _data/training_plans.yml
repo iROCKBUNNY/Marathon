@@ -208,31 +208,9 @@
       distance: 42.195
       state: disabled
 
-- race: 2024-11-10 Yizhuang Half Marathon
+- race: 2024-11-10 Beijing Yizhuang Half Marathon
   icon: lock
   weeks:
-  - days:
-    - date: 10-28
-      distance: 0
-      state: disabled
-    - date: 10-29
-      distance: 0
-      state: disabled
-    - date: 10-30
-      distance: 0
-      state: disabled
-    - date: 10-31
-      distance: 0
-      state: disabled
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 0
-      state: disabled
-    - date: 11-03
-      distance: 0
-      state: disabled
   - days:
     - date: 11-04
       distance: 0
@@ -253,7 +231,7 @@
       distance: 0
       state: disabled
     - date: 11-10
-      distance: 42.195
+      distance: 21.0975
       state: disabled
 
 - race: 2024-10-27 Beijing Marathon
@@ -279,6 +257,28 @@
       distance: 0
       state: disabled
     - date: 10-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-28
+      distance: 0
+      state: disabled
+    - date: 10-29
+      distance: 0
+      state: disabled
+    - date: 10-30
+      distance: 0
+      state: disabled
+    - date: 10-31
+      distance: 0
+      state: disabled
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 0
+      state: disabled
+    - date: 11-03
       distance: 42.195
       state: disabled
 
