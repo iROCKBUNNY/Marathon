@@ -323,16 +323,16 @@
       state: green
     - date: 10-03
       distance: 0
-      state: disabled
+      state: green
     - date: 10-04
       distance: 0
-      state: disabled
+      state: green
     - date: 10-05
       distance: 0
-      state: disabled
+      state: green
     - date: 10-06
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
   - days:
     - date: 10-07
       distance: 0
