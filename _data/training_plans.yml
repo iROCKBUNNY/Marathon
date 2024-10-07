@@ -335,8 +335,8 @@
       state: orange
   - days:
     - date: 10-07
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 10-08
       distance: 0
       state: disabled
