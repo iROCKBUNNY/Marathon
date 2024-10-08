@@ -283,32 +283,6 @@
       state: disabled
 
 - race: 2024-10-20 Tianjin Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 10-14
-      distance: 0
-      state: disabled
-    - date: 10-15
-      distance: 0
-      state: disabled
-    - date: 10-16
-      distance: 0
-      state: disabled
-    - date: 10-17
-      distance: 0
-      state: disabled
-    - date: 10-18
-      distance: 0
-      state: disabled
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 42.195
-      state: disabled
-
-- race: 2024-10-13 WERUN Half Marathon
   icon: running
   weeks:
   - days:
@@ -339,7 +313,7 @@
       state: orange
     - date: 10-08
       distance: 0
-      state: disabled
+      state: green
     - date: 10-09
       distance: 0
       state: disabled
@@ -353,7 +327,29 @@
       distance: 0
       state: disabled
     - date: 10-13
-      distance: 21.0975
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-14
+      distance: 0
+      state: disabled
+    - date: 10-15
+      distance: 0
+      state: disabled
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 0
+      state: disabled
+    - date: 10-18
+      distance: 0
+      state: disabled
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 42.195
       state: disabled
 
 - race: 2024 Summer Training
