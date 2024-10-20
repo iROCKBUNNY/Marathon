@@ -210,37 +210,37 @@
   type: full
   results:
   - date: 2024-10-20
-    bib_number:
+    bib_number: C0613
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
+      state: positive
+    - net: "5:25:11"
       segment: "00:00"
-      state: disabled
+      state: positive
   - date: 2023-10-15
     bib_number: B3097
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
