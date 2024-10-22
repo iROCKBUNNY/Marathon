@@ -240,10 +240,10 @@
   - days:
     - date: 10-21
       distance: 0
-      state: disabled
+      state: green
     - date: 10-22
       distance: 0
-      state: disabled
+      state: green
     - date: 10-23
       distance: 0
       state: disabled
