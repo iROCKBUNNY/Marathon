@@ -255,10 +255,10 @@
       state: green
     - date: 10-26
       distance: 0
-      state: disabled
+      state: green
     - date: 10-27
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
   - days:
     - date: 10-28
       distance: 0
