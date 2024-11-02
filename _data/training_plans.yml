@@ -274,10 +274,10 @@
       state: green
     - date: 11-01
       distance: 0
-      state: disabled
+      state: green
     - date: 11-02
-      distance: 0
-      state: disabled
+      distance: 6.5
+      state: orange
     - date: 11-03
       distance: 42.195
       state: disabled
