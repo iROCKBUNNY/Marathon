@@ -29,7 +29,7 @@
 #       state: disabled
 
 - race: 2025-02-09 Hong Kong Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 12-16
@@ -235,7 +235,7 @@
 #       state: disabled
 
 - race: 2024-11-03 Beijing Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 10-21
@@ -280,7 +280,7 @@
       state: orange
     - date: 11-03
       distance: 42.195
-      state: disabled
+      state: orange
 
 - race: 2024-10-20 Tianjin Marathon
   icon: medal

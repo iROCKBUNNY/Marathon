@@ -238,9 +238,9 @@
     - net: "0:00:00"
       segment: "00:00"
       state: disabled
-    - net: "0:00:00"
+    - net: "5:16:55"
       segment: "00:00"
-      state: disabled
+      state: positive
   - date: 2022-11-06
     bib_number: C1757
     shoes: ASICS GEL-NIMBUS 22 MODERN TOKYO
