@@ -235,7 +235,7 @@
       state: disabled
 
 - race: 2025-02-09 Hong Kong Marathon
-  icon: running
+  icon: lock
   weeks:
   - days:
     - date: 12-16
@@ -412,6 +412,120 @@
       state: disabled
     - date: 02-09
       distance: 42.195
+      state: disabled
+
+- race: 2024 Winter Training
+  icon: running
+  weeks:
+  - days:
+    - date: 11-11
+      distance: 0
+      state: disabled
+    - date: 11-12
+      distance: 0
+      state: disabled
+    - date: 11-13
+      distance: 0
+      state: disabled
+    - date: 11-14
+      distance: 0
+      state: disabled
+    - date: 11-15
+      distance: 0
+      state: disabled
+    - date: 11-16
+      distance: 0
+      state: disabled
+    - date: 11-17
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-18
+      distance: 0
+      state: disabled
+    - date: 11-19
+      distance: 0
+      state: disabled
+    - date: 11-20
+      distance: 0
+      state: disabled
+    - date: 11-21
+      distance: 0
+      state: disabled
+    - date: 11-22
+      distance: 0
+      state: disabled
+    - date: 11-23
+      distance: 0
+      state: disabled
+    - date: 11-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 11-25
+      distance: 0
+      state: disabled
+    - date: 11-26
+      distance: 0
+      state: disabled
+    - date: 11-27
+      distance: 0
+      state: disabled
+    - date: 11-28
+      distance: 0
+      state: disabled
+    - date: 11-29
+      distance: 0
+      state: disabled
+    - date: 11-30
+      distance: 0
+      state: disabled
+    - date: 12-01
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-02
+      distance: 0
+      state: disabled
+    - date: 12-03
+      distance: 0
+      state: disabled
+    - date: 12-04
+      distance: 0
+      state: disabled
+    - date: 12-05
+      distance: 0
+      state: disabled
+    - date: 12-06
+      distance: 0
+      state: disabled
+    - date: 12-07
+      distance: 0
+      state: disabled
+    - date: 12-08
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-09
+      distance: 0
+      state: disabled
+    - date: 12-10
+      distance: 0
+      state: disabled
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
+      distance: 0
+      state: disabled
+    - date: 12-13
+      distance: 0
+      state: disabled
+    - date: 12-14
+      distance: 0
+      state: disabled
+    - date: 12-15
+      distance: 0
       state: disabled
 
 - race: 2024-11-03 Beijing Marathon
