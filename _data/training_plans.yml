@@ -238,49 +238,27 @@
   icon: lock
   weeks:
   - days:
-    - date: 12-23
-      distance: 0
-      state: green
-    - date: 12-24
-      distance: 0
-      state: green
-    - date: 12-25
-      distance: 0
-      state: green
-    - date: 12-26
-      distance: 0
-      state: green
-    - date: 12-27
-      distance: 0
-      state: green
-    - date: 12-28
-      distance: 0
-      state: disabled
-    - date: 12-29
-      distance: 0
-      state: disabled
-  - days:
     - date: 12-30
       distance: 0
-      state: disabled
+      state: green
     - date: 12-31
       distance: 0
-      state: disabled
+      state: green
     - date: 01-01
       distance: 0
-      state: disabled
+      state: green
     - date: 01-02
       distance: 0
-      state: disabled
+      state: green
     - date: 01-03
       distance: 0
-      state: disabled
+      state: green
     - date: 01-04
       distance: 0
-      state: disabled
+      state: green
     - date: 01-05
-      distance: 0
-      state: disabled
+      distance: 8
+      state: orange
   - days:
     - date: 01-06
       distance: 0
