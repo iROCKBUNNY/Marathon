@@ -262,51 +262,51 @@
   - days:
     - date: 01-06
       distance: 0
-      state: disabled
+      state: green
     - date: 01-07
       distance: 0
-      state: disabled
+      state: green
     - date: 01-08
       distance: 0
-      state: disabled
+      state: green
     - date: 01-09
       distance: 0
-      state: disabled
+      state: green
     - date: 01-10
       distance: 0
-      state: disabled
+      state: green
     - date: 01-11
       distance: 0
-      state: disabled
+      state: green
     - date: 01-12
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 01-13
       distance: 0
-      state: disabled
+      state: green
     - date: 01-14
       distance: 0
-      state: disabled
+      state: green
     - date: 01-15
       distance: 0
-      state: disabled
+      state: green
     - date: 01-16
       distance: 0
-      state: disabled
+      state: green
     - date: 01-17
       distance: 0
-      state: disabled
+      state: green
     - date: 01-18
       distance: 0
-      state: disabled
+      state: green
     - date: 01-19
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 01-20
       distance: 0
-      state: disabled
+      state: green
     - date: 01-21
       distance: 0
       state: disabled
