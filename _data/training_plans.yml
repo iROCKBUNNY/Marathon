@@ -309,66 +309,66 @@
       state: green
     - date: 01-21
       distance: 0
-      state: disabled
+      state: green
     - date: 01-22
       distance: 0
-      state: disabled
+      state: green
     - date: 01-23
       distance: 0
-      state: disabled
+      state: green
     - date: 01-24
       distance: 0
-      state: disabled
+      state: green
     - date: 01-25
       distance: 0
-      state: disabled
+      state: green
     - date: 01-26
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 01-27
       distance: 0
-      state: disabled
+      state: green
     - date: 01-28
       distance: 0
-      state: disabled
+      state: green
     - date: 01-29
       distance: 0
-      state: disabled
+      state: green
     - date: 01-30
       distance: 0
-      state: disabled
+      state: green
     - date: 01-31
       distance: 0
-      state: disabled
+      state: green
     - date: 02-01
       distance: 0
-      state: disabled
+      state: green
     - date: 02-02
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-03
       distance: 0
-      state: disabled
+      state: green
     - date: 02-04
       distance: 0
-      state: disabled
+      state: green
     - date: 02-05
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 02-06
       distance: 0
-      state: disabled
+      state: green
     - date: 02-07
       distance: 0
-      state: disabled
+      state: green
     - date: 02-08
       distance: 0
-      state: disabled
+      state: green
     - date: 02-09
-      distance: 42.195
-      state: disabled
+      distance: 40.5
+      state: orange
 
 - race: 2024-11-03 Beijing Marathon
   icon: medal
