@@ -110,7 +110,7 @@
   type: full
   results:
   - date: 2025-02-09
-    bib_number: B5390 DNF
+    bib_number: B5390
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
@@ -138,7 +138,7 @@
     - net: "*:**:**"
       segment: "**:**"
       state: negative
-    - net: "-:--:--"
+    - net: "DNF -:--:--"
       segment: "--:--"
       state: disabled
   - date: 2024-01-21
