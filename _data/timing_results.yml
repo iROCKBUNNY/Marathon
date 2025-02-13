@@ -116,27 +116,27 @@
     check_points:
     - net: "*:**:**"
       segment: "**:**"
-      state: negative
-    - net: "*:**:**"
+      state: positive
+    - net: "1:26:47"
       segment: "**:**"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "2:06:38"
+      segment: "39:51"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "2:48:41"
+      segment: "42:03"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "3:33:26"
+      segment: "44:45"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "4:18:19"
+      segment: "44:53"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "5:03:24"
+      segment: "45:05"
       state: negative
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "5:49:05"
+      segment: "45:41"
       state: negative
     - net: Did Not
       segment: Finish
