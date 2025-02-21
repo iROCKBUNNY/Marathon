@@ -55,7 +55,7 @@
 #       state: disabled
 
 - race: 2025-05-11 Qinhuangdao Marathon
-  icon: running
+  icon: lock
   weeks:
   - days:
     - date: 03-17
