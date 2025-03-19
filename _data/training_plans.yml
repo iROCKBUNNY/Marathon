@@ -59,11 +59,11 @@
   weeks:
   - days:
     - date: 03-17
-      distance: 0
-      state: disabled
+      distance: 1
+      state: blue
     - date: 03-18
-      distance: 0
-      state: disabled
+      distance: 1
+      state: blue
     - date: 03-19
       distance: 0
       state: disabled
