@@ -250,8 +250,9 @@
       distance: 0
       state: green
     - date: 01-02
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 01-03
       distance: 0
       state: green
@@ -266,8 +267,9 @@
       distance: 0
       state: green
     - date: 01-07
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 01-08
       distance: 0
       state: green
@@ -275,8 +277,9 @@
       distance: 0
       state: green
     - date: 01-10
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 01-11
       distance: 0
       state: green
@@ -291,8 +294,9 @@
       distance: 0
       state: green
     - date: 01-15
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 01-16
       distance: 0
       state: green
@@ -313,8 +317,9 @@
       distance: 0
       state: green
     - date: 01-22
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 01-23
       distance: 0
       state: green
@@ -325,8 +330,9 @@
       distance: 0
       state: green
     - date: 01-26
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
   - days:
     - date: 01-27
       distance: 0
@@ -351,8 +357,9 @@
       state: green
   - days:
     - date: 02-03
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 02-04
       distance: 0
       state: green
@@ -377,20 +384,25 @@
   weeks:
   - days:
     - date: 10-21
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-22
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-23
-      distance: 0
-      state: green
+      distance: 1.1
+      state: blue
+      icon: swimmer
     - date: 10-24
-      distance: 0
-      state: green
+      distance: 0.5
+      state: blue
+      icon: swimmer
     - date: 10-25
-      distance: 0
-      state: green
+      distance: 0.6
+      state: blue
+      icon: swimmer
     - date: 10-26
       distance: 0
       state: green
@@ -399,17 +411,21 @@
       state: orange
   - days:
     - date: 10-28
-      distance: 0
-      state: green
+      distance: 0.8
+      state: blue
+      icon: swimmer
     - date: 10-29
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-30
-      distance: 0
-      state: green
+      distance: 1.1
+      state: blue
+      icon: swimmer
     - date: 10-31
-      distance: 0
-      state: green
+      distance: 1.1
+      state: blue
+      icon: swimmer
     - date: 11-01
       distance: 0
       state: green
@@ -428,8 +444,9 @@
       distance: 0
       state: green
     - date: 10-01
-      distance: 0
-      state: green
+      distance: 1.1
+      state: blue
+      icon: swimmer
     - date: 10-02
       distance: 0
       state: green
@@ -437,11 +454,13 @@
       distance: 0
       state: green
     - date: 10-04
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-05
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-06
       distance: 5
       state: orange
@@ -453,8 +472,9 @@
       distance: 0
       state: green
     - date: 10-09
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-10
       distance: 5
       state: orange
@@ -462,30 +482,36 @@
       distance: 3
       state: orange
     - date: 10-12
-      distance: 0
-      state: green
+      distance: 0.6
+      state: blue
+      icon: swimmer
     - date: 10-13
       distance: 10
       state: orange
   - days:
     - date: 10-14
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-15
       distance: 10
       state: orange
     - date: 10-16
-      distance: 0
-      state: green
+      distance: 0.7
+      state: blue
+      icon: swimmer
     - date: 10-17
-      distance: 0
-      state: green
+      distance: 1
+      state: blue
+      icon: swimmer
     - date: 10-18
-      distance: 0
-      state: green
+      distance: 0.8
+      state: blue
+      icon: swimmer
     - date: 10-19
-      distance: 0
-      state: green
+      distance: 0.5
+      state: blue
+      icon: swimmer
     - date: 10-20
       distance: 42.195
       state: orange
