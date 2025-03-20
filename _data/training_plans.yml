@@ -59,19 +59,20 @@
   weeks:
   - days:
     - date: 03-17
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 03-18
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 03-19
       distance: 3
       state: orange
     - date: 03-20
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 03-21
       distance: 0
       state: disabled
@@ -250,7 +251,7 @@
       distance: 0
       state: green
     - date: 01-02
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 01-03
@@ -267,7 +268,7 @@
       distance: 0
       state: green
     - date: 01-07
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 01-08
@@ -277,7 +278,7 @@
       distance: 0
       state: green
     - date: 01-10
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 01-11
@@ -294,7 +295,7 @@
       distance: 0
       state: green
     - date: 01-15
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 01-16
@@ -317,7 +318,7 @@
       distance: 0
       state: green
     - date: 01-22
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 01-23
@@ -330,7 +331,7 @@
       distance: 0
       state: green
     - date: 01-26
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
   - days:
@@ -357,7 +358,7 @@
       state: green
   - days:
     - date: 02-03
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 02-04
@@ -384,23 +385,23 @@
   weeks:
   - days:
     - date: 10-21
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-22
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-23
-      distance: 1.1
+      distance: 1100
       state: blue
       icon: swimmer
     - date: 10-24
-      distance: 0.5
+      distance: 500
       state: blue
       icon: swimmer
     - date: 10-25
-      distance: 0.6
+      distance: 600
       state: blue
       icon: swimmer
     - date: 10-26
@@ -411,19 +412,19 @@
       state: orange
   - days:
     - date: 10-28
-      distance: 0.8
+      distance: 800
       state: blue
       icon: swimmer
     - date: 10-29
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-30
-      distance: 1.1
+      distance: 1100
       state: blue
       icon: swimmer
     - date: 10-31
-      distance: 1.1
+      distance: 1100
       state: blue
       icon: swimmer
     - date: 11-01
@@ -444,7 +445,7 @@
       distance: 0
       state: green
     - date: 10-01
-      distance: 1.1
+      distance: 1100
       state: blue
       icon: swimmer
     - date: 10-02
@@ -454,11 +455,11 @@
       distance: 0
       state: green
     - date: 10-04
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-05
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-06
@@ -472,7 +473,7 @@
       distance: 0
       state: green
     - date: 10-09
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-10
@@ -482,7 +483,7 @@
       distance: 3
       state: orange
     - date: 10-12
-      distance: 0.6
+      distance: 600
       state: blue
       icon: swimmer
     - date: 10-13
@@ -490,26 +491,26 @@
       state: orange
   - days:
     - date: 10-14
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-15
       distance: 10
       state: orange
     - date: 10-16
-      distance: 0.7
+      distance: 700
       state: blue
       icon: swimmer
     - date: 10-17
-      distance: 1
+      distance: 1000
       state: blue
       icon: swimmer
     - date: 10-18
-      distance: 0.8
+      distance: 800
       state: blue
       icon: swimmer
     - date: 10-19
-      distance: 0.5
+      distance: 500
       state: blue
       icon: swimmer
     - date: 10-20

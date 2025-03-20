@@ -11,10 +11,12 @@
                 {%- for week in item.weeks -%}
                     {%- for day in week.days -%}
                         {%- unless day.state == 'disabled' -%}
+                        {%- unless day.icon == 'swimmer' -%}
                             {%- if day.distance > 0 -%}
                                 {%- assign completed_training_sessions = completed_training_sessions | plus: 1 -%}
                             {%- endif -%}
                             {%- assign cumulative_distance = cumulative_distance | plus: day.distance -%}
+                        {%- endunless -%}
                         {%- endunless -%}
                     {%- endfor -%}
                 {%- endfor -%}
