@@ -28,12 +28,12 @@
             {%- assign total_distance = 0 -%}
             {%- for week in item.weeks -%}
                 {%- for day in week.days -%}
-                    {%- unless day.state == 'disabled' -%}
                     {%- unless day.icon == 'swimmer' -%}
-                        {%- assign completed_distance = completed_distance | plus: day.distance -%}
+                        {%- unless day.state == 'disabled' -%}
+                            {%- assign completed_distance = completed_distance | plus: day.distance -%}
+                        {%- endunless -%}
+                        {%- assign total_distance = total_distance | plus: day.distance %}
                     {%- endunless -%}
-                    {%- endunless -%}
-                    {%- assign total_distance = total_distance | plus: day.distance %}
                 {%- endfor -%}
             {%- endfor -%}
             <h3 id="{{ item.race | slugify }}" class="ui header">{{ item.race }}<div class="ui mini basic label{% if item.icon == 'lock' %} disabled{% endif %}"><i class="{{ item.icon }} icon"></i>{{ total_distance | round }} km{% if total_distance > 0 %}<div class="detail">{{ completed_distance | times: 100.0 | divided_by: total_distance | round }}%</div>{% endif %}</div></h3>
