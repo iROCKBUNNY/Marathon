@@ -82,7 +82,7 @@
       state: green
     - date: 03-23
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-24
       distance: 0
