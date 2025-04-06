@@ -132,7 +132,7 @@
       state: orange
     - date: 04-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 04-07
       distance: 0
