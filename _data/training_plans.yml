@@ -176,13 +176,13 @@
       icon: swimmer
     - date: 04-18
       distance: 0
-      state: disabled
+      state: green
     - date: 04-19
       distance: 0
-      state: disabled
+      state: green
     - date: 04-20
-      distance: 10
-      state: disabled
+      distance: 8.75
+      state: orange
   - days:
     - date: 04-21
       distance: 0
