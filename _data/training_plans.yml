@@ -213,7 +213,7 @@
       icon: swimmer
   - days:
     - date: 04-28
-      distance: 1
+      distance: 5
       state: orange
     - date: 04-29
       distance: 1000
@@ -221,10 +221,10 @@
       icon: swimmer
     - date: 04-30
       distance: 0
-      state: disabled
+      state: green
     - date: 05-01
       distance: 0
-      state: disabled
+      state: green
     - date: 05-02
       distance: 0
       state: disabled
