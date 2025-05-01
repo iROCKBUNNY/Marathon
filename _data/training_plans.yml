@@ -206,7 +206,7 @@
       icon: swimmer
     - date: 04-26
       distance: 0
-      state: disabled
+      state: green
     - date: 04-27
       distance: 1000
       state: blue
