@@ -237,10 +237,11 @@
   - days:
     - date: 05-05
       distance: 0
-      state: disabled
+      state: green
     - date: 05-06
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-07
       distance: 0
       state: disabled
