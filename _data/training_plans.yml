@@ -246,8 +246,9 @@
       distance: 6.6
       state: orange
     - date: 05-08
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-09
       distance: 0
       state: disabled
