@@ -251,10 +251,10 @@
       icon: swimmer
     - date: 05-09
       distance: 0
-      state: disabled
+      state: green
     - date: 05-10
       distance: 0
-      state: disabled
+      state: green
     - date: 05-11
       distance: 42.195
       state: disabled
