@@ -114,32 +114,32 @@
     shoes: ASICS GEL-NIMBUS 21 LITE-SHOW
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "0:35:24"
+      segment: "35:24"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:10:24"
+      segment: "35:00"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:50:41"
+      segment: "40:17"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "2:28:29"
+      segment: "37:48"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "3:10:28"
+      segment: "41:59"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "3:53:17"
+      segment: "42:59"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "4:50:02"
+      segment: "56:45"
       state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "5:56:25"
+      segment: "46:23"
       state: disabled
     - net: "5:54:28"
-      segment: "00:00"
+      segment: "18:03"
       state: disabled
   - date: 2024-05-12
     bib_number: B03700
