@@ -109,8 +109,9 @@
       state: green
   - days:
     - date: 05-26
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-27
       distance: 0
       state: disabled
