@@ -120,8 +120,9 @@
       state: blue
       icon: swimmer
     - date: 05-29
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-30
       distance: 0
       state: disabled
