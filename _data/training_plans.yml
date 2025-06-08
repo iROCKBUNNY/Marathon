@@ -148,13 +148,13 @@
       icon: swimmer
     - date: 06-06
       distance: 0
-      state: disabled
+      state: green
     - date: 06-07
       distance: 0
-      state: disabled
+      state: green
     - date: 06-08
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-09
       distance: 0
