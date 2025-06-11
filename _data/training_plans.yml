@@ -158,13 +158,14 @@
   - days:
     - date: 06-09
       distance: 0
-      state: disabled
+      state: green
     - date: 06-10
       distance: 0
-      state: disabled
+      state: green
     - date: 06-11
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-12
       distance: 0
       state: disabled
