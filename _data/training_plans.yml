@@ -175,10 +175,10 @@
       icon: swimmer
     - date: 06-14
       distance: 0
-      state: disabled
+      state: green
     - date: 06-15
       distance: 5
-      state: disabled
+      state: orange
   - days:
     - date: 06-16
       distance: 0
