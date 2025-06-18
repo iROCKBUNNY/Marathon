@@ -186,10 +186,11 @@
       icon: swimmer
     - date: 06-17
       distance: 0
-      state: disabled
+      state: green
     - date: 06-18
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-19
       distance: 0
       state: disabled
