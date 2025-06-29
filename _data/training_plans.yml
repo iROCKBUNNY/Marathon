@@ -219,16 +219,17 @@
       icon: swimmer
     - date: 06-26
       distance: 0
-      state: disabled
+      state: green
     - date: 06-27
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-28
       distance: 0
-      state: disabled
+      state: green
     - date: 06-29
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-30
       distance: 0
