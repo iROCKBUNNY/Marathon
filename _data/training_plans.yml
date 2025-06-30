@@ -233,7 +233,7 @@
   - days:
     - date: 06-30
       distance: 0
-      state: disabled
+      state: green
     - date: 07-01
       distance: 0
       state: disabled
