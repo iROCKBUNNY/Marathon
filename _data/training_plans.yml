@@ -246,18 +246,20 @@
       state: blue
       icon: swimmer
     - date: 07-04
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-05
       distance: 0
-      state: disabled
+      state: green
     - date: 07-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 07-07
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-08
       distance: 0
       state: disabled
