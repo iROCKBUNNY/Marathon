@@ -262,7 +262,7 @@
       icon: swimmer
     - date: 07-08
       distance: 0
-      state: disabled
+      state: green
     - date: 07-09
       distance: 0
       state: disabled
