@@ -271,24 +271,26 @@
       distance: 0
       state: green
     - date: 07-11
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-12
       distance: 0
-      state: disabled
+      state: green
     - date: 07-13
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 07-14
       distance: 0
-      state: disabled
+      state: green
     - date: 07-15
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-16
       distance: 0
-      state: disabled
+      state: green
     - date: 07-17
       distance: 0
       state: disabled
