@@ -292,8 +292,9 @@
       distance: 0
       state: green
     - date: 07-17
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-18
       distance: 0
       state: disabled
