@@ -58,54 +58,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 10-20
-      distance: 0
-      state: disabled
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 8
-      state: disabled
-    - date: 10-23
-      distance: 3
-      state: disabled
-    - date: 10-24
-      distance: 0
-      state: disabled
-    - date: 10-25
-      distance: 0
-      state: disabled
-    - date: 10-26
-      distance: 42.195
-      state: disabled
-
-- race: 2025-10-19 Xian Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 08-25
-      distance: 0
-      state: disabled
-    - date: 08-26
-      distance: 0
-      state: disabled
-    - date: 08-27
-      distance: 8
-      state: disabled
-    - date: 08-28
-      distance: 3
-      state: disabled
-    - date: 08-29
-      distance: 0
-      state: disabled
-    - date: 08-30
-      distance: 0
-      state: disabled
-    - date: 08-31
-      distance: 0
-      state: disabled
-  - days:
     - date: 09-01
       distance: 0
       state: disabled
@@ -113,10 +65,10 @@
       distance: 0
       state: disabled
     - date: 09-03
-      distance: 8
+      distance: 0
       state: disabled
     - date: 09-04
-      distance: 3
+      distance: 0
       state: disabled
     - date: 09-05
       distance: 0
@@ -135,10 +87,10 @@
       distance: 0
       state: disabled
     - date: 09-10
-      distance: 8
+      distance: 0
       state: disabled
     - date: 09-11
-      distance: 3
+      distance: 0
       state: disabled
     - date: 09-12
       distance: 0
@@ -157,10 +109,10 @@
       distance: 0
       state: disabled
     - date: 09-17
-      distance: 8
+      distance: 0
       state: disabled
     - date: 09-18
-      distance: 3
+      distance: 0
       state: disabled
     - date: 09-19
       distance: 0
@@ -179,10 +131,10 @@
       distance: 0
       state: disabled
     - date: 09-24
-      distance: 8
+      distance: 0
       state: disabled
     - date: 09-25
-      distance: 3
+      distance: 0
       state: disabled
     - date: 09-26
       distance: 0
@@ -201,10 +153,10 @@
       distance: 0
       state: disabled
     - date: 10-01
-      distance: 8
+      distance: 0
       state: disabled
     - date: 10-02
-      distance: 3
+      distance: 0
       state: disabled
     - date: 10-03
       distance: 0
@@ -223,10 +175,10 @@
       distance: 0
       state: disabled
     - date: 10-08
-      distance: 8
+      distance: 0
       state: disabled
     - date: 10-09
-      distance: 3
+      distance: 0
       state: disabled
     - date: 10-10
       distance: 0
@@ -245,10 +197,10 @@
       distance: 0
       state: disabled
     - date: 10-15
-      distance: 8
+      distance: 0
       state: disabled
     - date: 10-16
-      distance: 3
+      distance: 0
       state: disabled
     - date: 10-17
       distance: 0
@@ -257,7 +209,29 @@
       distance: 0
       state: disabled
     - date: 10-19
-      distance: 42.195
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-20
+      distance: 0
+      state: disabled
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 0
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+    - date: 10-26
+      distance: 21.0975
       state: disabled
 
 - race: 2025 Summer Training
@@ -577,20 +551,21 @@
       icon: swimmer
     - date: 08-08
       distance: 0
-      state: disabled
+      state: green
     - date: 08-09
       distance: 0
-      state: disabled
+      state: green
     - date: 08-10
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-11
       distance: 0
-      state: disabled
+      state: green
     - date: 08-12
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-13
       distance: 0
       state: disabled
@@ -626,6 +601,28 @@
       distance: 0
       state: disabled
     - date: 08-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-25
+      distance: 0
+      state: disabled
+    - date: 08-26
+      distance: 0
+      state: disabled
+    - date: 08-27
+      distance: 0
+      state: disabled
+    - date: 08-28
+      distance: 0
+      state: disabled
+    - date: 08-29
+      distance: 0
+      state: disabled
+    - date: 08-30
+      distance: 0
+      state: disabled
+    - date: 08-31
       distance: 0
       state: disabled
 
