@@ -585,26 +585,30 @@
       state: green
   - days:
     - date: 08-18
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-19
       distance: 0
-      state: disabled
+      state: green
     - date: 08-20
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-21
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-22
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-23
       distance: 0
-      state: disabled
+      state: green
     - date: 08-24
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-25
       distance: 0
