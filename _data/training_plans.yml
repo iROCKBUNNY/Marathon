@@ -55,24 +55,26 @@
 #       state: disabled
 
 - race: 2025-10-26 Tianjin Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 09-01
       distance: 0
-      state: disabled
+      state: green
     - date: 09-02
       distance: 0
-      state: disabled
+      state: green
     - date: 09-03
       distance: 0
-      state: disabled
+      state: green
     - date: 09-04
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 09-05
-      distance: 0
-      state: disabled
+      distance: 1100
+      state: blue
+      icon: swimmer
     - date: 09-06
       distance: 0
       state: disabled
@@ -235,7 +237,7 @@
       state: disabled
 
 - race: 2025 Summer Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 05-12
