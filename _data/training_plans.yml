@@ -367,11 +367,12 @@
       state: blue
       icon: swimmer
     - date: 09-10
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 09-11
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 09-12
       distance: 0
       state: disabled
