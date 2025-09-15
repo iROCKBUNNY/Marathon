@@ -305,7 +305,7 @@
       state: disabled
 
 - race: 2025-11-02 Beijing Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 09-08
