@@ -374,27 +374,29 @@
       state: blue
       icon: swimmer
     - date: 09-12
-      distance: 0
-      state: disabled
+      distance: 1100
+      state: blue
+      icon: swimmer
     - date: 09-13
       distance: 0
-      state: disabled
+      state: green
     - date: 09-14
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-15
       distance: 0
-      state: disabled
+      state: green
     - date: 09-16
       distance: 0
-      state: disabled
+      state: green
     - date: 09-17
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 09-18
       distance: 0
-      state: disabled
+      state: green
     - date: 09-19
       distance: 0
       state: disabled
