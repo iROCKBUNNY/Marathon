@@ -54,7 +54,7 @@
                     {%- for week in item.weeks -%}
                         <tr>
                             <td>#{{ forloop.index }}</td>
-                            {%- for day in week.days -%}<td class="single line"><div class="ui mini {{ day.state }} label">{% unless day.icon == empty %}<i class="{{ day.icon }} icon"></i>{% endunless %}{{ day.date }}<div class="detail">{% if day.distance > 0 %}{{ day.distance }} {% if day.icon == 'swimmer' %}m{% else %}km{% endif %}{% else %}rest{% endif %}</div></div></td>{%- endfor -%}
+                            {%- for day in week.days -%}<td class="single line"><div class="ui mini {{ day.state }} label">{% if day.icon %}<i class="{{ day.icon }} icon"></i>{% endif %}{{ day.date }}<div class="detail">{% if day.distance > 0 %}{{ day.distance }} {% if day.icon == 'swimmer' %}m{% else %}km{% endif %}{% else %}rest{% endif %}</div></div></td>{%- endfor -%}
                         </tr>
                     {%- endfor -%}
                 </tbody>

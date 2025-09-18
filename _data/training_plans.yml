@@ -305,58 +305,8 @@
       state: disabled
 
 - race: 2025-11-02 Beijing Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 10-27
-      distance: 0
-      state: disabled
-    - date: 10-28
-      distance: 0
-      state: disabled
-    - date: 10-29
-      distance: 8
-      state: disabled
-    - date: 10-30
-      distance: 3
-      state: disabled
-    - date: 10-31
-      distance: 0
-      state: disabled
-    - date: 11-01
-      distance: 0
-      state: disabled
-    - date: 11-02
-      distance: 42.195
-      state: disabled
-
-- race: 2025-10-26 Tianjin Marathon
   icon: running
   weeks:
-  - days:
-    - date: 09-01
-      distance: 0
-      state: green
-    - date: 09-02
-      distance: 0
-      state: green
-    - date: 09-03
-      distance: 0
-      state: green
-    - date: 09-04
-      distance: 1000
-      state: blue
-      icon: swimmer
-    - date: 09-05
-      distance: 1100
-      state: blue
-      icon: swimmer
-    - date: 09-06
-      distance: 0
-      state: green
-    - date: 09-07
-      distance: 0
-      state: green
   - days:
     - date: 09-08
       distance: 1000
@@ -514,7 +464,29 @@
       distance: 0
       state: disabled
     - date: 10-26
-      distance: 21.0975
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-27
+      distance: 0
+      state: disabled
+    - date: 10-28
+      distance: 0
+      state: disabled
+    - date: 10-29
+      distance: 8
+      state: disabled
+    - date: 10-30
+      distance: 3
+      state: disabled
+    - date: 10-31
+      distance: 0
+      state: disabled
+    - date: 11-01
+      distance: 0
+      state: disabled
+    - date: 11-02
+      distance: 42.195
       state: disabled
 
 - race: 2025 Summer Training
@@ -916,6 +888,30 @@
       distance: 0
       state: green
     - date: 08-31
+      distance: 0
+      state: green
+  - days:
+    - date: 09-01
+      distance: 0
+      state: green
+    - date: 09-02
+      distance: 0
+      state: green
+    - date: 09-03
+      distance: 0
+      state: green
+    - date: 09-04
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 09-05
+      distance: 1100
+      state: blue
+      icon: swimmer
+    - date: 09-06
+      distance: 0
+      state: green
+    - date: 09-07
       distance: 0
       state: green
 
