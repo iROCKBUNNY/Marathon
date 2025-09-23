@@ -106,7 +106,7 @@
 #       segment: "00:00"
 #       state: disabled
 
-- race: Hong Kong Marathon (Half Marathon)
+- race: Hong Kong Marathon (Half)
   type: half
   results:
   - date: 2026-01-18
