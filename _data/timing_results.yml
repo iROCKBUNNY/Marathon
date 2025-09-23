@@ -106,6 +106,30 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Hong Kong Marathon (Half Marathon)
+  type: half
+  results:
+  - date: 2026-01-18
+    bib_number:
+    shoes:
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Qinhuangdao Marathon
   type: full
   results:
