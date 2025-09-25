@@ -58,94 +58,6 @@
   icon: lock
   weeks:
   - days:
-    - date: 11-24
-      distance: 0
-      state: disabled
-    - date: 11-25
-      distance: 0
-      state: disabled
-    - date: 11-26
-      distance: 0
-      state: disabled
-    - date: 11-27
-      distance: 0
-      state: disabled
-    - date: 11-28
-      distance: 0
-      state: disabled
-    - date: 11-29
-      distance: 0
-      state: disabled
-    - date: 11-30
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-01
-      distance: 0
-      state: disabled
-    - date: 12-02
-      distance: 0
-      state: disabled
-    - date: 12-03
-      distance: 0
-      state: disabled
-    - date: 12-04
-      distance: 0
-      state: disabled
-    - date: 12-05
-      distance: 0
-      state: disabled
-    - date: 12-06
-      distance: 0
-      state: disabled
-    - date: 12-07
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-08
-      distance: 0
-      state: disabled
-    - date: 12-09
-      distance: 0
-      state: disabled
-    - date: 12-10
-      distance: 0
-      state: disabled
-    - date: 12-11
-      distance: 0
-      state: disabled
-    - date: 12-12
-      distance: 0
-      state: disabled
-    - date: 12-13
-      distance: 0
-      state: disabled
-    - date: 12-14
-      distance: 0
-      state: disabled
-  - days:
-    - date: 12-15
-      distance: 0
-      state: disabled
-    - date: 12-16
-      distance: 0
-      state: disabled
-    - date: 12-17
-      distance: 0
-      state: disabled
-    - date: 12-18
-      distance: 0
-      state: disabled
-    - date: 12-19
-      distance: 0
-      state: disabled
-    - date: 12-20
-      distance: 0
-      state: disabled
-    - date: 12-21
-      distance: 0
-      state: disabled
-  - days:
     - date: 12-22
       distance: 0
       state: disabled
@@ -234,7 +146,7 @@
       distance: 21.0975
       state: disabled
 
-- race: 2025-2026 Winter Training
+- race: 2025 Guangzhou Marathon
   icon: lock
   weeks:
   - days:
@@ -303,6 +215,98 @@
     - date: 11-23
       distance: 0
       state: disabled
+  - days:
+    - date: 11-24
+      distance: 0
+      state: disabled
+    - date: 11-25
+      distance: 0
+      state: disabled
+    - date: 11-26
+      distance: 0
+      state: disabled
+    - date: 11-27
+      distance: 0
+      state: disabled
+    - date: 11-28
+      distance: 0
+      state: disabled
+    - date: 11-29
+      distance: 0
+      state: disabled
+    - date: 11-30
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-01
+      distance: 0
+      state: disabled
+    - date: 12-02
+      distance: 0
+      state: disabled
+    - date: 12-03
+      distance: 0
+      state: disabled
+    - date: 12-04
+      distance: 0
+      state: disabled
+    - date: 12-05
+      distance: 0
+      state: disabled
+    - date: 12-06
+      distance: 0
+      state: disabled
+    - date: 12-07
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-08
+      distance: 0
+      state: disabled
+    - date: 12-09
+      distance: 0
+      state: disabled
+    - date: 12-10
+      distance: 0
+      state: disabled
+    - date: 12-11
+      distance: 0
+      state: disabled
+    - date: 12-12
+      distance: 0
+      state: disabled
+    - date: 12-13
+      distance: 0
+      state: disabled
+    - date: 12-14
+      distance: 0
+      state: disabled
+  - days:
+    - date: 12-15
+      distance: 0
+      state: disabled
+    - date: 12-16
+      distance: 0
+      state: disabled
+    - date: 12-17
+      distance: 0
+      state: disabled
+    - date: 12-18
+      distance: 0
+      state: disabled
+    - date: 12-19
+      distance: 0
+      state: disabled
+    - date: 12-20
+      distance: 0
+      state: disabled
+    - date: 12-21
+      distance: 42.195
+      state: disabled
+
+# - race: 2025-2026 Winter Training
+#   icon: lock
+#   weeks:
 
 - race: 2025-11-02 Beijing Marathon
   icon: running
