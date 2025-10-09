@@ -445,8 +445,8 @@
       distance: 0
       state: green
     - date: 10-02
-      distance: 0
-      state: green
+      distance: 3
+      state: orange
     - date: 10-03
       distance: 10
       state: orange
