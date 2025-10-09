@@ -386,42 +386,43 @@
       state: green
     - date: 09-28
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-29
       distance: 0
-      state: disabled
+      state: green
     - date: 09-30
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 10-01
       distance: 0
-      state: disabled
+      state: green
     - date: 10-02
       distance: 0
-      state: disabled
+      state: green
     - date: 10-03
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 10-04
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 10-05
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
   - days:
     - date: 10-06
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 10-07
-      distance: 0
-      state: disabled
+      distance: 5
+      state: orange
     - date: 10-08
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 10-09
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 10-10
       distance: 0
       state: disabled
