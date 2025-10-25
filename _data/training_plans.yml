@@ -528,11 +528,11 @@
       state: blue
       icon: swimmer
     - date: 10-25
-      distance: 5
-      state: disabled
+      distance: 3
+      state: orange
     - date: 10-26
       distance: 0
-      state: disabled
+      state: green
 
 - race: 2025 Summer Training
   icon: clipboard check
