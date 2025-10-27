@@ -147,12 +147,12 @@
       state: disabled
 
 - race: 2025 Guangzhou Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 10-27
       distance: 0
-      state: disabled
+      state: green
     - date: 10-28
       distance: 0
       state: disabled
@@ -326,12 +326,8 @@
       distance: 42.195
       state: disabled
 
-# - race: 2025-2026 Winter Training
-#   icon: lock
-#   weeks:
-
 - race: 2025 Autumn Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 09-01
