@@ -155,16 +155,18 @@
       state: green
     - date: 10-28
       distance: 0
-      state: disabled
+      state: green
     - date: 10-29
-      distance: 8
-      state: disabled
-    - date: 10-30
-      distance: 3
-      state: disabled
-    - date: 10-31
       distance: 0
-      state: disabled
+      state: green
+    - date: 10-30
+      distance: 900
+      state: blue
+      icon: swimmer
+    - date: 10-31
+      distance: 1100
+      state: blue
+      icon: swimmer
     - date: 11-01
       distance: 0
       state: disabled
