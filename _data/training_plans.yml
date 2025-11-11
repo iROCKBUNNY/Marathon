@@ -169,36 +169,40 @@
       icon: swimmer
     - date: 11-01
       distance: 0
-      state: disabled
+      state: green
     - date: 11-02
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 11-03
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-04
       distance: 0
-      state: disabled
+      state: green
     - date: 11-05
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-06
       distance: 0
-      state: disabled
+      state: green
     - date: 11-07
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-08
       distance: 0
-      state: disabled
+      state: green
     - date: 11-09
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 11-10
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-11
       distance: 0
       state: disabled
