@@ -232,16 +232,17 @@
       icon: swimmer
     - date: 11-19
       distance: 0
-      state: disabled
+      state: green
     - date: 11-20
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 11-21
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-22
       distance: 0
-      state: disabled
+      state: green
     - date: 11-23
       distance: 0
       state: disabled
