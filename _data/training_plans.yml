@@ -245,17 +245,18 @@
       state: green
     - date: 11-23
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 11-24
       distance: 0
-      state: disabled
+      state: green
     - date: 11-25
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-26
       distance: 0
-      state: disabled
+      state: green
     - date: 11-27
       distance: 0
       state: disabled
