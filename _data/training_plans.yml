@@ -258,11 +258,12 @@
       distance: 0
       state: green
     - date: 11-27
-      distance: 0
-      state: disabled
+      distance: 3
+      state: orange
     - date: 11-28
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 11-29
       distance: 0
       state: disabled
