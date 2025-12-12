@@ -295,20 +295,23 @@
       state: green
     - date: 12-07
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 12-08
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-09
       distance: 0
-      state: disabled
+      state: green
     - date: 12-10
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-11
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-12
       distance: 0
       state: disabled
