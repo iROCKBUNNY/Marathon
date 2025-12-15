@@ -318,7 +318,7 @@
       icon: swimmer
     - date: 12-13
       distance: 0
-      state: disabled
+      state: green
     - date: 12-14
       distance: 15
       state: orange
