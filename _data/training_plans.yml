@@ -319,8 +319,8 @@
       distance: 0
       state: disabled
     - date: 12-14
-      distance: 0
-      state: disabled
+      distance: 15
+      state: orange
   - days:
     - date: 12-15
       distance: 0
