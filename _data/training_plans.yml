@@ -318,23 +318,25 @@
       icon: swimmer
     - date: 12-13
       distance: 0
-      state: disabled
+      state: green
     - date: 12-14
-      distance: 0
-      state: disabled
+      distance: 15
+      state: orange
   - days:
     - date: 12-15
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-16
       distance: 0
-      state: disabled
+      state: green
     - date: 12-17
       distance: 0
-      state: disabled
+      state: green
     - date: 12-18
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-19
       distance: 0
       state: disabled
