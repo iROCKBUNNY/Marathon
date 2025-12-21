@@ -55,7 +55,7 @@
 #       state: disabled
 
 - race: 2026-01-18 Hong Kong Marathon
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 12-22
@@ -147,7 +147,7 @@
       state: disabled
 
 - race: 2025 Guangzhou Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 10-27
@@ -339,13 +339,13 @@
       icon: swimmer
     - date: 12-19
       distance: 0
-      state: disabled
+      state: green
     - date: 12-20
       distance: 0
-      state: disabled
+      state: green
     - date: 12-21
       distance: 42.195
-      state: disabled
+      state: orange
 
 - race: 2025 Autumn Training
   icon: clipboard check
