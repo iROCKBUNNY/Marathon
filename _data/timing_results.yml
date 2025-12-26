@@ -138,33 +138,33 @@
     shoes: ASICS GEL-NIMBUS 21 WINTERIZED
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:36:42"
+      segment: "36:42"
+      state: negative
+    - net: "1:14:29"
+      segment: "37:47"
+      state: positive
+    - net: "1:53:27"
+      segment: "38:58"
+      state: negative
+    - net: "2:36:38"
+      segment: "43:11"
+      state: negative
+    - net: "3:19:27"
+      segment: "42:49"
+      state: negative
+    - net: "4:04:28"
+      segment: "45:01"
+      state: negative
+    - net: "4:53:35"
+      segment: "49:07"
+      state: negative
+    - net: "5:43:10"
+      segment: "49:35"
+      state: negative
+    - net: "6:03:24"
+      segment: "20:14"
+      state: positive
   - date: 2018-12-09
     bib_number: D0639
     shoes: ASICS GEL-KAYANO 25 LITE-SHOW

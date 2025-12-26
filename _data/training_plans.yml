@@ -60,19 +60,20 @@
   - days:
     - date: 12-22
       distance: 0
-      state: disabled
+      state: green
     - date: 12-23
       distance: 0
-      state: disabled
+      state: green
     - date: 12-24
       distance: 0
-      state: disabled
+      state: green
     - date: 12-25
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-26
       distance: 0
-      state: disabled
+      state: green
     - date: 12-27
       distance: 0
       state: disabled
