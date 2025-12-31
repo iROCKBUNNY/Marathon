@@ -76,17 +76,18 @@
       state: green
     - date: 12-27
       distance: 0
-      state: disabled
+      state: green
     - date: 12-28
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 12-29
       distance: 0
-      state: disabled
+      state: green
     - date: 12-30
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 12-31
       distance: 0
       state: disabled
