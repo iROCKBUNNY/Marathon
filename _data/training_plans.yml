@@ -90,16 +90,17 @@
       icon: swimmer
     - date: 12-31
       distance: 0
-      state: disabled
+      state: green
     - date: 01-01
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 01-02
       distance: 0
-      state: disabled
+      state: green
     - date: 01-03
       distance: 0
-      state: disabled
+      state: green
     - date: 01-04
       distance: 0
       state: disabled
