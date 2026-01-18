@@ -54,8 +54,34 @@
 #       distance: 42.195
 #       state: disabled
 
-- race: 2026-01-18 Hong Kong Marathon
+- race: 2026 Winter Training
   icon: running
+  weeks:
+  - days:
+    - date: 01-19
+      distance: 0
+      state: disabled
+    - date: 01-20
+      distance: 0
+      state: disabled
+    - date: 01-21
+      distance: 0
+      state: disabled
+    - date: 01-22
+      distance: 0
+      state: disabled
+    - date: 01-23
+      distance: 0
+      state: disabled
+    - date: 01-24
+      distance: 0
+      state: disabled
+    - date: 01-25
+      distance: 0
+      state: disabled
+
+- race: 2026-01-18 Hong Kong Marathon
+  icon: medal
   weeks:
   - days:
     - date: 12-22
@@ -139,19 +165,20 @@
       icon: swimmer
     - date: 01-14
       distance: 0
-      state: disabled
+      state: green
     - date: 01-15
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 01-16
       distance: 0
-      state: disabled
+      state: green
     - date: 01-17
       distance: 0
-      state: disabled
+      state: green
     - date: 01-18
       distance: 21.0975
-      state: disabled
+      state: orange
 
 - race: 2025 Guangzhou Marathon
   icon: medal
