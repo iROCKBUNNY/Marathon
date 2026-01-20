@@ -114,21 +114,21 @@
     shoes: ASICS GEL-NIMBUS 21 WINTERIZED
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "*:**:**"
+      segment: "**:**"
+      state: positive
+    - net: "*:**:**"
+      segment: "**:**"
+      state: positive
+    - net: "*:**:**"
+      segment: "**:**"
+      state: positive
+    - net: "*:**:**"
+      segment: "**:**"
+      state: positive
+    - net: "2:56:20"
+      segment: "**:**"
+      state: positive
 
 - race: Guangzhou Marathon
   type: full
