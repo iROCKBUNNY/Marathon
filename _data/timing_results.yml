@@ -117,14 +117,14 @@
     - net: "*:**:**"
       segment: "**:**"
       state: positive
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "0:52:34"
+      segment: "HMTP"
       state: positive
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "1:55:26"
+      segment: "14 km"
       state: positive
-    - net: "*:**:**"
-      segment: "**:**"
+    - net: "2:38:23"
+      segment: "19 km"
       state: positive
     - net: "2:56:20"
       segment: "**:**"
