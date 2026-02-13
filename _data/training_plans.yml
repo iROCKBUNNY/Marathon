@@ -141,24 +141,25 @@
       distance: 0
       state: green
     - date: 02-13
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 02-14
       distance: 0
-      state: disabled
+      state: green
     - date: 02-15
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-16
       distance: 0
-      state: disabled
+      state: green
     - date: 02-17
       distance: 0
-      state: disabled
+      state: green
     - date: 02-18
       distance: 0
-      state: disabled
+      state: green
     - date: 02-19
       distance: 0
       state: disabled
