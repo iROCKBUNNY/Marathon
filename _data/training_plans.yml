@@ -162,36 +162,59 @@
       state: green
     - date: 02-19
       distance: 0
-      state: disabled
+      state: green
     - date: 02-20
       distance: 0
-      state: disabled
+      state: green
     - date: 02-21
       distance: 0
-      state: disabled
+      state: green
     - date: 02-22
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 02-23
       distance: 0
-      state: disabled
+      state: green
     - date: 02-24
       distance: 0
-      state: disabled
+      state: green
     - date: 02-25
       distance: 0
-      state: disabled
+      state: green
     - date: 02-26
       distance: 0
-      state: disabled
+      state: green
     - date: 02-27
       distance: 0
-      state: disabled
+      state: green
     - date: 02-28
       distance: 0
-      state: disabled
+      state: green
     - date: 03-01
+      distance: 0
+      state: green
+  - days:
+    - date: 03-02
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 03-03
+      distance: 0
+      state: disabled
+    - date: 03-04
+      distance: 0
+      state: disabled
+    - date: 03-05
+      distance: 0
+      state: disabled
+    - date: 03-06
+      distance: 0
+      state: disabled
+    - date: 03-07
+      distance: 0
+      state: disabled
+    - date: 03-08
       distance: 0
       state: disabled
 
