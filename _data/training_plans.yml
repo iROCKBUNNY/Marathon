@@ -406,11 +406,12 @@
       distance: 0
       state: green
     - date: 03-11
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 03-12
       distance: 0
-      state: disabled
+      state: green
     - date: 03-13
       distance: 0
       state: disabled
