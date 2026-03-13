@@ -406,21 +406,22 @@
       distance: 0
       state: green
     - date: 03-11
-      distance: 1000
+      distance: 1100
       state: blue
       icon: swimmer
     - date: 03-12
       distance: 0
       state: green
     - date: 03-13
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 03-14
       distance: 0
-      state: disabled
+      state: green
     - date: 03-15
       distance: 0
-      state: disabled
+      state: green
 
 - race: 2026-01-18 Hong Kong Marathon
   icon: medal
