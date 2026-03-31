@@ -166,18 +166,20 @@
       distance: 0
       state: green
     - date: 03-27
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 03-28
       distance: 0
-      state: disabled
+      state: green
     - date: 03-29
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 03-30
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 03-31
       distance: 0
       state: disabled
