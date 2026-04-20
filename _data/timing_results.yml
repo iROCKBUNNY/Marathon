@@ -116,19 +116,19 @@
     check_points:
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
+      state: positive
     - net: "0:00:00"
       segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
+      state: positive
+    - net: "2:43:36"
       segment: "00:00"
-      state: disabled
+      state: positive
 
 - race: Hong Kong Marathon (Half)
   type: half
