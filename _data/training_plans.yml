@@ -60,10 +60,10 @@
   - days:
     - date: 04-20
       distance: 0
-      state: disabled
+      state: green
     - date: 04-21
       distance: 0
-      state: disabled
+      state: green
     - date: 04-22
       distance: 0
       state: disabled
@@ -124,7 +124,7 @@
       distance: 0
       state: disabled
 
-- race: 2026-04-19 Yizhuang half Marathon
+- race: 2026-04-19 Beijing Yizhuang half Marathon
   icon: medal
   weeks:
   - days:

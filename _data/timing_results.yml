@@ -106,7 +106,7 @@
 #       segment: "00:00"
 #       state: disabled
 
-- race: Yizhuang Half Marathon
+- race: Beijing Yizhuang Half Marathon
   type: half
   results:
   - date: 2026-04-19
@@ -114,20 +114,20 @@
     shoes: ASICS GEL-NIMBUS 21 WINTERIZED
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "0:37:13"
+      segment: "37:13"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:16:26"
+      segment: "39:13"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "1:55:04"
+      segment: "38:38"
       state: positive
-    - net: "0:00:00"
-      segment: "00:00"
+    - net: "2:34:42"
+      segment: "39:38"
       state: positive
-    - net: "2:43:36"
-      segment: "00:00"
+    - net: "2:43:37"
+      segment: "8:55"
       state: positive
 
 - race: Hong Kong Marathon (Half)
