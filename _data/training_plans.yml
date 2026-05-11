@@ -58,76 +58,6 @@
   icon: running
   weeks:
   - days:
-    - date: 04-20
-      distance: 0
-      state: green
-    - date: 04-21
-      distance: 0
-      state: green
-    - date: 04-22
-      distance: 1000
-      state: blue
-      icon: swimmer
-    - date: 04-23
-      distance: 0
-      state: green
-    - date: 04-24
-      distance: 0
-      state: green
-    - date: 04-25
-      distance: 0
-      state: green
-    - date: 04-26
-      distance: 0
-      state: green
-  - days:
-    - date: 04-27
-      distance: 0
-      state: green
-    - date: 04-28
-      distance: 0
-      state: green
-    - date: 04-29
-      distance: 1000
-      state: blue
-      icon: swimmer
-    - date: 04-30
-      distance: 0
-      state: green
-    - date: 05-01
-      distance: 0
-      state: green
-    - date: 05-02
-      distance: 0
-      state: green
-    - date: 05-03
-      distance: 0
-      state: green
-  - days:
-    - date: 05-04
-      distance: 0
-      state: green
-    - date: 05-05
-      distance: 0
-      state: green
-    - date: 05-06
-      distance: 0
-      state: green
-    - date: 05-07
-      distance: 1000
-      state: blue
-      icon: swimmer
-    - date: 05-08
-      distance: 0
-      state: green
-    - date: 05-09
-      distance: 1000
-      state: blue
-      icon: swimmer
-    - date: 05-10
-      distance: 0
-      state: green
-  - days:
     - date: 05-11
       distance: 0
       state: disabled
@@ -281,6 +211,80 @@
     - date: 06-28
       distance: 0
       state: disabled
+
+- race: 2026 Spring Training
+  icon: clipboard check
+  weeks:
+  - days:
+    - date: 04-20
+      distance: 0
+      state: green
+    - date: 04-21
+      distance: 0
+      state: green
+    - date: 04-22
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 04-23
+      distance: 0
+      state: green
+    - date: 04-24
+      distance: 0
+      state: green
+    - date: 04-25
+      distance: 0
+      state: green
+    - date: 04-26
+      distance: 0
+      state: green
+  - days:
+    - date: 04-27
+      distance: 0
+      state: green
+    - date: 04-28
+      distance: 0
+      state: green
+    - date: 04-29
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 04-30
+      distance: 0
+      state: green
+    - date: 05-01
+      distance: 0
+      state: green
+    - date: 05-02
+      distance: 0
+      state: green
+    - date: 05-03
+      distance: 0
+      state: green
+  - days:
+    - date: 05-04
+      distance: 0
+      state: green
+    - date: 05-05
+      distance: 0
+      state: green
+    - date: 05-06
+      distance: 0
+      state: green
+    - date: 05-07
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 05-08
+      distance: 0
+      state: green
+    - date: 05-09
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 05-10
+      distance: 0
+      state: green
 
 - race: 2026-04-19 Beijing Yizhuang half Marathon
   icon: medal
