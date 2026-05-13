@@ -55,74 +55,8 @@
 #       state: disabled
 
 - race: 2026 Summer Training
-  icon: running
+  icon: lock
   weeks:
-  - days:
-    - date: 05-11
-      distance: 0
-      state: disabled
-    - date: 05-12
-      distance: 0
-      state: disabled
-    - date: 05-13
-      distance: 8
-      state: disabled
-    - date: 05-14
-      distance: 3
-      state: disabled
-    - date: 05-15
-      distance: 0
-      state: disabled
-    - date: 05-16
-      distance: 0
-      state: disabled
-    - date: 05-17
-      distance: 0
-      state: disabled
-  - days:
-    - date: 05-18
-      distance: 0
-      state: disabled
-    - date: 05-19
-      distance: 0
-      state: disabled
-    - date: 05-20
-      distance: 8
-      state: disabled
-    - date: 05-21
-      distance: 3
-      state: disabled
-    - date: 05-22
-      distance: 0
-      state: disabled
-    - date: 05-23
-      distance: 0
-      state: disabled
-    - date: 05-24
-      distance: 0
-      state: disabled
-  - days:
-    - date: 05-25
-      distance: 0
-      state: disabled
-    - date: 05-26
-      distance: 0
-      state: disabled
-    - date: 05-27
-      distance: 8
-      state: disabled
-    - date: 05-28
-      distance: 3
-      state: disabled
-    - date: 05-29
-      distance: 0
-      state: disabled
-    - date: 05-30
-      distance: 0
-      state: disabled
-    - date: 05-31
-      distance: 0
-      state: disabled
   - days:
     - date: 06-01
       distance: 0
@@ -131,10 +65,10 @@
       distance: 0
       state: disabled
     - date: 06-03
-      distance: 8
+      distance: 0
       state: disabled
     - date: 06-04
-      distance: 3
+      distance: 0
       state: disabled
     - date: 06-05
       distance: 0
@@ -153,10 +87,10 @@
       distance: 0
       state: disabled
     - date: 06-10
-      distance: 8
+      distance: 0
       state: disabled
     - date: 06-11
-      distance: 3
+      distance: 0
       state: disabled
     - date: 06-12
       distance: 0
@@ -175,10 +109,10 @@
       distance: 0
       state: disabled
     - date: 06-17
-      distance: 8
+      distance: 0
       state: disabled
     - date: 06-18
-      distance: 3
+      distance: 0
       state: disabled
     - date: 06-19
       distance: 0
@@ -197,10 +131,10 @@
       distance: 0
       state: disabled
     - date: 06-24
-      distance: 8
+      distance: 0
       state: disabled
     - date: 06-25
-      distance: 3
+      distance: 0
       state: disabled
     - date: 06-26
       distance: 0
@@ -210,6 +144,76 @@
       state: disabled
     - date: 06-28
       distance: 0
+      state: disabled
+
+- race: 2026 WERUN Warm-up Race
+  icon: running
+  - days:
+    - date: 05-11
+      distance: 1000
+      state: blue
+      icon: swimmer
+    - date: 05-12
+      distance: 0
+      state: green
+    - date: 05-13
+      distance: 0
+      state: disabled
+    - date: 05-14
+      distance: 0
+      state: disabled
+    - date: 05-15
+      distance: 0
+      state: disabled
+    - date: 05-16
+      distance: 0
+      state: disabled
+    - date: 05-17
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-18
+      distance: 0
+      state: disabled
+    - date: 05-19
+      distance: 0
+      state: disabled
+    - date: 05-20
+      distance: 0
+      state: disabled
+    - date: 05-21
+      distance: 0
+      state: disabled
+    - date: 05-22
+      distance: 0
+      state: disabled
+    - date: 05-23
+      distance: 0
+      state: disabled
+    - date: 05-24
+      distance: 0
+      state: disabled
+  - days:
+    - date: 05-25
+      distance: 0
+      state: disabled
+    - date: 05-26
+      distance: 0
+      state: disabled
+    - date: 05-27
+      distance: 0
+      state: disabled
+    - date: 05-28
+      distance: 0
+      state: disabled
+    - date: 05-29
+      distance: 0
+      state: disabled
+    - date: 05-30
+      distance: 0
+      state: disabled
+    - date: 05-31
+      distance: 5
       state: disabled
 
 - race: 2026 Spring Training
