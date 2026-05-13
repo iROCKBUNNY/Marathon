@@ -148,6 +148,7 @@
 
 - race: 2026 WERUN Warm-up Race
   icon: running
+  weeks:
   - days:
     - date: 05-11
       distance: 1000
