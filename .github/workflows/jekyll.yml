@@ -16,23 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      # - name: Install dependencies
-      #   run: sudo apt-get update && sudo apt-get install -y build-essential
-      # - name: Install build dependencies
-      #   run: |
-      #     sudo apt-get update
-      #     sudo apt-get install -y build-essential \
-      #       ruby-dev \
-      #       libffi-dev \
-      #       pkg-config
       - name: Install build dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y build-essential \
-            ruby-dev \
-            libffi-dev \
-            pkg-config \
-            libsass-dev
+        run: sudo apt-get update && sudo apt-get install -y build-essential ruby-dev libffi-dev pkg-config libsass-dev
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
