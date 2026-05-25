@@ -16,11 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      # - name: Install build dependencies
-      #   run: sudo apt-get update && sudo apt-get install -y build-essential ruby-dev libffi-dev pkg-config libsass-dev
       - name: Setup Ruby
-        # https://github.com/ruby/setup-ruby/releases/tag/v1.310.0
-        uses: ruby/setup-ruby@afeafc3d1ab54a631816aba4c914a0081c12ff2f
+        uses: ruby/setup-ruby@afeafc3d1ab54a631816aba4c914a0081c12ff2f # https://github.com/ruby/setup-ruby/releases/tag/v1.310.0
         with:
           ruby-version: '3.2'
           bundler-cache: true
