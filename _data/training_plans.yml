@@ -55,7 +55,7 @@
 #       state: disabled
 
 - race: 2026 Summer Training
-  icon: lock
+  icon: running
   weeks:
   - days:
     - date: 06-01
@@ -147,7 +147,7 @@
       state: disabled
 
 - race: 2026 WERUN Warm-up Race
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 05-11
@@ -200,25 +200,27 @@
   - days:
     - date: 05-25
       distance: 0
-      state: disabled
+      state: green
     - date: 05-26
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-27
       distance: 0
-      state: disabled
+      state: green
     - date: 05-28
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 05-29
       distance: 0
-      state: disabled
+      state: green
     - date: 05-30
       distance: 0
-      state: disabled
+      state: green
     - date: 05-31
       distance: 5
-      state: disabled
+      state: orange
 
 - race: 2026 Spring Training
   icon: clipboard check
