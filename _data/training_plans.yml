@@ -59,11 +59,12 @@
   weeks:
   - days:
     - date: 06-01
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-02
       distance: 0
-      state: disabled
+      state: green
     - date: 06-03
       distance: 0
       state: disabled
