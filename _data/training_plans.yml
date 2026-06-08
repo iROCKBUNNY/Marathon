@@ -54,6 +54,32 @@
 #       distance: 42.195
 #       state: disabled
 
+- race: 2026 WERUN Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 10-12
+      distance: 0
+      state: disabled
+    - date: 10-13
+      distance: 0
+      state: disabled
+    - date: 10-14
+      distance: 0
+      state: disabled
+    - date: 10-15
+      distance: 0
+      state: disabled
+    - date: 10-16
+      distance: 0
+      state: disabled
+    - date: 10-17
+      distance: 5
+      state: disabled
+    - date: 10-18
+      distance: 0
+      state: disabled
+
 - race: 2026 Summer Training
   icon: running
   weeks:
@@ -73,14 +99,15 @@
       distance: 0
       state: green
     - date: 06-05
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-06
       distance: 0
-      state: disabled
+      state: green
     - date: 06-07
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-08
       distance: 0
