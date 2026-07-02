@@ -127,64 +127,67 @@
       state: green
     - date: 06-13
       distance: 0
-      state: disabled
+      state: green
     - date: 06-14
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
   - days:
     - date: 06-15
       distance: 0
-      state: disabled
+      state: green
     - date: 06-16
       distance: 0
-      state: disabled
+      state: green
     - date: 06-17
-      distance: 0
-      state: disabled
+      distance: 10
+      state: orange
     - date: 06-18
       distance: 0
-      state: disabled
+      state: green
     - date: 06-19
       distance: 0
-      state: disabled
+      state: green
     - date: 06-20
       distance: 0
-      state: disabled
+      state: green
     - date: 06-21
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-22
       distance: 0
-      state: disabled
+      state: green
     - date: 06-23
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-24
       distance: 0
-      state: disabled
+      state: green
     - date: 06-25
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 06-26
       distance: 0
-      state: disabled
+      state: green
     - date: 06-27
       distance: 0
-      state: disabled
+      state: green
     - date: 06-28
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 06-29
       distance: 0
-      state: disabled
+      state: green
     - date: 06-30
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 07-01
       distance: 0
-      state: disabled
+      state: green
     - date: 07-02
       distance: 0
       state: disabled
