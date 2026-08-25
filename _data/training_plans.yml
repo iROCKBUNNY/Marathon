@@ -54,9 +54,189 @@
 #       distance: 42.195
 #       state: disabled
 
-- race: 2026 WERUN Marathon
-  icon: lock
+# - race: 2026 WERUN Marathon
+#   icon: lock
+#   weeks:
+#   - days:
+#     - date: 10-12
+#       distance: 0
+#       state: disabled
+#     - date: 10-13
+#       distance: 0
+#       state: disabled
+#     - date: 10-14
+#       distance: 0
+#       state: disabled
+#     - date: 10-15
+#       distance: 0
+#       state: disabled
+#     - date: 10-16
+#       distance: 0
+#       state: disabled
+#     - date: 10-17
+#       distance: 5
+#       state: disabled
+#     - date: 10-18
+#       distance: 0
+#       state: disabled
+
+- race: 2026-10-18 Zhengzhou Marathon
+  icon: running
   weeks:
+  - days:
+    - date: 08-24
+      distance: 0
+      state: green
+    - date: 08-25
+      distance: 0
+      state: disabled
+    - date: 08-26
+      distance: 0
+      state: disabled
+    - date: 08-27
+      distance: 0
+      state: disabled
+    - date: 08-28
+      distance: 0
+      state: blue
+    - date: 08-29
+      distance: 0
+      state: disabled
+    - date: 08-30
+      distance: 0
+      state: disabled
+  - days:
+    - date: 08-31
+      distance: 0
+      state: disabled
+    - date: 09-01
+      distance: 0
+      state: disabled
+    - date: 09-02
+      distance: 0
+      state: disabled
+    - date: 09-03
+      distance: 0
+      state: disabled
+    - date: 09-04
+      distance: 0
+      state: disabled
+    - date: 09-05
+      distance: 5
+      state: disabled
+    - date: 09-06
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-07
+      distance: 0
+      state: disabled
+    - date: 09-08
+      distance: 0
+      state: disabled
+    - date: 09-09
+      distance: 0
+      state: disabled
+    - date: 09-10
+      distance: 0
+      state: disabled
+    - date: 09-11
+      distance: 0
+      state: disabled
+    - date: 09-12
+      distance: 5
+      state: disabled
+    - date: 09-13
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-14
+      distance: 0
+      state: disabled
+    - date: 09-15
+      distance: 0
+      state: disabled
+    - date: 09-16
+      distance: 0
+      state: disabled
+    - date: 09-17
+      distance: 0
+      state: disabled
+    - date: 09-18
+      distance: 0
+      state: disabled
+    - date: 09-19
+      distance: 5
+      state: disabled
+    - date: 09-20
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-21
+      distance: 0
+      state: disabled
+    - date: 09-22
+      distance: 0
+      state: disabled
+    - date: 09-23
+      distance: 0
+      state: disabled
+    - date: 09-24
+      distance: 0
+      state: disabled
+    - date: 09-25
+      distance: 0
+      state: disabled
+    - date: 09-26
+      distance: 5
+      state: disabled
+    - date: 09-27
+      distance: 0
+      state: disabled
+  - days:
+    - date: 09-28
+      distance: 0
+      state: disabled
+    - date: 09-29
+      distance: 0
+      state: disabled
+    - date: 09-30
+      distance: 0
+      state: disabled
+    - date: 10-01
+      distance: 0
+      state: disabled
+    - date: 10-02
+      distance: 0
+      state: disabled
+    - date: 10-03
+      distance: 5
+      state: disabled
+    - date: 10-04
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-05
+      distance: 0
+      state: disabled
+    - date: 10-06
+      distance: 0
+      state: disabled
+    - date: 10-07
+      distance: 0
+      state: disabled
+    - date: 10-08
+      distance: 0
+      state: disabled
+    - date: 10-09
+      distance: 0
+      state: disabled
+    - date: 10-10
+      distance: 5
+      state: disabled
+    - date: 10-11
+      distance: 0
+      state: disabled
   - days:
     - date: 10-12
       distance: 0
@@ -65,10 +245,10 @@
       distance: 0
       state: disabled
     - date: 10-14
-      distance: 0
+      distance: 8
       state: disabled
     - date: 10-15
-      distance: 0
+      distance: 3
       state: disabled
     - date: 10-16
       distance: 0
@@ -77,11 +257,11 @@
       distance: 5
       state: disabled
     - date: 10-18
-      distance: 0
+      distance: 21.0975
       state: disabled
 
 - race: 2026 Summer Training
-  icon: running
+  icon: clipboard check
   weeks:
   - days:
     - date: 06-01
@@ -367,30 +547,8 @@
     - date: 08-23
       distance: 0
       state: green
-  - days:
-    - date: 08-24
-      distance: 0
-      state: disabled
-    - date: 08-25
-      distance: 0
-      state: disabled
-    - date: 08-26
-      distance: 0
-      state: blue
-    - date: 08-27
-      distance: 0
-      state: disabled
-    - date: 08-28
-      distance: 0
-      state: blue
-    - date: 08-29
-      distance: 0
-      state: disabled
-    - date: 08-30
-      distance: 0
-      state: disabled
 
-- race: 2026 WERUN Warm-up Race
+- race: 2026 WERUN Warm-Up Race
   icon: clipboard check
   weeks:
   - days:
@@ -540,7 +698,7 @@
       distance: 0
       state: green
 
-- race: 2026-04-19 Beijing Yizhuang half Marathon
+- race: 2026-04-19 Beijing Yizhuang Half Marathon
   icon: medal
   weeks:
   - days:

@@ -106,6 +106,30 @@
 #       segment: "00:00"
 #       state: disabled
 
+- race: Zhengzhou Marathon (Half)
+  type: half
+  results:
+  - date: 2026-10-18
+    bib_number:
+    shoes: ASICS GEL-NIMBUS 21 WINTERIZED
+    personal_best: false
+    check_points:
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+    - net: "0:00:00"
+      segment: "00:00"
+      state: disabled
+
 - race: Beijing Yizhuang Half Marathon
   type: half
   results:
