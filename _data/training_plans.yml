@@ -98,7 +98,7 @@
       state: disabled
     - date: 08-28
       distance: 0
-      state: blue
+      state: disabled
     - date: 08-29
       distance: 0
       state: disabled
