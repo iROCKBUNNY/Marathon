@@ -80,6 +80,32 @@
 #       distance: 0
 #       state: disabled
 
+- race: 2026 Tianjin Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 0
+      state: disabled
+    - date: 10-25
+      distance: 21.0975
+      state: disabled
+
 - race: 2026-10-18 Zhengzhou Marathon
   icon: running
   weeks:
