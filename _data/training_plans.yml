@@ -80,31 +80,31 @@
 #       distance: 0
 #       state: disabled
 
-- race: 2026 Tianjin Marathon
-  icon: lock
-  weeks:
-  - days:
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 0
-      state: disabled
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 0
-      state: disabled
-    - date: 10-24
-      distance: 0
-      state: disabled
-    - date: 10-25
-      distance: 21.0975
-      state: disabled
+# - race: 2026 Tianjin Marathon
+#   icon: lock
+#   weeks:
+#   - days:
+#     - date: 10-19
+#       distance: 0
+#       state: disabled
+#     - date: 10-20
+#       distance: 0
+#       state: disabled
+#     - date: 10-21
+#       distance: 0
+#       state: disabled
+#     - date: 10-22
+#       distance: 0
+#       state: disabled
+#     - date: 10-23
+#       distance: 0
+#       state: disabled
+#     - date: 10-24
+#       distance: 0
+#       state: disabled
+#     - date: 10-25
+#       distance: 21.0975
+#       state: disabled
 
 - race: 2026-10-18 Zhengzhou Marathon
   icon: running
@@ -115,44 +115,47 @@
       state: green
     - date: 08-25
       distance: 0
-      state: disabled
+      state: green
     - date: 08-26
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-27
       distance: 0
-      state: disabled
+      state: green
     - date: 08-28
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 08-29
       distance: 0
-      state: disabled
+      state: green
     - date: 08-30
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 08-31
       distance: 0
-      state: disabled
+      state: green
     - date: 09-01
       distance: 0
-      state: disabled
+      state: green
     - date: 09-02
-      distance: 0
-      state: disabled
+      distance: 1000
+      state: blue
+      icon: swimmer
     - date: 09-03
       distance: 0
-      state: disabled
+      state: green
     - date: 09-04
       distance: 0
-      state: disabled
+      state: green
     - date: 09-05
       distance: 5
-      state: disabled
+      state: green
     - date: 09-06
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 09-07
       distance: 0
