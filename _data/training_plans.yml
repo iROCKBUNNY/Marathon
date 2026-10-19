@@ -260,53 +260,9 @@
       distance: 0
       state: disabled
 
-- race: 2026 Autumn Training
+- race: 2026 Winter Training
   icon: running
   weeks:
-  - days:
-    - date: 10-19
-      distance: 0
-      state: disabled
-    - date: 10-20
-      distance: 0
-      state: disabled
-    - date: 10-21
-      distance: 0
-      state: disabled
-    - date: 10-22
-      distance: 0
-      state: disabled
-    - date: 10-23
-      distance: 0
-      state: disabled
-    - date: 10-24
-      distance: 0
-      state: disabled
-    - date: 10-25
-      distance: 0
-      state: disabled
-  - days:
-    - date: 10-26
-      distance: 0
-      state: disabled
-    - date: 10-27
-      distance: 0
-      state: disabled
-    - date: 10-28
-      distance: 0
-      state: disabled
-    - date: 10-29
-      distance: 0
-      state: disabled
-    - date: 10-30
-      distance: 0
-      state: disabled
-    - date: 10-31
-      distance: 0
-      state: disabled
-    - date: 11-01
-      distance: 0
-      state: disabled
   - days:
     - date: 11-02
       distance: 0
@@ -371,6 +327,54 @@
       distance: 0
       state: disabled
     - date: 11-22
+      distance: 0
+      state: disabled
+
+- race: 2026 WERUN Marathon
+  icon: lock
+  weeks:
+  - days:
+    - date: 10-19
+      distance: 0
+      state: disabled
+    - date: 10-20
+      distance: 0
+      state: disabled
+    - date: 10-21
+      distance: 0
+      state: disabled
+    - date: 10-22
+      distance: 0
+      state: disabled
+    - date: 10-23
+      distance: 0
+      state: disabled
+    - date: 10-24
+      distance: 0
+      state: disabled
+    - date: 10-25
+      distance: 0
+      state: disabled
+  - days:
+    - date: 10-26
+      distance: 0
+      state: disabled
+    - date: 10-27
+      distance: 0
+      state: disabled
+    - date: 10-28
+      distance: 0
+      state: disabled
+    - date: 10-29
+      distance: 0
+      state: disabled
+    - date: 10-30
+      distance: 0
+      state: disabled
+    - date: 10-31
+      distance: 5
+      state: disabled
+    - date: 11-01
       distance: 0
       state: disabled
 
