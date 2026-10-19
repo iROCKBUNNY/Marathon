@@ -158,21 +158,21 @@
     shoes: ASICS GEL-NIMBUS 21 WINTERIZED
     personal_best: false
     check_points:
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
-    - net: "0:00:00"
-      segment: "00:00"
-      state: disabled
+    - net: "0:38:35"
+      segment: "38:35"
+      state: positive
+    - net: "1:16:15"
+      segment: "37:40"
+      state: positive
+    - net: "1:53:00"
+      segment: "36:45"
+      state: positive
+    - net: "2:32:52"
+      segment: "39:52"
+      state: positive
+    - net: "2:40:50"
+      segment: "07:48"
+      state: positive
 
 - race: Beijing Yizhuang Half Marathon
   type: half
