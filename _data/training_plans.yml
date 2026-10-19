@@ -375,7 +375,7 @@
       state: disabled
 
 - race: 2026-10-18 Zhengzhou Marathon
-  icon: running
+  icon: medal
   weeks:
   - days:
     - date: 08-24
@@ -531,35 +531,35 @@
       state: green
     - date: 10-09
       distance: 0
-      state: disabled
+      state: green
     - date: 10-10
       distance: 0
-      state: disabled
+      state: green
     - date: 10-11
       distance: 0
-      state: disabled
+      state: green
   - days:
     - date: 10-12
       distance: 0
-      state: disabled
+      state: green
     - date: 10-13
       distance: 0
-      state: disabled
+      state: green
     - date: 10-14
       distance: 0
-      state: disabled
+      state: green
     - date: 10-15
       distance: 0
-      state: disabled
+      state: green
     - date: 10-16
-      distance: 0
-      state: disabled
-    - date: 10-17
       distance: 5
-      state: disabled
+      state: orange
+    - date: 10-17
+      distance: 0
+      state: green
     - date: 10-18
       distance: 21.0975
-      state: disabled
+      state: orange
 
 - race: 2026 Summer Training
   icon: clipboard check
