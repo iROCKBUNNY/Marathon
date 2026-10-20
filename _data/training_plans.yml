@@ -336,10 +336,10 @@
   - days:
     - date: 10-19
       distance: 0
-      state: disabled
+      state: green
     - date: 10-20
       distance: 0
-      state: disabled
+      state: green
     - date: 10-21
       distance: 0
       state: disabled
